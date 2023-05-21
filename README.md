@@ -1,16 +1,14 @@
 <h1 align="center"> 
 	<strong>✨ Material You Apps ✨</strong> <br>
-<img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ffc1cc&colorB=ffd1dc&logo=github&logoColor=ff6961"></br>
+<img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f" width="130"></br>
 </h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/123305689/236643733-b6f47c67-4460-4396-862f-c170e46f7590.png" width="850">
+<img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8bfb42d9-1557-450b-bc9c-b66b5dfce3ad" width="750">
 </p>
 
 (Made by Tea. ☕)
 ### THANK YOU FOR ALL THE STARS! :) ✨
-
-# *Before You Start:*
 
 
 ## ❓ About!
@@ -23,6 +21,7 @@
 (For  repos with all, or at least most MDY apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
 ---
 
+
 ## 🔖 Tags!
 
 |🏷️ Tags! |🧾 Description!|
@@ -31,7 +30,7 @@
 |`🧋`  | <strong>Open-Source!</strong> <sup><a href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |`🍵`   |  <strong>Additional Steps Required!</strong>|
 |`🫖`|<strong>Paid Apps!</strong>
-|`🥤` |<strong>Modded app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
+|`🥤` |<strong>Modded (or forked) app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 
 ---
 
@@ -142,7 +141,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > #### Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
-#### `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
+#### `☕` `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 > like the google files app, but open-source and cleaner! (in my opinion)
 
 #### `🧋`  [File Explorer](https://github.com/Raival-e/File-Explorer)
@@ -185,6 +184,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator)
 > a simple material you calculator!
 
+#### `🧋` `🥤` [zCalc](https://github.com/ziadOUA/zCalc)
+> An Open source calculator (fork of openCalc)
+
+
+
 ## <img src="https://user-images.githubusercontent.com/123305689/236666049-c7be166e-a6ac-4f84-b970-ad172323de31.png" width="48"> Qr Scanners
 
 
@@ -192,12 +196,15 @@ the light illuminated part is transparent and fade to solid (All features can me
 > a Powerful Qr and BarCode scanner with a really nice design!
 
 #### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
-Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
-
+> Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
 > A qr code Scanner made for pixels but works for devices with andorid 12+ 
+
+#### `🧋` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)
+> A nice Qr and Barcode scanner & Allows for generating many types of Qr and Barcodes!
 
 #### [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus)
 > Its a QR and barcode scanner.... duh.
+
 
 #### [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
@@ -224,6 +231,9 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 
 ## 💲 Finance
 
+#### `🧋` `🥤` [zCard](https://github.com/ziadOUA/zCard)
+> An open-Source wallter app! (Fork of catima)
+
 #### [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 > A wallet made by google.
 
@@ -235,6 +245,9 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 
 #### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa)
 > A material you design expense tracker!
+
+#### [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
+> A subscription manager!
 
 ## 🌩️ Weather
 
@@ -373,27 +386,36 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 ####  `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
-#### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune)
-> YT Music, without ads + beautiful design
+
+## 🎹 Muic & Video Players
 
 #### `☕` `🥤` [VLC Media Player](https://t.me/waifupx_official/233)
-> A mod that Adds material you support on VLC!
+> A mod that Adds material you support on VLC! (which is a local video player)
 
-#### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
-
-## 🎹 Local Muic Players
+#### `☕` `🥤` `🧋` [Metro](https://github.com/MuntashirAkon/Metro)
+> A fork of the "Retro music player" without ads, all premium features & no google services! (which is a local music player)
 
 #### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 > Local music player!
 
 #### `🧋` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
+> Another local music player, lol.
+
+#### `🧋` [Symphony](https://github.com/zyrouge/symphony)
+>Another local music player, lol.
 
 #### [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful local music player!
 
 
 
+
 ## 📺 Other types of Media
+
+#### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune)
+> YT Music, without ads + beautiful design
+
+#### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 
 #### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
@@ -425,6 +447,9 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 
 #### [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
 > A book tracker app!
+
+
+
 
 ##  🏪 App Stores
 
@@ -559,7 +584,7 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 #### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet)
 > Restores the old App chooser when clicking on an url!
 
-#### [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/)
+#### `🥤` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/)
 > A list of ports for the Google camera app!
 
 #### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
@@ -578,9 +603,31 @@ Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/
 > A counter app with really beautiful material you designs and animations!
 ---
 
-
-## 🆕 Whats New!
-- Big Design Changes!
+<details>
+	<summary><h2>🆕 Whats New!</h2></summary>
+	<ul>
+		<li> Added Apps: </li>
+		<ul>
+<li> Added zCalc</li>
+<li> Added zCard</li>
+			<li> Added Tilla</li>
+			<li>Added Barcode Scanner</li>
+			<li> Added symphony</li>
+			<li> Added Metro
+		</ul>
+		</li>
+	<li> Design Changes: </li>
+	<ul>
+<li> Updated Colour and images!
+<li> Changed '🥤' Description
+<li> Added '🥤' to gCam Port
+<li> Added android badge!
+<li> Updated stars badge colours!
+<li> Re-organized media section
+	<li> Re-Organized "Whats New" section!
+</details>
+	
+	
 ---
 
 ## 💜 Better Lists lol:
