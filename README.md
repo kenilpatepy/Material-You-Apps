@@ -599,30 +599,22 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
+
 ---
 
 <details>
 	<summary><h2>🆕 Whats New!</h2></summary>
 	<ul>
-		<li> Added Apps: </li>
-		<ul>
-<li> Added zCalc</li>
-<li> Added zCard</li>
-			<li> Added Tilla</li>
-			<li>Added Barcode Scanner</li>
-			<li> Added symphony</li>
-			<li> Added Metro
-		</ul>
-		</li>
 	<li> Design Changes: </li>
 	<ul>
-<li> Updated Colour and images!
-<li> Changed '🥤' Description
-<li> Added '🥤' to gCam Port
-<li> Added android badge!
-<li> Updated stars badge colours!
-<li> Re-organized media section
-	<li> Re-Organized "Whats New" section!
+<li> Changed "Icons" Icons/emoji's
+<li> Added/Removed app tags
+<li> Added Star history
+		<li> Changed About section <sup>Minor change</sup>
+<li> Moved Thank you header
+		<li> Changed Tags section <sup>Minor change</SUP>
+	<li> Changed icon size
+		<li> Moved Some app positions
 </details>
 	
 	
