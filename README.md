@@ -1,6 +1,6 @@
 <h1 align="center"> 
 	<strong>✨ Material You Apps ✨</strong> <br>
-<img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f" width="130"></br>
+</br><img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f" width="130"></br>
 </h1>
 
 <p align="center">
@@ -8,17 +8,16 @@
 </p>
 
 (Made by Tea. ☕)
-### THANK YOU FOR ALL THE STARS! :) ✨
 
 
 ## ❓ About!
-- ###  This is a repo for apps with [google's "Material You" design language](https://m3.material.io/) 
+- ###  This is a list for apps with [google's "Material You" design language](https://m3.material.io/) 
 ## ⚠️ Requirements!
 - ### **THIS IS NOT ALL** Material You apps... instead its the ones that are: 
 - #### Useful and work well! (only the very best!)
- - #### Have Material you (dynamic colouring, **_Required_**)
- - #### Have Material 3 design (_Design, **Not Required**_)
-(For  repos with all, or at least most MDY apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
+ - #### Have Material you (dynamic colouring: **_Required_**)
+ - #### Have Material 3 design (Design: **_Not Required_**)
+### (For  repos with all, or at least most MDY apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
 ---
 
 
@@ -30,7 +29,7 @@
 |`🧋`  | <strong>Open-Source!</strong> <sup><a href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |`🍵`   |  <strong>Additional Steps Required!</strong>|
 |`🫖`|<strong>Paid Apps!</strong>
-|`🥤` |<strong>Modded (or forked) app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
+|`🥤` |<strong>Modded (forked or ported) app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 
 ---
 
@@ -39,9 +38,8 @@
 #### `☕` `🧋` [Lawnchair 12 (dev versions)](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > Its like the Pixel launcher/stock android but with more customizations.
 
-#### `☕` [Nova launcher 8 (beta versions)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) 
-> #### Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
-> extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
+#### `☕` [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+> niagara launcher is a minimalist launcher with really nice features!
 
 #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
 > Unique and really cool launcher!
@@ -52,8 +50,9 @@
 #### [Nothing Launcher 1.0.2](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/)
 > this is the only version that works for phones that isn't the "nothing phone"... cool if you like the nothing style!
 
-#### [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
-> niagara launcher is a minimalist launcher with really nice features!
+#### [Nova launcher 8 (beta versions)](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) 
+> #### Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
+> extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 ## 🎴 Wallpaper
 
@@ -66,14 +65,14 @@
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou)
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
+#### `🧋` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+> Amazing wallpapers, with amazing and customizable animations!
+
 #### [IOSXPC](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
 >Another wallpaper app!
 
 ####  [PaperSplash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash)
 > Nice looking app! (but includes a pro version)
-
-#### `🧋` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
-> Amazing wallpapers, with amazing and customizable animations!
 
 ####  [MWalls](https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US)
 > A wallpaper app that includes a lot of perfect material you walls as well as pixel stock walls!
@@ -117,7 +116,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Motorola Widgets](https://www.pling.com/p/1884299)
 > A port of the motorola widgets app!
 
-## 🍎 Icons
+## 🈸 Icons
 
 #### `☕` `🫖` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US)
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
@@ -173,7 +172,10 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`Requested by mirko_ddd :)`</sup>
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
-## ➕ Calculator
+## ✖️ Calculator
+
+#### `☕` `🧋` `🥤` [zCalc](https://github.com/ziadOUA/zCalc)
+> An Open source calculator (fork of openCalc)
 
 #### `☕` `🧋`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
 > Google's calculator
@@ -184,8 +186,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator)
 > a simple material you calculator!
 
-#### `🧋` `🥤` [zCalc](https://github.com/ziadOUA/zCalc)
-> An Open source calculator (fork of openCalc)
 
 
 
@@ -208,6 +208,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
+
 ## 🗃️ Galleries
 
 #### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
@@ -222,7 +223,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 > Amazing school calendar, very useful! material you can be enabled in setting.
 
-
 #### `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
 > A really nice looking material you Calendar/Scheduler app!
 
@@ -232,7 +232,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## 💲 Finance
 
 #### `🧋` `🥤` [zCard](https://github.com/ziadOUA/zCard)
-> An open-Source wallter app! (Fork of catima)
+> An open-Source wallet app! (Fork of Catima)
 
 #### [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 > A wallet made by google.
@@ -251,12 +251,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 ## 🌩️ Weather
 
+#### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205)
+> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
 
 #### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)<sup>`Requested and created by moneytoo :)`</sup>
 > really cool weather app, with a material you design!
-
-#### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205)
-> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
 
 #### [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
 > A weather app that uses **a lot** of text, might not be for everybody.. but hey i like it!
@@ -270,6 +269,9 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## ⌚ Clock/Timer
 
 
+#### `☕` `🧋` [Clock You](https://github.com/Bnyro/ClockYou)
+> Another alternative to the google clock app!
+
 #### [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US)
 
 #### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Requested by Rozpierog :)`</sup>
@@ -278,8 +280,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `🧋` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/)
 > An open-source alternative to the google clock app!
 
-#### `🧋` [Clock You](https://github.com/Bnyro/ClockYou)
-> Another alternative to the google clock app!
 
 
 ##  <img src="https://user-images.githubusercontent.com/123305689/236181017-57066026-0279-4082-a489-1f669080b28e.png" width="48"> Google
@@ -318,17 +318,17 @@ the light illuminated part is transparent and fade to solid (All features can me
 ## All motorola ports can be found [here!](https://www.pling.com/p/1884299)
 > All of these work with all devices!
 
-#### [Motorola Calculator](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Calculator](https://www.pling.com/p/1884299)
 
-#### [Motorola Widgets](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Widgets](https://www.pling.com/p/1884299)
 
-#### [Motorola Gallery](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Gallery](https://www.pling.com/p/1884299)
 
-#### [Motorola Messages](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Messages](https://www.pling.com/p/1884299)
 
-#### [Motorola Dialer](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Dialer](https://www.pling.com/p/1884299)
 
-#### [Motorola Camera](https://www.pling.com/p/1884299)
+#### `🥤` [Motorola Camera](https://www.pling.com/p/1884299)
 
 ##  <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/90dd6a7a-22c1-443a-825d-429cb18752d3" width="48"> Youtube
 
@@ -380,12 +380,11 @@ the light illuminated part is transparent and fade to solid (All features can me
 #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
 
-####  `🧋`  [Seal](https://github.com/JunkFood02/Seal)
-> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
-
-####  `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
+#### `☕` `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
+####  `🧋`  [Seal](https://github.com/JunkFood02/Seal)
+> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
 ## 🎹 Muic & Video Players
 
@@ -416,6 +415,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > YT Music, without ads + beautiful design
 
 #### `☕` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+> A beautifully designed Recording app!
 
 #### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou)
 > A beautiful RSS Reader!
@@ -438,9 +438,6 @@ the light illuminated part is transparent and fade to solid (All features can me
 
 #### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
 > A simple metronome app!
-
-#### `🧋` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi)
-> manga reader! OwO [18+]
 
 #### [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 > podcasting app.
@@ -475,6 +472,7 @@ the light illuminated part is transparent and fade to solid (All features can me
 > A manager & installer for beta programs of apps!
 
 #### [Google play store](https://play.google.com/store/games)
+> Need i say more?
 
 ##  🌐 Browsers
 
@@ -636,5 +634,17 @@ the light illuminated part is transparent and fade to solid (All features can me
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
 
 ---
+	
+<details>
+	<summary><h2>⭐ Star History!</h2></summary>
+	
+	
 
-# Star 💫 The Repo If You Liked it! <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679" width="100">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TeaEndsAcronyms/Material-You-Apps&type=Date)](https://star-history.com/#TeaEndsAcronyms/Material-You-Apps&Date)
+	
+</details>
+	
+# Star 💫 The Repo If You Liked it! <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679" width="60">
+	
+# THANK YOU FOR ALL THE STARS! :) ✨
