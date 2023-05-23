@@ -513,7 +513,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > Allows you to use dark-mode on non-dark mode supported apps!
 
 #### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure)
-> A beautifully designed app manager & analyzer! **TO GET MATERIAL YOU: <sup>[`Click this for Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)** </sup>
+> A beautifully designed app manager & analyzer! **Click this for: <sup>[`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)** </sup>
 
 #### `🍵` [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps)
 > A battery manager, only down-side is that it has ads.
@@ -530,7 +530,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > An Open-Source password manager with a nice design!
 
 #### `🥤` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-	> A bitwarden like password manager **WARNING: NOT OPEN-SOURCE**
+> A bitwarden like password manager **WARNING: NOT OPEN-SOURCE**
 
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 > A material you authenticator app!
