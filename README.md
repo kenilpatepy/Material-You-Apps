@@ -71,7 +71,7 @@
 #### `🧋` [WallYou](https://github.com/Bnyro/WallYou)
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
-#### [WallYou X](https://github.com/AyraHikari/WallYouX/)
+#### `🧋` [WallYou X](https://github.com/AyraHikari/WallYouX/)
 > A fork of the WallYou app with more features & wallpapers!
 
 #### `🧋` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
@@ -94,10 +94,10 @@
 
 ## 🖼️ Widget
 
-#### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup> 
+#### `☕` [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 > Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
 
-#### `☕` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup> 
+#### `☕` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 > A simple widget to get a material you google search bar! (also duck duck go, brave etc.)
 
 ####  `🫖` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup> 
@@ -141,9 +141,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) 
 > #### Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
+	
 #### `🧋`  [File Explorer](https://github.com/Raival-e/File-Explorer)
 > A full-featured file manager with Material You colors
-> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
+
 
 #### `☕` `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 > like the google files app, but open-source and cleaner! (in my opinion)
@@ -162,17 +164,19 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 #### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
 > Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
 
-#### [Another Notes App](https://github.com/maltaisn/another-notes-app)
+#### `🧋` [Another Notes App](https://github.com/maltaisn/another-notes-app)
 > Oh boy! is this a new idea or has it been done a ton?
 
-#### [JustNotes](https://github.com/jjewuz/JustNotes)
+#### `🧋` [JustNotes](https://github.com/jjewuz/JustNotes)
 >   Another Material you notes app!
+	
+#### `🧋` [JTX Board](https://github.com/TechbeeAT/jtxBoard)
+> A notes, journals and tasks app!
 
 #### [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`Requested by mirko_ddd :)`</sup>
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP! 
 
-#### [JTX Board](https://github.com/TechbeeAT/jtxBoard)
-> A notes, journals and tasks app!
+
 
 ## ✖️ Calculator
 
@@ -221,9 +225,12 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
 > A really beautiful and amazing gallery app! better that google photos in my opinion!
+	
+#### `🥤` [Motorola Gallery](https://www.pling.com/p/1884299)
+> a port of the motorola gallery app!
 
 #### [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
-
+	
 
 
 
@@ -293,7 +300,6 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) 
 > The google camera, it only works with pixels (and other AOSP devices and ROMS)
-
 
 #### `🥤` [Motorola Camera Port](https://www.pling.com/p/1884299)
 > A port of the motorola Camera app
@@ -524,6 +530,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > An Open-Source password manager with a nice design!
 
 #### `🥤` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
+	> A bitwarden like password manager **WARNING: NOT OPEN-SOURCE**
 
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 > A material you authenticator app!
@@ -586,15 +593,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### [GTranslate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
-
-
-
 #### [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 
 #### [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 
 #### [GAssistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant)
-
 
 #### [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 
