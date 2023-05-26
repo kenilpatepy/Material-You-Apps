@@ -1,6 +1,4 @@
-﻿
-
-<h2 align="center"> 
+﻿<h2 align="center"> 
 	<strong>✨ Material You Apps ✨</strong> <br>
 </br></h2>
 
@@ -21,10 +19,11 @@
 - #### Useful and work well! (only the very best!)
  - #### Have Material you (dynamic colouring: **_Required_**)
  - #### Have Material 3 design (Design: **_Not Required_**)
-#### (For  repos with all, or at least most MDY apps check out [These!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
+ - #### **DON'T EXPECT APPS THAT REQUIRE ROOT, I WON'T (most likely) ROOT MY DEVICE!**
+#### (For  repos with all, or at least most MDY apps check out [Better lists!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
 ---
 
-## 🏷️ Tags!
+## 🏷️ Tags
 
 |📛 Tag |🧾 Description
 |--|--|
@@ -49,7 +48,7 @@
 
 #### `🧋` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
 > A unique material you and minimal launcher!
-> 
+
 #### [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) 
 > #### Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
 > extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
@@ -183,7 +182,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 #### `☕` `🧋` `🥤` [zCalc](https://github.com/ziadOUA/zCalc)
 > An Open-source calculator (fork of openCalc)
 
-#### `☕` `🧋`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
+#### `☕`   [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
 > Google's calculator
 
 #### `🧋` [Unitto](https://github.com/sadellie/unitto)
@@ -208,7 +207,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > a Powerful Qr and BarCode scanner with a really nice design!
 
 #### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
-> Click this for: <sup>[`Tutorial to install`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
+> Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
 > A qr code Scanner made for pixels but works for devices with andorid 12+ (but you have to build it youesekf)
 
 #### `🧋` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)
@@ -268,13 +267,13 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 ## 🌩️ Weather
 
 #### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205)
-> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you! (its a telegram link, so you have to install telegram first)
+> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
 #### `☕` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)<sup>`Requested and created by moneytoo :)`</sup>
 > really cool weather app, with a material you design!
 
 #### [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
-> A weather app that uses **a lot** of text, might not be for everybody.. but hey i like it!
+> A weather app that uses **a lot** of text, might not be for everybody.. but hey, i like it!
 
 #### [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
 > nice looking weather app i guess
@@ -414,6 +413,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
 > A free E-book downloader!
 
+#### `🧋` [Musify](https://github.com/gokadzev/musify)
+> A free music steaming & downloading app!
+
 #### `🥤` [Flat Equalizer](https://t.me/waifupx_official/239)
 > A really useful equalizer, Modded to have Material you! (i use it to boost my volume!) 
 
@@ -530,7 +532,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > An Open-Source password manager with a nice design!
 
 #### `🥤` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
-> A bitwarden like password manager **WARNING: NOT OPEN-SOURCE**
+> A bitwarden like password manager. **WARNING: NOT OPEN-SOURCE**
 
 #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 > A material you authenticator app!
@@ -539,6 +541,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### `☕` `🧋`  [Vanced microG (fork by inotia00) ](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
+
+#### `☕`  [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+> An Amazing intuitive App manager, with tons of information! (permissions, certificates, components, analytics, split apk installer and much more!)
 
 #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 > A terminal emulator app with a material you design and other experimental features!
@@ -566,6 +571,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet)
 > Restores the old App chooser when clicking on an url!
+
+#####  `🧋` [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236)
+> An app to manage stickers and memes! (i linked to the english version)
 
 #### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 > a Material you Periodic table!
@@ -610,6 +618,14 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ---
 
+## 📰 Sources:
+
+- #### [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
+- #### [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
+- #### [F-droid](https://f-droid.org/packages/)
+- #### [Github](github.com)
+-  #### Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/)
+
 ## 💜 Better Lists lol:
 
 - #### [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
@@ -619,15 +635,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 # Star 💫 The Repo If You Liked it! <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679" width="60">
 	
-## THANK YOU FOR ALL THE STARS! :) ✨
+### THANK YOU FOR ALL THE STARS! :) ✨
 
-<details>
-	<summary><h3>⭐ Star History!</h3></summary>
 	
 	
 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=TeaEndsAcronyms/Material-You-Apps&type=Date)](https://star-history.com/#TeaEndsAcronyms/Material-You-Apps&Date)
-	
-</details>
 
