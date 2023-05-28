@@ -334,9 +334,10 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 ##  <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit 
 
 #### `🧋` [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) 
+> #### Click this for: <sup>[`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 #### <strong> OR </strong>
 ####  `🧋` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US)
-
+> already has no ads!
 ##  <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb" width="48"> Mastodon
 
 #### Use `🧋` [Moshidon](https://github.com/LucasGGamerM/moshidon)
