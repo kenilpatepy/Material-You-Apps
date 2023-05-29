@@ -1,3 +1,4 @@
+﻿
 ﻿<h2 align="center"> 
 	<strong>✨ Material You Apps ✨</strong> <br>
 </br></h2>
@@ -9,6 +10,53 @@
 <p align="center">
 <img src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1" width="160"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f" width="175"> 
 
+<details>
+<summary><h2>⚡ Quick List</h3></summary>
+
+- ## ☕ Before you start:
+   - ### [❓ About](https://github.com/TeaEndsAcronyms/Material-You-Apps#-about)
+   - ### [⚠️ Requirements](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-requirements)
+   - ### [🏷️ Tags](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-tags)
+- ## 📃 List sections:
+   - ### [🏠 Launcher](https://github.com/TeaEndsAcronyms/Material-You-Apps#-launcher)
+   - ### [🎴 Wallpaper](https://github.com/TeaEndsAcronyms/Material-You-Apps#-wallpaper)
+   - ### [🖼️ Widget](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-widget)
+   - ### [🈸 Icons](https://github.com/TeaEndsAcronyms/Material-You-Apps#-icons)
+   - ### [📂 File manager](https://github.com/TeaEndsAcronyms/Material-You-Apps#-file-manager)
+    - ### [📕 Note](https://github.com/TeaEndsAcronyms/Material-You-Apps#-note)
+     - ### [✖️ Calculator](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-calculator)
+     - ### [<img src="https://user-images.githubusercontent.com/123305689/236666049-c7be166e-a6ac-4f84-b970-ad172323de31.png" width="48"> Qr Scanners](https://github.com/TeaEndsAcronyms/Material-You-Apps#-qr-scanners)
+     - ### [🗃️ Galleries](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-galleries)
+     - ### [📆 Calendars/Planners](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-galleries)
+     - ### [💲 Finance](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-galleries)
+     - ### [🌩️ Weather](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-galleries)
+     - ### [⌚ Clock/Timer](https://github.com/TeaEndsAcronyms/Material-You-Apps#%EF%B8%8F-galleries)
+     - ### [📷 Camera](https://github.com/TeaEndsAcronyms/Material-You-Apps#-camera)
+     - ###  [<img src="https://pnggrid.com/wp-content/uploads/2021/05/Youtube-Logo-Cicle-1024x1024.png" width="30"> Youtube](https://github.com/TeaEndsAcronyms/Material-You-Apps#-youtube)
+     - ###  [<img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="30"> Twitter](https://github.com/TeaEndsAcronyms/Material-You-Apps#-twitter)
+     - ###  [<img src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png" width="30"> Telegram](https://github.com/TeaEndsAcronyms/Material-You-Apps#-telegram)
+     - ###  [<img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="30"> YT Music](https://github.com/TeaEndsAcronyms/Material-You-Apps#-yt-music)
+     - ### [ <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="30"> Reddit ](https://github.com/TeaEndsAcronyms/Material-You-Apps#-reddit)
+     - ###  [<img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb" width="30"> Mastodon](https://github.com/TeaEndsAcronyms/Material-You-Apps#-mastodon)
+     - ### [<img src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png" width="30"> Discord](https://github.com/TeaEndsAcronyms/Material-You-Apps#-discord)
+     - ### [<img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/98a6f44a-5562-40c0-917e-8c3ac3cf247f" width="30"> Chat GPT](https://github.com/TeaEndsAcronyms/Material-You-Apps#-chat-gpt)
+     - ### [<img src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-512.png" width="30"> Stack OverFlow](https://github.com/TeaEndsAcronyms/Material-You-Apps#-stack-overflow)
+     - ### [📼 Video/Music Downloaders](https://github.com/TeaEndsAcronyms/Material-You-Apps#-videomusic-downloaders)
+     - ### [🎹 Music & Video Players](https://github.com/TeaEndsAcronyms/Material-You-Apps#-music--video-players)
+     - ### [📺 Other types of Media](https://github.com/TeaEndsAcronyms/Material-You-Apps#-other-types-of-media)
+     - ###  [🏪 App Stores](https://github.com/TeaEndsAcronyms/Material-You-Apps#-app-stores)
+     - ### [🌐 Browsers](https://github.com/TeaEndsAcronyms/Material-You-Apps#-browsers)
+     - ###  [🎮 Games](https://github.com/TeaEndsAcronyms/Material-You-Apps#-games)
+     - ### [<img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="30"> Shizuku](https://github.com/TeaEndsAcronyms/Material-You-Apps#-shizuku)
+     - ### [🔐 Passwords & 2FA](https://github.com/TeaEndsAcronyms/Material-You-Apps#-passwords--2fa)
+     - ### [⚡ Misc.](https://github.com/TeaEndsAcronyms/Material-You-Apps#-misc)
+- ## 📜 Miscellaneous
+   - ### [📰 Sources:](https://github.com/TeaEndsAcronyms/Material-You-Apps#-sources)
+   - ### [💜 Better Lists lol:](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol)
+</details>
+
+
+
 
 ## ❓ About
 - ###  This is a list of apps with [google's "Material You" design language](https://m3.material.io/) 
@@ -17,8 +65,12 @@
 ## ⚠️ Requirements
  ### **THIS IS NOT ALL** Material You apps. Here are the Requirements: 
 - #### Useful and work well! (only the very best!)
- - #### Have Material you (dynamic colouring: **_Required_**)
- - #### Have Material 3 design (Design: **_Not Required_**)
+    - Bug free.
+    - useful!  
+ - #### Has Material you
+     -  (dynamic colouring: **_Required_**)
+ - #### Has Material 3 design
+     -  (Design: **_Not Required_**)
  - #### **DON'T EXPECT APPS THAT REQUIRE ROOT, I WON'T (most likely) ROOT MY DEVICE!**
 #### (For  repos with all, or at least most MDY apps check out [Better lists!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
 ---
@@ -208,7 +260,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 #### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
 > Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
-> A qr code Scanner made for pixels but works for devices with andorid 12+ (but you have to build it youesekf)
+> A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
 
 #### `🧋` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)
 > A nice Qr and Barcode scanner & Allows for generating many types of Qr and Barcodes!
@@ -367,7 +419,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 ####  `🧋`  [Seal](https://github.com/JunkFood02/Seal)
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
-## 🎹 Muic & Video Players
+## 🎹 Music & Video Players
 
 #### `☕` `🥤` [VLC Media Player](https://t.me/waifupx_official/233)
 > A mod that Adds material you support on VLC! (which is a local video player)
@@ -640,5 +692,6 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 	
 	
+
 
 
