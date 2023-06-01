@@ -22,7 +22,7 @@
 
   - [❓ About](#-about)
   - [⚠️ Requirements](#-requirements)
-    - [**THIS IS NOT ALL** Material You apps. Here are the Requirements:](#this-is-not-all-material-you-apps-here-are-the-requirements:)
+    - [**THIS IS NOT ALL** Material You apps. Here are the Requirements:](#this-is-not-all-material-you-apps-here-are-the-requirements)
     - [(For repos with all, or at least most MDY apps check out Better lists!)](#for-repos-with-all-or-at-least-most-mdy-apps-check-out-better-lists)
   - [🏷️ Tags](#-tags)
   - [🎨 Customization](#-customization-1)
