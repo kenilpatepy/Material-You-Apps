@@ -22,7 +22,7 @@
 
   - [❓ About](#-about)
   - [⚠️ Requirements](#-requirements)
-    - [**THIS IS NOT ALL** Material You apps. Here are the Requirements](#this-is-not-all-material-you-apps-here-are-the-requirements)
+    - [**THIS IS NOT ALL** Material You apps. Here are the Requirements:](#this-is-not-all-material-you-apps-here-are-the-requirements:)
     - [(For repos with all, or at least most MDY apps check out Better lists!)](#for-repos-with-all-or-at-least-most-mdy-apps-check-out-better-lists)
   - [🏷️ Tags](#-tags)
   - [🎨 Customization](#-customization-1)
@@ -98,35 +98,23 @@
 
   
 
-###  **THIS IS NOT ALL** Material You apps. Here are the Requirements
+###  **THIS IS NOT ALL** Material You apps. Here are the Requirements:
 
   
 
 - Useful and work well! (only the very best!)
-
-  
-
-- Bug free.
-
-- useful!
+   - Bug free.
+   - useful!
 
   
 
 - Has Material you
-
-  
-
-- (dynamic colouring: **_Required_**)
+  - (dynamic colouring: **_Required_**)
 
   
 
 - Has Material 3 design
-
-  
-
-- (Design: **_Not Required_**)
-
-  
+  - (Design: **_Not Required_**)
 
 -  **DON'T EXPECT APPS THAT REQUIRE ROOT, I WON'T (most likely) ROOT MY DEVICE!**
 
