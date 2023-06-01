@@ -7,15 +7,11 @@
   
 
 <p  align="center">
-
 <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8bfb42d9-1557-450b-bc9c-b66b5dfce3ad"  width="750">
-
 </p>
 
 <p  align="center">
-
 <img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1"  width="110">  <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f"  width="120">
-
 </p>
  
 
