@@ -1,4 +1,4 @@
-﻿
+﻿﻿
 <h2 align="center">
  <strong>✨ Material You Apps ✨</strong> <br>
 </br></h2>
@@ -129,16 +129,16 @@
 |📛 Tag |🧾 Description
 |--|--|
 |`☕`|<strong>A **specialty tag**, the best apps! (in my opinion)</strong>  
-|`🧋`  | <strong>Open-Source!</strong> <sup><a href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
+|`🧋 (FOSS)`  | <strong>Open-Source!</strong> <sup><a href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |`🍵`   |  <strong>Additional Steps Required!</strong>|
-|`🫖`|<strong>Paid Apps!</strong>
-|`🥤` |<strong>Modded, forked or ported app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
+|`🫖 (Paid)`|<strong>Paid Apps!</strong>
+|`🥤 (Modded)` |<strong>Modded, forked or ported app!</strong> <sup><a href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 
 ---
 
 ## 🏠 Launcher
 
-- #### `☕` `🧋` [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
+- #### `☕` `🧋 (FOSS)` [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 >
 > Its like the Pixel launcher/stock android but with more customizations.
 
@@ -146,11 +146,11 @@
 >
 > niagara launcher is a minimalist launcher with really nice features!
 
-- #### `🧋` [Kvaesitso](https://kvaesitso.mm20.de/)
+- #### `🧋 (FOSS)` [Kvaesitso](https://kvaesitso.mm20.de/)
 >
 > Unique and really cool launcher!
 
-- ####  `🧋` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
+- ####  `🧋 (FOSS)` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher)
  >
  >A unique material you and minimal launcher!
 
@@ -166,23 +166,23 @@
 
 ## 🎴 Wallpaper
 
-- #### `☕` `🧋` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
+- #### `☕` `🧋 (FOSS)` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
  >
  > An Anime waifu wallpaper app! ヾ(≧▽≦*)o
 
-- ####  `🧋` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`requested by Never_Sm1le :)`</sup>
+- ####  `🧋 (FOSS)` [DualWallpaper](https://github.com/Yanndroid/DualWallpaper) <sup>`requested by Never_Sm1le :)`</sup>
  >
  > Amazingly designed app, this allows you to change wallpaper to follow light and dark theme!
 
-- #### `🧋` [WallYou](https://github.com/Bnyro/WallYou)
+- #### `🧋 (FOSS)` [WallYou](https://github.com/Bnyro/WallYou)
 >
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
-- #### `🧋` [WallYou X](https://github.com/AyraHikari/WallYouX/)
+- #### `🧋 (FOSS)` [WallYou X](https://github.com/AyraHikari/WallYouX/)
 >
 > A fork of the WallYou app with more features & wallpapers!
 
-- #### `🧋` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
+- #### `🧋 (FOSS)` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle)
  >
  > Amazing wallpapers, with amazing and customizable animations!
 
@@ -216,66 +216,66 @@
  >
  > A simple widget to get a material you google search bar! (also duck duck go, brave etc.)
 
-- ####  `🫖` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- ####  `🫖 (Paid)` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
  >
  > Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+ the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
-- #### `🫖` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- #### `🫖 (Paid)` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 >
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
-- #### `🫖` [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- #### `🫖 (Paid)` [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 >
 > The most basic and true-to-life android 12 inspired widgets!
 
-- #### `🫖`  [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- #### `🫖 (Paid)`  [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 >
 > interchangeable android and ios widgets!
 
-- #### `🫖`  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- #### `🫖 (Paid)`  [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup><strong>Requires <a href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>  & <a href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 >
 > As the name suggests, pastel android 12 inspired widgets!
 
-- #### `🥤` [Motorola Widgets Port](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Widgets Port](https://www.pling.com/p/1884299)
  >
  > A port of the motorola widget app
 
 ## 🈸 Icons
 
-- #### `☕` `🫖` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US)
+- #### `☕` `🫖 (Paid)` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US)
  >
  > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
-- #### `☕` `🧋` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons)
+- #### `☕` `🧋 (FOSS)` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons)
 >
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
-- #### `🫖` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
+- #### `🫖 (Paid)` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US)
 >
 > Another material you icons.
 
-- #### `🫖` [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga)
+- #### `🫖 (Paid)` [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga)
   >
   > A material you icon pack with a unique faded black icons! (can't explain how it looks lol)
 
-- #### `🫖` [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou)
+- #### `🫖 (Paid)` [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou)
    >
    > a Nothing inspired icons with a material you spin!
 
 ## 📁 File Manager
 
-- #### `☕` `🧋` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
+- #### `☕` `🧋 (FOSS)` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
  >
  > #### Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 >
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
-- #### `🧋`  [File Explorer](https://github.com/Raival-e/File-Explorer)
+- #### `🧋 (FOSS)`  [File Explorer](https://github.com/Raival-e/File-Explorer)
  >
  > A full-featured file manager with Material You colors
 
-- #### `☕` `🧋` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
+- #### `☕` `🧋 (FOSS)` [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
  >
  > like the google files app, but open-source and cleaner! (in my opinion)
 
@@ -283,7 +283,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 📕 Note/To-Do/Wish-List
 
-- #### `☕` `🧋` [Spooky](https://github.com/juniorise/spooky-mb)
+- #### `☕` `🧋 (FOSS)` [Spooky](https://github.com/juniorise/spooky-mb)
 >
 > A Open source MDY Notes app! 👻
 
@@ -291,23 +291,23 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > Beautiful and feature packed notes app!
 
-- #### `🧋` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
+- #### `🧋 (FOSS)` [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/)
   >
   > Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
 
-- #### `🧋` [Another Notes App](https://github.com/maltaisn/another-notes-app)
+- #### `🧋 (FOSS)` [Another Notes App](https://github.com/maltaisn/another-notes-app)
  >
  > Oh boy! is this a new idea or has it been done a ton?
 
-- #### `🧋` [JustNotes](https://github.com/jjewuz/JustNotes)
+- #### `🧋 (FOSS)` [JustNotes](https://github.com/jjewuz/JustNotes)
 >
 > Another Material you notes app!
 
-- #### `🧋` [JTX Board](https://github.com/TechbeeAT/jtxBoard)
+- #### `🧋 (FOSS)` [JTX Board](https://github.com/TechbeeAT/jtxBoard)
  >
  > A notes, journals and tasks app!
 
-- #### `🧋` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
+- #### `🧋 (FOSS)` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
 >
 > An amazingly designed wish- list app!
 
@@ -317,7 +317,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## ✖️ Calculator
 
-- #### `☕` `🧋` `🥤` [zCalc](https://github.com/ziadOUA/zCalc)
+- #### `☕` `🧋 (FOSS)` `🥤 (Modded)` [zCalc](https://github.com/ziadOUA/zCalc)
 >
 > An Open-source calculator (fork of openCalc)
 
@@ -325,19 +325,19 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > Google's calculator
 
-- #### `🧋` [Unitto](https://github.com/sadellie/unitto)
+- #### `🧋 (FOSS)` [Unitto](https://github.com/sadellie/unitto)
 >
 > A material you calculator and converter!
 
-- #### `🧋` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator)
+- #### `🧋 (FOSS)` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator)
 >
 > a simple material you calculator!
 
-- #### `🧋`  [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator)
+- #### `🧋 (FOSS)`  [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator)
 >
 > A MDY calculator with a really unique (wel- more link weird) design (i like the phineas and ferb reference! lol)
 
-- #### `🥤` [Motorola Calculator Port](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Calculator Port](https://www.pling.com/p/1884299)
 >
 > A port of the motorola calculator app
 
@@ -347,13 +347,13 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > a Powerful Qr and BarCode scanner with a really nice design!
 
-- #### `🧋` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
+- #### `🧋 (FOSS)` `🍵` [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner)
 >
 > Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0) </sup>
 >
 > A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
 
-- #### `🧋` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)
+- #### `🧋 (FOSS)` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner)
 >
 > A nice Qr and Barcode scanner & Allows for generating many types of Qr and Barcodes!
 
@@ -365,11 +365,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🗃️ Galleries
 
-- #### `☕` `🧋` [Gallery](https://github.com/IacobIonut01/Gallery)
+- #### `☕` `🧋 (FOSS)` [Gallery](https://github.com/IacobIonut01/Gallery)
 >
 > A really beautiful and amazing gallery app! better that google photos in my opinion!
 
-- #### `🥤` [Motorola Gallery](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Gallery](https://www.pling.com/p/1884299)
 >
 > a port of the motorola gallery app!
 
@@ -381,11 +381,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > Amazing school calendar, very useful! material you can be enabled in setting.
 
-- #### `🧋` [Scheduler](https://github.com/dgudim/Scheduler)
+- #### `🧋 (FOSS)` [Scheduler](https://github.com/dgudim/Scheduler)
 >
 > A really nice looking material you Calendar/Scheduler app!
 
-- #### `🧋` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+- #### `🧋 (FOSS)` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
 >
 > A material you calendar!
 
@@ -395,19 +395,19 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > A wallet made by google.
 
-- #### `🧋` [BuckWheat](https://github.com/danilkinkin/buckwheat)
+- #### `🧋 (FOSS)` [BuckWheat](https://github.com/danilkinkin/buckwheat)
 >
 > Another material you expense tracker!
 
-- #### `🧋` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
+- #### `🧋 (FOSS)` [GreenStash](https://github.com/Pool-Of-Tears/GreenStash)
 >
 > Another nice expence manager!
 
-- #### `🧋` [Paisa](https://github.com/RetroMusicPlayer/Paisa)
+- #### `🧋 (FOSS)` [Paisa](https://github.com/RetroMusicPlayer/Paisa)
 >
 > A material you design expense tracker!
 >
-- #### `🧋` `🥤` [zCard](https://github.com/ziadOUA/zCard)
+- #### `🧋 (FOSS)` `🥤 (Modded)` [zCard](https://github.com/ziadOUA/zCard)
 >
 > An open-Source wallet app! (Fork of Catima)
 
@@ -417,7 +417,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🌩️ Weather
 
-- #### `☕` `🥤` [Nothing Weather](https://t.me/waifupx_official/205)
+- #### `☕` `🥤 (Modded)` [Nothing Weather](https://t.me/waifupx_official/205)
 >
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
@@ -439,15 +439,15 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## ⌚ Clock/Timer
 
-- #### `☕` `🧋` [Clock You](https://github.com/Bnyro/ClockYou)
+- #### `☕` `🧋 (FOSS)` [Clock You](https://github.com/Bnyro/ClockYou)
 >
 > Another alternative to the google clock app!
 
-- #### `🧋` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Requested by Rozpierog :)`</sup>
+- #### `🧋 (FOSS)` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Requested by Rozpierog :)`</sup>
 >
 > A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
-- #### `🧋` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/)
+- #### `🧋 (FOSS)` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/)
 >
 > An open-source alternative to the google clock app!
 
@@ -459,11 +459,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > The google camera, it only works with pixels (and other AOSP devices and ROMS)
 
-- #### `🥤` [Motorola Camera Port](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Camera Port](https://www.pling.com/p/1884299)
 >
 > A port of the motorola Camera app
 
-- #### `🥤` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/)
+- #### `🥤 (Modded)` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/)
 >
 > A list of ports for the Google camera app! (To make it work on other devices)
 
@@ -471,7 +471,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## <img src="https://pnggrid.com/wp-content/uploads/2021/05/Youtube-Logo-Cicle-1024x1024.png" width="48"> Youtube
 
-- #### use: `🧋` [LibreTube](https://github.com/libre-tube/LibreTube)
+- #### use: `🧋 (FOSS)` [LibreTube](https://github.com/libre-tube/LibreTube)
 
 #### <strong> OR </strong>
 
@@ -487,41 +487,45 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png" width="48"> YT Music
 
-- #### `🧋`  [InnerTune](https://github.com/z-huang/InnerTune)
+- #### `🧋 (FOSS)`  [InnerTune](https://github.com/z-huang/InnerTune)
 >
 > which is YT Music, without ads + beautiful design
 
 <strong> OR </strong>
 
-- #### `🧋` [Musify](https://github.com/gokadzev/musify)
+- #### `🧋 (FOSS)` [Musify](https://github.com/gokadzev/musify)
 >
 > A free music steaming & downloading app! (Another YT music client? Not sure tho)
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png" width="48"> Reddit
 
-- #### `🧋` [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+- #### `☕` [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 
 > #### Click this for: <sup>[`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 >
 #### <strong> OR </strong>
 
-- ####  `🧋` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US)
+- ####  `🧋 (FOSS)` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US)
+
+#### <strong>OR</strong>
+
+- #### [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
 
 > already has no ads!
 
 ## <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb" width="48"> Mastodon
 
-- #### Use `🧋` [Moshidon](https://github.com/LucasGGamerM/moshidon)
+- #### Use `🧋 (FOSS)` [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png" width="48"> Discord
 
-- #### Use `🧋` [OpenCord](https://github.com/MateriiApps/OpenCord)
+- #### Use `🧋 (FOSS)` [OpenCord](https://github.com/MateriiApps/OpenCord)
 >
 > Only thing you cant to is send direct messages... But it looks amazing!
 
 ## <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/98a6f44a-5562-40c0-917e-8c3ac3cf247f" width="48"> Chat GPT
 
-- #### Use `🧋` [Sense](https://github.com/F0x1d/Sense)
+- #### Use `🧋 (FOSS)` [Sense](https://github.com/F0x1d/Sense)
 >
 > An openAI client! (allows Chat GPT and Image generating)
 
@@ -533,51 +537,51 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 📼 Video/Music Downloaders
 
-- #### `☕` `🧋`  [Spowlo](https://github.com/BobbyESP/Spowlo)
+- #### `☕` `🧋 (FOSS)`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 >
 > A really useful app, its a spotify song downloader with a material you design!
 
-- #### `☕` `🧋` [YTDLnis](https://github.com/deniscerri/ytdlnis)
+- #### `☕` `🧋 (FOSS)` [YTDLnis](https://github.com/deniscerri/ytdlnis)
 >
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
-- ####  `🧋`  [Seal](https://github.com/JunkFood02/Seal)
+- ####  `🧋 (FOSS)`  [Seal](https://github.com/JunkFood02/Seal)
 >
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
 ## 🎹 Music & Video Players
 
-- #### `☕` `🧋`  [InnerTune](https://github.com/z-huang/InnerTune)
+- #### `☕` `🧋 (FOSS)`  [InnerTune](https://github.com/z-huang/InnerTune)
 >
 > YT Music, without ads + beautiful design
 
-- #### `☕` `🥤` [VLC Media Player](https://t.me/waifupx_official/233)
+- #### `☕` `🥤 (Modded)` [VLC Media Player](https://t.me/waifupx_official/233)
 >
 > A mod that Adds material you support on VLC! (which is a local video player)
 
-- #### `☕` `🥤` `🧋` [Metro](https://github.com/MuntashirAkon/Metro)
+- #### `☕` `🥤 (Modded)` `🧋 (FOSS)` [Metro](https://github.com/MuntashirAkon/Metro)
 >
 > A fork of the "Retro music player" without ads, all premium features & no google services! (which is a local music player)
 
-- #### `🧋` [CloudStream](https://github.com/recloudstream/cloudstream)
+- #### `🧋 (FOSS)` [CloudStream](https://github.com/recloudstream/cloudstream)
 >
 > #### Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 >
 > A Free TV Show/Movie streaming (piracy) app
 
-- #### `🧋` [Next Player](https://github.com/anilbeesetti/nextplayer)
+- #### `🧋 (FOSS)` [Next Player](https://github.com/anilbeesetti/nextplayer)
 >
 > A simple but intuitive video player!
 
-- #### `🧋` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+- #### `🧋 (FOSS)` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 >
 > Local music player!
 
-- #### `🧋` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
+- #### `🧋 (FOSS)` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/)
 >
 > Another local music player, lol.
 
-- #### `🧋` [Symphony](https://github.com/zyrouge/symphony)
+- #### `🧋 (FOSS)` [Symphony](https://github.com/zyrouge/symphony)
 >
 > Another local music player, lol.
 
@@ -596,27 +600,27 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > A beautifully designed Recording app!
 
-- #### `🧋`  [ReadYou](https://github.com/Ashinch/ReadYou)
+- #### `🧋 (FOSS)`  [ReadYou](https://github.com/Ashinch/ReadYou)
 >
 > A beautiful RSS Reader!
 
-- #### `🧋` [Feeder](https://gitlab.com/spacecowboy/Feeder)
+- #### `🧋 (FOSS)` [Feeder](https://gitlab.com/spacecowboy/Feeder)
 >
 > Another beautiful RSS feed reeder!
 
-- #### `🧋`  [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
+- #### `🧋 (FOSS)`  [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki)
 >
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
 
-- #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
+- #### `🧋 (FOSS)` [Myne](https://f-droid.org/packages/com.starry.myne/)
 >
 > A free E-book downloader!
 
-- #### `🥤` [Flat Equalizer](https://t.me/waifupx_official/239)
+- #### `🥤 (Modded)` [Flat Equalizer](https://t.me/waifupx_official/239)
 >
 > A really useful equalizer, Modded to have Material you! (i use it to boost my volume!)
 
-- #### `🧋` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
+- #### `🧋 (FOSS)` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/)
 >
 > A simple metronome app!
 
@@ -634,27 +638,27 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🏪 App Stores
 
-- #### `☕` `🧋`  [Neo Store](https://github.com/NeoApplications/Neo-Store)
+- #### `☕` `🧋 (FOSS)`  [Neo Store](https://github.com/NeoApplications/Neo-Store)
 >
 > really good looking f-droid client!
 
-- #### `☕` `🧋` [Revanced Manager](https://github.com/revanced/revanced-manager)
+- #### `☕` `🧋 (FOSS)` [Revanced Manager](https://github.com/revanced/revanced-manager)
 >
 > App to use revanced: allows you to do cool things such as YT premium for free + more!
 
-- #### `🧋` [Myne](https://f-droid.org/packages/com.starry.myne/)
+- #### `🧋 (FOSS)` [Myne](https://f-droid.org/packages/com.starry.myne/)
 >
 > A free E-book downloader!
 
-- #### `🧋` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
+- #### `🧋 (FOSS)` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/)
 >
 > Another F-droid (kinda like the play store but open source apps) client but with material you!
 
-- #### `🧋` [Obtainium](https://github.com/ImranR98/Obtainium)
+- #### `🧋 (FOSS)` [Obtainium](https://github.com/ImranR98/Obtainium)
 >
 > Brings app updates from the source automatically to update for you!
 
-- #### `🧋` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly)
+- #### `🧋 (FOSS)` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly)
 >
 > An Open-source alternative to the google play-store with many privacy and security features!
 
@@ -668,15 +672,15 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🌐 Browsers
 
-- #### `☕` `🧋` [Mulch](https://gitlab.com/divested-mobile/mulch)
+- #### `☕` `🧋 (FOSS)` [Mulch](https://gitlab.com/divested-mobile/mulch)
 >
 > Chrome but open-source and with more privacy features!
 
-- #### `☕` `🧋` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
+- #### `☕` `🧋 (FOSS)` [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
 >
 > open-source browser and with features for privacy!
 
-- #### `🧋` `🥤` [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools)
+- #### `🧋 (FOSS)` `🥤 (Modded)` [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools)
 >
 > An updated version of the discontinued Bromite browser!
 
@@ -692,34 +696,34 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🎮 Games
 
-- #### `☕` `🧋` [Lemuroid](https://github.com/Swordfish90/Lemuroid)
+- #### `☕` `🧋 (FOSS)` [Lemuroid](https://github.com/Swordfish90/Lemuroid)
 >
 > **Click this for:** <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason!
 >
-- #### `☕` `🧋`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
+- #### `☕` `🧋 (FOSS)`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 >
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
 
-- #### `🧋` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku)
+- #### `🧋 (FOSS)` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku)
 >
 > A sudoku Game... yk with material you.
 
-- #### `🧋` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/)
+- #### `🧋 (FOSS)` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/)
 >
 > A fun trivia game!
 
-- #### `🧋` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku)
+- #### `🧋 (FOSS)` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku)
 >
 > A sudoku Game But with.... obviously, material you.
 
 ## <img src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png" width="48"> Shizuku
 
-### For these apps use `☕` `🧋`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted
+### For these apps use `☕` `🧋 (FOSS)`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted
 
 > #### Click this for: <sup> [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
-- #### `☕` `🍵`  `🧋` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+- #### `☕` `🍵`  `🧋 (FOSS)` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 >
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
@@ -727,19 +731,19 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
-- #### `🧋` `🍵` `🥤` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
+- #### `🧋 (FOSS)` `🍵` `🥤 (Modded)` [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 >
 > Ports Google's "Now Playing" feature to other devices!
 
-- #### `🧋` `🍵` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
+- #### `🧋 (FOSS)` `🍵` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/)
 >
 > A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
-- #### `🧋` `🍵` [DarQ](https://github.com/KieronQuinn/DarQ)
+- #### `🧋 (FOSS)` `🍵` [DarQ](https://github.com/KieronQuinn/DarQ)
 >
 > Allows you to use dark-mode on non-dark mode supported apps!
 
-- #### `🧋` `🍵` [Inure](https://github.com/Hamza417/Inure)
+- #### `🧋 (FOSS)` `🍵` [Inure](https://github.com/Hamza417/Inure)
 >
 > A beautifully designed app manager & analyzer! **Click this for: <sup>[`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)** </sup>
 
@@ -753,25 +757,25 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ## 🔐 Passwords & 2FA
 
-- #### `🧋` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
+- #### `🧋 (FOSS)` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro)
 >
 > Beautiful looking 2FA app!
 
-- #### `🧋` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass)
+- #### `🧋 (FOSS)` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass)
 >
 > An Open-Source password manager with a nice design!
 
-- #### `🥤` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
+- #### `🥤 (Modded)` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard)
 >
 > A bitwarden like password manager. **WARNING: NOT OPEN-SOURCE**
 
-- #### `🧋` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
+- #### `🧋 (FOSS)` [Mauth](https://f-droid.org/packages/com.xinto.mauth/)
 >
 > A material you authenticator app!
 
 ## ⚡ Misc
 
-- #### `☕` `🧋`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG)
+- #### `☕` `🧋 (FOSS)`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG)
 >
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
@@ -779,63 +783,63 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >
 > An Amazing intuitive App manager, with tons of information! (permissions, certificates, components, analytics, split apk installer and much more!)
 
-- #### `🧋` [Termux Monet](https://github.com/HardcodedCat/termux-monet)
+- #### `🧋 (FOSS)` [Termux Monet](https://github.com/HardcodedCat/termux-monet)
 >
 > A terminal emulator app with a material you design and other experimental features!
 
-- #### `🧋` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
+- #### `🧋 (FOSS)` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/)
 >
 > A recipe manager using the mealie api!
 
-- #### `🧋`  [Compass](https://github.com/SynapseTech/Compass)
+- #### `🧋 (FOSS)`  [Compass](https://github.com/SynapseTech/Compass)
 >
 > a very ✨beautiful✨ looking compass!
 
-- #### `🧋` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/)
+- #### `🧋 (FOSS)` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/)
 >
 > A really nice and useful app manager, great for advanced users!
 
-- #### `🧋` [YASNAC](https://github.com/RikkaW/YASNAC)
+- #### `🧋 (FOSS)` [YASNAC](https://github.com/RikkaW/YASNAC)
 >
 > As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity!
 
-- #### `🧋` [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
+- #### `🧋 (FOSS)` [KDE Connect](https://invent.kde.org/network/kdeconnect-android)
 >
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
 
-- #### `🧋` [Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu)
+- #### `🧋 (FOSS)` [Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu)
 >
 > A app to adjust the brightness of your flashlight!
 
-- #### `🧋` [ImageResizer](https://github.com/T8RIN/ImageResizer)
+- #### `🧋 (FOSS)` [ImageResizer](https://github.com/T8RIN/ImageResizer)
 >
 > In the Name... It resizes images!
 
-- #### `🧋` [LinkSheet](https://github.com/1fexd/LinkSheet)
+- #### `🧋 (FOSS)` [LinkSheet](https://github.com/1fexd/LinkSheet)
 >
 > Restores the old App chooser when clicking on an url!
 
-- #####  `🧋` [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236)
+- #####  `🧋 (FOSS)` [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236)
 >
 > An app to manage stickers and memes! (i linked to the english version)
 
-- #### `🧋` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+- #### `🧋 (FOSS)` [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 >
 > a Material you Periodic table!
 
-- #### `🧋` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/)
+- #### `🧋 (FOSS)` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/)
 >
 > An app with quotes and quotable text... thats it!
 
-- #### `🧋` `🥤`  [Tap, Tap](https://github.com/KieronQuinn/TapTap)
+- #### `🧋 (FOSS)` `🥤 (Modded)`  [Tap, Tap](https://github.com/KieronQuinn/TapTap)
 >
 > Ports The double tap gesture feature found on samsungs and pixels!
 
-- #### `🥤` [Motorola Messages Port](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Messages Port](https://www.pling.com/p/1884299)
 
   - > A port of the motorola Messages app
 
-- #### `🥤` [Motorola Dialer Port](https://www.pling.com/p/1884299)
+- #### `🥤 (Modded)` [Motorola Dialer Port](https://www.pling.com/p/1884299)
 >
 > A port of the motorola dialer app
 
