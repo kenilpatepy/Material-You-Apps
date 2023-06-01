@@ -15,7 +15,7 @@
  
 
 <details>
-<summary>⚡Quick List</summary>
+<summary><h2>⚡Quick List</h2></summary>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -34,7 +34,7 @@
     - [📁 File Manager:](#-file-manager)
     - [📕 Note/To-Do/Wish-List:](#-noteto-dowish-list)
     - [✖️ Calculator:](#-calculator)
-    - [<img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="30"> Qr Scanners:](#img--srchttpsgithub-production-user-asset-6210dfs3amazonawscom123305689239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125png--width30-qr-scanners)
+    - [<img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="30"> Qr Scanners:](#-qr-scanners)
     - [🗃️ Galleries:](#-galleries)
     - [📆 Calendars/Planners:](#-calendarsplanners)
     - [💲 Finance:](#-finance)
@@ -42,15 +42,15 @@
     - [⌚ Clock/Timer:](#-clocktimer)
     - [📷 Camera:](#-camera)
   - [🗣️ Social media](#-social-media)
-    - [<img  src="https://pnggrid.com/wp-content/uploads/2021/05/Youtube-Logo-Cicle-1024x1024.png"  width="30"> Youtube:](#img--srchttpspnggridcomwp-contentuploads202105youtube-logo-cicle-1024x1024png--width30-youtube)
-    - [<img  src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"  width="30"> Twitter:](#img--srchttpscdn4iconfindercomdataiconssocial-media-icons-the-circle-set48twitter_circle-512png--width30-twitter)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png"  width="30"> Telegram:](#img--srchttpsuser-imagesgithubusercontentcom123305689235372718-63e99b46-359b-49df-9cca-a7d649d6693epng--width30-telegram)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png"  width="30"> YT Music:](#img--srchttpsuser-imagesgithubusercontentcom123305689235375597-91c973b4-22d6-42fd-a358-41fe1de7e659png--width30-yt-music)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png"  width="30"> Reddit:](#img--srchttpsuser-imagesgithubusercontentcom123305689235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8png--width30-reddit)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb"  width="30"> Mastodon:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689e85c7bff-96b2-427d-bc8f-b458720999eb--width30-mastodon)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png"  width="30"> Discord:](#img--srchttpsuser-imagesgithubusercontentcom123305689235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05epng--width30-discord)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/98a6f44a-5562-40c0-917e-8c3ac3cf247f"  width="30"> Chat GPT:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets12330568998a6f44a-5562-40c0-917e-8c3ac3cf247f--width30-chat-gpt)
-    - [<img  src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-512.png"  width="30"> Stack OverFlow:](#img--srchttpscdn4iconfindercomdataiconsmiu-flat-social60stackoverflow-512png--width30-stack-overflow)
+    - [<img  src="https://pnggrid.com/wp-content/uploads/2021/05/Youtube-Logo-Cicle-1024x1024.png"  width="30"> Youtube:](#-youtube)
+    - [<img  src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"  width="30"> Twitter:](#-twitter)
+    - [<img  src="https://user-images.githubusercontent.com/123305689/235372718-63e99b46-359b-49df-9cca-a7d649d6693e.png"  width="30"> Telegram:](#-telegram)
+    - [<img  src="https://user-images.githubusercontent.com/123305689/235375597-91c973b4-22d6-42fd-a358-41fe1de7e659.png"  width="30"> YT Music:](#-yt-music)
+    - [<img  src="https://user-images.githubusercontent.com/123305689/235372683-149f0b10-bcd7-4f27-82c6-4e8324d7ebc8.png"  width="30"> Reddit:](#-reddit)
+    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb"  width="30"> Mastodon:](#-mastodon)
+    - [<img  src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png"  width="30"> Discord:](#-discord)
+    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/98a6f44a-5562-40c0-917e-8c3ac3cf247f"  width="30"> Chat GPT:](#-chat-gpt)
+    - [<img  src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-512.png"  width="30"> Stack OverFlow:](#stack-overflow)
   - [🎙️ Media](#-media-1)
     - [📼 Video/Music Downloaders:](#-videomusic-downloaders)
     - [🎹 Music & Video Players:](#-music--video-players)
@@ -59,13 +59,12 @@
     - [🏪 App Stores:](#-app-stores)
     - [🌐 Browsers:](#-browsers)
     - [🎮 Games:](#-games)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="30"> Shizuku:](#img--srchttpsuser-imagesgithubusercontentcom123305689235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657png--width35-shizuku)
+    - [<img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="30"> Shizuku:](#-shizuku)
        - [For these apps use `☕`  `🧋 FOSS`Shizuku unless Devices are Rooted](#for-these-apps-use----fossshizuku-unless-devices-are-rooted)
     - [🔐 Passwords & 2FA:](#-passwords--2fa)
     - [⚡ Misc:](#-misc)
   - [📰 Sources:](#-sources)
     - [(Phone used: <a  href="https://us.nothing.tech/pages/phone-1">Nothing phone</a>)](#phone-used-a--hrefhttpsusnothingtechpagesphone-1nothing-phonea)
-    - [(Tools used: VS Code & Stack Edit)](#tools-used-vs-code--stack-edit)
   - [💜 Better Lists lol:](#-better-lists-lol)
 
 
