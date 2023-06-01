@@ -1,7 +1,4 @@
-﻿
-�
-
-<h2  align="center">
+﻿<h2  align="center">
 
 <strong>✨ Material You Apps ✨</strong>  <br>
 
@@ -19,7 +16,8 @@
 
 <img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=ddd3ee&colorB=8781bd&logo=github&logoColor=f49ac1"  width="110">  <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/f674201a-0c18-469f-941b-b1113706649f"  width="120">
 
-  
+</p>
+ 
 
 <details>
 
