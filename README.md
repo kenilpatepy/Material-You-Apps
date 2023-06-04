@@ -1,6 +1,4 @@
-﻿
-﻿
-﻿<h2  align="center">
+<h2  align="center">
 <strong>✨ Material You Apps ✨</strong>  <br>
 </br></h2>
 
@@ -18,64 +16,70 @@
 <details>
 <summary><h2>⚡Quick List</h2></summary>
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [❓ About](#-about-1)
-  - [⚠️ Requirements](#-requirements-1)
-  - [🏷️ Tags](#-tags)
- - [🎨 Customization](#-customization)
-    - [🏠 Launcher:](#-launcher)
-    - [🎴 Wallpaper:](#-wallpaper)
-    - [🖼️ Widget:](#%EF%B8%8F-widget)
-    - [🈸 Icons:](#-icons)
- - [⚙️ Tools](#%EF%B8%8F-tools)
-    - [📁 File Manager:](#-file-manager)
-    - [📕 Note/To-Do/Wish-List:](#-noteto-dowish-list)
-    - [✖️ Calculator:](#%EF%B8%8F-calculator)
-    - [<img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="30"> Qr Scanners:](#-qr-scanners)
-    - [🗃️ Galleries:](#%EF%B8%8F-galleries)
-    - [📆 Calendars/Planners:](#-calendarsplanners)
-    - [💲 Finance:](#-finance)
-    - [🌩️ Weather:](#%EF%B8%8F-weather)
-    - [⌚ Clock/Timer:](#-clocktimer)
-    - [📷 Camera:](#-camera)
-  - [🗣️ Social media](#%EF%B8%8F-social-media)
-    - [<img  src=https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/bd9cb7c1-ad2a-453e-854f-a6013de08dbf width="30"> Youtube:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689bd9cb7c1-ad2a-453e-854f-a6013de08dbf-width40-youtube)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/186b4409-c3c4-40a9-b55b-4ad921b320f5"  width="30"> Twitter:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689186b4409-c3c4-40a9-b55b-4ad921b320f5--width40-twitter)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/757f6161-f53d-4ba3-bbed-fb8cc20ec230"  width="30"> Telegram:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689757f6161-f53d-4ba3-bbed-fb8cc20ec230--width40-telegram)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e4602884-7f07-4300-9dd5-8a006533cf8e"  width="30"> YT Music:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689e4602884-7f07-4300-9dd5-8a006533cf8e--width40-yt-music)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7abbcf02-3b85-40ae-9132-3073eb39d34d"  width="30"> Reddit:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets1233056897abbcf02-3b85-40ae-9132-3073eb39d34d--width40-reddit)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/e85c7bff-96b2-427d-bc8f-b458720999eb"  width="30"> Mastodon:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets123305689e85c7bff-96b2-427d-bc8f-b458720999eb--width30-mastodon)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05e.png"  width="30"> Discord:](#img--srchttpsuser-imagesgithubusercontentcom123305689235372597-24e99ccb-5ab5-4475-94a8-7bf81edaa05epng--width30-discord)
-    - [<img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/98a6f44a-5562-40c0-917e-8c3ac3cf247f"  width="30"> Chat GPT:](#img--srchttpsgithubcomteaendsacronymsmaterial-you-appsassets12330568998a6f44a-5562-40c0-917e-8c3ac3cf247f--width30-chat-gpt)
-    - [<img  src="https://cdn4.iconfinder.com/data/icons/miu-flat-social/60/stackoverflow-512.png"  width="30"> Stack OverFlow:](#img--srchttpscdn4iconfindercomdataiconsmiu-flat-social60stackoverflow-512png--width30-stack-overflow)
-  - [🎙️ Media](#-media)
-    - [😺 Books & Anime/TV Trackers, Readers & Streaming](#-books--animetv-trackers-readers--streaming)
-    - [📼 Video/Music Downloaders:](#-videomusic-downloaders)
-    - [🎹 Music & Video Players:](#-music--video-players)
-    - [📺 Other types of Media:](#-other-types-of-media)
-   - [🏪 App Stores:](#-app-stores)
-     -  [🤖 F-Droid Clients](#-FDroid-clients)
-     - <Img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8a291049-a0c4-49ae-bd93-af4343b8ad91" width="20">[ Google play store Clients](#-Google-play-store-Clients)
-     - [🏬  Other App stores](#-Other-App-stores)
-  - [🛠️ Misc](#%EF%B8%8F-misc)
-    - [🌐 Browsers:](#-browsers)
-    - [🎮 Games:](#-games)
-    - [<img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="20"> Shizuku:](#img--srchttpsuser-imagesgithubusercontentcom123305689235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657png--width35-shizuku)
-    - [🔐 Passwords & 2FA:](#-passwords--2fa)
-    - [⚡ Misc:](#-misc)
-  - [📰 Sources:](#-sources)
-  - [💜 Better Lists lol:](#-better-lists-lol)
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-</details>
+- [
+✨ Material You Apps ✨  
+](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--material-you-apps---)
+- [❓ About](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--about)
+    - [This is a list of apps with google's "Material You" design language](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-this-is-a-list-of-apps-with-googles-material-you-design-language)
+    - [Made by Tea. ☕](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-made-by-tea-)
+- [⚠️ Requirements](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-requirements)
+    - [(For repos with all, or at least most MDY apps check out Better lists!)](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-for-repos-with-all-or-at-least-most-mdy-apps-check-out-better-lists)
+- [🏷️ Tags](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-tags)
+- [🎨 Customization](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--customization)
+    - [🏠 Launcher:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--launcher)
+    - [🎴 Wallpaper:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--wallpaper)
+    - [🖼️ Widget:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-widget)
+    - [🈸 Icons:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--icons)
+- [⚙️ Tools](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-tools)
+    - [📁 File Manager:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--file-manager)
+    - [📕 Note/To-Do/Wish-List:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--noteto-dowish-list)
+    - [✖️ Calculator:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-calculator)
+    - [ Qr Scanners:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--qr-scanners)
+    - [🗃️ Galleries:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-galleries)
+    - [📆 Calendars/Planners:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--calendarsplanners)
+    - [💲 Finance:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--finance)
+    - [🌩️ Weather:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-weather)
+    - [⌚ Clock/Timer:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--clocktimer)
+    - [📷 Camera:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--camera)
+- [🗣️ Social media](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-social-media)
+    - [ Youtube:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--youtube)
+    - [ Twitter:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--twitter)
+    - [ Telegram:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--telegram)
+    - [ YT Music:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--yt-music)
+    - [ Reddit:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--reddit)
+    - [ Mastodon:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--mastodon)
+    - [ Discord:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--discord)
+    - [ Chat GPT:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--chat-gpt)
+    - [ Stack OverFlow:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--stack-overflow)
+- [🎙️ Media](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-media)
+    - [😺 Books & Anime/TV Trackers, Readers & Streaming](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--books--animetv-trackers-readers--streaming)
+    - [📼 Video/Music Downloaders:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--videomusic-downloaders)
+    - [🎹 Music & Video Players:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--music--video-players)
+    - [📺 Other types of Media:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--other-types-of-media)
+- [🏪 App Stores:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--app-stores)
+    - [🤖 F-Droid clients](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--f-droid-clients)
+    - [ Google play store Clients](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--google-play-store-clients)
+    - [🏬  Other App stores](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content---other-app-stores)
+- [🛠️ Misc](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-%EF%B8%8F-misc)
+    - [🌐 Browsers:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--browsers)
+    - [🎮 Games:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--games)
+    - [ Shizuku:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--shizuku)
+        - [Click this for:   Shizuku tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-click-this-for---shizuku-tutorial)
+    - [🔐 Passwords & 2FA:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--passwords--2fa)
+    - [⚡ Misc:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--misc)
+- [📰 Sources:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--sources)
+    - [(Phone used: Nothing phone)](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-phone-used-nothing-phone)
+    - [(Tools used: VS Code, Stack Edit & DocToc)](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-tools-used-vs-code-stack-edit--doctoc)
+- [💜 Better Lists lol:](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content--better-lists-lol)
+    - [THANK YOU FOR ALL THE STARS! :) ✨](https://github.com/TeaEndsAcronyms/Material-You-Apps#user-content-thank-you-for-all-the-stars--)
+  </details>
 ---
 
 <!---
 Text written like this will include information on how to fork and update!
 -->
 <!--
-I use Doctoc to Make the "quick list" it needs some refining after but eventually it looks really good!
+I use SmartToc to Make the "quick list" it needs some refining after but eventually it looks really good!
 -->
 
 ##  ❓ About
@@ -108,8 +112,6 @@ I use Doctoc to Make the "quick list" it needs some refining after but eventuall
 
 ####  (For repos with all, or at least most MDY apps check out [Better lists!](https://github.com/TeaEndsAcronyms/Material-You-Apps#-better-lists-lol))
 
-  
-
 ---
 
   
@@ -117,7 +119,7 @@ I use Doctoc to Make the "quick list" it needs some refining after but eventuall
 ##  🏷️ Tags
 |📛 Tag |🧾 Description
 |:-:|--|
-|**`☕ :) `**|<strong>A **specialty tag**, the best apps! (in my opinion)</strong>
+|**`☕`**|<strong>A **specialty tag**, the best apps! (in my opinion)</strong>
 |**`🍵 Steps Required`**| <strong>Additional Steps Required!</strong>|
 |**`🧋 FOSS`** | <strong>Open-Source!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**`🫖 Paid`**|<strong>Paid Apps!</strong>
@@ -133,20 +135,33 @@ I use Doctoc to Make the "quick list" it needs some refining after but eventuall
 ##  🎨 Customization
 
 <!--
-Apps are in sections and sub-sections for example: ## 🎙️ Media [This is a section] ### 📼 Video downloaders [this is a sub-section] then your apps go after~ if a section doesn't describe your app, then make a new one Example:  ## 📖Manga  ### 😺 AniList clients. - [App name]()
+Apps are in sections and sub-sections for example: 
+## 🎙️ Media [This is a section] 
+
+### 📼 Video downloaders [this is a sub-section] 
+
+then your apps go after~ if a section doesn't describe your app, then make a new one Example:  
+
+## 📖Manga  
+
+### 😺 AniList clients. 
+
+- [App name](App link)
+> App description
+
 -->
 
 ###  🏠 Launcher:
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
+-  `☕`  `🧋 FOSS`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/)
 > Its like the Pixel launcher/stock android but with more customizations.
 <!--
  Apps should be ordered with a dash then tags then finally the name and link. descriptions are shown through ">"
 -->
 
--  `☕ :) `  [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+-  `☕`  [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features!
 
   
@@ -173,7 +188,7 @@ Apps are in sections and sub-sections for example: ## 🎙️ Media [This is a s
 
   
 
--  `☕ :) `  `🧋 FOSS`  [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
+-  `☕`  `🧋 FOSS`  [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX)
 > An Anime waifu wallpaper app! ヾ(≧▽≦*)o
 
   
@@ -227,12 +242,12 @@ Apps are in sections and sub-sections for example: ## 🎙️ Media [This is a s
 
   
 
--  `☕ :) `  [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
+-  `☕`  [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch)
 > Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
 
   
 
--  `☕ :) `  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
+-  `☕`  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 > A simple widget to get a material you google search bar! (also duck duck go, brave etc.)
 
   
@@ -242,9 +257,12 @@ Apps are in sections and sub-sections for example: ## 🎙️ Media [This is a s
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+ the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
 <!--
+
 Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
-  format them like this: <sup><strong>Requires <a href="Enter link of required app here">Enter name of required app here</a></sup></strong>)
-  -->
+  format them like this:
+ <sup><strong>Requires <a href="Enter link of required app here">Enter name of required app here</a></sup></strong>)
+ 
+ -->
 
 -  `🫖 Paid`  [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app)  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
@@ -280,12 +298,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🫖 Paid`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US)
+-  `☕`  `🫖 Paid`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US)
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
   
 
--  `☕ :) `  `🧋 FOSS`  [LawnIcons](https://github.com/LawnchairLauncher/lawnicons)
+-  `☕`  `🧋 FOSS`  [LawnIcons](https://github.com/LawnchairLauncher/lawnicons)
 > Icons for lawnchair, nova, (And more!) its like the google "Material you themed icons" but with more icons!
 
   
@@ -313,7 +331,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
+-  `☕`  `🧋 FOSS`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)
 >  ####  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
@@ -324,7 +342,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
+-  `☕`  `🧋 FOSS`  [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US)
 > like the google files app, but open-source and cleaner! (in my opinion)
 
   
@@ -337,12 +355,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Spooky](https://github.com/juniorise/spooky-mb)
+-  `☕`  `🧋 FOSS`  [Spooky](https://github.com/juniorise/spooky-mb)
 > A Open source MDY Notes app! 👻
 
   
 
--  `☕ :) `  [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
+-  `☕`  [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 > Beautiful and feature packed notes app!
 
   
@@ -381,12 +399,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  `🥤 Modded`  [zCalc](https://github.com/ziadOUA/zCalc)
+-  `☕`  `🧋 FOSS`  `🥤 Modded`  [zCalc](https://github.com/ziadOUA/zCalc)
 > An Open-source calculator (fork of openCalc)
 
   
 
--  `☕ :) `  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
+-  `☕`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps)
 > Google's calculator
 
   
@@ -417,7 +435,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
+-  `☕`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 > a Powerful Qr and BarCode scanner with a really nice design!
 
   
@@ -446,7 +464,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Gallery](https://github.com/IacobIonut01/Gallery)
+-  `☕`  `🧋 FOSS`  [Gallery](https://github.com/IacobIonut01/Gallery)
 > A really beautiful and amazing gallery app! better that google photos in my opinion!
 
   
@@ -464,7 +482,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
+-  `☕`  [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 > Amazing school calendar, very useful! material you can be enabled in setting.
 
   
@@ -483,7 +501,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
+-  `☕`  [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel)
 > A wallet made by google.
 
   
@@ -519,12 +537,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🥤 Modded`  [Nothing Weather](https://t.me/waifupx_official/205)
+-  `☕`  `🥤 Modded`  [Nothing Weather](https://t.me/waifupx_official/205)
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
   
 
--  `☕ :) `  [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)<sup>`Requested and created by moneytoo :)`</sup>
+-  `☕`  [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)<sup>`Requested and created by moneytoo :)`</sup>
 > really cool weather app, with a material you design!
 
   
@@ -548,7 +566,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Clock You](https://github.com/Bnyro/ClockYou)
+-  `☕`  `🧋 FOSS`  [Clock You](https://github.com/Bnyro/ClockYou)
 > Another alternative to the google clock app!
 
   
@@ -641,7 +659,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
+-  `☕`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync)
 
   
 
@@ -700,10 +718,10 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 😺 Books & Anime/TV Trackers, Readers & Streaming
 
-- `☕ :) ` `🧋 FOSS`  [AniHyou](https://github.com/axiel7/AniHyou-android)
+- `☕` `🧋 FOSS`  [AniHyou](https://github.com/axiel7/AniHyou-android)
 > An unofficial AniList client, for tracking progress on anime/manga!
 
--  `☕ :) ` `🧋 FOSS`  [CloudStream](https://github.com/recloudstream/cloudstream)
+-  `☕` `🧋 FOSS`  [CloudStream](https://github.com/recloudstream/cloudstream)
 >  ####  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 > A Free TV Show/Movie streaming (piracy) app
 
@@ -725,12 +743,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Spowlo](https://github.com/BobbyESP/Spowlo)
+-  `☕`  `🧋 FOSS`  [Spowlo](https://github.com/BobbyESP/Spowlo)
 > A really useful app, its a spotify song downloader with a material you design!
 
   
 
--  `☕ :) `  `🧋 FOSS`  [YTDLnis](https://github.com/deniscerri/ytdlnis)
+-  `☕`  `🧋 FOSS`  [YTDLnis](https://github.com/deniscerri/ytdlnis)
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
   
@@ -744,17 +762,17 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [InnerTune](https://github.com/z-huang/InnerTune)
+-  `☕`  `🧋 FOSS`  [InnerTune](https://github.com/z-huang/InnerTune)
 > YT Music, without ads + beautiful design
 
   
 
--  `☕ :) `  `🥤 Modded`  [VLC Media Player](https://t.me/waifupx_official/233)
+-  `☕`  `🥤 Modded`  [VLC Media Player](https://t.me/waifupx_official/233)
 > A mod that Adds material you support on VLC! (which is a local video player)
 
   
 
--  `☕ :) `  `🥤 Modded`  `🧋 FOSS`  [Metro](https://github.com/MuntashirAkon/Metro)
+-  `☕`  `🥤 Modded`  `🧋 FOSS`  [Metro](https://github.com/MuntashirAkon/Metro)
 > A fork of the "Retro music player" without ads, all premium features & no google services! (which is a local music player)
 
 -  `🧋 FOSS`  [Next Player](https://github.com/anilbeesetti/nextplayer)
@@ -792,7 +810,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
+-  `☕`  [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck)
 > A beautifully designed Recording app!
 
   
@@ -832,7 +850,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🤖 F-Droid clients
 
--  `☕ :) `  `🧋 FOSS`  [Neo Store](https://github.com/NeoApplications/Neo-Store)
+-  `☕`  `🧋 FOSS`  [Neo Store](https://github.com/NeoApplications/Neo-Store)
 > really good looking f-droid client!
 
 - [Neo Store Beta](https://t.me/s/neo_applications)
@@ -851,7 +869,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🏬  Other App stores
 
--  `☕ :) `  `🧋 FOSS`  [Revanced Manager](https://github.com/revanced/revanced-manager)
+-  `☕`  `🧋 FOSS`  [Revanced Manager](https://github.com/revanced/revanced-manager)
 > App to use revanced: allows you to do cool things such as YT premium for free + more!
 
 -  `🧋 FOSS`  [Myne](https://f-droid.org/packages/com.starry.myne/)
@@ -872,12 +890,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Mulch](https://gitlab.com/divested-mobile/mulch)
+-  `☕`  `🧋 FOSS`  [Mulch](https://gitlab.com/divested-mobile/mulch)
 > Chrome but open-source and with more privacy features!
 
   
 
--  `☕ :) `  `🧋 FOSS`  [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
+-  `☕`  `🧋 FOSS`  [FOSS Browser](https://f-droid.org/packages/de.baumann.browser/)
 > open-source browser and with features for privacy!
 
   
@@ -902,12 +920,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 
 ###  🎮 Games:
--  `☕ :) `  `🧋 FOSS`  [Lemuroid](https://github.com/Swordfish90/Lemuroid)
+-  `☕`  `🧋 FOSS`  [Lemuroid](https://github.com/Swordfish90/Lemuroid)
 
 >  **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason
 
--  `☕ :) `  `🧋 FOSS`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
+-  `☕`  `🧋 FOSS`  [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/)
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
 
   
@@ -929,17 +947,17 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-###  For these apps use `☕ :) `  `🧋 FOSS`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted
+###  For these apps use `☕`  `🧋 FOSS`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted
 ####  Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
   
 
--  `☕ :) `  `🍵 Steps Required`  `🧋 FOSS`  [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+-  `☕`  `🍵 Steps Required`  `🧋 FOSS`  [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
   
 
--  `☕ :) `  `🍵 Steps Required`  [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
+-  `☕`  `🍵 Steps Required`  [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup)
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
   
@@ -996,11 +1014,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕ :) `  `🧋 FOSS`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG)
+-  `☕`  `🧋 FOSS`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG)
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
 
--  `☕ :) `  [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
+-  `☕`  [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 > An Amazing intuitive App manager, with tons of information! (permissions, certificates, components, analytics, split apk installer and much more!)
 
 -  `🧋 FOSS`  [Termux Monet](https://github.com/HardcodedCat/termux-monet)
