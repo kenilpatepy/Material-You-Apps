@@ -190,9 +190,9 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram)
-> An Open-Source telegram client.
+> An Open-Source telegram client. <sup>`🧋 FOSS` </sup>
 > 
-- `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram)
+- `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram) <sup>`🧋 FOSS` </sup>
 > An open-source Telegram client, (material you is in chat settings btw)
 
  - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
@@ -845,6 +845,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup> 
 > A port of the motorola Messages app
 
+- `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
+
+- `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
+
+
 ### 📰 Other types of Messaging:
 
 
@@ -862,8 +867,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 
-- `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
-
+- `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 
 
 ##  🏪 App Stores
@@ -889,7 +893,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🏬  Other App stores:
 
-- `MDY` <sup>`☕`</sup>  [Revanced Manager](https://github.com/revanced/revanced-manager) <sup>`🧋 FOSS` </sup>
+- `MDY`  [Revanced Manager](https://github.com/revanced/revanced-manager) </sup> <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > App to use revanced: allows you to do cool things such as YT premium for free + more!
 
 - `MDY` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
@@ -967,7 +971,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-###  For these apps use <sup>`☕`</sup>  `🧋 FOSS`[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) unless Devices are Rooted
+###  For these apps use[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) <sup>`☕`</sup> <sup> `🧋 FOSS`</sup>  unless Devices are Rooted
 ####  Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
   
@@ -997,7 +1001,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-- `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>  
+- `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>  <sup>`💸 paid`</sup>
 > A beautifully designed app manager & analyzer! **Click this for: <sup>[`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)**  </sup>
 
   
@@ -1077,17 +1081,10 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)<sup>`🧋 FOSS`</sup>
 > A small app to help stop people from tracking you with an airtag!
- 
- - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
- > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
 
 - `MDY` [GTranslate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
 - `MDY` [GAssistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant)
-
-- `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
-
-- `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 
 - `MDY`  [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
 
