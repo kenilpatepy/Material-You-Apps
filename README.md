@@ -931,7 +931,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-- `MDY`[RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>  <sup>`🧋 FOSS` </sup> 
+- `MDY`[RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
   
@@ -1026,7 +1026,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`🧋 FOSS` </sup>
 > Restores the old App chooser when clicking on an url!
 
-- `MDY` [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236) <sup>`🧋 FOSS` </sup>
+- `MDY` [Rays](https://github.com/SkyD666/Rays-Android/blob/master/doc/README/README-en.md) <sup>`🧋 FOSS` </sup>
 > An app to manage stickers and memes! (i linked to the english version)
 
 - `MDY`  [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋 FOSS` </sup>
