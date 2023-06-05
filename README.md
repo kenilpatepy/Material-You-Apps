@@ -2,7 +2,7 @@
 <strong>✨ Material You Apps ✨</strong>  <br>
 </br></h2>
 
-  
+
 
 <p  align="center">
 <a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" /></a>
@@ -12,7 +12,7 @@
 <img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120"> 
 </p>
  
-
+ ###  THANK YOU FOR 100 STARS! 🎉 
 
 
 
@@ -44,21 +44,30 @@ I use SmartToc to Make the "quick list" it needs some refining but eventually it
 
   
 
-##  🏷️ Tags
-|Abbrev.|Description|Dynamic Colour|Design|
-|:-:|--|:-:|:-:|
-|**`MY`**|An app that contains dynamic colouring but not material 3 design|✔️|❌|
-|**`MD`**|An App that contains material 3 design but not dynamic colouring|❌|✔️|
-|**`MDY`**|An app that contains **BOTH** material 3 design and dynamic colouring|✔️|✔️|
+##  🏷️ Tags:
+
+|Abbrev.|Dynamic Colour|Design|
+|:-:|:-:|:-:|
+|**`MY`**|✔️|❌|
+|**`MD`**|❌|✔️|
+|**`MDY`**|✔️|✔️|
+
+### Meaning:
+
+#### **`MY`** = An app that follow dynamic colouring but not material 3 design.
+####  **`MD`** = An App that follow material 3 design but not dynamic colouring.
+#### **`MDY`** = An app that follow **BOTH** material 3 design and dynamic colouring.
 
 ---
+
+## 🔖 Other tags:
 
 |📛 Tag |🧾 Description
 |:-:|--|
 |**<sup>`☕`</sup>**|<strong>Apps that i use!</strong>
 |**<sup>`❗ Steps Required`</sup>**| <strong>Additional Steps Required!</strong>|
 |**`🧋 FOSS`** | <strong>Open-Source!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
-|**<sup>`💸`</sup>**|<strong>Paid Apps!</strong>
+|**<sup>`💸 Paid`</sup>**|<strong>Paid Apps!</strong>
 |**<sup>`🥤 Modded`</sup>** |<strong>Modded, forked or ported app!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 
 ---
@@ -68,6 +77,9 @@ I use SmartToc to Make the "quick list" it needs some refining but eventually it
 - [❓ About](#-about)
 - [⚠️ Requirements](#%EF%B8%8F-requirements)
 - [🏷️ Tags](#%EF%B8%8F-tags)
+- [📄 Overview](#-overview)
+  - [💟 Recommended Apps:](#-recommended-apps)
+  - [🆕 Newly added:](#-newly-added)
 - [🎨 Customization](#-customization)
     - [🏠 Launcher:](#-launcher)
     - [🎴 Wallpaper:](#-wallpaper)
@@ -84,6 +96,7 @@ I use SmartToc to Make the "quick list" it needs some refining but eventually it
     - [🌩️ Weather:](#%EF%B8%8F-weather)
     - [⌚ Clock/Timer:](#-clocktimer)
     - [📷 Camera:](#-camera)
+    - [📳 Hardware/Software info](#-hardwaresoftware-info)
 - [🗣️ Social media](#%EF%B8%8F-social-media)
     - [ Youtube:](#-youtube)
     - [ Twitter:](#-twitter)
@@ -111,11 +124,15 @@ I use SmartToc to Make the "quick list" it needs some refining but eventually it
     - [⚡ Misc:](#-misc)
 - [📰 Sources:](#-sources)
 - [💜 Better Lists lol:](#-better-lists-lol)
-    - [THANK YOU FOR ALL THE STARS! :) ✨](#-thank-you-for-all-the-stars--)
+    - [☕ Star the repo if you liked it!](##star--the-repo-if-you-liked-it-)
 
 ---
 
-##  🎨 Customization
+
+
+
+
+## 📄 OverView
 
 <!--
 Apps are categorized in sections and sub-sections for example: 
@@ -134,15 +151,72 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 -->
 
+### 💟 Recommended Apps:
+(10 great apps!)
+<!--
+ Apps should be ordered with a dash then the type of Material you X afterwards the name and link, and finally the tags. descriptions are shown through ">"
+-->
+
+
+- `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> Its like the Pixel launcher/stock android but with more customizations.
+
+- `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup>
+> Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
+
+- `MDY`  [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> like the google files app, but open-source and cleaner! (in my opinion)
+
+- `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> A Open source MDY Diary app! 👻
+
+-  `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> really good looking f-droid client!
+
+- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> 
+> video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
+
+- `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
+> A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
+
+- `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`🧋 FOSS` </sup>
+> YT Music, without ads + beautiful design
+
+- `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <sup>`🥤 Modded`</sup>
+> An Open-source calculator (fork of openCalc)
+
+- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+>  ####  Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+> A Free TV Show/Movie streaming (piracy) app
+
+### 🆕 Newly added:
+(5 Newly added apps!)
+
+- `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
+> A small app that displays information about your display (refresh rate, Touch sample, resolution, luminance + more!)
+
+- `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)`🧋 FOSS`
+> A small app to help stop people from tracking you with an airtag!
+
+- `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+> An unofficial AniList client, for tracking progress on anime/manga!
+
+- `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`🧋 FOSS` </sup>
+> The beta version of the neo store f-droid clients!
+
+- `MDY` [Koler](https://github.com/Chooloo/koler)  <sup>`🧋 FOSS` </sup>
+> A simple phone/caller app with nice animations!
+
+
+
+##  🎨 Customization
+
 ###  🏠 Launcher:
 
   
 
 - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > Its like the Pixel launcher/stock android but with more customizations.
-<!--
- Apps should be ordered with a dash then tags then finally the name and link. descriptions are shown through ">"
--->
 
 - `MDY`    [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
 > niagara launcher is a minimalist launcher with really nice features!
@@ -235,7 +309,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
   
 
-- `MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💸`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💸 Paid`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+ the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
@@ -247,22 +321,22 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
  
  -->
 
-- `MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💸`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💸 Paid`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
   
 
-- `MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💸`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💸 Paid`</sup>  <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > The most basic and true-to-life android 12 inspired widgets!
 
   
 
-- `MDY`   [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💸`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `MDY`   [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💸 Paid`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > interchangeable android and ios widgets!
 
   
 
-- `MDY`   [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`💸`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `MDY`   [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`💸 Paid`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a> & <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
 > As the name suggests, pastel android 12 inspired widgets!
 
   
@@ -281,7 +355,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-- `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup>  <sup>`💸`</sup> 
+- `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup>  <sup>`💸 Paid`</sup> 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
   
@@ -291,17 +365,17 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-- `MDY`  [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US) <sup>`💸`</sup>
+- `MDY`  [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US) <sup>`💸 Paid`</sup>
 > Another material you icons.
 
   
 
-- `MY`  [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💸`</sup> 
+- `MY`  [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💸 Paid`</sup> 
 > A material you icon pack with a unique faded black icons! (can't explain how it looks lol)
 
   
 
-- `MY`   [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou) <sup>`💸`</sup>
+- `MY`   [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou) <sup>`💸 Paid`</sup>
 > a Nothing inspired icons with a material you spin!
 
   
@@ -339,7 +413,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 
 - `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
-> A Open source MDY Notes app! 👻
+> A Open source MDY Diary app! 👻
 
   
 
@@ -404,7 +478,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋 FOSS` </sup>
 > A MDY calculator with a really unique (wel- more link weird) design (i like the phineas and ferb reference! lol)
 
-- `MY`[Currencies](https://github.com/sal0max/currencies) <sup>`🧋 FOSS` </sup>
+- `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋 FOSS` </sup>
 > A simple and intuitive currency converter (also shows an exchange rate graph, Historical rate, calculator etc.)
   
 
@@ -582,7 +656,22 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`🥤 Modded`</sup>
 > A list of ports for the Google camera app! (To make it work on other devices)
 
-  
+### 📳 Hardware/Software info:
+
+- `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
+> A small app that displays information about your display (refresh rate, Touch sample, resolution, luminance + more!)
+
+- `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
+> Find Specs and other useful information for your devices!
+
+- `MDY`  [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)  <sup>`☕`</sup>
+> An Amazing intuitive App manager, with tons of information! (permissions, certificates, components, analytics, split apk installer and much more!)
+
+- `MDY` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`🧋 FOSS` </sup>
+> A really nice and useful app manager, great for advanced users!
+
+- `MY` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`🧋 FOSS` </sup>
+> As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity!
 
 ##  🗣️ Social media
 
@@ -652,7 +741,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 
 - `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋 FOSS` </sup>
-  > already has no ads!
+> already has no ads!
 
 ####  <strong>OR</strong>
 
@@ -931,7 +1020,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
-- `MDY`[RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
+- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
   
@@ -996,24 +1085,14 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > outdated, but still works! use for vanced, revanced and revanced extended!
 
-
-- `MDY`  [Skit](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)  <sup>`☕`</sup>
-> An Amazing intuitive App manager, with tons of information! (permissions, certificates, components, analytics, split apk installer and much more!)
-
 - `MY` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`🧋 FOSS` </sup>
 > A terminal emulator app with a material you design and other experimental features!
 
-- `MDY`[Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup> 
+- `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup> 
 > A recipe manager using the mealie api!
 
-- `MY`> [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup
+- `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
 > a very ✨beautiful✨ looking compass!
-
-- `MDY` [App Manager](https://www.f-droid.org/en/packages/io.github.muntashirakon.AppManager/) <sup>`🧋 FOSS` </sup>
-> A really nice and useful app manager, great for advanced users!
-
-- `MY` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`🧋 FOSS` </sup>
-> As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity!
 
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`🧋 FOSS` </sup>
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
@@ -1041,7 +1120,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [Tap, Tap](https://github.com/KieronQuinn/TapTap) <sup>`🧋 FOSS` </sup> <sup>`🥤 Modded`</sup>
 > Ports The double tap gesture feature found on samsungs and pixels!
 
-- `MDY`[Koler](https://github.com/Chooloo/koler)  <sup>`🧋 FOSS` </sup>
+- `MDY` [Koler](https://github.com/Chooloo/koler)  <sup>`🧋 FOSS` </sup>
 > A simple phone/caller app with nice animations!
 
 - `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup> 
@@ -1053,25 +1132,25 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
 > A Dynamic Island (announced with the iphone 14) but with material you!
 
-- `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
-> Find Specs and other useful information for your devices!
-
 - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
 
+- `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)`🧋 FOSS`
+> A small app to help stop people from tracking you with an airtag!
+
 - `MDY` [GTranslate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 
--`MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+- `MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 
 - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 
 - `MDY` [GAssistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant)
 
--`MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+- `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 
--`MDY`  [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
+- `MDY`  [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US&gl=US)
 
 ---
 
@@ -1112,8 +1191,3 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 
 #  Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
-
-  
-
-###  THANK YOU FOR ALL THE STARS! :) ✨
-
