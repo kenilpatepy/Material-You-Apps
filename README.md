@@ -1047,7 +1047,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 -  `🧋 FOSS`  [LinkSheet](https://github.com/1fexd/LinkSheet)
 > Restores the old App chooser when clicking on an url!
 
--# `🧋 FOSS`  [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236)
+-  `🧋 FOSS`  [Rays](https://github.com/SkyD666/Rays-Android/issues/2#issuecomment-1556195236)
 > An app to manage stickers and memes! (i linked to the english version)
 
 -  `🧋 FOSS`  [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science)
