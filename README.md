@@ -1135,7 +1135,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters)
 > A counter app with really beautiful material you designs and animations!
 
-- `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)`🧋 FOSS`
+- `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)<sup>`🧋 FOSS`</sup>
 > A small app to help stop people from tracking you with an airtag!
 
 - `MDY` [GTranslate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
