@@ -952,7 +952,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
   
 
--  `☕`  `🍵 Steps Required`  `🧋 FOSS`  [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+-  `☕`  `🍵 Steps Required`  [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
   
