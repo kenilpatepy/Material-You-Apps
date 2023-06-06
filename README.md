@@ -12,37 +12,30 @@
 <img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120"> 
 </p>
  
- ###  THANK YOU FOR 100 STARS! 🎉 
 
 
 
+
+### This is an extensive and descriptive list of apps with [google's "Material You" design language](https://m3.material.io/)
 <!--
 Text written like this (<!-- ->) will include information on how to fork and update!
 -->
 <!--
-I use SmartToc to Make the "quick list" it needs some refining but eventually it looks really good!
+I use SmartToc to Make the "quick list" it needs some refining (a lot of refining owo) but eventually it looks really good!
 -->
 
-##  ❓ About
-
- ## Feel free to request apps!
-
--  ####  This is a list of apps with [google's "Material You" design language](https://m3.material.io/)
--  ####  Every app is tested!
--  ####  Made by Tea. ☕
-
-
-##  ⚠️ Requirements
-
-
-
-  
+   ### Thanks for all the stars :3
 
 ####  (For similar lists, check out [Better lists!](#-better-lists-lol))
 
+
+ 
+
+
+
 ---
 
-  
+
 
 ##  🏷️ Tags:
 
@@ -146,7 +139,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > App description
 
 -->
-
+## Feel free to request apps!
 ### 💟 Recommended Apps:
 (10 great apps!)
 <!--
@@ -175,7 +168,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
-- `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`🧋 FOSS` </sup>
+- `MDY`  [InnerTune](https://github.com/z-huang/InnerTune)  <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > YT Music, without ads + beautiful design
 
 - `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <sup>`🥤 Modded`</sup>
@@ -188,6 +181,11 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 ### 🆕 Newly added:
 (5 Newly added apps!)
 
+- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
+> Technically a browser? Its web search app, like a browser but cant open links.
+
+- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel)<sup>`🧋 FOSS` </sup>
+> A Movie/tv show streaming (piracy) service with no ads!
 
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram)
 > An Open-Source telegram client. <sup>`🧋 FOSS` </sup>
@@ -197,12 +195,6 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
  - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
  > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
-
-- `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
-> A small app that displays information about your display (refresh rate, Touch sample, resolution, luminance + more!)
-
-- `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard)<sup>`🧋 FOSS`</sup>
-> A small app to help stop people from tracking you with an airtag!
 
 
 ##  🎨 Customization
@@ -681,7 +673,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ###  <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music:
 
-- `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`🧋 FOSS` </sup>
+- `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > which is YT Music, without ads + beautiful design
 
 - `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋 FOSS` </sup> 
@@ -700,6 +692,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
 > A free E-book downloader!
+
+- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel)<sup>`🧋 FOSS` </sup>
+> A Movie/tv show streaming (piracy) service with no ads!
 
 - `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
 > A book tracker app!
@@ -926,7 +921,6 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY`  [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`🧋 FOSS` </sup> <sup>`🥤 Modded`</sup>
 > An updated version of the discontinued Bromite browser!
-
   
 
 - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases)
@@ -1046,6 +1040,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup> 
 > A recipe manager using the mealie api!
+
+- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
+> Technically a browser? Its web search app, like a browser but cant open links.
 
 - `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
 > a very ✨beautiful✨ looking compass!
