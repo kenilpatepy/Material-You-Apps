@@ -182,7 +182,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 (5 Newly added apps!)
 
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
-> Technically a browser? Its web search app, like a browser but cant open links.
+> Technically a browser? Its web search app, like a browser but cant open links. [`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
 - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel)<sup>`🧋 FOSS` </sup>
 > A Movie/tv show streaming (piracy) service with no ads!
@@ -1042,7 +1042,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A recipe manager using the mealie api!
 
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
-> Technically a browser? Its web search app, like a browser but cant open links.
+> Technically a browser? Its web search app, like a browser but cant open links. <sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
 - `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
 > a very ✨beautiful✨ looking compass!
