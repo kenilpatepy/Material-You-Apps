@@ -181,6 +181,9 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 ### 🆕 Newly added:
 (5 Newly added apps!)
 
+- `MDY` [Darium](https://play.google.com/store/apps/details?id=partl.Diarium) <sup>`🧋 FOSS` </sup>
+> A open source feature rich Diary/journal app!
+
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
 > Technically a browser? Its web search app, like a browser but cant open links. [`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
@@ -192,9 +195,6 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > 
 - `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram) <sup>`🧋 FOSS` </sup>
 > An open-source Telegram client, (material you is in chat settings btw)
-
- - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
- > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
 
 
 ##  🎨 Customization
@@ -408,7 +408,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) <sup>`☕`</sup>
 > Beautiful and feature packed notes app!
 
-  
+- `MDY` [Darium](https://play.google.com/store/apps/details?id=partl.Diarium) <sup>`🧋 FOSS` </sup> <sup>`☕`</sup>
+> A open source feature rich Diary/journal app!
 
 - `MDY`  [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/) <sup>`🧋 FOSS` </sup>
 > Another material you notes! (it does have material you, idk why it doesn't show it in the screenshots)
@@ -431,7 +432,6 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) <sup>`🧋 FOSS` </sup>
 > An amazingly designed wish- list app!
-
   
 
 - `MDY`  [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)  <sup>`Requested by mirko_ddd :)`</sup>
