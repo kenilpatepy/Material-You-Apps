@@ -316,7 +316,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A simple Archiver, like 7zip or winRAR but for android!
 
 - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>❗ Steps required</SUP>
->###  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
+> Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 > A full-featured file manager with Material You colors
@@ -545,7 +545,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > An unofficial AniList client, for tracking progress on anime/manga!
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
->###  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>> A Free TV Show/Movie streaming (piracy) app
+>  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>> A Free TV Show/Movie streaming (piracy) app
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
 > A free E-book downloader!
