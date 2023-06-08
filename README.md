@@ -164,7 +164,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > An Open-source calculator (fork of openCalc)
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
->###  Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>>> A Free TV Show/Movie streaming (piracy) app
+>###  Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup> A Free TV Show/Movie streaming (piracy) app
 
 ### 🆕 Newly added
 
@@ -204,7 +204,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 >A unique material you and minimal launcher!
 
 - `MY` [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
->###  Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>>> extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
+> Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong> extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 - `MDY` [Nothing Launcher (V: 1.0.2)](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/)
 > this is the only version that works for phones that isn't the "nothing phone"... cool if you like the nothing style!
@@ -315,7 +315,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A simple Archiver, like 7zip or winRAR but for android!
 
 - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>❗ Steps required</SUP>
->###  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>>> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
+>###  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 > A full-featured file manager with Material You colors
@@ -383,7 +383,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > a Powerful Qr and BarCode scanner with a really nice design!
 
 - `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
-> Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)  </sup>> A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
+> Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)  </sup> A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
 
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`🧋 FOSS` </sup>
 > A nice Qr and Barcode scanner & Allows for generating many types of Qr and Barcodes!
@@ -672,9 +672,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A port of the motorola Messages app
 
 - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
-
+> Google's messaging app!
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
-
+> Everybody knows what Gmail is.
 ---
 
 ### 📰 Other types of Messaging
@@ -692,8 +692,10 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A stack overflow client with a really nice design
 
 - `MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
+> Google's contact app!
 
 - `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
+Google's phone app!
 
 ---
 
@@ -701,10 +703,10 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🤖 F-Droid clients
 
-- `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+- `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`🧋 FOSS` </sup>
 > really good looking f-droid client!
 
-- `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`🧋 FOSS` </sup>
+- `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > The beta version of the neo store f-droid clients!
 
 - `MY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`🧋 FOSS` </sup>
@@ -792,7 +794,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 ### 🎮 Games
 
 - `MDY`  [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
-> **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>> An All-In-One Game emulator. doesnt have a light mode for some reason
+> **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup> An All-In-One Game emulator. doesnt have a light mode for some reason
 
 - `MDY` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > Also called "Tic-Tac-Tao" is a really fun Tick-Tack-Toe game!
