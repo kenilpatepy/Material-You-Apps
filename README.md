@@ -315,7 +315,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 > A simple Archiver, like 7zip or winRAR but for android!
 
-- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>❗ Steps required</SUP>
+- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>`❗ Steps required`</SUP>
 > Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
