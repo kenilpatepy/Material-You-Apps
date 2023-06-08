@@ -7,7 +7,7 @@
 </p>
 
 <p  align="center">
-<img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120"> 
+<img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120">
 </p>
 
 ### This is an extensive and descriptive list of apps with [google's "Material You" design language](https://m3.material.io/)
@@ -24,7 +24,7 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 
 ---
 
-## 🏷️ Tags:
+## 🏷️ Tags
 
 |Abbrev.|Dynamic Colour|Design|
 |:-:|:-:|:-:|
@@ -32,15 +32,17 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 |**`MD`**|❌|✔️|
 |**`MDY`**|✔️|✔️|
 
-### Meaning:
+### Meaning
 
-#### **`MY`** = An app that follow dynamic colouring but not material 3 design.
-#### **`MD`** = An App that follow material 3 design but not dynamic colouring.
-#### **`MDY`** = An app that follow **BOTH** material 3 design and dynamic colouring.
+#### **`MY`** = An app that follow dynamic colouring but not material 3 design
+
+#### **`MD`** = An App that follow material 3 design but not dynamic colouring
+
+#### **`MDY`** = An app that follow **BOTH** material 3 design and dynamic colouring
 
 ---
 
-## 🔖 Other tags:
+## 🔖 Other tags
 
 |📛 Tag |🧾 Description
 |:-:|--|
@@ -58,48 +60,48 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 - [⚠️ Requirements](#%EF%B8%8F-requirements)
 - [🏷️ Tags](#%EF%B8%8F-tags)
 - [📄 Overview](#-overview)
-  - [💟 Recommended Apps:](#-recommended-apps)
-  - [🆕 Newly added:](#-newly-added)
+  - [💟 Recommended Apps](#-recommended-apps)
+  - [🆕 Newly added](#-newly-added)
 - [🎨 Customization](#-customization)
-  - [🏠 Launcher:](#-launcher)
-  - [🎴 Wallpaper:](#-wallpaper)
+  - [🏠 Launcher](#-launcher)
+  - [🎴 Wallpape](#-wallpaper)
   - [🖼️ Widget:](#%EF%B8%8F-widget)
-  - [🈸 Icons:](#-icons)
+  - [🈸 Icons](#-icons)
 - [⚙️ Tools](#%EF%B8%8F-tools)
-  - [📁 File Manager:](#-file-manager)
-  - [📕 Note/To-Do/Wish-List:](#-noteto-dowish-list)
-  - [✖️ Calculator:](#%EF%B8%8F-calculator)
-  - [ Qr Scanners:](#-qr-scanners)
-  - [🗃️ Galleries:](#%EF%B8%8F-galleries)
-  - [📆 Calendars/Planners:](#-calendarsplanners)
-  - [💲 Finance:](#-finance)
-  - [🌩️ Weather:](#%EF%B8%8F-weather)
-  - [⌚ Clock/Timer:](#-clocktimer)
-  - [📷 Camera:](#-camera)
+  - [📁 File Manager](#-file-manager)
+  - [📕 Note/To-Do/Wish-List](#-noteto-dowish-list)
+  - [✖️ Calculator](#%EF%B8%8F-calculator)
+  - <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="15"> [Qr Scanners](#-qr-scanners)
+  - [🗃️ Galleries](#%EF%B8%8F-galleries)
+  - [📆 Calendars/Planners](#-calendarsplanners)
+  - [💲 Finance](#-finance)
+  - [🌩️ Weather](#%EF%B8%8F-weather)
+  - [⌚ Clock/Timer](#-clocktimer)
+  - [📷 Camera](#-camera)
   - [📳 Hardware/Software info](#-hardwaresoftware-info)
 - [🎙️ Media](#%EF%B8%8F-media)
-  - [Youtube:](#-youtube)
-  - [ YT Music:](#-yt-music)
+  - <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube:](#-youtube)
+  - <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="15" /></a> [YT Music:](#-yt-music)
   - [😺 Books & Anime/TV Trackers, Readers & Streaming](#-books--animetv-trackers-readers--streaming)
-  - [📼 Video/Music Downloaders:](#-videomusic-downloaders)
-  - [🎹 Music & Video Players:](#-music--video-players)
-  - [📺 Other types of Media:](#-other-types-of-media)
+  - [📼 Video/Music Downloaders](#-videomusic-downloaders)
+  - [🎹 Music & Video Players](#-music--video-players)
+  - [📺 Other types of Media](#-other-types-of-media)
 - [💬 Messages](#-messages)
-  - [🗣️ Social media:](#%EF%B8%8F-social-media)
-  - [📜 Direct messaging:](#-direct-messaging)
-  - [📰 Other types of Messaging:](#-other-types-of-messaging)
+  - [🗣️ Social media](#%EF%B8%8F-social-media)
+  - [📜 Direct messaging](#-direct-messaging)
+  - [📰 Other types of Messaging](#-other-types-of-messaging)
 - [🏪 App Stores](#-app-stores)
-  - [🤖 F-Droid clients:](#-f-droid-clients)
-  - [Google play store Clients:](#-google-play-store-clients)
-  - [🏬  Other App stores:](#--other-app-stores)
+  - [🤖 F-Droid clients](#-f-droid-clients)
+  - <Img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8a291049-a0c4-49ae-bd93-af4343b8ad91" width="12">  [Google play store Clients](#-google-play-store-clients)
+  - [🏬  Other App stores](#--other-app-stores)
 - [🛠️ Misc](#%EF%B8%8F-misc)
-  - [🌐 Browsers:](#-browsers)
-  - [🎮 Games:](#-games)
-  - [Shizuku:](#-shizuku)
-  - [🔐 Passwords & 2FA:](#-passwords--2fa)
-  - [⚡ Misc:](#-misc)
+  - [🌐 Browsers](#-browsers)
+  - [🎮 Games](#-games)
+  - <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="15"> [Shizuku:](#-shizuku)
+  - [🔐 Passwords & 2FA](#-passwords--2fa)
+  - [⚡ Misc](#-misc)
 - [💖 Special thanks to these Sources!](#-special-thanks-to-these-sources)
-- [💜 Better Lists lol:](#-better-lists-lol)
+- [💜 Better Lists lol](#-better-lists-lol)
   - [☕ Star the repo if you liked it!](#star--the-repo-if-you-liked-it-)
 
 ---
@@ -122,8 +124,10 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > App description
 
 -->
-## Feel free to request apps!
-### 💟 Recommended Apps:
+## Feel free to request apps
+
+### 💟 Recommended Apps
+
 (10 great apps!)
 <!--
  Apps should be ordered with a dash then the type of Material you, afterwards the name and link, and finally the tags. descriptions are shown through ">"
@@ -149,7 +153,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 > really good looking f-droid client!
 
-- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> 
+- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
@@ -167,10 +171,12 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 
->  ####  Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>###  Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>
 > A Free TV Show/Movie streaming (piracy) app
 
-### 🆕 Newly added:
+### 🆕 Newly added
+
 (5 Newly added apps!)
 
 - `MDY` [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
@@ -195,7 +201,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 ## 🎨 Customization
 
-### 🏠 Launcher:
+### 🏠 Launcher
 
 - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -215,14 +221,15 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 - `MY` [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 
->  ####  Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
+>###  Click this for: <Strong><sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup></strong>
+>
 > extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 - `MDY` [Nothing Launcher (V: 1.0.2)](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/)
 
 > this is the only version that works for phones that isn't the "nothing phone"... cool if you like the nothing style!
 
-### 🎴 Wallpaper:
+### 🎴 Wallpaper
 
 - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 
@@ -264,9 +271,9 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 > Really nice and unique material you wallpapers!
 
----  
+---
 
-### 🖼️ Widget:
+### 🖼️ Widget
 
 - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup>
 
@@ -313,11 +320,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A widget app with tons of customizations + material you can be used (except the music/video widgets) on each widget by pressing the wallpaper button in the editor (🖼️)
 
----    
+---
 
-### 🈸 Icons:
+### 🈸 Icons
 
-- `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup>  <sup>`💸 Paid`</sup> 
+- `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup>  <sup>`💸 Paid`</sup>
 
 > Material you icons, plus changes with dark/light mode on most launchers. (It costs money tho!)
 
@@ -329,7 +336,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > Another material you icons.
 
-- `MY`  [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💸 Paid`</sup> 
+- `MY`  [Saga](https://play.google.com/store/apps/details?id=com.lknninex.saga) <sup>`💸 Paid`</sup>
 
 > A material you icon pack with a unique faded black icons! (can't explain how it looks lol)
 
@@ -339,11 +346,12 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ## ⚙️ Tools
 
-### 📁 File Manager:
+### 📁 File Manager
 
 - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>❗ Steps required</SUP>
 
->  ####  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>###  Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>
 > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
@@ -356,9 +364,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
 
----    
+---
 
-### 📕 Note/To-Do/Wish-List:
+### 📕 Note/To-Do/Wish-List
 
 - `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -394,9 +402,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP!
 
----  
+---
 
-### ✖️ Calculator:
+### ✖️ Calculator
 
 - `MDY` [zCalc](https://github.com/ziadOUA/zCalc) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <sup>`🥤 Modded`</sup>
 
@@ -406,7 +414,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > Google's calculator
 
-- `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`🧋 FOSS` </sup> 
+- `MDY` [Unitto](https://github.com/sadellie/unitto) <sup>`🧋 FOSS` </sup>
 
 > A material you calculator and converter!
 
@@ -426,9 +434,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A port of the motorola calculator app
 
----    
+---
 
-### <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="24"> Qr Scanners:
+### <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="24"> Qr Scanners
 
 - `MDY`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`☕`</sup>
 
@@ -449,9 +457,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
----    
+---
 
-### 🗃️ Galleries:
+### 🗃️ Galleries
 
 - `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -463,9 +471,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
----  
+---
 
-### 📆 Calendars/Planners:
+### 📆 Calendars/Planners
 
 - `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
 
@@ -479,9 +487,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A material you calendar!
 
----    
+---
 
-### 💲 Finance:
+### 💲 Finance
 
 - `MDY` [GWallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) <sup>`☕`</sup>
 
@@ -515,9 +523,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A subscription manager!
 
----  
+---
 
-### 🌩️ Weather:
+### 🌩️ Weather
 
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
 
@@ -539,9 +547,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A Beautifully designed weather app!
 
----    
+---
 
-### ⌚ Clock/Timer:
+### ⌚ Clock/Timer
 
 - `MDY`   [Clock You](https://github.com/Bnyro/ClockYou) <sup>`🧋 FOSS` </sup>
 
@@ -557,9 +565,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY`  [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US)  <sup>`☕`</sup>
 
----    
+---
 
-### 📷 Camera:
+### 📷 Camera
 
 - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)
 
@@ -571,9 +579,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A list of ports for the Google camera app! (To make it work on other devices)
 
----  
+---
 
-### 📳 Hardware/Software info:
+### 📳 Hardware/Software info
 
 - `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
 
@@ -601,7 +609,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 ## 🎙️ Media
 
-### <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube:
+### <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="22" /></a> Youtube
 
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`🧋 FOSS` </sup>
 
@@ -610,18 +618,19 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)  </sup>
 
 > my tutorial to getting material you on youtube!
----  
-### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music:
+---
+
+### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music
 
 - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 
 > which is YT Music, without ads + beautiful design
 
-- `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋 FOSS` </sup> 
+- `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋 FOSS` </sup>
 
 > A free music steaming & downloading app! (Another YT music client? Not sure tho)
 
----  
+---
 
 ### 😺 Books & Anime/TV Trackers, Readers & Streaming
 
@@ -631,7 +640,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 
->  ####  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>###  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
+>
 > A Free TV Show/Movie streaming (piracy) app
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
@@ -650,9 +660,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > An app to discover and manage movies & tv shows! (MDY can be enabled in settings)
 
----    
+---
 
-### 📼 Video/Music Downloaders:
+### 📼 Video/Music Downloaders
 
 - `MDY`   [Spowlo](https://github.com/BobbyESP/Spowlo) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -662,13 +672,13 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > Another video downloader! method to download videos is the same as "seal" which is above this, can be added to revanced by changing downloader package name to "com.deniscerri.ytdl"
 
-- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> 
+- `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
----    
+---
 
-### 🎹 Music & Video Players:
+### 🎹 Music & Video Players
 
 - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -707,9 +717,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > beautiful local music player!
 
----  
+---
 
-### 📺 Other types of Media:
+### 📺 Other types of Media
 
 - `MDY`   [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`☕`</sup>
 
@@ -723,7 +733,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > Another beautiful RSS feed reader!
 
-- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`🥤 Modded`</sup> 
+- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`🥤 Modded`</sup>
 
 > A really useful equalizer, Modded to have Material you! (i use it to boost my volume!)
 
@@ -737,7 +747,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ## 💬 Messages
 
-### 🗣️ Social media:
+### 🗣️ Social media
 
 - `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)
 
@@ -762,8 +772,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋 FOSS` </sup>
 
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
----  
-### 📜 Direct messaging:
+---
+
+### 📜 Direct messaging
 
 - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`🧋 FOSS` </sup>
 
@@ -789,7 +800,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
  > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
 
-- `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup> 
+- `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 
 > A port of the motorola Messages app
 
@@ -797,14 +808,15 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 
----  
-### 📰 Other types of Messaging:
+---
+
+### 📰 Other types of Messaging
 
 - `MDY` [Koler](https://github.com/Chooloo/koler)  <sup>`🧋 FOSS` </sup>
 
 > A simple phone/caller app with nice animations!
 
-- `MDY` [Motorola Dialer Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup> 
+- `MDY` [Motorola Dialer Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 
 > A port of the motorola dialer app
 
@@ -822,7 +834,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ## 🏪 App Stores
 
-### 🤖 F-Droid clients:
+### 🤖 F-Droid clients
 
 - `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -835,8 +847,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`🧋 FOSS` </sup>
 
 > Another F-droid (kinda like the play store but open source apps) client but with material you!
----  
-### <Img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8a291049-a0c4-49ae-bd93-af4343b8ad91" width="24"> Google play store Clients:
+---
+
+### <Img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8a291049-a0c4-49ae-bd93-af4343b8ad91" width="24"> Google play store Clients
 
 - `MDY`  [Google play store](https://play.google.com/store/games)
 
@@ -845,8 +858,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly) <sup>`🧋 FOSS` </sup>
 
 > An Open-source alternative to the google play-store with many privacy and security features!
----  
-### 🏬  Other App stores:
+---
+
+### 🏬  Other App stores
 
 - `MDY`  [Revanced Manager](https://github.com/revanced/revanced-manager) </sup> <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 
@@ -866,7 +880,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ## 🛠️ Misc
 
-### 🌐 Browsers:
+### 🌐 Browsers
 
 - `MDY` [Mulch](https://gitlab.com/divested-mobile/mulch) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -890,13 +904,13 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
 
----    
+---
 
-### 🎮 Games:
+### 🎮 Games
 
 - `MDY`  [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
->  **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
+> **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)</sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason
 
 - `MDY` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
@@ -915,16 +929,17 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A sudoku Game But with.... obviously, material you.
 
-### <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="35"> Shizuku:
+### <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="35"> Shizuku
 
 ### For these apps use[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) <sup>`☕`</sup> <sup> `🧋 FOSS`</sup>  unless Devices are Rooted
+
 #### Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
 - `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
 
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
-- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup> 
+- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
 
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
@@ -932,7 +947,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > Ports Google's "Now Playing" feature to other devices!
 
-- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup> 
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
 
 > A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
@@ -955,9 +970,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
 
 > An app freezer/hider, it freezes your apps..
----  
+---
 
-### 🔐 Passwords & 2FA:
+### 🔐 Passwords & 2FA
 
 - `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`🧋 FOSS` </sup>
 
@@ -975,9 +990,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A material you authenticator app!
 
----  
+---
 
-### ⚡ Misc:
+### ⚡ Misc
 
 - `MY`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 
@@ -987,11 +1002,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 > A terminal emulator app with a material you design and other experimental features!
 
-- `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup> 
+- `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup>
 
 > A recipe manager using the mealie api!
 
-- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> 
+- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup>
 
 > Technically a browser? Its web search app, like a browser but cant open links. <sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/Tutorials!-4.0)</sup>
 
@@ -1055,7 +1070,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ---
 
-## 💖 Special thanks to these Sources!
+## 💖 Special thanks to these Sources
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list) A great list that contains A ton of material you apps, this was the inspiration for the list!
 
@@ -1063,7 +1078,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 - Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) Big thanks to all the people who replied!
 
-## 💜 Better Lists lol:
+## 💜 Better Lists lol
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
@@ -1071,6 +1086,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 ---
 
 # Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
- 
-- ####  (Phone used: <a  href="https://us.nothing.tech/pages/phone-1">Nothing phone</a>)
-- #### (Tools used: [VS Code](https://code.visualstudio.com/), [Stack Edit](https://stackedit.io/) & [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba))
+
+- ## (Phone used: <a  href="https://us.nothing.tech/pages/phone-1">Nothing phone</a>)
+
+- ## (Tools used: [VS Code](https://code.visualstudio.com/), [Stack Edit](https://stackedit.io/) & [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba))
