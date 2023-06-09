@@ -169,23 +169,22 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 ### 🆕 Newly added
 
 (5 Newly added apps!)
+
+- `MDY`[KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
+> Another Password manager! (has no ads!)
+
+- `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) <sup>`🧋 FOSS` </sup>
+> Tells you information about specific apps! (IDE'S used, architecture, services, libraries, content providers etc.)
+ 
+
+- `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`☕`</sup> <sup>`🧋 FOSS`</sup>
+> An app that displays specifications & and a ton of detailed information about your device!
   
 - `MDY` [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋 FOSS`</sup>
 > A really useful file sharing app, also has a version for pc!
  
 - `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`🧋 FOSS`</sup>
 > An app that locks your screen for a set amount of time!
-
-- `MDY` [Blue Light Filter: Night Mode](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
-> A heavily customizable blue light filter app!
-
-- `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
-> A pixel app that allows for quickly dialing emergency hotlines (pressing the power button 5 times) + emergency sharing etc.
-  
-- `MDY` [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) <sup>`🧋 FOSS`</sup>
->  A habit tracker that can be displayed using graphs and charts!
-
-
 
 ## 🎨 Customization
 
@@ -207,7 +206,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > this is the only version that works for phones that aren't the "nothing phone"... cool if you like the nothing style!
   
 - `MY` [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
-> Click this for: <sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> extremely customizable launcher, got accuired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
+> Click this for: <sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> extremely customizable launcher, got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 
 ### 🎴 Wallpaper
@@ -496,6 +495,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 📳 Hardware/Software info
 
+- `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`☕`</sup> <sup>`🧋 FOSS`</sup>
+> An app that displays specifications & and a ton of detailed information about your device!
+
 - `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
 > A small app that displays information about your display (refresh rate, Touch sample, resolution, luminance + more!)
 
@@ -510,6 +512,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [CPU Monitor](https://play.google.com/store/apps/details?id=com.paget96.cpumonitor)
 > A small app which shows information about your cpu!
+
+- `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) <sup>`🧋 FOSS` </sup>
+> Tells you information about specific apps! (IDE'S used, architecture, services, libraries, content providers etc.)
  
 - `MY` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`🧋 FOSS` </sup>
 > As the name implies (Yet Another SafetyNet Attestation Checker) it demonstrates the SafetyNet Attestation API, Which detects your devices integrity! 
@@ -696,7 +701,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > Google's contact app!
 
 - `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
-Google's phone app!
+> Google's phone app!
 
 ---
 
@@ -811,7 +816,7 @@ Google's phone app!
 
 ### <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="35"> Shizuku
 
-### For these apps use[Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) <sup>`☕`</sup> <sup> `🧋 FOSS`</sup>  unless Devices are Rooted
+### For these apps use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) <sup>`☕`</sup> <sup> `🧋 FOSS`</sup>  unless Devices are Rooted
 
 #### Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>
 
@@ -856,6 +861,9 @@ Google's phone app!
 
 - `MDY` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`🧋 FOSS` </sup>
 > A material you authenticator app!
+
+- `MDY`[KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
+> Another Password manager! (has no ads!)
 
 ---
 
