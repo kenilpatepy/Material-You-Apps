@@ -170,21 +170,21 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 (5 Newly added apps!)
 
+	
+- `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
+> A simple (not much customization) weather app!
+  
+- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective)
+> An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
+  
 - `MDY`[KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
 > Another Password manager! (has no ads!)
 
 - `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) <sup>`🧋 FOSS` </sup>
 > Tells you information about specific apps! (IDE'S used, architecture, services, libraries, content providers etc.)
  
-
 - `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`☕`</sup> <sup>`🧋 FOSS`</sup>
 > An app that displays specifications & and a ton of detailed information about your device!
-  
-- `MDY` [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋 FOSS`</sup>
-> A really useful file sharing app, also has a version for pc!
- 
-- `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`🧋 FOSS`</sup>
-> An app that locks your screen for a set amount of time!
 
 ## 🎨 Customization
 
@@ -452,6 +452,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
+- `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
+> A simple (not much customization) weather app!
+	
 - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 > really cool weather app, with a material you design! `Requested and created by moneytoo :)`
 
@@ -629,6 +632,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 > podcasting app.
+
+- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective)
+> An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
 
 ## 💬 Messages
 
