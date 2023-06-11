@@ -82,7 +82,7 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 - [🎙️ Media](#%EF%B8%8F-media)
   - <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube](#-youtube)
   - <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="15" /></a> [YT Music](#-yt-music)
-  - [😺 Books & Anime/TV Trackers, Readers & Streaming](#-books--animetv-trackers-readers--streaming)
+  - [😺 Books, Anime & TV. Trackers, Readers & Streaming.](#-books-anime--tv-trackers-readers--streaming)
   - [📼 Video/Music Downloaders](#-videomusic-downloaders)
   - [🎹 Music & Video Players](#-music--video-players)
   - [📺 Other types of Media](#-other-types-of-media)
@@ -96,6 +96,7 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
   - [🏬  Other App stores](#--other-app-stores)
 - [🧑‍⚕️ Digital Well-being & health](#%EF%B8%8F-digital-well-being--health)
   - [🧘 Habits, Planners & Trackers](#-habits-planners--trackers)
+  - [🎓 Education](#-education)
   - [❤️‍🩹 Other Wellbeing & health apps](#%EF%B8%8F-other-wellbeing--health-apps)
 - [🛠️ Misc](#%EF%B8%8F-misc)
   - [🌐 Browsers](#-browsers)
@@ -167,24 +168,22 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> A Free TV Show/Movie streaming (piracy) app
 
 ### 🆕 Newly added
-
 (5 Newly added apps!)
 
-	
+- `MDY` [Graded](https://f-droid.org/en/packages/com.NightDreamGames.Grade.ly/) <sup>`🧋 FOSS` </sup>
+> A easy to use and beautiful looking grade tracker!
+
+- `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`🧋 FOSS` </sup>
+> A "MyAnimeList" client, so you can track and discover new animes!
+
+- `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`🧋 FOSS`</sup>
+> A simple weather app with **Just the weather** (no images, emojis, logos etc.)
+
 - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
 > A simple (not much customization) weather app!
   
-- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective)
+- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋 FOSS` </sup>
 > An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
-  
-- `MDY`[KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
-> Another Password manager! (has no ads!)
-
-- `MDY` [LibChecker](https://github.com/LibChecker/LibChecker) <sup>`🧋 FOSS` </sup>
-> Tells you information about specific apps! (IDE'S used, architecture, services, libraries, content providers etc.)
- 
-- `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`☕`</sup> <sup>`🧋 FOSS`</sup>
-> An app that displays specifications & and a ton of detailed information about your device!
 
 ## 🎨 Customization
 
@@ -453,7 +452,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
 - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
-> A simple (not much customization) weather app!
+> A simple (but not much customization) weather app!
 	
 - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
 > really cool weather app, with a material you design! `Requested and created by moneytoo :)`
@@ -466,6 +465,9 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather)
 > A Beautifully designed weather app!
+
+- `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`🧋 FOSS`</sup>
+> A simple weather app with **Just the weather** (no images, emojis, logos etc.)
 
 ---
 
@@ -547,7 +549,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ---
 
-### 😺 Books & Anime/TV Trackers, Readers & Streaming
+### 😺 Books, Anime & TV. Trackers, Readers & Streaming.
 
 - `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > An unofficial AniList client, for tracking progress on anime/manga!
@@ -558,8 +560,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
 > A free E-book downloader!
 
-- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel)<sup>`🧋 FOSS` </sup>
+- `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`🧋 FOSS` </sup>
 > A Movie/tv show streaming (piracy) service with no ads!
+
+- `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`🧋 FOSS` </sup>
+> A "MyAnimeList" client, so you can track and discover new animes!
 
 - `MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
 > A book tracker app!
@@ -587,16 +592,16 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > YT Music, without ads + beautiful design
 
-- `MDY`   [VLC Media Player](https://t.me/waifupx_official/233) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
+- `MDY`   [VLC Media Player](https://t.me/waifupx_official/233) <sup>`🥤 Modded`</sup>
 > A mod that Adds material you support on VLC! (which is a local video player)
 
-- `MDY`  [Metro](https://github.com/MuntashirAkon/Metro) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>  <sup>`🧋 FOSS` </sup>
+- `MDY`  [Metro](https://github.com/MuntashirAkon/Metro) <sup>`🥤 Modded`</sup>  <sup>`🧋 FOSS` </sup>
 > A fork of the "Retro music player" without ads, all premium features & no google services! (which is a local music player)
 
 - `MDY` [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla)  <sup>`☕`</sup>
-> A local music player with a really nice material you design (squiglyy linessss)> can either be MDY or based on song thumbnail!
+> A local music player with a really nice material you design (squiglyy linessss) can either be MDY or based on song thumbnail!
 
-- `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`🧋 FOSS` </sup>
+- `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer)  <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > A simple but intuitive video player!
 
 - `MDY` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`🧋 FOSS` </sup>
@@ -633,7 +638,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 > podcasting app.
 
-- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective)
+- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋 FOSS` </sup>
 > An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
 
 ## 💬 Messages
@@ -767,6 +772,22 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ---
 
+### 🎓 Education
+
+- `MDY` [Graded](https://f-droid.org/en/packages/com.NightDreamGames.Grade.ly/) <sup>`🧋 FOSS` </sup>
+> A easy to use and beautiful looking grade tracker!
+
+- `MDY` [School Planner](https://play.google.com/store/apps/details?id=daldev.android.gradehelper)
+> Amazing school calendar, very useful! material you can be enabled in setting.
+
+- `MDY` [Trivia You](https://f-droid.org/packages/com.bnyro.trivia/) <sup>`🧋 FOSS` </sup>
+> A fun trivia game!
+
+- `MDY`  [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋 FOSS` </sup>
+> a Material you Periodic table!
+
+---
+
 ### ❤️‍🩹 Other Wellbeing & health apps
 
 - `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`🧋 FOSS`</sup>
@@ -826,13 +847,13 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 #### Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>
 
-- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
+- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`❗ Steps Required`</sup>
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
 - `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup>  <sup>`❗ Steps Required`</sup>
 > An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
-- `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>  <sup>`🥤 Modded`</sup>
+- `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>  <sup>`🥤 Modded`</sup>
 > Ports Google's "Now Playing" feature to other devices!
 
 - `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
@@ -868,7 +889,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`🧋 FOSS` </sup>
 > A material you authenticator app!
 
-- `MDY`[KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
+- `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
 > Another Password manager! (has no ads!)
 
 ---
@@ -905,9 +926,6 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Rays](https://github.com/SkyD666/Rays-Android/blob/master/doc/README/README-en.md) <sup>`🧋 FOSS` </sup>
 > An app to manage stickers and memes! (i linked to the english version)
 
-- `MDY`  [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋 FOSS` </sup>
-> a Material you Periodic table!
-
 - `MDY` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`🧋 FOSS` </sup>
 > An app with quotes and quotable text... thats it!
 
@@ -937,6 +955,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
 > technically a game, its an app that gives a random number, flips a coin, rolls a dice etc.
+
 
 ---
 
