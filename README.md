@@ -213,8 +213,8 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > An Anime waifu wallpaper app! ヾ(≧▽≦*)o
 
-- `MY`  [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)    <sup>`🧋 FOSS` </sup>
-> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme! `requested by Never_Sm1le :)`
+- `MY`  [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)  <sup>`requested by Never_Sm1le :)`</sup>  <sup>`🧋 FOSS` </sup>
+> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme! 
 
 - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋 FOSS` </sup>
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
@@ -446,7 +446,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A simple and intuitive currency converter (also shows an exchange rate graph, Historical rate, calculator etc.)
 ---
 
-### 🌩️ Weather
+- ### 🌩️ Weather
 
 - `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup>  <sup>`🥤 Modded`</sup>
 > A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
@@ -454,8 +454,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
 > A simple (but not much customization) weather app!
 	
-- `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
-> really cool weather app, with a material you design! `Requested and created by moneytoo :)`
+- `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian) <sup>`Requested and created by moneytoo :)`</sup>
+> really cool weather app, with a material you design!
 
 - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
 > A weather app that uses **a lot** of text, might not be for everybody.. but hey, i like it!
@@ -476,8 +476,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`   [Clock You](https://github.com/Bnyro/ClockYou) <sup>`🧋 FOSS` </sup>
 > Another alternative to the google clock app!
 
-- `MDY` [Cofi](https://github.com/rozPierog/Cofi) <sup>`🧋 FOSS` </sup>
-> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-') `Requested by Rozpierog :)`
+- `MDY` [Cofi](https://github.com/rozPierog/Cofi) <sup>`Requested by Rozpierog :)`</sup> <sup>`🧋 FOSS` </sup>
+> A Coffee timer to help you be consistent! i only drink starbucks tho~ ('-')
 
 - `MDY` [Simple Clock](https://f-droid.org/packages/com.simplemobiletools.clock/) <sup>`🧋 FOSS` </sup>
 > An open-source alternative to the google clock app!
