@@ -85,6 +85,7 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
   - [😺 Books, Anime & TV. Trackers, Readers & Streaming.](#-books-anime--tv-trackers-readers--streaming)
   - [📼 Video/Music Downloaders](#-videomusic-downloaders)
   - [🎹 Music & Video Players](#-music--video-players)
+  - [🎵 Music Equalizers](#-music-equalizers)
   - [📺 Other types of Media](#-other-types-of-media)
 - [💬 Messages](#-messages)
   - [🗣️ Social media](#%EF%B8%8F-social-media)
@@ -170,6 +171,9 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 ### 🆕 Newly added
 (5 Newly added apps!)
 
+- `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
+> A really nice equalizer, [Wavelet settings i use tutorial!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+
 - `MDY` [Graded](https://f-droid.org/en/packages/com.NightDreamGames.Grade.ly/) <sup>`🧋 FOSS` </sup>
 > A easy to use and beautiful looking grade tracker!
 
@@ -181,9 +185,8 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
 > A simple (not much customization) weather app!
-  
-- `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋 FOSS` </sup>
-> An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
+
+---
 
 ## 🎨 Customization
 
@@ -240,7 +243,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 - `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 > Really nice and unique material you wallpapers!
 
----
+
 
 ### 🖼️ Widget
 
@@ -280,7 +283,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android) <sup>`☕`</sup>
 > A widget app with tons of customizations + material you can be used (except the music/video widgets) on each widget by pressing the wallpaper button in the editor (🖼️)
 
----
+
 
 ### 🈸 Icons
 
@@ -298,6 +301,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MY`   [Nothing Material You](https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou) <sup>`💸 Paid`</sup>
 > a Nothing inspired icons with a material you spin!
+
+---
 
 ## ⚙️ Tools
 
@@ -319,7 +324,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 > A full-featured file manager with Material You colors
 
----
+
 
 ### 📕 Note/To-Do/Wish-List
 
@@ -349,7 +354,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US)  <sup>`Requested by mirko_ddd :)`</sup>
 > beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP!
 
----
+
 
 ### ✖️ Calculator
 
@@ -374,7 +379,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋 FOSS` </sup>
 > A simple and intuitive currency converter (also shows an exchange rate graph, Historical rate, calculator etc.)
   
----
+
 
 ### <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/123305689/239533178-ea933c1c-b34c-4eff-b7c3-8256fb5d7125.png"  width="24"> Qr Scanners
 
@@ -392,7 +397,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [GLens](https://play.google.com/store/apps/details?id=com.google.ar.lens)
 
----
+
 
 ### 🗃️ Galleries
 
@@ -404,7 +409,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 
----
+
 
 ### 📆 Calendars/Planners
 
@@ -417,7 +422,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`🧋 FOSS` </sup>
 > A material you calendar!
 
----
+
 
 ### 💲 Finance
 
@@ -444,7 +449,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋 FOSS` </sup>
 > A simple and intuitive currency converter (also shows an exchange rate graph, Historical rate, calculator etc.)
----
+
 
 - ### 🌩️ Weather
 
@@ -469,7 +474,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`🧋 FOSS`</sup>
 > A simple weather app with **Just the weather** (no images, emojis, logos etc.)
 
----
+
 
 ### ⌚ Clock/Timer
 
@@ -484,7 +489,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY`  [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US)  <sup>`☕`</sup>
 
----
+
 
 ### 📷 Camera
 
@@ -496,7 +501,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`🥤 Modded`</sup>
 > A list of ports for the Google camera app! (To make it work on other devices)
 
----
+
 
 ### 📳 Hardware/Software info
 
@@ -526,7 +531,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MD` [GeekBench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) <sup>`☕`</sup>
 > A benchmark app, you use it to see how fast your device is!
-  
+
+---  
   
 ## 🎙️ Media
 
@@ -537,7 +543,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup>
 > my tutorial to getting material you on youtube!
----
+
 
 ### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music
 
@@ -547,7 +553,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋 FOSS` </sup>
 > A free music steaming & downloading app! (Another YT music client? Not sure tho)
 
----
+
 
 ### 😺 Books, Anime & TV. Trackers, Readers & Streaming.
 
@@ -572,7 +578,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Cinexplore](https://play.google.com/store/apps/details?id=com.fidloo.cinexplore)
 > An app to discover and manage movies & tv shows! (MDY can be enabled in settings)
 
----
+
 
 ### 📼 Video/Music Downloaders
 
@@ -585,7 +591,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Seal](https://github.com/JunkFood02/Seal) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > video downloader! just click share on your video, and click "seal" or "quick download" can be added to revanced by changing downloader package name to "com.junkfood.seal"
 
----
+
 
 ### 🎹 Music & Video Players
 
@@ -616,7 +622,19 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 > beautiful local music player!
 
----
+
+
+### 🎵 Music Equalizers
+
+
+- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`🥤 Modded`</sup>
+> A really useful equalizer, Modded to have Material you!
+
+- `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
+> A really nice equalizer, [Wavelet settings i use tutorial!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
+> A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
 ### 📺 Other types of Media
 
@@ -629,9 +647,6 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`🧋 FOSS` </sup>
 > Another beautiful RSS feed reader!
 
-- `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`🥤 Modded`</sup>
-> A really useful equalizer, Modded to have Material you! (i use it to boost my volume!)
-
 - `MDY` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`🧋 FOSS` </sup>
 > A simple metronome app!
 
@@ -640,6 +655,8 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋 FOSS` </sup>
 > An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
+
+---
 
 ## 💬 Messages
 
@@ -662,7 +679,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋 FOSS` </sup>
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
----
+
 
 ### 📜 Direct messaging
 
@@ -692,7 +709,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > Google's messaging app!
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 > Everybody knows what Gmail is.
----
+
 
 ### 📰 Other types of Messaging
 
@@ -728,7 +745,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`🧋 FOSS` </sup>
 > Another F-droid (kinda like the play store but open source apps) client but with material you!
----
+
 
 ### <Img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/8a291049-a0c4-49ae-bd93-af4343b8ad91" width="24"> Google play store Clients
 
@@ -737,7 +754,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly) <sup>`🧋 FOSS` </sup>
 > An Open-source alternative to the google play-store with many privacy and security features!
----
+
 
 ### 🏬  Other App stores
 
@@ -753,6 +770,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
 > A manager & installer for beta programs of apps!
 
+---
 
 ## 🧑‍⚕️ Digital Well-being & health
 
@@ -770,7 +788,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MD` [MyMood](https://f-droid.org/packages/com.nima.mymood/) <sup>`🧋 FOSS`</sup>
 > A simple app to track your mood.
 
----
+
 
 ### 🎓 Education
 
@@ -786,7 +804,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY`  [Atomic](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋 FOSS` </sup>
 > a Material you Periodic table!
 
----
+
 
 ### ❤️‍🩹 Other Wellbeing & health apps
 
@@ -799,7 +817,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MD` [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub)
 > A pixel app that allows for quickly dialing emergency hotlines (pressing the power button 5 times) + emergency sharing etc.
 
-
+---
 
 ## 🛠️ Misc
 
@@ -822,7 +840,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
 
----
+
 
 ### 🎮 Games
 
@@ -873,7 +891,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 - `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
 > An app freezer/hider, it freezes your apps..
----
+
 
 ### 🔐 Passwords & 2FA
 
@@ -892,7 +910,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
 > Another Password manager! (has no ads!)
 
----
+
 
 ### ⚡ Misc
 
@@ -967,13 +985,15 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
   
 - Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) Big thanks to all the people who replied!
 
+---
+
 ## 💜 Better Lists lol
 
 - [Nyas1's List](https://github.com/nyas1/Material-You-app-list)
 - [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository)
 
----
 
+---
 # Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
 
 - ## (Phone used: <a  href="https://us.nothing.tech/pages/phone-1">Nothing phone</a>)
