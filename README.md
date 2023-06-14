@@ -165,7 +165,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > An Open-source calculator (fork of openCalc)
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
-> Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> A Free TV Show/Movie streaming (piracy) app
+> Click This for: <sup>[`A tutorial on how to display shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup> A Free TV Show/Movie streaming (piracy) app
 
 ### 🆕 Newly added
 (5 Newly added apps!)
@@ -205,7 +205,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 > this is the only version that works for phones that aren't the "nothing phone"... cool if you like the nothing style!
   
 - `MY` [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
-> Click this for: <sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> extremely customizable launcher, got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
+> Click this for: <sup>[`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup> extremely customizable launcher, got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
 
 ### 🎴 Wallpaper
@@ -314,7 +314,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A simple Archiver, like 7zip or winRAR but for android!
 
 - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup> <SUP>`❗ Steps required`</SUP>
-> Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
+> Click this for: <sup>[`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup> Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 > A full-featured file manager with Material You colors
@@ -382,7 +382,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > a Powerful Qr and BarCode scanner with a really nice design!
 
 - `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>
-> Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)  </sup> A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
+> Click this for: <sup>[`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup> A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
 
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`🧋 FOSS` </sup>
 > A nice Qr and Barcode scanner & Allows for generating many types of Qr and Barcodes!
@@ -535,7 +535,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [LibreTube](https://github.com/libre-tube/LibreTube) <sup>`🧋 FOSS` </sup>
 > An open-source youtube client! (you can't log in, like or comment tho)
 
-- `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)  </sup>
+- `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup>
 > my tutorial to getting material you on youtube!
 ---
 
@@ -555,7 +555,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > An unofficial AniList client, for tracking progress on anime/manga!
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
->  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>> A Free TV Show/Movie streaming (piracy) app
+>  Click This for: <sup>[`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>> A Free TV Show/Movie streaming (piracy) app
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
 > A free E-book downloader!
@@ -645,11 +645,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🗣️ Social media
 
-- `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)
+- `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 > A tutorial i made to get Material you theming on twitter!
 
 - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup>
-> A Beautiful reddit client, Click this for: <sup>[`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>
+> A Beautiful reddit client, Click this for: <sup>[`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 
 - `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋 FOSS` </sup>
 > An open source reddit client that already has no ads!
@@ -672,7 +672,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram) <sup>`🧋 FOSS` </sup>
 > An open-source Telegram client, (material you is in chat settings btw)
 
-- `MY` [Telegram Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)
+- `MY` [Telegram Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 > A tutorial i made to get material you theming on telegram!
 
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`🧋 FOSS` </sup>
@@ -845,7 +845,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### For these apps use [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) <sup>`☕`</sup> <sup> `🧋 FOSS`</sup>  unless Devices are Rooted
 
-#### Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>
+#### Click this for: <sup>  [`Shizuku tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 
 - `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`❗ Steps Required`</sup>
 > Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
@@ -863,7 +863,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > Allows you to use dark-mode on non-dark mode supported apps!
 
 - `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`❗ Steps Required`</sup>  <sup>`💸 paid`</sup>
-> A beautifully designed app manager & analyzer! **Click this for: <sup>[`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)**  </sup>
+> A beautifully designed app manager & analyzer! **Click this for: <sup>[`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)**  </sup>
 
 - `MDY`  [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`❗ Steps Required`</sup>
 > A battery manager, only down-side is that it has ads.
@@ -906,7 +906,7 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 > A recipe manager using the mealie api!
 
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup>
-> Technically a browser? Its web search app, like a browser but cant open links. <sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v4.5)</sup>
+> Technically a browser? Its web search app, like a browser but cant open links. <sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 
 - `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
 > a very ✨beautiful✨ looking compass!
