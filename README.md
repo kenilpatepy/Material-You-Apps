@@ -55,7 +55,7 @@ Text written like this (<!-- ->) will include information on how to fork and upd
 |:-:|--|
 |**<sup>`☕`</sup>**|<strong>Apps that i use!</strong>
 |**<sup>`❗ Steps Required`</sup>**| <strong>Additional Steps Required!</strong>|
-|**`🧋 FOSS`** | <strong>Open-Source!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
+|**<sup>`🧋 FOSS`</sup>** | <strong>Open-Source!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`💸 Paid`</sup>**|<strong>Paid Apps!</strong>
 |**<sup>`🥤 Modded`</sup>** |<strong>Modded, forked or ported app!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 |**<sup>`⚠️ [Enter Warning Here]`</sup>** |<strong>A warning. Ar a problem</strong>|
