@@ -3,26 +3,33 @@
 </br></h2>
 
 <p  align="center">
-<a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" /></a>
+<a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" / width="900"></a>
 </p>
 
 <p  align="center">
 <img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120">
 </p>
 
+
 ### This is an extensive and descriptive list of apps with [google's "Material You" design language](https://m3.material.io/)
 <!--
 Text written like this (<!-- ->) will include information on how to fork and update!
 -->
-<!--
-I use SmartToc to Make the "quick list" it needs some refining (a lot of refining owo) but eventually it looks really good!
--->
+
 
 ### Thanks for all the stars :3
 
 #### (For similar lists, check out [Better lists!](#-better-lists-lol))
 
+<h1 align="center"> ⚠️ Reddit Clients will no longer work due to <a href="https://teddit.net/r/pics/comments/14a6uol/reddit_is_killing_thirdparty_applications_and/">reddit API changes</a>. 
+<br>
+</h1>
+<h2>Consider supporting the creators. </h2>
+
+### For more information see Reddit clients with the `⚠️` tag.
+
 ---
+
 
 ## 🏷️ Tags
 
@@ -51,10 +58,15 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 |**`🧋 FOSS`** | <strong>Open-Source!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`💸 Paid`</sup>**|<strong>Paid Apps!</strong>
 |**<sup>`🥤 Modded`</sup>** |<strong>Modded, forked or ported app!</strong>  <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
+|**<sup>`⚠️ [Enter Warning Here]`</sup>** |<strong>A warning. Ar a problem</strong>|
 
 ---
 
 ## 📃 Table of Contents
+
+<!--
+I use SmartToc to Make the "quick list" it needs some refining (a lot of refining owo) but eventually it looks really good!
+-->
 
 - [❓ About](#-about)
 - [⚠️ Requirements](#%EF%B8%8F-requirements)
@@ -90,6 +102,7 @@ I use SmartToc to Make the "quick list" it needs some refining (a lot of refinin
 - [💬 Messages](#-messages)
   - [🗣️ Social media](#%EF%B8%8F-social-media)
   - [📜 Direct messaging](#-direct-messaging)
+  - [📞 Callers & Contacts](#-callers--contacts)
   - [📰 Other types of Messaging](#-other-types-of-messaging)
 - [🏪 App Stores](#-app-stores)
   - [🤖 F-Droid clients](#-f-droid-clients)
@@ -125,7 +138,7 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 ### 😺 AniList clients. 
 
-- [App name](App link)
+- [App name](App link) <sup>`App Tag`</sup>
 > App description
 
 -->
@@ -171,6 +184,12 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 ### 🆕 Newly added
 (5 Newly added apps!)
 
+- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋 FOSS` </sup>
+> A great looking mastodon client (fork of megalodon)
+
+- `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋 FOSS` </sup>
+> A mastadon client, material you can be enabled in the settings!
+
 - `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
 > A really nice equalizer, [Wavelet settings i use tutorial!](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
@@ -179,12 +198,6 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 
 - `MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`🧋 FOSS` </sup>
 > A "MyAnimeList" client, so you can track and discover new animes!
-
-- `MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`🧋 FOSS`</sup>
-> A simple weather app with **Just the weather** (no images, emojis, logos etc.)
-
-- `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
-> A simple (not much customization) weather app!
 
 ---
 
@@ -216,9 +229,6 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > An Anime waifu wallpaper app! ヾ(≧▽≦*)o
 
-- `MY`  [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)  <sup>`requested by Never_Sm1le :)`</sup>  <sup>`🧋 FOSS` </sup>
-> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme! 
-
 - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋 FOSS` </sup>
 > A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
@@ -243,6 +253,9 @@ then your apps go after~ if a section doesn't describe your app, then make a new
 - `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
 > Really nice and unique material you wallpapers!
 
+
+- `MY`  [DualWallpaper](https://github.com/Yanndroid/DualWallpaper)  <sup>`requested by Never_Sm1le :)`</sup>  <sup>`🧋 FOSS` </sup>
+> Amazingly designed app, this allows you to change wallpaper to follow light and dark theme! 
 
 
 ### 🖼️ Widget
@@ -370,11 +383,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Simple Calculator](https://github.com/SimpleMobileTools/Simple-Calculator) <sup>`🧋 FOSS` </sup>
 > a simple material you calculator!
 
-- `MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋 FOSS` </sup>
-> A MDY calculator with a really unique (wel- more link weird) design (i like the phineas and ferb reference! lol)
-
 - `MDY`  [Motorola Calculator Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 > A port of the motorola calculator app
+
+- `MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋 FOSS` </sup>
+> A MDY calculator with a really unique (wel- more link weird) design (i like the phineas and ferb reference! lol)
 
 - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋 FOSS` </sup>
 > A simple and intuitive currency converter (also shows an exchange rate graph, Historical rate, calculator etc.)
@@ -662,24 +675,32 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### 🗣️ Social media
 
-- `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-> A tutorial i made to get Material you theming on twitter!
-
-- `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup>
+- `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ GOING TO SHUT DOWN ON JUNE 30TH 2023</sup>
 > A Beautiful reddit client, Click this for: <sup>[`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 
-- `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋 FOSS` </sup>
+- `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋 FOSS` </sup> <sup>`⚠️ WILL BE SUBSCRIPTION BASED`</sup>
 > An open source reddit client that already has no ads!
 
-- `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
+- `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
 > Another reddit client!
 
-- `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+- `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
 > Another good looking client for reddit.
+
+- `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋 FOSS` </sup>
+> A great looking mastodon client (fork of megalodon)
+
+- `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋 FOSS` </sup>
+> A mastodon client, material you can be enabled in the settings!
 
 - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋 FOSS` </sup>
 > A ✨Comfy✨ SNS client which supports a plethora of social networking sites (mastodon. twitter ect.)
 
+- `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) 
+> Another great looking mastodon client with extra features :)
+
+- `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+> A tutorial i made to get Material you theming on twitter!
 
 ### 📜 Direct messaging
 
@@ -689,18 +710,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram) <sup>`🧋 FOSS` </sup>
 > An open-source Telegram client, (material you is in chat settings btw)
 
-- `MY` [Telegram Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-> A tutorial i made to get material you theming on telegram!
-
 - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`🧋 FOSS` </sup>
 > An open-source discord client, Only thing you cant to is send direct messages... But it looks amazing!
 
 - `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`🧋 FOSS` </sup>
 > A nice chatting/messaging app!
-
-- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
-
- > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
 
 - `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 > A port of the motorola Messages app
@@ -710,8 +724,15 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 > Everybody knows what Gmail is.
 
+- `MY` [Telegram Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+> A tutorial i made to get material you theming on telegram!
 
-### 📰 Other types of Messaging
+- `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
+
+ > WhatsApp is an end-to-end encrypted messaging app... that is owned by meta tho...?
+
+### 📞 Callers & Contacts
+
 
 - `MDY` [Koler](https://github.com/Chooloo/koler)  <sup>`🧋 FOSS` </sup>
 > A simple phone/caller app with nice animations!
@@ -719,17 +740,20 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Motorola Dialer Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 > A port of the motorola dialer app
 
-- `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`🧋 FOSS` </sup>
-> An openAI client! (allows Chat GPT and Image generating)
-
-- `MDY` [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
-> A stack overflow client with a really nice design
-
 - `MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
 > Google's contact app!
 
 - `MDY`  [Phone](https://play.google.com/store/apps/details?id=com.google.android.dialer)
 > Google's phone app!
+
+### 📰 Other types of Messaging
+
+
+- `MDY` [Sense](https://github.com/F0x1d/Sense) <sup>`🧋 FOSS` </sup>
+> An openAI client! (allows Chat GPT and Image generating)
+
+- `MDY` [Stack](https://play.google.com/store/apps/details?id=me.tylerbwong.stack)
+> A stack overflow client with a really nice design
 
 ---
 
@@ -835,12 +859,10 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases)
 > A chromium browser with extensions!
 
-- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
-> A feature-rich Chromium browser!
-
 - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
 
-
+- `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
+> A feature-rich Chromium browser!
 
 ### 🎮 Games
 
@@ -914,20 +936,11 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 
 ### ⚡ Misc
 
-- `MY`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
-> outdated, but still works! use for vanced, revanced and revanced extended!
-
-- `MY` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`🧋 FOSS` </sup>
-> A terminal emulator app with a material you design and other experimental features!
-
 - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup>
 > A recipe manager using the mealie api!
 
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup>
 > Technically a browser? Its web search app, like a browser but cant open links. <sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
-
-- `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
-> a very ✨beautiful✨ looking compass!
 
 - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`🧋 FOSS` </sup>
 > Connect your other devices for amazing feature! (for example: cliboard sync, remote control, share, etc.)
@@ -974,7 +987,14 @@ Widgets that require KWGT or any other paid components **SHOULD BE MENTIONED**
 - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
 > technically a game, its an app that gives a random number, flips a coin, rolls a dice etc.
 
+- `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
+> a very ✨beautiful✨ looking compass!
 
+- `MY`  [Vanced microG (fork by inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> outdated, but still works! use for vanced, revanced and revanced extended!
+
+- `MY` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`🧋 FOSS` </sup>
+> A terminal emulator app with a material you design and other experimental features!
 ---
 
 ## 💖 Special thanks to these Sources
