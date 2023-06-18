@@ -38,7 +38,8 @@
 
 
 ## 🔖 Other tags
-
+|Abbreviation|Definition|
+|:-:|--|
 |**<sup>`🧋 FOSS`</sup>** | <strong>Open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`💲`</sup>**|<strong>Paid Apps!</strong>
 |**<sup>`🥤 Modded`</sup>** |<strong>Modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
