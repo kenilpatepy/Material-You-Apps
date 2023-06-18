@@ -157,21 +157,24 @@
   ### 💛 Newly added <sup>(5 Newly added apps!)</sup>
 
 
-- `🎨 MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) 
-   - >Another great looking mastodon client with extra features :)
+- `🎨 MDY`  [Styx](https://github.com/jamal2362/Styx)<sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+  - > A beautifully made open-source browser!
 
-- `🎨 MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋 FOSS` </sup>
-   - >A great looking mastodon client (fork of megalodon)
 
-- `🎨 MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋 FOSS` </sup>
-   - >A mastadon client, material you can be enabled in the settings!
+  - `🎨 MDY` [Signal You](https://github.com/nekorubu/Signal-You)<sup>`☕`<sup>`🧋 FOSS` </sup>
+   - > A Material you fork of the Signal messaging app.
 
-- `🎨 MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
-   - >A really nice equalizer 
-     - >[`Wavelet settings i use tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+- `🎨 MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
+   - > Another weather app...
 
-- `🎨 MDY` [Graded](https://f-droid.org/en/packages/com.NightDreamGames.Grade.ly/) <sup>`🧋 FOSS` </sup>
-   - >A easy to use and beautiful looking grade tracker!
+  - `🎨 MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
+   - > An expense/finance manager app!
+
+- `🎨 MDY` [LightTube](https://github.com/kuylar/lighttube-android)<sup>`🧋 FOSS` </sup>
+  - > Another open-source youtube client.
+
+  - `🎨 MDY` [Arcticons You](https://github.com/Donnnno/Arcticons)<sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+    - > The Material you version of the line-based icon pack "arcticons"
 
 ---
 
@@ -466,7 +469,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `🎨 MDY` [JustWeather](https://github.com/jjewuz/JustWeather) <sup>`🧋 FOSS`</sup>
    - >A simple weather app with **Just the weather** (no images, emojis, logos etc.)
 
-- `🎨 MDY` [Qweather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
+- `🎨 MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
    - > Another weather app...
 
 
