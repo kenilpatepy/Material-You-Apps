@@ -161,19 +161,19 @@
   - > A beautifully made open-source browser!
 
 
-  - `🎨 MDY` [Signal You](https://github.com/nekorubu/Signal-You)<sup>`☕`<sup>`🧋 FOSS` </sup>
+- `🎨 MDY` [Signal You](https://github.com/nekorubu/Signal-You)<sup>`☕`<sup>`🧋 FOSS` </sup>
    - > A Material you fork of the Signal messaging app.
 
 - `🎨 MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
    - > Another weather app...
 
-  - `🎨 MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
+- `🎨 MDY` [Xpense](https://play.google.com/store/apps/details?id=com.chiranth.xpense)
    - > An expense/finance manager app!
 
 - `🎨 MDY` [LightTube](https://github.com/kuylar/lighttube-android)<sup>`🧋 FOSS` </sup>
   - > Another open-source youtube client.
 
-  - `🎨 MDY` [Arcticons You](https://github.com/Donnnno/Arcticons)<sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+- `🎨 MDY` [Arcticons You](https://github.com/Donnnno/Arcticons)<sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
     - > The Material you version of the line-based icon pack "arcticons"
 
 ---
