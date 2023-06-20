@@ -1,11 +1,11 @@
 <h2  align="center">
-<strong></strong> ✨Material You Apps✨ </strong> <br>
+<strong>✨Material You Apps✨ </strong> <br>
 </br></h2>
 
-<h3 align="center">A list of apps with <a href="https://m3.material.io/">google's "Material You" design language.</a></h3>
+<p align="center">A list of apps with <a href="https://m3.material.io/">google's <strong><i>Material You</i></strong> design language.</a></p>
 
 <p  align="center">
-<a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" / width="900"></a>
+<a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" / width="600"></a>
 </p>
 
 <p  align="center">
@@ -27,13 +27,17 @@
 |**`🎨 MDY`**|✔️|✔️|
 |**`🎨 MY`**|✔️|❌|
 |**`🎨 MD3`**|❌|✔️|
-
--   #### **`🎨 MDY`** - An app that follow **BOTH** material 3 design and dynamic colouring.
--   #### **`🎨 MY`** - An app that follow dynamic colouring but not material 3 design.
--   #### **`🎨 MD3`** - An App that follow material 3 design but not dynamic colouring.
+---
+ -   #### **`🎨 MDY`** - An app that follow **BOTH** material 3 design and dynamic colouring.
+ -   #### **`🎨 MY`** - An app that follow dynamic colouring but not material 3 design.
+ -   #### **`🎨 MD3`** - An App that follow material 3 design but not dynamic colouring.
 
 
 ## 🔖 Other tags
+<h3 align="center">⚠️ Reddit Clients will no longer work due to <a href="https://teddit.net/r/pics/comments/14a6uol/reddit_is_killing_thirdparty_applications_and/">reddit API changes</a>. 
+<br>
+</h3></br>
+
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`🧋 FOSS`</sup>** | <strong>Open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
@@ -42,9 +46,7 @@
 |**<sup>`⚠️ [Enter Warning Here]`</sup>** |<strong>A warning. Or a problem.</strong>|
 |**<sup>`🌍 [Enter Language here]`</sup>**|<strong>The language of the app. shown if an app is not english.</strong>
 
-<h3 align="center">⚠️ Reddit Clients will no longer work due to <a href="https://teddit.net/r/pics/comments/14a6uol/reddit_is_killing_thirdparty_applications_and/">reddit API changes</a>. 
 
-  #### Some apps will not have descriptions. **IF THEY ARE POPULAR AND WELL KNOWN (Google, Motorola, One UI, Nothing etc.)**
 
 ---
 
@@ -55,7 +57,6 @@
 - [
  ✨Material You Apps✨  
 ](#-material-you-apps--)
-    - [A list of apps with google's "Material You" design language.](#a-list-of-apps-with-googles-material-you-design-language)
 - [🏷️ Tags](#%EF%B8%8F-tags)
   - [🔖 Other tags](#-other-tags)
 - [📃 Table of Contents (TOC)](#-table-of-contents-toc)
@@ -154,23 +155,25 @@
 
 
   ### 💛 Newly added <sup>(5 Newly added apps!)</sup>
-- `🎨 MDY` [Accrescent](https://github.com/accrescent/accrescent) <sup>`🧋 FOSS` </sup>
-> A novel private app store.
+  
+- `🎨 MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧋 FOSS` </sup>
+> An open-source manga reader!
+  
+- `🎨 MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋 FOSS` </sup>
+> Another material you password manager!
 
-- `🎨 MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader)
->An app that helps blind/low vision people and dyslexic people, by using contrast, text size, text-to-speech, page clutter and/or and fonts.
+- `🎨 MDY` [Kizzy](https://github.com/dead8309/Kizzy) <sup>`🧋 FOSS` </sup>
+> An app to customize your discord rich presence! (Rich presence is the little description showing what games you are playing, as an example.)
 
-- `🎨 MDY` [Sound Amplifier](https://play.google.com/store/apps/details?id=com.google.android.accessibility.soundamplifier)
-> An app that amplifies sound to make it easier for people with hearing problems to hear.
+- `🎨 MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋 FOSS` </sup>
+ create a recipe book or look at existing recipe books!
 
-- `🎨 MD3` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
->  Helps people who have trouble using a phone (paralyses, Temporary injury etc) use the phone by using their voice! 
+- `🎨 MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
+> Another reddit client.
 
-- `🎨 MDY` [GDrive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
-> Google drive.
+- `🎨 MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`🧋 FOSS` </sup>
+> A calendar for couples!
 
- - `🎨 MDY` [GSlides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
-> Google slides, an app to make presentations.
 ---
 
 ## 🎨 Customization
@@ -577,6 +580,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `🎨 MDY` [MoeList](https://github.com/axiel7/MoeList) <sup>`🧋 FOSS` </sup>
 >A "MyAnimeList" client, so you can track and discover new animes!
 
+- `🎨 MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧋 FOSS` </sup>
+> An open-source manga reader!
+
 - `🎨 MDY` [Luna](https://play.google.com/store/apps/details?id=com.jggdevelopment.bookbuddy)
 >A book tracker app!
 
@@ -697,6 +703,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `🎨 MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 >A tutorial i made to get Material you theming on twitter!
+
+- `🎨 MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
+> Another reddit client.
 
   ### 📜 Direct messaging
 
@@ -960,6 +969,8 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `🎨 MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋 FOSS` </sup>
 >Another Password manager! (has no ads!)
 
+- `🎨 MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋 FOSS` </sup>
+> Another material you password manager!
 
 
   ### ⚡ Misc
@@ -1022,8 +1033,17 @@ from the sun's position and adding the light to the widgets! coulor theming for 
  - `🎨 MDY` [GSlides](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides)
 > Google slides, an app to make presentations.
 
+- `🎨 MDY` [Kizzy](https://github.com/dead8309/Kizzy) <sup>`🧋 FOSS` </sup>
+> An app to customize your discord rich presence! (Rich presence is the little description showing what games you are playing, as an example.)
+
  - `🎨 MDY`  [GDocs](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs)
-> Google docs. 
+> Google docs.
+
+- `🎨 MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋 FOSS` </sup>
+ create a recipe book or look at existing recipe books!
+
+- `🎨 MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`🧋 FOSS` </sup>
+> A calendar for couples!
 
 - `🎨 MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋 FOSS` </sup>
 >a very ✨beautiful✨ looking compass!
