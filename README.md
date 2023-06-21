@@ -156,23 +156,23 @@
 
   ### 💛 Newly added <sup>(5 Newly added apps!)</sup>
   
+- `🎨 MDY` [Multi-Calculator](https://play.google.com/store/apps/details?id=com.yangdai.calc) <sup>`🧋 FOSS` </sup>
+> Another calculator app, that looks similar to the google calculator!
+  
+- `🎨 MDY` [Number Tic-Tac-Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> A unique version of tic-tac-toe that i don't understand yet is really fun!
+
+- `🎨 MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
+> Makes a big square widget for an app!
+
+- `🎨 MDY` [Simple Notes](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
+> Another notes app!
+   
+- `🎨 MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋 FOSS` </sup>
+> Use your phone as a virtual joystick!
+  
 - `🎨 MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧋 FOSS` </sup>
 > An open-source manga reader!
-  
-- `🎨 MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋 FOSS` </sup>
-> Another material you password manager!
-
-- `🎨 MDY` [Kizzy](https://github.com/dead8309/Kizzy) <sup>`🧋 FOSS` </sup>
-> An app to customize your discord rich presence! (Rich presence is the little description showing what games you are playing, as an example.)
-
-- `🎨 MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋 FOSS` </sup>
- create a recipe book or look at existing recipe books!
-
-- `🎨 MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
-> Another reddit client.
-
-- `🎨 MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`🧋 FOSS` </sup>
-> A calendar for couples!
 
 ---
 
@@ -243,27 +243,30 @@
 - `🎨 MDY`  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
 >A simple widget to get a material you google search bar! (also duck duck go, brave etc.)
 
-- `🎨 MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💲`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>& <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `🎨 MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💲`</sup> 
 >Unique material you inspired widgets. also contains wallpapers. Also more detailed. For example: Grabbing light
 from the sun's position and adding the light to the widgets! coulor theming for android 5+ and monet for android 12+ the light illuminated part is transparent and fade to solid (All features can me manually customized)
 
-- `🎨 MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💲`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>& <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `🎨 MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💲`</sup> 
 >Really nice android material you inspired widgets! Comes with expandable widgets, Komponents, wallpapers/live wallpapers and a KWLP pack!
 
-- `🎨 MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💲`</sup> <sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>& <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `🎨 MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💲`</sup> 
 >The most basic and true-to-life android 12 inspired widgets!
 
-- `🎨 MDY`   [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💲`</sup><sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>& <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `🎨 MDY`   [MOS KWGT](https://play.google.com/store/apps/details?id=beehomie.mos.app) <sup>`💲`</sup>
 >interchangeable android and ios widgets!
 
-- `🎨 MDY`   [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`💲`</sup><sup><strong>Requires <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget">KWGT</a>& <a  href="https://play.google.com/store/apps/details?id=org.kustom.widget.pro">KWGT Pro key</a></strong></sup>
+- `🎨 MDY`   [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`💲`</sup>
 >As the name suggests, pastel android 12 inspired widgets!
 
 - `🎨 MDY`   [Motorola Widgets Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 >A port of the motorola widget app
 
-- `🎨 MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android) <sup>`☕`</sup>
+- `🎨 MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
 >A widget app with tons of customizations + material you can be used (except the music/video widgets) on each widget by pressing the wallpaper button in the editor (🖼️)
+
+- `🎨 MDY` [Giga Icon](https://play.google.com/store/apps/details?id=it.mirko.gigaicon)
+> Makes a big square widget for an app!
 
 
   ### 🍏 Icons
@@ -342,7 +345,10 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `🎨 MDY`  [Ruppu](https://play.google.com/store/search?q=ruppu&c=apps&hl=en_US&gl=US) <sup>`🧋 FOSS` </sup>
 >beautiful app! its makes it so that you can pin texts, images, videos, audios, apps, + has cross device sync etc. PERSONALIZED ADS HAVE TO BE ON FOR THIS APP!
 - `🎨 MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍 Chinese`</sup>
-> A small app to remember articles and notes! 
+> A small app to remember articles and notes!
+
+- `🎨 MDY` [Simple Notes](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
+> Another notes app!
 
 
 
@@ -362,6 +368,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `🎨 MDY`  [Motorola Calculator Port](https://www.pling.com/p/1884299) <sup>`🥤 Modded`</sup>
 >A port of the motorola calculator app
+
+- `🎨 MDY` [Multi-Calculator](https://play.google.com/store/apps/details?id=com.yangdai.calc) <sup>`🧋 FOSS` </sup>
+> Another calculator app, that looks similar to the google calculator!
 
 - `🎨 MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋 FOSS` </sup>
 >A MDY calculator with a really unique (wel- more link weird) design (i like the phineas and ferb reference! lol)
@@ -899,7 +908,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
   ### 🎮 Games
 
-- `🎨 MDY`  [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+- `🎨 MDY`  [Lemuroid](https://github.com/Swordfish90/Lemuroid) <sup>`🧋 FOSS` </sup>
 > An All-In-One Game emulator. doesnt have a light mode for some reason
 > **Click this for:**  <sup>[`Click here for supported game systems!`](https://github.com/Swordfish90/Lemuroid#supported-systems)
 
@@ -914,6 +923,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `🎨 MDY` [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) <sup>`🧋 FOSS` </sup>
 >A sudoku Game But with.... obviously, material you.
+
+- `🎨 MDY` [Number Tic-Tac-Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
+> A unique version of tic-tac-toe that i don't understand yet is really fun!
 
   ### <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="35">Shizuku
 
@@ -1058,6 +1070,10 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >A terminal emulator app with a material you design and other experimental features!
 - `🎨 MD3` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`🧋 FOSS` </sup>
  > A plants and weather searching app!
+
+- `🎨 MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋 FOSS` </sup>
+> Use your phone as a virtual joystick!
+
 ---
 # Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
 ---
