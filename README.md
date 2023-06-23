@@ -92,7 +92,7 @@
     - [⌚ Clock/Timer](#-clocktimer)
     - [📷 Camera](#-camera)
     - [📳 Hardware/Software info](#-hardwaresoftware-info)
-    - [⌨️ Keyboards](#%EF%B8%8F-keyboards)
+    - [⌨️ Keyboards](#-keyboards)
 - [🎙️ Media](#%EF%B8%8F-media)
    - <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube](#youtube)
    - <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="15" /></a> [YT Music](#yt-music)
