@@ -42,12 +42,16 @@
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`☕`</sup>**|<strong>Apps that i personally use!</strong>|
-|**<sup>`🧋 FOSS`</sup>** | <strong>Open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`💲`</sup>**|<strong>Paid Apps!</strong>
+|**<sup>`🧋 FOSS`</sup>** | <strong>Open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`🥤 Modded`</sup>** |<strong>Modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
-|**<sup>`⚠️ [Enter Warning Here]`</sup>** |<strong>A warning. Or a problem.</strong>|
-|**<sup>`🌍 [Enter Language here]`</sup>**|<strong>The language of the app. shown if an app is not english.</strong>|
+|**<sup>`⚠️ [Warning]`</sup>** |<strong>A warning. Or a problem.</strong>|
+|**<sup>`🌍 [Language]`</sup>**|<strong>The language of the app. shown if an app is not english.</strong>|
 |**<sup>`🫖 Steps required`</sup>**|<strong>Additional steps required to install/setup or get material you.</strong>|
+
+## 🎨 Implementation
+|Implementation|Definition|
+|:-:|--|
 |**<sup>`🚀 Best Implemented`</sup>**|<strong>Apps with great implementation of material you!</strong>|
 |**<sup>`💥 Worst implemented`</sup>**|<strong>Apps with bad implementation of material you.</strong>|
 
@@ -69,7 +73,6 @@
   - [🔖 Other tags](#-other-tags)
 - [📃 Table of Contents (TOC)](#-table-of-contents-toc)
 - [📄 OverView](#-overview)
-    - [🚀 Recommended Apps (10 Great apps!)](#-recommended-apps-10-great-apps)
      - [💛 Newly added (5 Newly added apps!)](#-newly-added-5-newly-added-apps)
 - [🎨 Customization](#-customization)
     - [📱 Launcher](#-launcher)
