@@ -1066,7 +1066,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 > Google docs.
 
 - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋 FOSS` </sup>
- create a recipe book or look at existing recipe books!
+> create a recipe book or look at existing recipe books!
 
 - `MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`🧋 FOSS` </sup>
 > A calendar for couples!
