@@ -86,10 +86,10 @@
     - [⌚ Clock/Timer](#-clocktimer)
     - [📷 Camera](#-camera)
     - [📳 Hardware/Software info](#-hardwaresoftware-info)
-    - [⌨️ Keyboards](#-keyboards)
+    - [⌨️ Keyboards](#%EF%B8%8F-keyboards)
 - [🎙️ Media](#%EF%B8%8F-media)
    - <a href="https://imgbb.com/"><img src="https://i.ibb.co/kmv5b8D/youtube-256x180.png" alt="youtube-256x180" width="15" /></a> [Youtube](#youtube)
-   - <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="15" /></a> [YT Music](#yt-music)
+   - [🎧 Music Streaming](#-music-streaming)
    - [😺 Books, Anime & TV. Trackers, Readers & Streaming.](#-books-anime--tv-trackers-readers--streaming)
     - [📼 Video/Music Downloaders](#-videomusic-downloaders)
      - [🎹 Music & Video Players](#-local-music--video-players)
@@ -126,22 +126,22 @@
 ## Feel free to request apps
 
   ### 💛 Newly added <sup>(5 Newly added apps!)</sup>
+
+- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`🧋 FOSS` </sup>, [Jetispot (Fork)](https://github.com/BobbyESP/Jetispot) <sup>`🧋 FOSS` </sup>
+> beautiful Spotify clients, that require premium!
+
+- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`🧋 FOSS` </sup>
+> A music streaming app using subsonic API!
+
+- `MDY` [UltraSonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`🧋 FOSS` </sup>
+> Another music app based on the subsonic API!
   
-- `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋 FOSS` </sup> <sup>`💥 Bad Implement`</sup>
-> A privacy focused Email app!
+- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋 FOSS` </sup> 
+> Another browser.
 
-- `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
-> The google keyboard!
-
-- `MDY` [Simple keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`🧋 FOSS` </sup>
-> another regualr keyboard with material you designing.
-
-- `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`🧋 FOSS` </sup>
-> A unique privacy focused keyboard made for your thumb.
-
-- `MD3` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`🫖 Steps required`</sup>
-> A theme i made to get gboards ui/MD3 on florisboard!
-
+- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
+> A browser using "apps" basically it makes an app for links you want!
+  
 ---
 
 ## 🎨 Customization
@@ -151,19 +151,22 @@
 - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`✨ Best Implement`</sup>
 >Its like the Pixel launcher/stock android but with more customizations.
 
-- `MDY` [Niagara launcher](https://play.google.com/store/apps/details?id=bitpit.launcher)
+- `MDY` [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
 >niagara launcher is a minimalist launcher with really nice features!
 
 - `MDY`  [Kvaesitso](https://kvaesitso.mm20.de/) <sup>`🧋 FOSS` </sup>
 >Unique and really cool launcher!
 
-- `MDY` [Lunar Launcher](https://github.com/iamrasel/lunar-launcher) <sup>`🧋 FOSS` </sup>
+- `MDY` [Lunar](https://github.com/iamrasel/lunar-launcher) <sup>`🧋 FOSS` </sup>
 >A unique material you and minimal launcher!
 
 - `MDY` [Nothing Launcher (V: 1.0.2)](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-launcher-beta/nothing-launcher-beta-1-0-2-release/)
 >this is the only version that works for phones that aren't the "nothing phone"... cool if you like the nothing style!
+
+- `MDY` [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher)
+> A really nice looking minimalist launcher!
   
-- `MY` [Nova launcher 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
+- `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
 
   - > Click This for: [`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 > extremely customizable launcher, got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
@@ -551,14 +554,30 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup>
 >my tutorial to getting material you on youtube! (using revanced-extended)
 
-
-  ### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music
+### 🎧 Music Streaming
 
 - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 >which is YT Music, without ads + beautiful design
 
+- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`🧋 FOSS` </sup>, [Jetispot (Fork)](https://github.com/BobbyESP/Jetispot) <sup>`🧋 FOSS` </sup>
+> beautiful Spotify clients, that require premium!
+
 - `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋 FOSS` </sup>
->A free music steaming & downloading app! (Another YT music client? Not sure tho)
+>A free music steaming & downloading app! (Another YT music client)
+
+- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`🧋 FOSS` </sup>
+> A music streaming app using subsonic API!
+
+- `MDY` [UltraSonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`🧋 FOSS` </sup>
+> Another music app based on the subsonic API!
+
+- `MD3` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋 FOSS` </sup>
+> A spotify client that looks pretty bad, but doesn't require premium!
+
+
+
+  ### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music
+
 
 
 
@@ -665,9 +684,6 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋 FOSS` </sup>
 >An app that uses the Deezer API to search tracks from your favorite artists, and provides information about them!
-
-- `MD3` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋 FOSS` </sup>
-> A spotify client that looks pretty bad, but doesn't require premium!
 
 ---
 
@@ -894,6 +910,12 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
 > Google chrome. do i really need to explain?
+
+- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋 FOSS` </sup> 
+> Another browser.
+
+- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
+> A browser using "apps" basically it makes an app for links you want!
 
 - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 >A feature-rich Chromium browser!
