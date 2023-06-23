@@ -37,7 +37,7 @@
  -   #### **`🎨 MD3`** - An App that follow material 3 design but not dynamic colouring.
 
 
-## 🔖 Other tags
+### 🔖 Other tags
 
 |Abbreviation|Definition|
 |:-:|--|
@@ -49,7 +49,7 @@
 |**<sup>`🌍 [Language]`</sup>**|<strong>The language of the app. shown if an app is not english.</strong>|
 |**<sup>`🫖 Steps required`</sup>**|<strong>Additional steps required to install/setup or get material you.</strong>|
 
-## 🎨 Implementation
+### 🎨 Implementation Tags
 |Implementation|Definition|
 |:-:|--|
 |**<sup>`🚀 Best Implemented`</sup>**|<strong>Apps with great implementation of material you!</strong>|
@@ -71,6 +71,7 @@
 ](#-material-you-apps--)
 - [🏷️ Tags](#%EF%B8%8F-tags)
   - [🔖 Other tags](#-other-tags)
+    - [🎨 Implementation Tags](#-implementation-tags)
 - [📃 Table of Contents (TOC)](#-table-of-contents-toc)
 - [📄 OverView](#-overview)
      - [💛 Newly added (5 Newly added apps!)](#-newly-added-5-newly-added-apps)
