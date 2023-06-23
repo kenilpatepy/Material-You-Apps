@@ -574,14 +574,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MD3` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋 FOSS` </sup>
 > A spotify client that looks pretty bad, but doesn't require premium!
 
-
-
-  ### <a href="https://ibb.co/c10bxXc"><img src="https://i.ibb.co/c10bxXc/youtube-music-logo-1.png" alt="youtube-music-logo-1" border="0" width="22" /></a> YT Music
-
-
-
-
-  ### 😺 Books, Anime & TV. Trackers, Readers & Streaming.
+### 😺 Books, Anime & TV. Trackers, Readers & Streaming.
 
 - `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 >An unofficial AniList client, for tracking progress on anime/manga!
