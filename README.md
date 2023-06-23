@@ -275,11 +275,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 >A simple Archiver, like 7zip or winRAR but for android!
 
-- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`**</sup>
+- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
 
    - >  Click This for: [`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
  > Really nice and customizable file manager with lots of features! to get material you follow the Tutorial above!
-
+<sup>`🫖 Steps required`</sup>
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 >A full-featured file manager with Material You colors
@@ -355,7 +355,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MDY`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`☕`</sup> <sup>`✨ Best Implement`</sup>
 >a Powerful Qr and BarCode scanner with a really nice design!
 
-- `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`**</sup>
+- `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
 
   - >Click This for: [`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0) 
 >A qr code Scanner made for pixels but works for devices with android 12+ (but you have to build it yourself)
@@ -643,7 +643,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >A really nice equalizer, 
 >Click this for: [`Wavelet settings i use tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
-- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`**</sup>
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
 >A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
   ### 📺 Other types of Media
@@ -925,16 +925,16 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 
 
-- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`🫖 Steps required`**</sup>
+- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`🫖 Steps required`</sup>
 >Transform your entire material you, it has more themes! (and more customization if you get the pro version!)
 
-- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`🫖 Steps required`**</sup>
+- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`🫖 Steps required`</sup>
 >An Amazing backup app with a beautiful deisgn. (material you has to be enabed in settings)
 
 - `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> <sup>`🥤 Modded`</sup>
 >Ports Google's "Now Playing" feature to other devices!
 
-- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`**</sup>
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
 >A system-wide audio prossesing engine without root. Material you has to be enabled in settings!
 
 - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> 
@@ -946,13 +946,13 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >A beautifully designed app manager & analyzer!  
 
 
-- `MDY`  [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`🫖 Steps required`**</sup>
+- `MDY`  [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`🫖 Steps required`</sup>
 >A battery manager, only down-side is that it has ads.
 
-- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`🫖 Steps required`**</sup>
+- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`🫖 Steps required`</sup>
 >A permission manager! (material you can be enabled from the settings!)
 
-- `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`**</sup>
+- `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
 >An app freezer/hider, it freezes your apps..
 
 
