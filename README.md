@@ -51,7 +51,7 @@
 
 ## 🎨 Implementation
 |Implementation|Definition|
-|--|--|
+|:-:|--|
 |**<sup>`🚀 Best Implemented`</sup>**|<strong>Apps with great implementation of material you!</strong>|
 |**<sup>`💥 Worst implemented`</sup>**|<strong>Apps with bad implementation of material you.</strong>|
 
