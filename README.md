@@ -72,7 +72,7 @@
 - [🎨 Customization](#-customization)
     - [📱 Launcher](#-launcher)
     - [🧱 Wallpaper](#-wallpaper)
-     - [🖼️ Widget](#%EF%B8%8F-widget)
+     - [🪴 Widget](#-widget)
      - [🍏 Icons](#-icons)
 - [⚙️ Tools](#%EF%B8%8F-tools)
     - [🗃️ File Manager](#%EF%B8%8F-file-manager)
@@ -109,7 +109,11 @@
     - [🎓 Education](#-education)
     - [🦮 Accessibility](#-accessibility)
     - [❤️‍🩹 Other Wellbeing & health app](#%EF%B8%8F-other-wellbeing--health-apps)
-- [🛠️ Misc](#%EF%B8%8F-misc)
+- [⚙️ Developers](#%EF%B8%8F-developers)
+    - [📶 Servers](#-servers)
+    - [👩‍🏫 Studio Tutorials](#-studio-tutorials)
+    - [🧩 Components](#-components)
+- [🔨 Misc](#-misc)
     - [🌐 Browsers](#-browsers)
      - [🎮 Games](#-games)
     - <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="15"> [Shizuku](#-shizuku)
@@ -117,8 +121,8 @@
      - [⚡ Misc](#-misc)
 - [💖 Special thanks to these Sources](#-special-thanks-to-these-sources)
   - [🤳 Phone used](#-phone-used-nothing-phone)
-  - [ 🛠️ Tools used](#%EF%B8%8F-tools-used-vs-code-stack-edit--smart-toc)
-
+  - [ ⛏️ Tools used](#%EF%B8%8F-tools-used-vs-code-stack-edit--smart-toc)
+- [Star 💫 The Repo If You Liked it!](#star--the-repo-if-you-liked-it-)
 ---
 
 ## 📄 OverView
@@ -126,22 +130,20 @@
 ## Feel free to request apps
 
   ### 💛 Newly added <sup>(5 Newly added apps!)</sup>
+  - `MDY` [Monet Color previewer](https://github.com/Smooth-E/monet-color-previewer) <sup>`🧋 FOSS`</sup>
+> Preview monet/material you colours!
 
-- `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`🧋 FOSS` </sup>, [Jetispot (Fork)](https://github.com/BobbyESP/Jetispot) <sup>`🧋 FOSS` </sup>
-> beautiful Spotify clients, that require premium!
+- `MDY` [Material Components Gallery](https://play.google.com/store/apps/details?id=com.numero.material_gallery) <sup>`🧋 FOSS`</sup>
+> Preview MD3 components!
 
-- `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`🧋 FOSS` </sup>
-> A music streaming app using subsonic API!
+- `MDY` [Dynamic colour preview](https://play.google.com/store/apps/details?id=jp.numero.dynamiccolorpreview)
 
-- `MDY` [UltraSonic](https://gitlab.com/ultrasonic/ultrasonic) <sup>`🧋 FOSS` </sup>
-> Another music app based on the subsonic API!
-  
-- `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋 FOSS` </sup> 
-> Another browser.
+-`MDY` [Goldex](https://play.google.com/store/apps/details?id=com.goldex)
+> Preview MD3 components in a pokedex like app!
 
-- `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
-> A browser using "apps" basically it makes an app for links you want!
-  
+-`MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`🧋 FOSS`</sup>
+> A tutorial app of the coding language kotlin!
+
 ---
 
 ## 🎨 Customization
@@ -181,7 +183,7 @@
 - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋 FOSS` </sup>
 >A wallpaper app with a material you design! you can pick from a variety of sources (unsplash, wallpaper haven etc.)
 
-- `MDY` [WallYou X](https://github.com/AyraHikari/WallYouX/) <sup>`🧋 FOSS` </sup>
+- `MDY` [WallYou X](https://gitghub.com/AyraHikari/WallYouX/) <sup>`🧋 FOSS` </sup>
 >A fork of the WallYou app with more features & wallpapers!
 
 - `MDY` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle) <sup>`🧋 FOSS` </sup>
@@ -206,7 +208,7 @@
 >Amazingly designed app, this allows you to change wallpaper to follow light and dark theme! 
 
 
-  ### 🖼️ Widget
+  ### 🪴 Widget
 
 - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup> <sup>`✨ Best Implement`</sup>
 >Brings Googles search (on their pixel phone) on any device! + More customization that the normal pixel search.
@@ -320,7 +322,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍 Chinese`</sup>
 > A small app to remember articles and notes!
 
-- `MDY` [Simple Notes](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
+- `MDY` [Simple Notes (Yang's Codehub)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
 > Another notes app!
 
 
@@ -432,7 +434,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
   ### 🌩️ Weather
 
-- `MDY` [Nothing Weather](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`🥤 Modded`</sup>
+- `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`🥤 Modded`</sup>
 >A Port of the Nothing Weather app, from the nothing phone! Modded to have material you!
 
 - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
@@ -455,6 +457,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
 > Another weather app...
+
+- `MD3` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/)
+> The nothing phone's weather app.
 
 
 
@@ -519,7 +524,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MD3` [GeekBench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) <sup>`☕`</sup>
 >A benchmark app, you use it to see how fast your device is!
 
-### ⌨️ Keyboards
+  ### ⌨️ Keyboards
 
 - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
 > The google keyboard!
@@ -554,7 +559,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [YT Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup>
 >my tutorial to getting material you on youtube! (using revanced-extended)
 
-### 🎧 Music Streaming
+  ### 🎧 Music Streaming
 
 - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 >which is YT Music, without ads + beautiful design
@@ -882,7 +887,50 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 ---
 
-## 🛠️ Misc
+## ⚙️ Developers
+
+  ### 📶 Servers 
+
+- `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`🧋 FOSS`</sup>
+> An unnoficial adguard home client!
+
+- `MDY` [My Server Status App](https://github.com/JGeek00/my-server-status-app) <sup>`🧋 FOSS`</sup>
+> Monitor/track you're servers on your phone!
+
+- `MDY` [Droid Hole](https://github.com/JGeek00/droid-hole) <sup>`🧋 FOSS`</sup>
+> A pi-hole client!
+
+- `MDY` [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote)
+> A server management app for linux servers, docker servers + more!
+
+- `MY` [Tremotesf](https://play.google.com/store/apps/details?id=org.equeim.tremotesf)
+> A remote app for the transmission torrent manager!
+
+### 👩‍🏫 Studio Tutorials
+
+-`MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`🧋 FOSS`</sup>
+> A tutorial app of the coding language kotlin!
+
+- [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) <sup>`🧋 FOSS`</sup>
+> A tutorial app of the coding language Java!
+
+  ### 🧩 Components
+
+> SOME APP WILL NOT HAVE DESCRIPTIONS FOR THIS SECTION (as there isnt much difference between apps)
+
+- `MDY` [Monet Color previewer](https://github.com/Smooth-E/monet-color-previewer) <sup>`🧋 FOSS`</sup>
+> Preview monet/material you colours!
+
+- `MDY` [Material Components Gallery](https://play.google.com/store/apps/details?id=com.numero.material_gallery) <sup>`🧋 FOSS`</sup>
+> Preview MD3 components!
+
+- `MDY` [Dynamic colour preview](https://play.google.com/store/apps/details?id=jp.numero.dynamiccolorpreview)
+
+-`MDY` [Goldex](https://play.google.com/store/apps/details?id=com.goldex)
+> Preview MD3 components in a pokedex like app!
+
+
+## 🔨 Misc
 
   ### 🌐 Browsers
 
@@ -933,6 +981,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `MDY` [Number Tic-Tac-Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) <sup>`☕`</sup>  <sup>`🧋 FOSS` </sup>
 > A unique version of tic-tac-toe that i don't understand yet is really fun!
+
+- `MDY` [TZI](https://github.com/marek-guran/TZI_app) <sup>`🧋 FOSS`</sup> <sup>`🌍 Slovak`</sup>
+> A quiz app of Automa theory and the alphabet.
 
   ### <img  src="https://user-images.githubusercontent.com/123305689/235358708-5103a7c3-9c1f-4b9d-89a8-ccff178fe657.png"  width="35"> Shizuku
 
@@ -996,6 +1047,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋 FOSS` </sup>
 >A recipe manager using the mealie api!
+
+- `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
+> A beautiful github client! (early development, so a lot of features are missing)
 
 - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup>
 >Technically a browser? Its web search app, like a browser but cant open links. 
@@ -1079,16 +1133,11 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`🧋 FOSS` </sup>
 > Its in the name, a clipboard cleaner. 
 
-- `MY` [Termux Monet](https://github.com/HardcodedCat/termux-monet) <sup>`🧋 FOSS` </sup>
->A terminal emulator app with a material you design and other experimental features!
-
 - `MD3` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`🧋 FOSS` </sup>
  > A plants and weather searching app!
 
 
----
-# Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
----
+
 
 
 ## 💖 Special thanks to these Sources
@@ -1105,4 +1154,8 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 
 - #### 🤳 Phone used: <a  href="https://us.nothing.tech/pages/phone-1">Nothing phone</a>
 
-- #### 🛠️ Tools used: [VS Code](https://code.visualstudio.com/), [Stack Edit](https://stackedit.io/) & [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
+- #### ⛏️ Tools used: [VS Code](https://code.visualstudio.com/), [Stack Edit](https://stackedit.io/) & [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
+
+---
+# Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
+---
