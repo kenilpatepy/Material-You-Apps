@@ -1,13 +1,19 @@
-<h2  align="center">
-<strong>✨Material You Apps✨
-	<p  align="center">
-<img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=F7EEED&colorB=FED9CD&logo=github&logoColor=FE9892"  width="120">
-</p> </strong> 
-</h2>
-	<p align="center">A list of apps with <a href="https://m3.material.io/">google's <strong><i>Material You</i></strong> design language.</a></p>
- <p  align="center"><a href="https://ibb.co/KNKgHy6"><img src="https://i.ibb.co/jVJYF4h/Material-you-apps.png" alt="Material-you-apps" border="0" / width="600"></a>
-</p>
 
+<h2  align="center">
+<strong>✨ Material You Apps ✨
+	<h3 align="center">A list of apps with <a href="https://m3.material.io/">google's <strong><i>Material You</i></strong> design language.
+</p> </strong> 
+	<p  align="center">
+		<br>
+<p align="center"><img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=EB9FFF&colorB=8A34B4&logo=github&logoColor=6900BA"  width="120">
+
+
+<img src="https://img.shields.io/badge/Star%20the%20repo%20☕-6900BA" width="132">
+
+<p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
+
+</h2>
+	<p align="center"></a></p>
 
 
 <h1  align="center">
