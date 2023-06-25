@@ -5,10 +5,7 @@
 </p> </strong> 
 	<p  align="center">
 		<br>
-<p align="center"><img  src="https://img.shields.io/github/stars/TeaEndsAcronyms/Material-You-Apps?style=for-the-badge&colorA=EB9FFF&colorB=8A34B4&logo=github&logoColor=6900BA"  width="120">
-
-
-<img src="https://img.shields.io/badge/Star%20the%20repo%20☕-6900BA" width="132">
+<img src="https://m3-markdown-badges.vercel.app/stars/9/3/TeaEndsAcronyms/Material-You-Apps"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/80cf11a3-8241-490c-8ec1-344d26212d9a" width="135">
 
 <p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
 
