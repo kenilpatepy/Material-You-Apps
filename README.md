@@ -1047,9 +1047,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 >Allows you to use dark-mode on non-dark mode supported apps!
 
 - `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> <sup>`💲`</sup>
-
- - > Click This for: [`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)  </sup>
->A beautifully designed app manager & analyzer!  
+>A beautifully designed app manager & analyzer! Click This for: [`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
 
 - `MDY`  [Battery Guru](https://play.google.com/store/search?q=battery+guru&c=apps) <sup>`🫖 Steps required`</sup>
