@@ -55,7 +55,7 @@
 |**<sup>`🥤 Modded/Forked`</sup>** |<strong> modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 |**<sup>`⚠️ [Warning]`</sup>** |<strong> a warning. Or a problem.</strong>|
 |**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
-|**<sup>`🫖 Steps required`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
+|**<sup>`🫖 Aditional Steps`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
 |**<sup>`#️⃣ Root`</sup>**|Apps that require root! <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`Definition`</a></sup>|
 |**<sup>`🧩 Xposed`</sup>**|Apps that require the Xposed framework! <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`Definition`</a></sup>|
 
@@ -179,9 +179,8 @@
 - `MDY` [Stario](https://play.google.com/store/apps/details?id=com.stario.launcher)
 > nspired by the minimalist phone concept, a decluttered experience brought to the quotidian smartphone.
   
-- `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
- - > Click This for: [`Nova Prime for free tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-> ova Launcher replaces your home screen, providing you with powerful features that you will soon realize you can't live without. got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
+- `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/) <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
+> Nova Launcher replaces your home screen, providing you with powerful features that you will soon realize you can't live without. got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
   ### 🏡 Launcher tools
 
@@ -296,12 +295,9 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 > is a program for archive management. It has a simple and functional interface. The app doesn't have permission to access the internet, so cannot transmit any information to other services or persons.
 
-- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
-
-  - >  Click This for: [`MiXplorer Material You tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
  > MiXplorer mix of explorers (SD, FTP, Lan, Cloud and other storage explorers) is a fast, smooth, beautiful, reliable and full-featured file manager with a simple and intuitive user interface.
 This app has no ads, is and will always remain free.
-<sup>`🫖 Steps required`</sup>
 
 - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋 FOSS` </sup>
 > A full-featured and lightweight file manager with Material 3 Dynamic colors
@@ -384,9 +380,7 @@ This app has no ads, is and will always remain free.
 - `MDY`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`☕`</sup> <sup>`✨ Best Implement`</sup>
 >P owerful Barcode tools with tons of useful features. Qr and BarCode scanner with a really nice design!
 
-- `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
-
- - > click This for: [`Tutorial to install (Build)`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0) 
+- `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 > QR Scanner specially made for pixels and only available for devices running on or above Android 12. This stylish scanner takes advantage of Material You themeing and dynamically changes the color according to the wallpaper (but you have to build it yourself)
 
 - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`🧋 FOSS` </sup>
@@ -576,7 +570,7 @@ This app has no ads, is and will always remain free.
 - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`🧋 FOSS` </sup>
 > Another simple keyboard...
 
-- `MD3` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`🫖 Steps required`</sup>
+- `MD3` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 > A theme i made to get gboards ui/MD3 on florisboard!
 
 ---  
@@ -623,8 +617,7 @@ This app has no ads, is and will always remain free.
 > an unofficial AniList client, for tracking progress on anime/manga!
 
 - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
-
- - > Click This for: [`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+  - >Click This for: [`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
  > Android app for streaming and downloading Movies, TV-Series and Anime. (piracy)
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
@@ -696,10 +689,11 @@ This app has no ads, is and will always remain free.
 > a really useful equalizer, Modded to have Material you!
 
 - `MDY` [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet)
+  - >click this for: [`Wavelet settings i use tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 > a really nice equalizer, With over 3400 precalculated optimizations for headphone models and many options for customizability, Wavelet is a great addition to any mobile audio setup.
-> click this for: [`Wavelet settings i use tutorial!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
-- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
+
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`</sup>
 > Use JamesDSP as a system-wide audio processing engine without any root access. Material you has to be enabled in settings!
 
   ### 🎤 Recorders
@@ -1071,30 +1065,30 @@ Built with Jetpack Compose and Material3
 
 
 
-- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`🫖 Steps required`</sup>
+- `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)  <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > Repainter brings customizable, dynamic Material You theming with a vivid community to any device/ROM with Android 12 or newer.
 
-- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`🫖 Steps required`</sup>
+- `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > awift Backup can backup your important data in minutes! Its quick, efficient and boasts an elegant design for a refreshing backup experience. (material you has to be enabed in settings)
 
-- `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> <sup>`🥤 Modded/Forked`</sup>
+- `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> <sup>`🥤 Modded/Forked`</sup>
 > Ambient Music Mod is a Shizuku/Sui app that ports Now Playing from Pixels to other Android devices.
 
-- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
+- `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > Use JamesDSP as a system-wide audio processing engine without any root access. Material you has to be enabled in settings!
 
-- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> 
+- `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > DarQ provides a per-app selectable force dark option for Android 10 and above 
 
-- `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup> <sup>`💲`</sup>
+- `MDY` [Inure](https://github.com/Hamza417/Inure) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> <sup>`💲`</sup>
 
   - > Click This for: [`Inure Material you Tutorial`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 > An elegant and beautiful premium Android app manager for both rooted and non-rooted devices and a built-in terminal, analytics panel and an independent custom theme engine, developed with purely custom APIs created for this app.
 
-- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`🫖 Steps required`</sup>
+- `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > a permission manager! (material you can be enabled from the settings!)
 
-- `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`🫖 Steps required`</sup>
+- `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
 > Hail is a free-as-in-freedom software to freeze Android apps. Enjoy all features freely!
 
 
