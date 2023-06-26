@@ -295,7 +295,7 @@ from the sun's position and adding the light to the widgets! coulor theming for 
 - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 > is a program for archive management. It has a simple and functional interface. The app doesn't have permission to access the internet, so cannot transmit any information to other services or persons.
 
-- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+- `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
  > MiXplorer mix of explorers (SD, FTP, Lan, Cloud and other storage explorers) is a fast, smooth, beautiful, reliable and full-featured file manager with a simple and intuitive user interface.
 This app has no ads, is and will always remain free.
 
@@ -616,9 +616,8 @@ This app has no ads, is and will always remain free.
 - `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
 > an unofficial AniList client, for tracking progress on anime/manga!
 
-- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup>
-  - >Click This for: [`A tutorial on how to show shows/movies & How to get material you`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
- > Android app for streaming and downloading Movies, TV-Series and Anime. (piracy)
+- `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`☕`</sup> <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
+> Android app for streaming and downloading Movies, TV-Series and Anime. (piracy)
 
 - `MDY`  [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋 FOSS` </sup>
 > Myne is a FOSS Android application to download ebooks from the Project GutenBerg, it uses GutenDex API to fetch metadata of ebooks in the backend.
@@ -736,9 +735,7 @@ This app has no ads, is and will always remain free.
 
   ### 🗣️ Social media
 
-- `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ GOING TO SHUT DOWN ON JUNE 30TH 2023`</sup>
-
- - > Click This for: [`Tutorial to remove ads on sync for free!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+- `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ GOING TO SHUT DOWN ON JUNE 30TH 2023`</sup>  <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 > Sync for Reddit is a full-featured app for browsing the popular site Reddit on the go. Featuring secure login, comments, messaging, profiles and more.  
 
 
@@ -1027,9 +1024,8 @@ This app has no ads, is and will always remain free.
 - `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
 > A browser using "apps" basically it makes an app for links you want!
 
-- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup>
+- `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋 FOSS` </sup> <sup>`🫖 Aditional Steps`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
 > A clean, lightweight, FOSS web search app.
- ><sup>[`Click this For: Gugal setup tutorial/guide!`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
 - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 > ultra customizable browser that prioritizes your privacy (not our own profit). An Internet browser that adapts to you, not the other way around. Vivaldi browser comes packed with smart features including desktop-style tabs, a built-in Ad Blocker, protection against trackers, and a private translator. 
