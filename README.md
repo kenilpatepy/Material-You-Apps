@@ -148,7 +148,7 @@
 - `MDY` [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup>
 > Pixel Launcher Mods is a root app for Android 12+ that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed.
 
-- [Quick Switch](https://github.com/skittles9823/QuickSwitch) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup>
+- `MDY` [Quick Switch](https://github.com/skittles9823/QuickSwitch) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup>
 > QuickSwitch is a Magisk module which systemlessly allows supported launchers to access the recents (QuickStep) APIs.
 
 ---
@@ -184,7 +184,15 @@
 > ova Launcher replaces your home screen, providing you with powerful features that you will soon realize you can't live without. got acquired by branch: [Nova joins branch](https://www.reddit.com/r/Android/comments/w2q6al/nova_launcher_joins_branch_nova_launcher/)
 
   ### 🏡 Launcher tools
-v
+
+- `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup> <sup>`🧩 Xposed`</sup>
+> Discover Killer is an Xposed module that allows you to replace the Google Discover page of your home screen with whatever you want.
+
+- `MDY` [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup>
+> Pixel Launcher Mods is a root app for Android 12+ that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed.
+
+- `MDY` [Quick Switch](https://github.com/skittles9823/QuickSwitch) <sup>`🧋 FOSS` </sup> <sup>`#️⃣ Root`</sup>
+> QuickSwitch is a Magisk module which systemlessly allows supported launchers to access the recents (QuickStep) APIs.
 
   ### 🧱 Wallpaper
 
