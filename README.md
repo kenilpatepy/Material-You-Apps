@@ -21,7 +21,7 @@
 
 
 <h4 align="center"> for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources</a></h4>
-<h5 align="center"> Descriptions will now show the description of app/repository not my descrpitions</h5>
+<h5 align="center">DESCRIPTIONS WILL ONLY SHOW ON THE LEGACY VERSION</h5>
 
 ---
 
