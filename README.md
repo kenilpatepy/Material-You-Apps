@@ -1,4 +1,3 @@
-
 <h2  align="center">
 <strong>✨ Material You Apps ✨
 	<h3 align="center"> a list of apps with <a href="https://m3.material.io/"> google's <strong><i> material You</i></strong> design language.
@@ -10,14 +9,13 @@
 <p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
 
 </h2>
-	<p align="center"></a></p>
 
 <h2 align="center"> <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/blob/Material-You-Apps/With%20Desc%20(legacy).md"> Click this for a version with descriptions (and the old look)</a></h2>
 
 
 <h1  align="center">			
 <strong>⭐ Revamped ⭐ </strong> <br>
-</br></h1>
+</h1>
 
 
 <h4 align="center"> for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources</a></h4>
@@ -57,7 +55,7 @@
 
 ---
 ### 📃 Table of contents
--   [Click this for a version with descriptions (and the old look)](#--click-this-for-a-version-with-descriptions-and-the-old-look)
+-   [Click this for a version with descriptions (and the old look)](#--click-this-for-a-version-with-descriptions-and-the-old-look)<!-- @IGNORE PREVIOUS: anchor -->
 - [🏷️ Tags](#%EF%B8%8F-tags)
     - [🎨 Material you Tags](#-material-you-tags)
     - [🔖 Other tags](#-other-tags)
@@ -122,9 +120,10 @@
     - [Games](#games)
     - [Passwords & 2FA](#passwords--2fa)
     - [Food](#food)
+    - [Backup](#backup)
     - [Misc](#misc)
 - [💖 Special thanks to these Sources](#-special-thanks-to-these-sources)
-    - [🤳 Phone used:  nothing phone](#-phone-used--nothing-phone)
+    - [🤳 Phone used: <a  href="https://us.nothing.tech/pages/phone-1"> nothing phone</a>](#-phone-used--nothing-phone)
     - [⛏️ Tools used: VS Code, Stack Edit & Smart TOC](#%EF%B8%8F-tools-used-vs-code-stack-edit--smart-toc)
 ---
 
@@ -133,18 +132,18 @@
 ## Feel free to request apps
 
  - ### 🥰 Best implementations of Material you
-   - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> 
+   - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-   - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup> 
-   - `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup> <sup>`💲`</sup> 
+   - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup>
+   - `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup> <sup>`💲`</sup>
    - `MDY`  [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`Modded`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
 
- - ### 👎 Worst implementations of Material you 
-   - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup> 
+ - ### 👎 Worst implementations of Material you
+   - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup>
    - `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
    - `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)<sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
@@ -152,12 +151,12 @@
 #### (No hate to devs)
 
 
- - ### 🆕 Newly added 
-   - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`🧋FOSS`</sup> 
-   - `MDY` [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
-   - `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
-   - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`🧋FOSS`</sup>  <sup>`#️⃣`</sup> <sup>`🧩`</sup>
-   - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
+ - ### 🆕 Newly added
+    - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
+   - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
+   - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
+   - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`🧋FOSS`</sup>
+   - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup)  <sup>`#️⃣`</sup>  <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -165,7 +164,7 @@
 ## 🎨 Customization
 
  - ### Launcher
-    - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> 
+    - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
     - `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup>
     - `MDY` [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
     - `MDY`  [Kvaesitso](https://kvaesitso.mm20.de/) <sup>`🧋FOSS`</sup>
@@ -194,11 +193,11 @@
 
 
  - ### Widget
-   - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup> 
-   - `MDY`  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) 
-   - `MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💲`</sup> 
-   - `MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💲`</sup> 
-   - `MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💲`</sup> 
+   - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup>
+   - `MDY`  [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget)
+   - `MDY`   [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💲`</sup>
+   - `MDY`   [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💲`</sup>
+   - `MDY`   [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💲`</sup>
    - `MDY`   [Pastel 12](https://play.google.com/store/apps/details?id=work.racka.Pastel12.app) <sup>`💲`</sup>
    - `MDY`   [Motorola Widgets Port](https://www.pling.com/p/1884299) <sup>`Modded`</sup>
    - `MDY` [Widgeet](https://play.google.com/store/apps/details?id=art.widgeet.android)
@@ -207,7 +206,7 @@
 
 
  - ### Icons
-   - `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup> <sup>`💲`</sup> 
+   - `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup> <sup>`💲`</sup>
    - `MDY`  [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons)<sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY`  [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US) <sup>`💲`</sup>
@@ -227,20 +226,20 @@
 
 
  - ### MixPlorer Themes
-   - `MDY` [Mixplorer Theme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) <sup>`🧋FOSS`</sup> 
-   - `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) <sup>`🧋FOSS`</sup> 
+   - `MDY` [Mixplorer Theme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) <sup>`🧋FOSS`</sup>
+   - `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) <sup>`🧋FOSS`</sup>
 
 
  - ### Telegram Themes
-   - `MDY` [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) <sup>`🧋FOSS`</sup> 
-   - `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) <sup>`🧋FOSS`</sup> 
+   - `MDY` [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) <sup>`🧋FOSS`</sup>
+   - `MDY` [Monet Generator](https://github.com/jamal2362/Monet-Generator) <sup>`🧋FOSS`</sup>
 
 
  - ### Other themes
-   - `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> 
+   - `MDY` [RePainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme) <sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [Iconify](https://github.com/Mahmud0808/Iconify) <sup>`🧋FOSS`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Seeker](https://play.google.com/store/apps/details?id=com.looper.seeker) <sup>`#️⃣`</sup>
-   - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`🧋FOSS`</sup> 
+   - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`🧋FOSS`</sup>
    - `MDY` [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
    - `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
    - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`🧋FOSS`</sup>  <sup>`#️⃣`</sup> <sup>`🧩`</sup>
@@ -250,7 +249,7 @@
 ## ⚙️ Tools
 
  - ### File Manager
-   - `MDY`  [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> 
+   - `MDY`  [Material files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
    - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
    - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup><sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
@@ -259,7 +258,7 @@
 
 
  - ### Note/To-Do/Wish-List
-   - `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> 
+   - `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted) <sup>`☕`</sup>
    - `MDY` [Darium](https://play.google.com/store/apps/details?id=partl.Diarium) <sup>`🧋FOSS`</sup> <sup>`☕`</sup>
    - `MDY`  [Simple Notes Pro](https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/) <sup>`🧋FOSS`</sup>
@@ -283,9 +282,9 @@
    - `MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋FOSS`</sup>
    - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
 
-  
+
  - ### QR Scanners
-   - `MDY`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`☕`</sup> 
+   - `MDY`  [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools) <sup>`☕`</sup>
    - `MDY`  [Pixel Scanner](https://github.com/jaikeerthick/Pixel-Scanner) <sup>`🧋FOSS`</sup><sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
    - `MDY` [Barcode Scanner](https://gitlab.com/Atharok/BarcodeScanner) <sup>`🧋FOSS`</sup>
    - `MDY` [Qr & BarCode Scanner Plus](https://play.google.com/store/apps/details?id=com.d4rk.qrcodescanner.plus)
@@ -346,7 +345,7 @@
 
  - ### Camera
    - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)
-   - `MDY` [Motorola Camera Port](https://www.pling.com/p/1884299) <sup>`Modded`</sup>
+   - `MDY` [Motorola Camera Port](https://www.pling.com/p/1884299) <sup>Modded`</sup>
    - `MDY` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`Modded`</sup>
 
  - ### Hardware/Software info
@@ -372,8 +371,8 @@
    - `MD3` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)<sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 
 
----  
-  
+---
+
 ## 🎙️ Media
 
  - ### Youtube
@@ -427,7 +426,7 @@
 
 
  - ### Recorders
-   - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`☕`</sup> 
+   - `MDY` [MicCheck](https://play.google.com/store/apps/details?id=com.jlong.miccheck) <sup>`☕`</sup>
    - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`🧋FOSS`</sup>
    - `MDY` [RecordYou](https://github.com/Bnyro/recordYou) <sup>`🧋FOSS`</sup>
    - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1)
@@ -447,18 +446,18 @@
 ## 💬 Messages
 
  - ### Social media
-   - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
-   - `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
-   - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) 
-   - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) 
+   - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+   - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
+   - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+   - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
    - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
    - `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋FOSS`</sup>
    - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
-   - `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) 
-   - `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-   - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) 
-
-
+   - `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
+   - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+   - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey)
+   - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
+   - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
  - ### Direct messaging
    - `MDY` [Signal You](https://github.com/nekorubu/Signal-You)<sup>`☕`<sup>`🧋FOSS`</sup>
    - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`🧋FOSS`</sup>
@@ -468,7 +467,7 @@
    - `MDY` [Motorola Messages Port](https://www.pling.com/p/1884299) <sup>`Modded`</sup>
    - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
    - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
-   - `MY` [Telegram Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+   - `MY` [Telegram MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
    - `MD3` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
    - `MD3` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
    - `MD3` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
@@ -549,7 +548,7 @@
 
 ## ⚙️ Developers
 
- - ###  Servers 
+ - ###  Servers
     - `MDY` [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) <sup>`🧋 FOSS`</sup>
     - `MDY` [My Server Status App](https://github.com/JGeek00/my-server-status-app) <sup>`🧋 FOSS`</sup>
     - `MDY` [Droid Hole](https://github.com/JGeek00/droid-hole) <sup>`🧋 FOSS`</sup>
@@ -584,7 +583,7 @@
    - `MDY`  [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
    - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases)
    - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
-   - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋FOSS`</sup> 
+   - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋FOSS`</sup>
    - `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
    - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋FOSS`</sup><sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
    - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
@@ -606,15 +605,22 @@
    - `MDY` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`🧋FOSS`</sup>
    - `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋FOSS`</sup>
    - `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋FOSS`</sup>
+
  - ### Food
    - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`🧋FOSS`</sup>
    - `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates)
    - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋FOSS`</sup>
    - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋FOSS`</sup>
+   - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
+
+ - ### Backup
+   - `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
+   - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`🧋FOSS`</sup>
+   - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup)  <sup>`#️⃣`</sup>  <sup>`🧋FOSS`</sup>
+
  - ### Misc
    - `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋FOSS`</sup><sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> <sup>`Modded`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-   - `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup><sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`🧋FOSS`</sup>
    - `MDY`  [Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`🧋FOSS`</sup>
    - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`🧋FOSS`</sup>
@@ -639,27 +645,25 @@
    - `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋FOSS`</sup>
    - `MDY` [Android Easter Eggs](https://github.com/hushenghao/AndroidEasterEggs) <sup>`🧋 FOSS`</sup>
    - `MDY` [Hail](https://github.com/aistra0528/Hail/blob/master/README_EN.md) <sup>`🧋FOSS`</sup><sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
-   - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup> 
+   - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`🧋FOSS`</sup>
+   - `MY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`🧋FOSS`</sup>
+   - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup>
    - `MY` [Compass](https://github.com/SynapseTech/Compass) <sup>`🧋FOSS`</sup>
    - `MY`  [Vanced microG (inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>  <sup>`Modded`</sup>
    - `MY` [Clipboard Cleaner](https://github.com/thatsmanmeet/Clipboard-Cleaner) <sup>`🧋FOSS`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
    - `MD3` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`🧋FOSS`</sup>
+   - `MD3` [WLED Native](https://github.com/Moustachauve/WLED-Native-Android)  <sup>`🧋FOSS`</sup>
 
 ## 💖 Special thanks to these Sources
 
 - 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) A Amazing material you apps list, it was the inspiration of my list uwu!
-
 - 🙂 [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository) Another great list with many apps, a very useful source for apps!
-  
 - 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) Big thanks to all the people who replied!
-
 
 ---
 
-
-- #### 🤳 Phone used: <a  href="https://us.nothing.tech/pages/phone-1"> nothing phone</a>
-
+- #### 🤳 Phone used: [Nothing Phone (1)](https://us.nothing.tech/pages/phone-1)
 - #### ⛏️ Tools used: [VS Code](https://code.visualstudio.com/), [Stack Edit](https://stackedit.io/) & [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba)
 
 ---
