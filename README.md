@@ -143,22 +143,22 @@
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`Modded`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
 
- - ### 👎 Worst implementations of Material you <sup>(No hate to devs)</sup>
+ - ### 👎 Worst implementations of Material you 
    - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup> 
    - `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
    - `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)<sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
    - `MD3` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
+#### (No hate to devs)
 
 
-
- - ### 🆕 Newly added <sup>(5 Newly added apps!)</sup>
+ - ### 🆕 Newly added 
    - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`🧋FOSS`</sup> 
    - `MDY` [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
    - `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
    - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`🧋FOSS`</sup>  <sup>`#️⃣`</sup> <sup>`🧩`</sup>
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
-
+#### (5 Newly added apps!)
 
 ---
 
