@@ -1,4 +1,3 @@
-![MuaKissGIF](https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/2b235703-f5f9-48d4-8371-2f21875861a9)
 <h2  align="center">
 <strong>✨ Material You Apps ✨
 	<h3 align="center"> a list of apps with <a href="https://m3.material.io/"> google's <strong><i> material You</i></strong> design language.
