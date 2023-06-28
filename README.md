@@ -12,7 +12,7 @@
 </h2>
 	<p align="center"></a></p>
 
-<h2> <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/blob/Material-You-Apps/With%20Desc%20(legacy).md"> Click this for a version with descriptions (and the old look)</a></h2>
+<h2 align="center"> <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/blob/Material-You-Apps/With%20Desc%20(legacy).md"> Click this for a version with descriptions (and the old look)</a></h2>
 
 
 <h1  align="center">			
