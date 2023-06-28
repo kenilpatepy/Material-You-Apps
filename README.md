@@ -377,16 +377,16 @@
 ## 💬 Messages
 
  - ### Social media
-   - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ GOING TO SHUT DOWN ON JUNE 30TH 2023`</sup> <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
-   - `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup> <sup>`⚠️ WILL BE SUBSCRIPTION BASED`</sup>
-   - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
-   - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
+   - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
+   - `MDY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
+   - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) 
+   - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) 
    - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
    - `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋FOSS`</sup>
    - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
    - `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks) 
    - `MY` [Twitter Material you Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-   - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️ Will probably die (stop working) due to reddit api changes`</sup>
+   - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) 
 
 
  - ### Direct messaging
