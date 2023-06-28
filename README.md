@@ -64,7 +64,7 @@
 
 ## Feel free to request apps
 
-- 🥰 Best implementations of Material you
+ - ## 🥰 Best implementations of Material you
    - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> 
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY`   [Pixel Search](https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch) <sup>`☕`</sup> 
@@ -75,7 +75,7 @@
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`Modded`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
 
-- 👎 Worst implementations of Material you <sup>(No hate to devs)</sup>
+ - ## 👎 Worst implementations of Material you <sup>(No hate to devs)</sup>
    - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup> 
    - `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
    - `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)<sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
@@ -84,7 +84,7 @@
 
 
 
-- 🆕 Newly added <sup>(5 Newly added apps!)</sup>
+ - ## 🆕 Newly added <sup>(5 Newly added apps!)</sup>
    - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`🧋FOSS`</sup> 
    - `MDY` [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
    - `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
