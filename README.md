@@ -33,11 +33,11 @@
 |**`MDY`**|✔️|✔️|
 |**`MY`**|✔️|❌|
 |**`MD3`**|❌|✔️|
-|**`Soon`**|❓|❓|
+|**`?`**|❓|❓|
 - #### **`MDY`** - An app that follow **BOTH** material 3 design and dynamic colouring.
 - #### **`MY`** - An app that follow dynamic colouring but not material 3 design.
 - #### **`MD3`** - An App that follow material 3 design but not dynamic colouring.
-- #### **`Soon`** - An app that is not yet released.
+- #### **`?`** - An app that is not yet released.
 
 ### 🔖 Other tags
 
@@ -159,7 +159,7 @@
    - `MDY` [Breezly Weather](https://github.com/breezy-weather/breezy-weather) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
    - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
    - `MD3` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
-   - `Soon` [Sync](https://www.reddit.com/r/SyncforLemmy/) <sup>`📆 Planned`</sup>
+   - `?` [Sync](https://www.reddit.com/r/SyncforLemmy/) <sup>`📆 Planned`</sup>
    - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup)  <sup>`#️⃣`</sup>  <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
@@ -465,7 +465,7 @@
      - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
      - `MD3` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
-     - `Soon` [Sync](https://www.reddit.com/r/SyncforLemmy/) <sup>`Soon`</sup>
+     - `?` [Sync](https://www.reddit.com/r/SyncforLemmy/)  <sup>`📆 Planned`</sup>
 
    - #### Mastodon Clients
      - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
