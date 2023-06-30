@@ -51,7 +51,7 @@
 |**<sup>`Modded`</sup>** |<strong> modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
 |**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
 |**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
-|**<sup>`📆 Planned`</sup>|<strong>Apps that haven't been released but have a planned date</strong>|
+|**<sup>`📆 Planned`</sup>**|<strong>Apps that haven't been released but have a planned date</strong>|
 
 ---
 ### 📃 Table of contents
