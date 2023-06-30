@@ -1,27 +1,4 @@
-<h2  align="center">
-<strong>✨ Material You Apps ✨
-	<h3 align="center"> a list of apps with <a href="https://m3.material.io/"> google's <strong><i> material You</i></strong> design language.
-</p> </strong> 
-	<p  align="center">
-		<br>
-<img src="https://m3-markdown-badges.vercel.app/stars/9/3/TeaEndsAcronyms/Material-You-Apps"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/bb23bc55-5f96-4e08-ad14-036058457f64" width="135">
-
-<p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
-
-</h2>
-	<p align="center"></a></p>
-
-
-<h1  align="center">
-<strong>⭐ Revamped ⭐ </strong> <br>
-</br></h1>
-
-
-<h4 align="center"> for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources</a></h4>
-<h5 align="center"> Descriptions will now show the description of app/repository not my descrpitions</h5>
-
----
-
+# THIS WILL NO LONGER GET ANY UPDATES...
 ## 🏷️ Tags
 
 
