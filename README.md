@@ -495,7 +495,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
      - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
 
 
- - ### Direct messaging
+- ### Direct messaging
    - #### Telegram Clients
      - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`🧋FOSS`</sup>
      - `MDY` [ExteraGram](https://github.com/exteraSquad/exteraGram) <sup>`🧋FOSS`</sup>
@@ -514,7 +514,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
      - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
      - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
 
- - ### Callers & Contacts
+- ### Callers & Contacts
     - `MDY` [Koler](https://github.com/Chooloo/koler)  <sup>`🧋FOSS`</sup>
     - `MDY` [Motorola Dialer Port](https://www.pling.com/p/1884299) <sup>`Modded`</sup>
     - `MDY`  [Contacts](https://play.google.com/store/apps/details?id=com.google.android.contacts)
