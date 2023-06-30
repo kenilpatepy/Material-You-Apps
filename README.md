@@ -33,11 +33,11 @@
 |**`MDY`**|✔️|✔️|
 |**`MY`**|✔️|❌|
 |**`MD3`**|❌|✔️|
-
+|**`Soon`**|❓|❓|
 - #### **`MDY`** - An app that follow **BOTH** material 3 design and dynamic colouring.
 - #### **`MY`** - An app that follow dynamic colouring but not material 3 design.
 - #### **`MD3`** - An App that follow material 3 design but not dynamic colouring.
-
+- #### **`Soon`** - An app that is not yet released.
 
 ### 🔖 Other tags
 
@@ -45,13 +45,13 @@
 |:-:|--|
 |**<sup>`☕`</sup>**|<strong> apps that i personally use!</strong>|
 |**<sup>`💲`</sup>**|<strong> paid Apps!</strong>
-|**<sup>`#️⃣`</sup>**|Apps that require root! <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`Definition`</a></sup>|
-|**<sup>`🧩`</sup>**|Apps that require the Xposed framework! <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`Definition`</a></sup>|
+|**<sup>`#️⃣`</sup>**|<strong>Apps that require root!</strong> <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`Definition`</a></sup>|
+|**<sup>`🧩`</sup>**|<strong>Apps that require the Xposed framework!</strong> <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`Definition`</a></sup>|
 |**<sup>`🧋FOSS`</sup>** | <strong> open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`Definition`</a></sup>|
 |**<sup>`Modded`</sup>** |<strong> modded, forked or ported app!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`Definition`</a></sup>|
-|**<sup>`⚠️ Steps Required`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
+|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
 |**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
-
+|**<sup>`📆 Planned`</sup>|<strong>Apps that haven't been released but have a planned date</strong>|
 
 ---
 ### 📃 Table of contents
@@ -98,6 +98,10 @@
     - [Other types of Media](#other-types-of-media)
 - [💬 Messages](#-messages)
     - [Social media](#social-media)
+      - [Reddit Clients](#reddit-clients)
+      - [Lemmy Clients](#lemmy-clients)
+      - [Mastodon Clients](#mastodon-clients)
+      - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
     - [Callers & Contacts](#callers--contacts)
     - [Other types of Messaging](#other-types-of-messaging)
@@ -152,10 +156,10 @@
 
 
  - ### 🆕 Newly added
-    - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
-   - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
-   - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
-   - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`🧋FOSS`</sup>
+   - `MDY` [Breezly Weather](https://github.com/breezy-weather/breezy-weather) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
+   - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+   - `MD3` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
+   - `Soon` [Sync](https://www.reddit.com/r/SyncforLemmy/) <sup>`📆 Planned`</sup>
    - `MDY` [Neo Backup](https://github.com/NeoApplications/Neo-Backup)  <sup>`#️⃣`</sup>  <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
@@ -321,7 +325,8 @@
 
 
  - ### Weather
-   - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`Modded`</sup>
+   - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`Modded`</sup>
+   - `MDY` [Breezly Weather](https://github.com/breezy-weather/breezy-weather) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
    - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
    - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
    - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
@@ -331,7 +336,7 @@
    - `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
    - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`🧋 FOSS`</sup>
    - `MDY` [Air](https://play.google.com/store/apps/details?id=com.urbandroid.air)
-   - `MD3` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/)
+   - `MD3` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) <sup>`☕`</sup>
    - `MD3` [Rain](https://github.com/DarkMooNight/Rain) <sup>`🧋 FOSS`</sup>
 
 
@@ -446,18 +451,32 @@
 ## 💬 Messages
 
  - ### Social media
-   - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-   - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
-   - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
-   - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
-   - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
-   - `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋FOSS`</sup>
-   - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
-   - `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
-   - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
-   - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey)
-   - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
-   - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
+
+   - #### Reddit Clients
+     - `MDY`  [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
+     - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+     - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
+     - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
+     - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
+     - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey)
+
+  - #### Lemmy Clients
+     - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
+     - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+     - `MD3` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
+     - `Soon` [Sync](https://www.reddit.com/r/SyncforLemmy/) <sup>`Soon`</sup>
+
+   - #### Mastodon Clients
+     - `MDY` [Moshidon](https://github.com/LucasGGamerM/moshidon) <sup>`🧋FOSS`</sup> <sup>`Modded`</sup>
+     - `MDY` [Megalodon](https://github.com/sk22/megalodon) <sup>`🧋FOSS`</sup>
+     - `MDY` [Trunks](https://play.google.com/store/apps/details?id=com.decad3nce.trunks)
+
+   - ####  Other Social Medias
+     - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
+     - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)
+
+
  - ### Direct messaging
    - `MDY` [Signal You](https://github.com/nekorubu/Signal-You)<sup>`☕`<sup>`🧋FOSS`</sup>
    - `MDY` [LilGram](https://github.com/lilchill666/LilGram) <sup>`🧋FOSS`</sup>
