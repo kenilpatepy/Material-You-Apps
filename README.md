@@ -461,7 +461,7 @@
      - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
      - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey)
 
-  - #### Lemmy Clients
+   - #### Lemmy Clients
      - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
      - `MD3` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
