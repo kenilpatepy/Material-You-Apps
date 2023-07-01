@@ -609,7 +609,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
 
  - ### MicroG
     - `MY`  [Vanced microG (inotia00)](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>  <sup>`Modded`</sup>
-    - `MY`  [Vanced microG (cuynu)](https://github.com/inotia00/VancedMicroG) <sup>`🧋FOSS`</sup>  <sup>`Modded`</sup>
+    - `MY`  [Vanced microG (cuynu)](https://github.com/cuynu/VancedMicroG) <sup>`🧋FOSS`</sup>  <sup>`Modded`</sup>
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋 FOSS`</sup>
