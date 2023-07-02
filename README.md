@@ -905,8 +905,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
  - ### App/File Cleaners
    - `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer) <sup>`#️⃣`</sup>
    - `MDY` [Cleaner plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) <sup>`🧋FOSS`</sup>
-  - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs) <sup>`#️⃣`</sup>
-  - `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`🧋FOSS`</sup>
+   - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs) <sup>`#️⃣`</sup>
+   - `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`🧋FOSS`</sup>
 
  - ### Miscellaneous.
    - `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> <sup>`Modded`</sup>
