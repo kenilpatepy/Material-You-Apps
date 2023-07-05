@@ -174,6 +174,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
     - [App/File Cleaners](#appfile-cleaners)
     - [Miscellaneous.](#miscellaneous)
 - [💖 Special thanks to these Sources](#-special-thanks-to-these-sources)
+- [📌 Roadmap](#-roadmap) 
     - [🤳 Phone used: <a  href="https://us.nothing.tech/pages/phone-1"> nothing phone</a>](#-phone-used--nothing-phone)
     - [⛏️ Tools used: VS Code, Stack Edit & Smart TOC](#%EF%B8%8F-tools-used-vs-code-stack-edit--smart-toc)
 
@@ -1085,6 +1086,11 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
 - 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) A Amazing material you apps list, it was the inspiration of my list uwu!
 - 🙂 [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository) Another great list with many apps, a very useful source for apps!
 - 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) Big thanks to all the people who replied!
+
+
+## 📌 Roadmap
+
+#### You can see the project roadmap [here!](https://github.com/users/TeaEndsAcronyms/projects/2)
 
 ---
 
