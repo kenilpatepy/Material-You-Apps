@@ -818,9 +818,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
 
 
  - ### Google play store Clients
-   - `MDY`  [Google play store](https://play.google.com/store/games)
-   - `MDY` [Aurora Store (Nightlies)](https://files.auroraoss.com/?folder=AuroraStore/Nightly) <sup>`🧋FOSS`</sup>
-
+   - `MDY` [Aurora Store (Nightlies)](https://www.apkmirror.com/apk/aurora-oss/aurora-store-nightly/aurora-store-nightly-4-2-3-release/) <sup>`🧋FOSS`</sup>
+   - `MD`  [Google play store](https://play.google.com/store/games)
 
  - ### Other App stores
     - `MDY`  [Revanced Manager](https://github.com/revanced/revanced-manager) </sup> <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
