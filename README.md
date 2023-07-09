@@ -143,6 +143,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
       - [School Tools](#school-tools)
       - [Dictionaries & Definitions](#dictionaries--definitions)
       - [Other Educational Apps](#other-educational-apps)
+    - [Brightness and blue light filter](#brightness-and-blue-light-filter) 
     - [Accessibility](#accessibility)
     - [Other Wellbeing & health apps](#other-wellbeing--health-apps)
 - [⚙️ Developers](#%EF%B8%8F-developers)
