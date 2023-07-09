@@ -524,8 +524,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
    - `MDY` [QWeather](https://github.com/Henry-Hiles/QWeather) <sup>`🧋 FOSS`</sup>
    - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`🧋 FOSS`</sup>
    - `MDY` [Air](https://play.google.com/store/apps/details?id=com.urbandroid.air)
-   - `MD` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) <sup>`☕`</sup>
    - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
+   - `MD` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) <sup>`☕`</sup>
    - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`🧋 FOSS`</sup>
 
 
