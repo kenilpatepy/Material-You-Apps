@@ -759,7 +759,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
    - ####  Other Social Medias
      - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
      - `MY` [Infinity For Everything](https://github.com/everything-gripe/Infinity-For-Everything) <sup>`🧋FOSS`</sup>
-     - [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`🧋FOSS`</sup>
+     - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`🧋FOSS`</sup>
      - `MD` [FediLab](https://codeberg.org/tom79/Fedilab) <sup>`🧋FOSS`</sup>
      - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`🧋FOSS`</sup>
      - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`🧋FOSS`</sup>
@@ -950,6 +950,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
     - `MD` [Simple WoL](https://github.com/herzhenr/simple-wake-on-lan) <sup>`🧋 FOSS`</sup>
     - `MD` [CodeAssist](https://github.com/Deenu143/CodeAssist-ALPHA-0.2.9) <sup>`🧋 FOSS`</sup>
 
+---
+
 ## 🔒 Privacy & Security
  - ### Password Managers
    - `MDY` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`🧋FOSS`</sup>
@@ -1006,6 +1008,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
    - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
    - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup>
 
+---
+
 ## 🕹️ Games
   - ### Tic-Tac-Toe
     - `MDY` [Dooz](https://f-droid.org/en/packages/io.github.yamin8000.dooz/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
@@ -1047,6 +1051,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
     - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`💀`</sup>
     - `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`🧋FOSS`</sup> <sup>`🚫 NOT AN APP`</SUP>
     - `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
+
+---
 
 ## 🔨 Misc
 
