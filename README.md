@@ -661,15 +661,15 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
      - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`🧋FOSS`</sup>, [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`🧋FOSS`</sup>
      - `MD` [BiliBiliFork](https://github.com/gitofleonardo/BilibiliFork) <sup>`🧋FOSS`</sup>
 
-   - ### Local Music & Video Players
-     - `MDY`   [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
-     - `MDY`  [Metro](https://github.com/MuntashirAkon/Metro) <sup>`Modded`</sup> <sup>`🧋FOSS`</sup>
-     - `MDY` [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) <sup>`☕`</sup>
-     - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-     - `MDY` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`🧋FOSS`</sup>
-     - `MDY` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`🧋FOSS`</sup>
-     - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`🧋FOSS`</sup>
-     - `MDY` [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
+ - ### Local Music & Video Players
+   - `MDY`   [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
+   - `MDY`  [Metro](https://github.com/MuntashirAkon/Metro) <sup>`Modded`</sup> <sup>`🧋FOSS`</sup>
+   - `MDY` [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) <sup>`☕`</sup>
+   - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
+   - `MDY` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`🧋FOSS`</sup>
+   - `MDY` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`🧋FOSS`</sup>
+   - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`🧋FOSS`</sup>
+   - `MDY` [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
 
  - ### Music Equalizers
    - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`Modded`</sup>
