@@ -2,18 +2,15 @@
 <strong>✨ Material You Apps ✨</h2>
 
 <h3 align="center">
-A list of apps with <a href="https://m3.material.io/"> google's <strong><i> material You</i></strong> design language.
+A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Material You</i></strong> design language.
 </h3> </strong>
 
 <p  align="center">
- 	<img src="https://m3-markdown-badges.vercel.app/stars/9/3/TeaEndsAcronyms/Material-You-Apps"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/bb23bc55-5f96-4e08-ad14-036058457f64" width="135">
+ 	<img src="https://m3-markdown-badges.vercel.app/stars/9/3/TeaEndsAcronyms/Material-You-Apps"> <img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/da83c0d8-847f-4365-a4fc-9388c8cbed70" width="135">
 </p>
 
 <p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
 </p>
-
-<h2 align="center"> <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/blob/Material-You-Apps/With%20Desc%20(legacy).md"> Click this for a version with descriptions (and the old look)</a></h2>
-</h2>
 
 <h1  align="center">			
 <strong>⭐ Revamped ⭐ </strong> <br>
@@ -49,7 +46,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
 |**<sup>`🧩`</sup>**|<strong>Apps that require the Xposed framework!</strong> <sup><a  href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`1`</a></sup>|
 |**<sup>`🧋FOSS`</sup>** | <strong> open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`1`</a></sup>|
 |**<sup>`Modded`</sup>** |<strong> modded<sup><a  href="https://en.wikipedia.org/wiki/Modding#">`1`</a></sup> , forked or ported app!</strong>|
-|**<sup>`⚠️ [Steps Required]`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
+|**<sup>`⚠️ Steps Required`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
 |**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
 
 
@@ -229,11 +226,11 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
 ---
 
 ### 🆕 Newly added
+   - `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`🧋FOSS`</sup>
+   - `MDY` [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
+   - `MDY` [Pure Music](https://github.com/pure-music/PureMusic)
+   - `MDY` [Thorium](https://github.com/Alex313031/Thorium-Special) <sup>`🧋FOSS`</sup>
    - `MD` [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta)
-   - `MY` [Material You Colours](https://play.google.com/store/apps/details?id=com.ch3d.material.color)
-   - `MD` [Compose Material Design 3](https://play.google.com/store/apps/details?id=com.anafthdev.md3compose)
-   - `MD` [Android Material UI/UX](https://play.google.com/store/apps/details?id=com.boltuix.materialuiux)
-   - `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 #### (5 Newly added apps!)
 
 ---
@@ -688,22 +685,26 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
    - `MD` [Tempo](https://github.com/CappielloAntonio/tempo) <sup>`🧋FOSS`</sup>
  
  - ### Local Music & Video Players
-   - `MDY`   [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
-   - `MDY`  [Metro](https://github.com/MuntashirAkon/Metro) <sup>`Modded`</sup> <sup>`🧋FOSS`</sup>
+   - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
+   - `MDY` [Metro](https://github.com/MuntashirAkon/Metro) <sup>`Modded`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Vanilla](https://play.google.com/store/apps/details?id=com.kyant.vanilla) <sup>`☕`</sup>
    - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic) <sup>`🧋FOSS`</sup>
+   - `MDY` [Apex Music](https://github.com/TheTerminatorOfProgramming/ApexMusic) <sup>`🧋FOSS`</sup>
    - `MDY` [Auxio](https://f-droid.org/packages/org.oxycblt.auxio/) <sup>`🧋FOSS`</sup>
    - `MDY` [Symphony](https://github.com/zyrouge/symphony) <sup>`🧋FOSS`</sup>
    - `MDY` [OTO Music](https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US)
-   - `MDY` [Simphonica](https://github.com/AkaneTan/Symphonica) <sup>`🧋FOSS`</sup>
+   - `MDY` [Symphonica](https://github.com/AkaneTan/Symphonica) <sup>`🧋FOSS`</sup>
    - `MDY` [Zen](https://github.com/pakka-papad/Zen) <sup>`🧋FOSS`</sup>
    - `MDY` [Pearl](https://play.google.com/store/apps/details?id=com.pearl.music)
    - `MDY` [Simple Music Player](https://github.com/SimpleMobileTools/Simple-Music-Player) <sup>`🧋FOSS`</sup>
    - `MDY` [Musicmax](https://github.com/TheMusicmax/Musicmax) <sup>`🧋FOSS`</sup>
-   - `MY` [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💲`</sup>
-   - `MD` [Howl](https://github.com/Iamlooker/Howl) <sup>`💀`</sup> <sup>`🧋FOSS`</sup>
-   - `MD` [Mucke](https://github.com/moritz-weber/mucke) <sup>`🧋FOSS`</sup>
+   - `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`🧋FOSS`</sup>
+   - `MDY` [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
+   - `MDY` [Pure Music](https://github.com/pure-music/PureMusic)
+   - `MY`  [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💲`</sup>
+   - `MD`  [Howl](https://github.com/Iamlooker/Howl) <sup>`💀`</sup> <sup>`🧋FOSS`</sup>
+   - `MD`  [Mucke](https://github.com/moritz-weber/mucke) <sup>`🧋FOSS`</sup>
 
  - ### Music Equalizers
    - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`Modded`</sup>
@@ -739,7 +740,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
      - `MD` [Drive Stream](https://github.com/itszechs/DriveStream)
      - `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
      - `MD` [Mplayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
-
+     - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime)
    - #### Tracking
      - `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Openreads](https://github.com/mateusz-bak/openreads-android) <sup>`🧋FOSS`</sup>
@@ -1179,6 +1180,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> mate
    - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋FOSS`</sup>
    - `MDY` [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab)
    - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋FOSS`</sup> <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v5.0)</sup>
+   - `MDY` [Thorium](https://github.com/Alex313031/Thorium-Special) <sup>`🧋FOSS`</sup>
    - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
    - `MD` [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 
