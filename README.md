@@ -690,7 +690,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
  - ### Music Streaming
    - #### YT Music Clients 
      - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-     - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`🧋FOSS`</sup>
      - `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋FOSS`</sup>
      - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`🧋FOSS`</sup>
      - `MDY` [VibeMusic](https://github.com/sheikhhaziq/vibemusic) <sup>`🧋FOSS`</sup>
