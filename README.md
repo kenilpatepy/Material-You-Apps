@@ -12,11 +12,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 <p align="center"><a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3"><img src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3" width="850" alt="NewMateriaYouAppsBanner"></a></p>
 </p>
 
-<h1  align="center">			
-<strong>⭐ Revamped ⭐ </strong> <br>
-</h1>
-
-
 <h4 align="center"> for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources</a></h4>
 <h5 align="center">DESCRIPTIONS WILL ONLY SHOW ON THE LEGACY VERSION</h5>
 
@@ -99,7 +94,9 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
     - [Flashlights](#flashlights)
     - [Navigation](#navigation)
     - [Translators](#translators)
-    - [Shopping](#shopping)
+    - [Groceries, Shopping & Food](#groceries-shopping--food)
+      - [Groceries & Shopping](#groceries--shopping)
+      - [Foods & Recipes](foods--recipes)
 - [📱 Hardware/Software info](#-hardwaresoftware-info)
    - [Specifications Info](#specifications-info)
    - [Battery info](#battery-info)
@@ -171,6 +168,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
       - [Modules & Module Managers](#modules--module-managers)
       - [Other Magisk tools](#other-magisk-tools)
     - [Automation](#automation)
+    - [Proxies & VPNs](#proxies--vpns)
     - [Other developer tools](#other-developer-tools)
 - [🔒 Privacy & Security](#-privacy--security)
   - [Password Managers](#password-managers)
@@ -190,7 +188,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
   - [Other Games](#other-games)
 - [🔨 Misc](#-misc)
     - [Browsers](#browsers)
-    - [Food](#food)
     - [Backup](#backup)
     - [App/File Cleaners](#appfile-cleaners)
     - [Gestures](#gestures)
@@ -207,6 +204,16 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 ## 📄 OverView
 
 ## Feel free to request apps
+
+### 🆕 Newly added
+   - `MDY` [Surfboards](https://play.google.com/store/apps/details?id=com.getsurfboard)
+   - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`🧋FOSS`</sup>
+   - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`🧋FOSS`</sup>
+   - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
+   - `MD` [Echo](https://play.google.com/store/apps/details?id=com.niven.chat)
+#### (5 Newly added apps!)
+
+---
 
 ### 🥰 Best implementations of Material you
    - `MDY`  [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
@@ -229,17 +236,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
    - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
 #### (No hate to devs)
-
-
----
-
-### 🆕 Newly added
-   - `MDY` [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation/blob/compose/README_en.md) <sup>`🧋FOSS`</sup> <sup>`🌍 Chinese`</sup>
-   - `MD` [Instant Translate On Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
-   - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) <sup>`🧋FOSS`</sup>
-   - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`🧋FOSS`</sup>
-   - `MDY` [MyQR](https://github.com/sankethsj/qr-code-generator) <sup>`🧋FOSS`</sup>
-#### (5 Newly added apps!)
 
 ---
 
@@ -402,7 +398,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
      - `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`🧋FOSS`</sup>
      - `MDY` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) <sup>`🧋FOSS`</sup>
      - `MDY`  [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
-     - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍 Chinese`</sup>
+     - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍Simplifed Chinese`</sup>
      - `MDY` [Simple Notes (Yang's Codehub)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
      - `MDY` [Saber](https://github.com/adil192/saber) <sup>`🧋FOSS`</sup>
      - `MDY` [FireNote](https://github.com/T8RIN/Firenote) <sup>`🧋FOSS`</sup>
@@ -487,6 +483,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 
  - ### Image Tools
    - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`🧋FOSS`</sup>
+   - `MDY` [Exif Eraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`🧋FOSS`</sup>
    - `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💲`</sup>
    - `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
    - `MDY` [Image Compresser](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
@@ -555,6 +552,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`🧋FOSS`</sup>
    - `MDY` [Air](https://play.google.com/store/apps/details?id=com.urbandroid.air)
    - `MDY` [ASUS Weather](https://1drv.ms/u/s!Atk49Scq_BtYhHcoe0oAADVVXs3T?e=sGW6zx) <sup>`Modded`</sup>
+   - `MDY` [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
    - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
    - `MD` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) <sup>`☕`</sup>
    - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`🧋FOSS`</sup>
@@ -587,7 +585,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`🧋FOSS`</sup>
    - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) <sup>`🧋FOSS`</sup>
    - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`🧋FOSS`</sup>
-   - `MY` [KryptEY](https://github.com/amnesica/KryptEY) <sup>`🧋FOSS`</sup>
    - `MD` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 
  - ### Flashlights
@@ -608,18 +605,32 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MD` [EVMap](https://github.com/ev-map/EVMap) <sup>`🧋FOSS`</sup>
    - `MD` [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) <sup>`☕`</sup>
    - `MD` [Bimba](https://f-droid.org/packages/xyz.apiote.bimba.czwek/) <sup>`🧋FOSS`</sup>
-
+   - `MD` [AlpiMaps](https://github.com/Akylas/alpimaps) <sup>`🧋FOSS`</sup>
+   - `MD` [OpenStop](https://play.google.com/store/apps/details?id=de.tu_chemnitz.etit.sse.openstop) <sup>`🧋FOSS`</sup>
+   - `MD` [Traewelldroid](https://github.com/Traewelldroid/traewelldroid) <sup>`🧋FOSS`</sup>
+   
 - ### Translators
   - `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
   - `MDY` [TranlateYou](https://github.com/Bnyro/TranslateYou) <sup>`🧋FOSS`</sup>
   - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`🧋FOSS`</sup>
   - `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`🧋FOSS`</sup>
   - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`🧋FOSS`</sup>
-  - `MDY` [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation/blob/compose/README_en.md) <sup>`🧋FOSS`</sup> <sup>`🌍 Chinese`</sup>
+  - `MDY` [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation/blob/compose/README_en.md) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
   - `MD` [Instant Translate On Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
- - ### Shopping
-   - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`🧋FOSS`</sup>
-   - `MD` [Shopin](https://github.com/erdemklync/Shopin) <sup>`🧋FOSS`</sup>
+  
+ - ### Groceries, Shopping & Food
+   - #### Groceries & Shopping
+     - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`🧋FOSS`</sup>
+     - `MD` [Ebay](https://play.google.com/store/apps/details?id=com.ebay.mobile) <sup>`☕`</sup>
+     - `MD` [Shopin](https://github.com/erdemklync/Shopin) <sup>`🧋FOSS`</sup>
+    - #### Foods & Recipes
+     - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`🧋FOSS`</sup>
+     - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`🧋FOSS`</sup>
+     - `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates)
+     - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋FOSS`</sup>
+     - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋FOSS`</sup>
+     - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
+
 ---
 
 ## 📱 Hardware/Software info
@@ -688,8 +699,9 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`🧋FOSS`</sup>
   
  - ### Music Streaming
-   - #### YT Music Clients 
-     - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
+   - #### YT Music Clients
+     - `MDY`  [InnerTune](https://github.com/z-huang/InnerTune) <sup>`🧋FOSS`</sup>
+     - `MDY` [SpMp](https://github.com/toasterofbread/spmp) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Musify](https://github.com/gokadzev/musify) <sup>`🧋FOSS`</sup>
      - `MDY` [ViMusic](https://github.com/vfsfitvnm/ViMusic) <sup>`🧋FOSS`</sup>
      - `MDY` [VibeMusic](https://github.com/sheikhhaziq/vibemusic) <sup>`🧋FOSS`</sup>
@@ -725,6 +737,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
      - `MDY` [SimpleMP](https://github.com/lighttigerXIV/SimpleMP-Compose) <sup>`🧋FOSS`</sup>
      - `MDY` [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree)
      - `MDY` [Pure Music](https://github.com/pure-music/PureMusic)
+     - `MDY` [Musicompose V2](https://github.com/kafri8889/Musicompose-V2) <sup>`🧋FOSS`</sup>
      - `MY`  [Poweramp Music Player](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) <sup>`💲`</sup>
      - `MD`  [Howl](https://github.com/Iamlooker/Howl) <sup>`💀`</sup> <sup>`🧋FOSS`</sup>
      - `MD`  [Mucke](https://github.com/moritz-weber/mucke) <sup>`🧋FOSS`</sup>
@@ -732,8 +745,8 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - #### Local Video Players
      - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
-     - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`🧋FOSS`</sup> <sup>`🌍 Chinese`</sup>
-     - `MDY` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍 Chinese`</sup>
+     - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
+     - `MDY` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍Simplifed Chinese`</sup>
     
  - ### Music Equalizers
    - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`Modded`</sup>
@@ -998,7 +1011,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 
    - ### Quotes
       - `MDY` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`🧋FOSS`</sup>
-      - `MDY` [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) <sup>`🌍 Chinese`</sup>
+      - `MDY` [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) <sup>`🌍Simplifed Chinese`</sup>
       - `MDY` [Literary Clock](https://github.com/AChep/literaryclock) <sup>`🧋FOSS`</sup>
 
    - ### School Tools
@@ -1008,6 +1021,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 
    - ### Dictionaries & Definitions
      - `MDY` [Owl2](https://github.com/yamin8000/Owl2) <sup>`🧋FOSS`</sup>
+     - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
      - `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia)
 
@@ -1020,7 +1034,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 
  - ### Brightness and Blue light filter
    - `MDY` [Blue Light Filter: Night Mode](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
-   - `MDY` [Night Screen](https://github.com/SkyD666/NightScreen) <sup>`🧋FOSS`</sup> <sup>`🌍 Chinese`</sup>
+   - `MDY` [Night Screen](https://github.com/SkyD666/NightScreen) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
    - `MDY` [Low Brightness](https://github.com/D4rK7355608/com.d4rk.lowbrightness) <sup>`🧋FOSS`</sup>
    - `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 
@@ -1054,7 +1068,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
     - `MDY` [Droid Hole](https://github.com/JGeek00/droid-hole) <sup>`🧋FOSS`</sup>
     - `MDY` [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote)
     - `MDY` [Tremotesf](https://play.google.com/store/apps/details?id=org.equeim.tremotesf)
-    - `MDY` [OpenHAB](https://github.com/openhab/openhab-android) <sup>`🧋FOSS`</sup>
+    - `MDY` [OpenHAB](https://github.com/openhab/openhab-android) <sup>`🧋FOSS`</sup>, [LogViewer for OpenHAB](https://play.google.com/store/apps/details?id=com.cyb3rko.logviewerforopenhab)
     - `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
   
  - ### Components
@@ -1097,7 +1111,14 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
  - ### Automation
    - `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`🧋FOSS`</sup>
    - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
+   - `MDY` [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💲`</sup> <sup>`🧩`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+
+ - ### Proxies & VPNs
+   - `MDY` [Surfboards](https://play.google.com/store/apps/details?id=com.getsurfboard)
+   - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`🧋FOSS`</sup>
+   - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`🧋FOSS`</sup>
+   - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋FOSS`</sup>
@@ -1139,6 +1160,7 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
  - ### Link Cleaners
    - `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Leon](https://play.google.com/store/apps/details?id=com.svenjacobs.app.leon)
    - `MY` [URLChecker](https://github.com/TrianguloY/UrlChecker) <sup>`🧋FOSS`</sup>
 
  - ### Encryption
@@ -1228,14 +1250,6 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
    - `MD` [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 
- - ### Food
-   - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`🧋FOSS`</sup>
-   - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`🧋FOSS`</sup>
-   - `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates)
-   - `MDY` [Mealient](https://f-droid.org/en/packages/gq.kirmanak.mealient/) <sup>`🧋FOSS`</sup>
-   - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋FOSS`</sup>
-   - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
-
  - ### Backup
    - `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`☕`</sup> <sup>`⚠️ Steps Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`🧋FOSS`</sup>
@@ -1264,7 +1278,11 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
    - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
    - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
    - `MD` [TalkAI](https://play.google.com/store/apps/details?id=studio.muggle.talkai)
-
+   - `MD` [Echo](https://play.google.com/store/apps/details?id=com.niven.chat)
+   - `MD` [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart), [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart)
+   - `MD` [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai)
+   - `MD` [Material GPT](https://github.com/DylanAkp/MaterialGPT) <sup>`🧋FOSS`</sup>
+   - `Not released` [ChatGPT Android](https://github.com/thewolfprod/ChatGPT-Android) <sup>`🧋FOSS`</sup>
  - ### Uncategorized Google Apps
    - `MDY` [Google Assistant](https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant)
    - `MDY` [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
@@ -1331,20 +1349,18 @@ A list of apps with <a href="https://m3.material.io/"> google's <strong><i> Mate
 ---
 
 ## 🧋 Post List
-I didn't expect the list to get so much stars QwQ, I might take a lot of time to update this list, lots of personal stuff right now. and the fact i wanna add as much as possibe! as for design: im not very good with markdown or HTML. I mean, i know the basics, isn't that enough?! hopefully i can make it look pretty good!
+I didn't expect the list to get so much stars OwO, I might take a lot of time to update this list, lots of personal stuff right now. and the fact i wanna add as much as possibe! as for design: im not very good with markdown or HTML. I mean, i know the basics, isn't that enough?! hopefully i can make it look pretty good!
 
 ### 💖 Special thanks to these Sources
+#### i can't ensure this list to be 100% correct. however, if there is a mistake (Lest be honest, there definitely is.) feel free to inform me!
 
-- 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) A Amazing material you apps list, it was the inspiration of my list uwu!
+- 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) An Amazing material you apps list, it was the inspiration of my list uwu!
 - 🙂 [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository) Another great list with many apps, a very useful source for apps!
-- 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) Big thanks to all the people who replied!
+- 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) [3](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/), Big thanks to all the people who replied!
 
 
 ### 📌 Roadmap
-
 #### You can view the project roadmap [here!](https://github.com/users/TeaEndsAcronyms/projects/2)
-
-
 #### 🤳 Phone used: [Nothing Phone (1)](https://us.nothing.tech/pages/phone-1)
 
 ---
