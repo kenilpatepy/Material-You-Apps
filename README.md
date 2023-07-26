@@ -226,11 +226,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MD` [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes)
-   - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-   - `MD` [Eat Poop You Cat](https://f-droid.org/en/packages/dev.develsinthedetails.eatpoopyoucat) <sup>`🧋FOSS`</sup>
-   - `MDY` [DSU Sideloader](https://f-droid.org/en/packages/vegabobo.dsusideloader) <sup>`🧋FOSS`</sup>
-   - `MD` [JetNote](https://apt.izzysoft.de/fdroid/index/apk/city.zouitel.jetnote) <sup>`🧋FOSS`</sup>
+   - `MY` [Instamash](https://t.me/instasmashrepo) <sup>`👾 Mod`</sup>
+   - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`🧋FOSS`</sup>
+   - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`👾 Mod`</sup>
+   - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
+   - `MDY` [ProtoHax](https://github.com/hax0r31337/ProtoHax) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -449,11 +449,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
       - `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
       - `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`🧋FOSS`</sup>
       - `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`🧋FOSS`</sup>
+      - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`🧋FOSS`</sup>
       - `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
       - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
       - `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
       - `MD` [Engross](https://play.google.com/store/apps/details?id=com.engross)
-
+  
    - #### Other Note Apps
      - `MDY` [BueuTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Flowte](https://www.coolapk1s.com/feed/42984209)
@@ -547,6 +548,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
        - `MDY` [Allowance](https://github.com/jameskokoska/Allowance) <sup>`🧋FOSS`</sup>
        - `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
        - `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance)
+       - `MDY` [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase)
        - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
        - `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
        - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii)
@@ -606,6 +608,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`☕`</sup>
    - `MDY` [Simple keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`🧋FOSS`</sup>
    - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`🧋FOSS`</sup>
+   - `MDY` [Fboard](https://t.me/s/fredboard/42)
    - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) <sup>`🧋FOSS`</sup>
    - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`🧋FOSS`</sup>
    - `MD` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
@@ -919,8 +922,9 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `Not released` [Vendetta](https://github.com/vendetta-mod/Vendetta)
 
    - #### Instagram Clients
-     - `MY` [Instander](https://thedise.me/instander/repo/)
-     - `MY` [Honista](https://t.me/Honistagram)
+     - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`👾 Mod`</sup>
+     - `MY` [Honista](https://t.me/Honistagram) <sup>`👾 Mod`</sup>
+     - `MY` [Instamash](https://t.me/instasmashrepo) <sup>`👾 Mod`</sup>
 
    - #### Bilibili Clients
      - `MDY` [Bili You](https://github.com/lucinhu/bili_you) <sup>`🧋FOSS`</sup>
@@ -1014,7 +1018,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [AliucordRN](https://github.com/Aliucord/AliucordRN) <sup>`🧋FOSS`</sup>
     - `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`🧋FOSS`</sup>
     - `MDY` [GrapheneOS Apps](https://github.com/GrapheneOS/Apps)
-
+    - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`👾 Mod`</sup>
 ---
 
 ## ❤️‍🩹 Well-being & health
@@ -1144,6 +1148,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`🧋FOSS`</sup>
    - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`🧋FOSS`</sup>
    - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
+   - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋FOSS`</sup>
@@ -1253,6 +1258,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Compose Classic Snake Game](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`🧋FOSS`</sup>
     - `MDY` [Animite](https://github.com/lucasnlm/antimine-android) <sup>`🧋FOSS`</sup>
     - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`💀`</sup>
+    - `MDY` [ProtoHax](https://github.com/hax0r31337/ProtoHax) <sup>`🧋FOSS`</sup>
     - `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`🧋FOSS`</sup> <sup>`🚫 NOT AN APP`</SUP>
     - `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
     - `MD` [Eat Poop You Cat](https://f-droid.org/en/packages/dev.develsinthedetails.eatpoopyoucat) <sup>`🧋FOSS`</sup>
@@ -1266,6 +1272,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY`  [Styx](https://github.com/jamal2362/Styx) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`🧋FOSS`</sup> <sup>`💀`</sup>
    - `MDY`  [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
+   - `MDY` [Cromite](https://github.com/uazo/cromite) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases)
    - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
    - `MDY` [Thor](https://gitlab.com/remmer.wilts/thor) <sup>`🧋FOSS`</sup>
