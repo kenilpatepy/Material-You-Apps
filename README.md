@@ -1384,7 +1384,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 I didn't expect the list to get so much stars OwO, I might take a lot of time to update this list, lots of personal stuff right now. and the fact i wanna add as much as possibe! as for design: im not very good with markdown or HTML. I mean, i know the basics, isn't that enough?! hopefully i can make it look pretty good!
 
 ### 💖 Special thanks to these Sources
-#### i can't ensure this list to be 100% correct. however, if there is a mistake (Lest be honest, there definitely is.) feel free to inform me!
+#### i can't ensure this list to be 100% correct. however, if there is a mistake (Lets be honest, there definitely is.) feel free to inform me!
 
 - 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) An Amazing material you apps list, it was the inspiration of my list uwu!
 - 🙂 [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository) Another great list with many apps, a very useful source for apps!
