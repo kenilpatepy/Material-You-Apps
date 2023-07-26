@@ -61,7 +61,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 |**<sup>`🧋FOSS`</sup>** | <strong> open-Source!</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`1`</a></sup>|
 |**<sup>`Modded`</sup>** |<strong> modded<sup><a  href="https://en.wikipedia.org/wiki/Modding#">`1`</a></sup> , forked or ported app!</strong>|
 |**<sup>`⚠️ Steps Required`</sup>**|<strong> additional steps required to install/setup or get material you.</strong>|
-|**<sup>`🌍 [Language]`</sup>**|<strong> the language of the app. shown if an app is not english.</strong>|
+|**<sup>`🌍[ISO 639-1]`</sup>**|<strong> the ISO 639-1<sup><a href="https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes">`1`</a></sup> code of the language. shown if an app is not english.</strong>|
 
 
 ---
@@ -401,7 +401,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer) <sup>`💲`</sup>
    - `MDY` [ASUS File Explorer](https://1drv.ms/u/s!Atk49Scq_BtYhHhx754A6fZn27Zg?e=RdeWRf) <sup>`Modded`</sup>
    - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
-   - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`🧋FOSS`</sup> <sup>`🌍Spanish`</sup>
+   - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`🧋FOSS`</sup> <sup>`🌍es-ES`</sup>
    - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`⚠️ Steps Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
    - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋FOSS`</sup>
    
@@ -420,7 +420,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [JustNotes](https://github.com/jjewuz/JustNotes) <sup>`🧋FOSS`</sup>
      - `MDY` [WishApp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp) <sup>`🧋FOSS`</sup>
      - `MDY`  [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
-     - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍Simplifed Chinese`</sup>
+     - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌍zh-CN`</sup>
      - `MDY` [Simple Notes (Yang's Codehub)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
      - `MDY` [Saber](https://github.com/adil192/saber) <sup>`🧋FOSS`</sup>
      - `MDY` [FireNote](https://github.com/T8RIN/Firenote) <sup>`🧋FOSS`</sup>
@@ -575,7 +575,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Prognoza](https://github.com/davidtakac/prognoza) <sup>`🧋FOSS`</sup>
    - `MDY` [Air](https://play.google.com/store/apps/details?id=com.urbandroid.air)
    - `MDY` [ASUS Weather](https://1drv.ms/u/s!Atk49Scq_BtYhHcoe0oAADVVXs3T?e=sGW6zx) <sup>`Modded`</sup>
-   - `MDY` [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
+   - `MDY` [Maweihao Weather](https://www.coolapk.com/apk/top.maweihao.weather) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CN`</sup>
    - `MY` [YoWindow Weather](https://play.google.com/store/apps/details?id=yo.app.free)
    - `MD` [Nothing weather](https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/) <sup>`☕`</sup>
    - `MD` [Rain](https://github.com/DarkMooNight/Rain) <sup>`🧋FOSS`</sup>
@@ -638,7 +638,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
   - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`🧋FOSS`</sup>
   - `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`🧋FOSS`</sup>
   - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`🧋FOSS`</sup>
-  - `MDY` [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation/blob/compose/README_en.md) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
+  - `MDY` [FunnyTranslation](https://github.com/FunnySaltyFish/FunnyTranslation/blob/compose/README_en.md) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CN`</sup>
   - `MD` [Instant Translate On Screen](https://play.google.com/store/apps/details?id=com.spaceship.screen.textcopy)
   
  - ### Groceries, Shopping & Food
@@ -768,8 +768,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - #### Local Video Players
      - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`Modded`</sup>
-     - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
-     - `MDY` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍Simplifed Chinese`</sup>
+     - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CN`</sup>
+     - `MDY` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍zh-CN`</sup>
     
  - ### Music Equalizers
    - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`Modded`</sup>
@@ -1036,7 +1036,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
    - ### Quotes
       - `MDY` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`🧋FOSS`</sup>
-      - `MDY` [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) <sup>`🌍Simplifed Chinese`</sup>
+      - `MDY` [Onesentence](https://www.coolapk.com/apk/kenmizz.onesentence) <sup>`🌍zh-CN`</sup>
       - `MDY` [Literary Clock](https://github.com/AChep/literaryclock) <sup>`🧋FOSS`</sup>
 
    - ### School Tools
@@ -1059,7 +1059,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### Brightness and Blue light filter
    - `MDY` [Blue Light Filter: Night Mode](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter)
-   - `MDY` [Night Screen](https://github.com/SkyD666/NightScreen) <sup>`🧋FOSS`</sup> <sup>`🌍Simplifed Chinese`</sup>
+   - `MDY` [Night Screen](https://github.com/SkyD666/NightScreen) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CN`</sup>
    - `MDY` [Low Brightness](https://github.com/D4rK7355608/com.d4rk.lowbrightness) <sup>`🧋FOSS`</sup>
    - `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 
