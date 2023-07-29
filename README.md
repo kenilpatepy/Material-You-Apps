@@ -918,8 +918,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - #### Discord Clients
      - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`🧋FOSS`</sup>
      - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://github.com/MrSpidercat/Matu)[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
+     - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`⚠️Steps Needed`[`#1`](https://vorlie.pl/materialdetta)</sup>
      - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
-     - `Not released` [Vendetta](https://github.com/vendetta-mod/Vendetta)
 
    - #### Instagram Clients
      - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`👾 Mod`</sup>
