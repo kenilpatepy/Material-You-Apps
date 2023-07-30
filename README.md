@@ -115,7 +115,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [Translators](#translators)
     - [Groceries, Shopping & Food](#groceries-shopping--food)
       - [Groceries & Shopping](#groceries--shopping)
-      - [Foods & Recipes](foods--recipes)
+      - [Foods & Recipes](#foods--recipes)
 - [📱 Hardware/Software info](#-hardwaresoftware-info)
    - [Specifications Info](#specifications-info)
    - [Battery info](#battery-info)
