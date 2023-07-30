@@ -226,11 +226,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MD` [PixAI.Art](https://play.google.com/store/apps/details?id=art.pixai.pixai)
+   - `MDY` [KeepassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`🧋FOSS`</sup> <sup>`💲`</sup>
    - `MY` [Instamash](https://t.me/instasmashrepo) <sup>`👾 Mod`</sup>
-   - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`🧋FOSS`</sup>
+   - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases)
    - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`👾 Mod`</sup>
-   - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
-   - `MDY` [ProtoHax](https://github.com/hax0r31337/ProtoHax) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -449,7 +449,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
       - `MDY` [Taskito](https://play.google.com/store/apps/details?id=com.fenchtose.reflog)
       - `MDY` [Tasky](https://github.com/thatsmanmeet/Tasky) <sup>`🧋FOSS`</sup>
       - `MDY` [Mint Task](https://github.com/boredcodebyk/minttask) <sup>`🧋FOSS`</sup>
-      - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases) <sup>`🧋FOSS`</sup>
+      - `MDY` [Todoify](https://github.com/MGAndroidProjects/Todoify-Releases)
       - `MY` [Todoist](https://play.google.com/store/apps/details?id=com.todoist)
       - `MY` [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
       - `MD` [Tasks](https://play.google.com/store/apps/details?id=com.redmerah.tasks)
@@ -609,9 +609,9 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Simple keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`🧋FOSS`</sup>
    - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`🧋FOSS`</sup>
    - `MDY` [Fboard](https://t.me/s/fredboard/42)
+   - `MDY` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)
    - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) <sup>`🧋FOSS`</sup>
    - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`🧋FOSS`</sup>
-   - `MD` [Gboard for florisboard theme](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme) <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
 
  - ### Flashlights
    - `MDY` [Flashlight-Tiramisu](https://github.com/polodarb/Flashlight-Tiramisu) <sup>`🧋FOSS`</sup>
@@ -1162,6 +1162,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 ## 🔒 Privacy & Security
  - ### Password Managers
+   - `MDY` [KeepassDX](https://github.com/Kunzisoft/KeePassDX) <sup>`🧋FOSS`</sup> <sup>`💲`</sup>
    - `MDY` [Simple Password](https://github.com/grigorevmp/Simple_Passwords_QuickPass) <sup>`🧋FOSS`</sup>
    - `MDY` [Keyguard for Bitwarden](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) <sup>`👾 Mod`</sup>
    - `MDY` [Pincredible](https://github.com/cyb3rko/pincredible) <sup>`🧋FOSS`</sup>
@@ -1314,6 +1315,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Genie Anime](https://play.google.com/store/apps/details?id=com.vyroai.animeart), [Imagine](https://play.google.com/store/apps/details?id=com.vyroai.aiart)
    - `MD` [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai)
    - `MD` [Material GPT](https://github.com/DylanAkp/MaterialGPT) <sup>`🧋FOSS`</sup>
+   - `MD` [PixAI.Art](https://play.google.com/store/apps/details?id=art.pixai.pixai)
    - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
    - `Not released` [ChatGPT Android](https://github.com/thewolfprod/ChatGPT-Android) <sup>`🧋FOSS`</sup>
    
