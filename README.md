@@ -649,7 +649,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Grocy](https://github.com/patzly/grocy-android) <sup>`🧋FOSS`</sup>
      - `MD` [Ebay](https://play.google.com/store/apps/details?id=com.ebay.mobile) <sup>`☕`</sup>
      - `MD` [Shopin](https://github.com/erdemklync/Shopin) <sup>`🧋FOSS`</sup>
-    - #### Foods & Recipes
+     
+   - #### Foods & Recipes
      - `MDY` [Menza](https://github.com/Lastaapps/menza) <sup>`🧋FOSS`</sup>
      - `MDY` [Food-E](https://github.com/SuhasDissa/Food-E-App) <sup>`🧋FOSS`</sup>
      - `MDY` [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates)
