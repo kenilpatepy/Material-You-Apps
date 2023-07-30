@@ -885,13 +885,13 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### Social media
    - #### Reddit Clients
      - `MDY`  [Sync](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-05-03-1718-release/) <sup>`☕`</sup> <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-     - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
-     - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit)
+     - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
-     - `MDY` [Boost](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) 
-     - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup>
-     - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
-     - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey)
+     - `MDY` [Boost](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
 
    - #### Twitter Clients
      - `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
@@ -1144,7 +1144,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 
  - ### Proxies & VPNs
-   - `MDY` [Surfboards](https://play.google.com/store/apps/details?id=com.getsurfboard)
+   - `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
    - `MDY` [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) <sup>`🧋FOSS`</sup>
    - `MDY` [WSProxy](https://gitlab.com/Nekogram/wsproxy) <sup>`🧋FOSS`</sup>
    - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
