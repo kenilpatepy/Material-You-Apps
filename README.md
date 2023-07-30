@@ -1292,7 +1292,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Android Enhancer](https://github.com/iamlooper/Android-Enhancer) <sup>`#️⃣`</sup>
    - `MDY` [Cleaner plus](https://github.com/D4rK7355608/com.d4rk.cleaner.plus) <sup>`🧋FOSS`</sup>
    - `MDY` [FDE.AI](https://github.com/feravolt/FDE.AI-docs) <sup>`#️⃣`</sup>
-   - `MD` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`🧋FOSS`</sup>
+   - `MDY` [SD Maid SE](https://github.com/d4rken-org/sdmaid-se) <sup>`🧋FOSS`</sup>
 
  - ### Gestures
    - `MDY`  [Tap, Tap](https://github.com/KieronQuinn/TapTap) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
