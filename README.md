@@ -149,7 +149,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 - [💬 Communication](#-communication)
     - [Social media](#social-media)
       - [Reddit Clients](#reddit-clients)
-      - [Twitter Clients](#twitter-clients)
+      - [Twitter (X) Clients](#twitter-x-clients)
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
@@ -901,7 +901,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MD` [Geddit](https://f-droid.org/packages/geddit.buzl.uk/) <sup>`🧋FOSS`</sup>
 
-   - #### Twitter Clients
+   - #### Twitter (X) Clients
      - `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
      - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`🧋FOSS`</sup>
      - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
