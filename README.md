@@ -116,6 +116,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [Groceries, Shopping & Food](#groceries-shopping--food)
       - [Groceries & Shopping](#groceries--shopping)
       - [Foods & Recipes](#foods--recipes)
+    - [Measuring Tools](#measuring-tools) 
 - [📱 Hardware/Software info](#-hardwaresoftware-info)
    - [Specifications Info](#specifications-info)
    - [Battery info](#battery-info)
@@ -226,11 +227,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MD` [Hiddify Next](https://github.com/hiddify/hiddify-next) <sup>`🧋FOSS`</sup>
-   - `MDY` [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos)
-   - `MDY` [SimpMusic](https://github.com/maxrave-dev/SimpMusic) <sup>`🧋FOSS`</sup>
-   - `MDY` [Just Another Workout Timer](https://f-droid.org/en/packages/com.blockbasti.justanotherworkouttimer/) <sup>`🧋FOSS`</sup>
-   - `MD` [Geddit](https://f-droid.org/packages/geddit.buzl.uk/) <sup>`🧋FOSS`</sup>
+   - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
+   - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
+   - `MDY` [M3 Lightmeter](https://github.com/vodemn/m3_lightmeter) <sup>`🧋FOSS`</sup>
+   - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
+   - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
 #### (5 Newly added apps!)
 
 ---
@@ -662,6 +663,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [CookHelper](https://github.com/T8RIN/CookHelper) <sup>`🧋FOSS`</sup>
      - `MDY` [KitchenOwl](https://github.com/tombursch/kitchenowl) <sup>`🧋FOSS`</sup>
 
+ - ### Measuring Tools
+   - `MDY` [M3 Lightmeter](https://github.com/vodemn/m3_lightmeter) <sup>`🧋FOSS`</sup>
+   - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
+   - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
+    
 ---
 
 ## 📱 Hardware/Software info
@@ -1011,8 +1017,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## 🏪 App Stores
  - ### F-Droid clients
    - `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`🧋FOSS`</sup>
-   - `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-   - `MY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`🧋FOSS`</sup>
+   - `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`🧋FOSS`</sup>
+   - `MDY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
   
  - ### Google play store Clients
    - `MDY` [Aurora Store (Nightlies)](https://www.apkmirror.com/apk/aurora-oss/aurora-store-nightly/aurora-store-nightly-4-2-3-release/) <sup>`🧋FOSS`</sup>
@@ -1214,6 +1220,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### Permissions Manager
    - `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`🧋FOSS`</sup>
+   - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
 
  - ### Other Privacy & Security apps
    - `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard) <sup>`🧋FOSS`</sup>
@@ -1363,7 +1370,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [WADBS (Wireless ADB Switch)](https://github.com/Smooth-E/wireless-adb-switch) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [LogFox](https://github.com/F0x1d/LogFox)  <sup>`🧋FOSS`</sup>
    - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`🧋FOSS`</sup>
-   - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
    - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
    - `MDY` [Easy Sticker Maker](https://play.google.com/store/apps/details?id=com.flowbro.easysticker)
    - `MDY` [Coffee](https://github.com/mueller-ma/Coffee) <sup>`🧋FOSS`</sup>
@@ -1389,7 +1395,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`🧋FOSS`</sup>
    - `MD` [RoByte](https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte)
    - `MD` [PlainApp](https://github.com/ismartcoding/plain-app) <sup>`🧋FOSS`</sup>
-   - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
    - `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MD` [Android Auto Xlauncher Unlocked](https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked) <sup>`🧋FOSS`</sup>
    - `MD` [HalfDot](https://github.com/davquar/halfdot) <sup>`🧋FOSS`</sup>
@@ -1397,6 +1402,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
    - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`🧋FOSS`</sup>
    - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
+   - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
 ---
 
 ## 🧋 Post List
