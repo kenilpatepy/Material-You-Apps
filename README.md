@@ -325,7 +325,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Everyday](https://play.google.com/store/apps/details?id=com.pranavpandey.calendar)
    - `MDY` [Nothing KWGT](https://play.google.com/store/apps/details?id=nothing.cnt.kwgt)
    - `MDY` [Nothing Weather KOMP](https://github.com/bhaskar966/Nothing-Weather-KOMP)
-   - `MDY` [Flip Coin Widget](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip)
+   - `MDY` [Flip Clock Widget](https://play.google.com/store/apps/details?id=art.widgeet.android.clock.flip)
    - `MDY` [Koncept KWGT](https://play.google.com/store/apps/details?id=com.theveloper.akoncept) <sup>`💲`</sup>
    - `MDY` [Kombine KWGT](https://play.google.com/store/apps/details?id=com.theveloper.kombine.app) <sup>`💲`</sup>
    - `MDY` [Android 13 KWGT widgets](https://play.google.com/store/apps/details?id=android12widget.kustom.pack) <sup>`💲`</sup>
