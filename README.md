@@ -66,7 +66,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 ---
 ### 📃 Table of contents
-[✨ Material You Apps ✨](#-material-you-apps-)
+[✨ Material You Apps ✨](#--material-you-apps-)
 <!-- @IGNORE PREVIOUS: anchor -->
 - [🏷️ Tags](#%EF%B8%8F-tags)
     - [🎨 Material you Tags](#-material-you-tags)
