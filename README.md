@@ -228,11 +228,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MY` [Reykunyutsyìp](https://apt.izzysoft.de/fdroid/index/apk/com.kip.reykunyutsyip) <sup>`🧋FOSS`</sup>
+   - `MY` [Infinity (Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`🧋FOSS`</sup>
    - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
    - `MDY` [Sync (Lemmy)](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync) <sup>`☕`</sup>
    - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
-   - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
-   - `MDY` [M3 Lightmeter](https://github.com/vodemn/m3_lightmeter) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -903,7 +903,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`🧋FOSS`</sup>
      - `MDY` [Boost (Reddit)](https://play.google.com/store/apps/details?id=com.rubenmayayo.reddit) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-     - `MY` [Infinity](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
+     - `MY` [Infinity (Reddit)](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit&hl=en_US&gl=US) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MY` [Joey](https://play.google.com/store/apps/details?id=o.o.joey) <sup>`⚠️Steps Needed`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MD` [Geddit](https://f-droid.org/packages/geddit.buzl.uk/) <sup>`🧋FOSS`</sup>
@@ -919,6 +919,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
      - `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`🧋FOSS`</sup>
+     - `MY` [Infinity (Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`🧋FOSS`</sup>
      - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
      - `Not released` [Boost (Lemmy)](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
      
@@ -1072,6 +1073,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Owl2](https://github.com/yamin8000/Owl2) <sup>`🧋FOSS`</sup>
      - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
+     - `MY` [Reykunyutsyìp](https://apt.izzysoft.de/fdroid/index/apk/com.kip.reykunyutsyip) <sup>`🧋FOSS`</sup>
      - `MD` [Wikipedia](https://play.google.com/store/apps/details?id=org.wikipedia)
 
    - ### Other Educational Apps
