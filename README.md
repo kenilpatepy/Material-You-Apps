@@ -129,6 +129,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
        - [Media Downloaders](#media-downloaders)
        - [Torrent](#torrent)
     - [Youtube](#youtube)
+    - [Bilibili Clients](#bilibili-clients)
     - [Music Streaming](#music-streaming)
       - [YT Music Clients](#yt-music-clients)
       - [Spotify clients](#spotify-clients)
@@ -155,7 +156,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
       - [Instagram Clients](#instagram-clients)
-      - [Bilibili Clients](#bilibili-clients)
       - [Social Media Redirectors](#social-media-redirectors)
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
@@ -228,11 +228,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MDY` [FileBin](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile) <sup>`🧋FOSS`</sup>
-   - `MY` [Reykunyutsyìp](https://apt.izzysoft.de/fdroid/index/apk/com.kip.reykunyutsyip) <sup>`🧋FOSS`</sup>
-   - `MY` [Infinity (Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`🧋FOSS`</sup>
-   - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
-   - `MDY` [Sync (Lemmy)](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync) <sup>`☕`</sup>
+   - `MD` [FongMI TV](https://github.com/FongMi/TV) <sup>`🌍zh-CN`</sup> <sup>`🧋FOSS`</sup>
+   - `MD` [Onstream](https://onstream.so/)
+   - `MDY` [Easybangumi](https://easybangumi.org/zh/) <sup>`🌍zh-CN`</sup>
+   - `MDY` [Awara](https://t.me/misakamaterialyou/199) <sup>`💀`</sup> <sup>`👾 Mod`</sup>
+   - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -736,6 +736,14 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`🧋FOSS`</sup>
    - `MY` [Revanced (Extended)](https://github.com/revanced/revanced-manager) <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
    - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`🧋FOSS`</sup>
+
+   
+ - #### Bilibili Clients
+   - `MDY` [Bili You](https://github.com/lucinhu/bili_you) <sup>`🧋FOSS`</sup>
+   - `MDY` [bi](https://github.com/storytellerF/bi) <sup>`🧋FOSS`</sup>
+   - `MY` [Bilimiao 2](https://github.com/10miaomiao/bilimiao2) <sup>`🧋FOSS`</sup>
+   - `MY` [Bilibili Mod](https://t.me/misakamaterialyou/428) <sup>`👾 Mod`</sup>
+   - `Not Released` [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) <sup>`🧋FOSS`</sup>
   
  - ### Music Streaming
    - #### YT Music Clients
@@ -786,7 +794,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`👾 Mod`</sup>
      - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CN`</sup>
-     - `MDY` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍zh-CN`</sup>
+     - `MD` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌍zh-CN`</sup>
     
  - ### Music Equalizers
    - `MDY` [Flat Equalizer](https://t.me/waifupx_official/239) <sup>`👾 Mod`</sup>
@@ -794,7 +802,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [RootlessJamesDSP](https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`</sup>
    - `MDY` [ViperFX RE](https://github.com/WSTxda/ViperFX-RE-Releases) <sup>`🧋FOSS`</sup>  <sup>`#️⃣`</sup>
    - `MY` [Poweramp Equalizer](https://play.google.com/store/apps/details?id=com.maxmpz.equalizer)
-
 
  - ### Books & TV Trackers, Readers & Streaming.
    - #### Manga/E-book Reader
@@ -817,12 +824,17 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`🧋FOSS`</sup>
      - `MDY` [Aniyomi](https://github.com/aniyomiorg/aniyomi) <sup>`🧋FOSS`</sup>
      - `MDY` [Dank Chat](https://play.google.com/store/apps/details?id=com.flxrs.dankchat)
+     - `MDY` [Easybangumi](https://easybangumi.org/zh/) <sup>`🌍zh-CN`</sup>
+     - `MDY` [Awara](https://t.me/misakamaterialyou/199) <sup>`💀`</sup> <sup>`👾 Mod`</sup>
      - `MD` [Dango Player](https://github.com/brunochanrio/DangoPlayer)
      - `MD` [Burning Series](https://github.com/DATL4G/Burning-Series)
      - `MD` [Drive Stream](https://github.com/itszechs/DriveStream)
      - `MD` [Symfonium](https://play.google.com/store/apps/details?id=app.symfonik.music.player)
      - `MD` [Mplayer](https://play.google.com/store/apps/details?id=com.mplayer.streamcast)
-     - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime)
+     - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime) <sup>`🧋FOSS`</sup>
+     - `MD` [AGE](https://github.com/xihan123/AGE) <sup>`🧋FOSS`</sup>
+     - `MD` [FongMI TV](https://github.com/FongMi/TV) <sup>`🌍zh-CN`</sup> <sup>`🧋FOSS`</sup>
+     - `MD` [Onstream](https://onstream.so/)
    
    - #### Tracking
      - `MDY`  [AniHyou](https://github.com/axiel7/AniHyou-android) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
@@ -913,6 +925,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
      - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`🧋FOSS`</sup>
      - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
+     - `MY` [Squawker](https://github.com/j-fbriere/squawker) <sup>`🧋FOSS`</sup>
      - `MD` [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker)
 
    - #### Lemmy Clients
@@ -943,12 +956,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MY` [Honista](https://t.me/Honistagram) <sup>`👾 Mod`</sup>
      - `MY` [Instamash](https://t.me/instasmashrepo) <sup>`👾 Mod`</sup>
 
-   - #### Bilibili Clients
-     - `MDY` [Bili You](https://github.com/lucinhu/bili_you) <sup>`🧋FOSS`</sup>
-     - `MDY` [bi](https://github.com/storytellerF/bi) <sup>`🧋FOSS`</sup>
-     - `MY` [Bilimiao 2](https://github.com/10miaomiao/bilimiao2) <sup>`🧋FOSS`</sup>
-     - `MY` [Bilibili Mod](https://t.me/misakamaterialyou/428) <sup>`👾 Mod`</sup>
-
   - #### Social Media Redirectors
    - `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`🧋FOSS`</sup>
    - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
@@ -968,6 +975,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`🧋FOSS`</sup>
      - `MD` [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) <sup>`🧋FOSS`</sup>
      - `MD` [FediPhoto-Lineage](https://f-droid.org/en/packages/com.fediphoto.lineage/)
+     - `MD` [Jami Android Client](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>`🧋FOSS`</sup>
      - `Not released` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`🧋FOSS`</sup>
 
 - ### Direct messaging
@@ -1285,6 +1293,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Animite](https://github.com/lucasnlm/antimine-android) <sup>`🧋FOSS`</sup>
     - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`💀`</sup>
     - `MDY` [ProtoHax](https://github.com/hax0r31337/ProtoHax) <sup>`🧋FOSS`</sup>
+    - `MDY` [TempleBlock](https://github.com/AkaneTan/TempleBlock) <sup>`🧋FOSS`</sup>
     - `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`🧋FOSS`</sup> <sup>`🚫 NOT AN APP`</SUP>
     - `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
     - `MD` [Eat Poop You Cat](https://f-droid.org/en/packages/dev.develsinthedetails.eatpoopyoucat) <sup>`🧋FOSS`</sup>
@@ -1410,6 +1419,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`🧋FOSS`</sup>
    - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
    - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
+   - `MD` [SimCardStoreManagement](https://github.com/maxrave-dev/SimCardStoreManagement) <sup>`🧋FOSS`</sup>
 ---
 
 ## 🧋 Post List
