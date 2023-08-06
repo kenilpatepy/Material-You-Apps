@@ -228,11 +228,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [FileBin](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile) <sup>`🧋FOSS`</sup>
    - `MY` [Reykunyutsyìp](https://apt.izzysoft.de/fdroid/index/apk/com.kip.reykunyutsyip) <sup>`🧋FOSS`</sup>
    - `MY` [Infinity (Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`🧋FOSS`</sup>
    - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
    - `MDY` [Sync (Lemmy)](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync) <sup>`☕`</sup>
-   - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -409,9 +409,10 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋FOSS`</sup>
    
  - ### File Sharing
-   - `MDY` [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋FOSS`</sup>
+   - `MDY` [LocalSmend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋FOSS`</sup>
    - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) <sup>`🧋FOSS`</sup>
    - `MDY` [ASUS phone clone](https://play.google.com/store/apps/details?id=com.futuredial.asusdatatransfer)
+   - `MDY` [FileBin](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile) <sup>`🧋FOSS`</sup>
    - `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`🧋FOSS`</sup>
    - `MD` [Photon](https://github.com/abhi16180/photon) <sup>`🧋FOSS`</sup>
 
@@ -958,10 +959,10 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`👾 Mod`</sup>
      - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
      - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`🧋FOSS`</sup>
+     - `MDY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`🧋FOSS`</sup>
      - `MDY` [Claw](https://apt.izzysoft.de/fdroid/index/apk/dev.msfjarvis.claw.android) <sup>`🧋FOSS`</sup>
      - `MY` [Infinity For Everything](https://github.com/everything-gripe/Infinity-For-Everything) <sup>`🧋FOSS`</sup>
      - `MY` [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) <sup>`🧋FOSS`</sup>
-     - `MY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`🧋FOSS`</sup>
      - `MD` [FediLab](https://codeberg.org/tom79/Fedilab) <sup>`🧋FOSS`</sup>
      - `MD` [Hejtter](https://github.com/mateusz-bak/hejtter) <sup>`🧋FOSS`</sup>
      - `MD` [Nostros](https://github.com/KoalaSat/nostros) <sup>`🧋FOSS`</sup>
@@ -1024,7 +1025,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### F-Droid clients
    - `MDY` [Neo Store](https://github.com/NeoApplications/Neo-Store) <sup>`🧋FOSS`</sup>
    - `MDY` [Neo Store Beta](https://t.me/s/neo_applications) <sup>`🧋FOSS`</sup>
-   - `MDY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
+   - `MY` [Droid-Ify](https://f-droid.org/packages/com.looker.droidify/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
   
  - ### Google play store Clients
    - `MDY` [Aurora Store (Nightlies)](https://www.apkmirror.com/apk/aurora-oss/aurora-store-nightly/aurora-store-nightly-4-2-3-release/) <sup>`🧋FOSS`</sup>
