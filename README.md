@@ -994,7 +994,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MD` [Gotify](https://github.com/gotify/android) <sup>`🧋FOSS`</sup>
 
    - #### Other Direct Messaging
-     - `MDY` [FluffyChat](https://gitlab.com/famedly/fluffychat) <sup>`🧋FOSS`</sup>
+     - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`🧋FOSS`</sup>
      - `MDY` [Motorola Messages](https://www.pling.com/p/1884299) <sup>`👾 Mod`</sup>
      - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
      - `MDY` [Simple SMS Messager](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`🧋FOSS`</sup>
