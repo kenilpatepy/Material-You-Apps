@@ -147,6 +147,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [Podcasts](#podcasts)
     - [RSS/News](#rssnews)
     - [Radio](#radio)
+    - [Media Tools](#media-tools)
+    - [PDF Readers](#pdf-readers)
     - [Other types of Media](#other-types-of-media)
 - [💬 Communication](#-communication)
     - [Social media](#social-media)
@@ -228,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MD` [FongMI TV](https://github.com/FongMi/TV) <sup>`🌍zh-CN`</sup> <sup>`🧋FOSS`</sup>
-   - `MD` [Onstream](https://onstream.so/)
-   - `MDY` [Easybangumi](https://easybangumi.org/zh/) <sup>`🌍zh-CN`</sup>
-   - `MDY` [Awara](https://t.me/misakamaterialyou/199) <sup>`💀`</sup> <sup>`👾 Mod`</sup>
-   - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime) <sup>`🧋FOSS`</sup>
+   - `MDY` [Simple Contacts Pro SE](https://f-droid.org/en/packages/de.ritscher.simplemobiletools.contacts.pro/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
+   - `MD` [Filester](https://f-droid.org/en/packages/com.roozbehzarei.filester/) <sup>`🧋FOSS`</sup>
+   - `MDY` [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) <sup>`🧋FOSS`</sup>
+   - `MY` [GrapheneOS PDF](https://github.com/GrapheneOS/PdfViewer) <sup>`🧋FOSS`</sup>
+   - `MDY` [KeyGo](https://apt.izzysoft.de/fdroid/index/apk/de.davis.passwordmanager) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -415,6 +417,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [FileBin](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile) <sup>`🧋FOSS`</sup>
    - `MY` [Warpinator](https://github.com/slowscript/warpinator-android) <sup>`🧋FOSS`</sup>
    - `MD` [Photon](https://github.com/abhi16180/photon) <sup>`🧋FOSS`</sup>
+   - `MD` [Filester](https://f-droid.org/en/packages/com.roozbehzarei.filester/) <sup>`🧋FOSS`</sup>
 
  - ### Notes
    - #### Notes/Wish-Lists/Draw-Board
@@ -508,6 +511,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [MiniGallery](https://github.com/kabirnayeem99/miniGallery) <sup>`🧋FOSS`</sup>
    - `MDY` [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>`🧋FOSS`</sup>
    - `MDY` [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) <sup>`🧋FOSS`</sup>
+   - `MDY` [Daily You](https://apt.izzysoft.de/fdroid/index/apk/com.demizo.daily_you) <sup>`🧋FOSS`</sup>
    - `MY` [Aves](https://github.com/deckerst/aves) <sup>`🧋FOSS`</sup>
 
  - ### Image Tools
@@ -529,6 +533,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar)
    - `MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`🧋FOSS`</sup>
    - `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) <sup>`🧋FOSS`</sup>
+   - `MD` [Linwood Flow](https://github.com/LinwoodDev/Flow) <sup>`🧋FOSS`</sup>
 
    - #### Reminders
      - `MDY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`🧋FOSS`</sup>
@@ -866,6 +871,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`👾 Mod`</sup> <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1)
    - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`🧋FOSS`</sup>
+   - `MDY` [Alibi](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.alibi) <sup>`🧋FOSS`</sup>
    - `MY` [Motorola Recorder](https://www.pling.com/p/1884299/)
 
 - ### Podcasts
@@ -876,7 +882,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
    - `MD` [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 
- - ### RSS/News
+- ### RSS/News
    - `MDY`  [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`🧋FOSS`</sup>
    - `MDY` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`🧋FOSS`</sup>
    - `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`🧋FOSS`</sup>
@@ -887,16 +893,20 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [GlobalNewsApp](https://github.com/v1tzor/GlobalNewsApp) <sup>`🧋FOSS`</sup>
    - `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
 
-  - ### Radio
+- ### Radio
     - `MDY` [URL Radio](https://github.com/jamal2362/URL-Radio) <sup>`🧋FOSS`</sup>
     - `MDY` [Radiotime](https://play.google.com/store/apps/details?id=com.radiotime.app)
     - `MD` [Transistor](https://codeberg.org/y20k/transistor) <sup>`🧋FOSS`</sup>
 
- - ### Media Tools
+- ### Media Tools
    - `MDY` [Video Converter](https://play.google.com/store/apps/details?id=jaineel.videoconvertor) <sup>`💲`</sup>
    - `MDY` [AudioLab](https://play.google.com/store/apps/details?id=com.hitrolab.audioeditor) <sup>`💲`</sup>
+
+- ### PDF Readers
+  - `MDY` [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) <sup>`🧋FOSS`</sup>
+  - `MY` [GrapheneOS PDF](https://github.com/GrapheneOS/PdfViewer) <sup>`🧋FOSS`</sup>
   
- - ### Other types of Media
+- ### Other types of Media
    - `MDY` [SongSync](https://github.com/Lambada10/SongSync) <sup>`🧋FOSS`</sup>
    - `MDY` [Metronome](https://f-droid.org/en/packages/com.bobek.metronome/) <sup>`🧋FOSS`</sup>
    - `MDY` [TuneDetective](https://apt.izzysoft.de/fdroid/index/apk/com.n0tavailable.tunedetective) <sup>`🧋FOSS`</sup>
@@ -1020,6 +1030,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>`🧋FOSS`</sup>
     - `MDY` [ASUS Dialog](https://1drv.ms/u/s!Atk49Scq_BtYhHJ-sF_qVBqCHc4U?e=AhKxxI) <sup>`👾 Mod`</sup> ❗ inaccessible on other devices.
     - `MDY` [ASUS Contacts](https://1drv.ms/u/s!Atk49Scq_BtYhHWgq1cgdMOfOXPR?e=IhKfSs) <sup>`👾 Mod`</sup> ❗ inaccessible on other devices.
+    - `MDY` [Simple Contacts Pro SE](https://f-droid.org/en/packages/de.ritscher.simplemobiletools.contacts.pro/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
     - `MY` [OctaviOS Dialer](https://www.pling.com/p/1571900) <sup>`👾 Mod`</sup>
 
 
@@ -1202,6 +1213,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [KeyPass](https://github.com/yogeshpaliyal/KeyPass) <sup>`🧋FOSS`</sup>
    - `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋FOSS`</sup>
    - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`🧋FOSS`</sup>
+   - `MDY` [KeyGo](https://apt.izzysoft.de/fdroid/index/apk/de.davis.passwordmanager) <sup>`🧋FOSS`</sup>
    - `MD` [KeySpace](https://github.com/Keyspace-cloud/android)
 
  - ### Authentication/2FA
@@ -1404,6 +1416,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Captive Portal Controller](https://github.com/MuntashirAkon/CaptivePortalController) <sup>`🧋FOSS`</sup>
    - `MDY` [KeyMapper](https://github.com/keymapperorg/KeyMapper) <sup>`🧋FOSS`</sup> <sup>`💀`</sup>
    - `MDY` [DSU Sideloader](https://f-droid.org/en/packages/vegabobo.dsusideloader) <sup>`🧋FOSS`</sup>
+   - `MDY` [Keep Screen On](https://f-droid.org/en/packages/com.elasticrock.keepscreenon/) <sup>`🧋FOSS`</sup>
    - `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
    - `MDY` [Prayer Times](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes)
    - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`🧋FOSS`</sup>
