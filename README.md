@@ -758,7 +758,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
    - #### Spotify Clients
      - `MDY` [Jetispot](https://github.com/iTaysonLab/jetispot) <sup>`🧋FOSS`</sup>, [Jetispot (Fork)](https://github.com/BobbyESP/Jetispot) <sup>`🧋FOSS`</sup> 
-     - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
+     - `MY` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
    
    - #### Subsonic Clients    
      - `MDY` [SubTune](https://github.com/TaylorKunZhang/SubTune) <sup>`🧋FOSS`</sup>
