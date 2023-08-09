@@ -1160,7 +1160,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### MicroG
     - `MY`  [Vanced+ MicroG](https://github.com/cuynu/VancedMicroG) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
-
     - `MY`  [Vanced MicroG (inotia00)](https://github.com/inotia00/VancedMicroG)<sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
 
  - ### Magisk
