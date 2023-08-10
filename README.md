@@ -45,9 +45,9 @@ A list of apps with <a href="https://m3.material.io/"> google's
 |**`MY`**|✔️|❌|
 |**`MD`**|❌|✔️|
 |**`Not released`**|❓|❓|
-- #### **`MDY`** - An app that follow **BOTH** material 3 design and dynamic colouring.
-- #### **`MY`** - An app that follow dynamic colouring but not material 3 design.
-- #### **`MD`** - An App that follow material 3 design but not dynamic colouring.
+- #### **`MDY`** - Apps that follow **BOTH** material 3 design and dynamic colouring.
+- #### **`MY`** + Apps that follow dynamic colouring but not material 3 design.
+- #### **`MD`** - Apps that follow material 3 design but not dynamic colouring.
 - #### **`Not released`** - An app that is not yet released.
 
 ### 🔖 Other tags
