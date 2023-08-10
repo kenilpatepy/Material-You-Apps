@@ -230,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MD` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
+   - `MD` [Slack](https://play.google.com/store/apps/details?id=com.Slack)
+   - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
    - `MDY` [Simple Contacts Pro SE](https://f-droid.org/en/packages/de.ritscher.simplemobiletools.contacts.pro/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MD` [Filester](https://f-droid.org/en/packages/com.roozbehzarei.filester/) <sup>`🧋FOSS`</sup>
-   - `MDY` [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) <sup>`🧋FOSS`</sup>
-   - `MY` [GrapheneOS PDF](https://github.com/GrapheneOS/PdfViewer) <sup>`🧋FOSS`</sup>
-   - `MDY` [KeyGo](https://apt.izzysoft.de/fdroid/index/apk/de.davis.passwordmanager) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -615,6 +615,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MY` [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) <sup>`🧋FOSS`</sup>
    - `MD` [Self Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
    - `MD` [Libre Camera](https://github.com/iakmds/librecamera)
+   - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
 
  - ### Keyboards
    - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`☕`</sup>
@@ -739,7 +740,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`🧋FOSS`</sup>
    - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`🧋FOSS`</sup>
    - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`🧋FOSS`</sup>
-   - `MY` [Revanced (Extended)](https://github.com/revanced/revanced-manager) <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
+   - `MY` [Revanced (Extended)](https://github.com/revanced/revanced-manager) <sup>`💀`</sup> <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
    - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`🧋FOSS`</sup>
 
    
@@ -1004,6 +1005,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      -  `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`☕`<sup>`🧋FOSS`</sup>
      -  `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
      -  `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
+   
    - #### Email
      - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
      - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
@@ -1038,6 +1040,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Stack](https://github.com/tylerbwong/stack) <sup>`🧋FOSS`</sup>
    - `MDY` [Google Voice](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice)
    - `MDY` [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon), [Google Meet Original](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings)
+   - `MD` [Slack](https://play.google.com/store/apps/details?id=com.Slack)
 ---
 
 ## 🏪 App Stores
@@ -1060,6 +1063,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`🧋FOSS`</sup>
     - `MDY` [GrapheneOS Apps](https://github.com/GrapheneOS/Apps)
     - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`👾 Mod`</sup>
+    - `MD` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
 ---
 
 ## ❤️‍🩹 Well-being & health
