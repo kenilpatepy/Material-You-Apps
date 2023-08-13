@@ -92,7 +92,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [File Sharing](#file-sharing)
     - [Notes/Wish-Lists/Draw-Board](#noteswish-listsdraw-board)
       - [Notes](#notes)
-      - [Diaries](#diaries)
+      - [Diaries/Journals](#diariesjournals)
       - [To-Do](#to-do)
       - [Other Note Apps](#other-note-apps)
     - [Calculator](#calculator)
@@ -230,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MY` [Bhagavad Gita](https://f-droid.org/en/packages/com.wirelessalien.android.bhagavadgita/) <sup>`🧋FOSS`</sup>
+   -  `MD` [LocalMonero](https://f-droid.org/packages/co.localmonero.app/) <sup>`🧋FOSS`</sup>
    - `MD` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MD` [Slack](https://play.google.com/store/apps/details?id=com.Slack)
    - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
-   - `MDY` [Simple Contacts Pro SE](https://f-droid.org/en/packages/de.ritscher.simplemobiletools.contacts.pro/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
-   - `MD` [Filester](https://f-droid.org/en/packages/com.roozbehzarei.filester/) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -441,14 +441,15 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Quillpad](https://github.com/quillpad/quillpad) <sup>`🧋FOSS`</sup>
      - `MDY` [JTX Board](https://github.com/TechbeeAT/jtxBoard) <sup>`🧋FOSS`</sup>
      - `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
-     - `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`🧋FOSS`</sup>
      - `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
      - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
      - `MD` [JetNote](https://apt.izzysoft.de/fdroid/index/apk/city.zouitel.jetnote) <sup>`🧋FOSS`</sup>
      - `MD` [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes)
-   - #### Diaries
+     
+   - #### Diaries/Journals
      - `MDY` [Spooky](https://github.com/juniorise/spooky-mb) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Darium](https://play.google.com/store/apps/details?id=partl.Diarium) <sup>`🧋FOSS`</sup>
+     - `MDY` [Daily You](https://apt.izzysoft.de/fdroid/index/apk/com.demizo.daily_you) <sup>`🧋FOSS`</sup>
 
    - #### To-Do
       - `MDY` [Google Tasks](https://play.google.com/store/apps/details?id=com.google.android.apps.tasks)
@@ -470,9 +471,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Text Expander (Typing Hero)](https://play.google.com/store/apps/details?id=sen.typinghero)
      - `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting&pli=1) <sup>`💲`</sup>
      - `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
+     - `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`🧋FOSS`</sup>
      - `MD` [ProjMan](https://play.google.com/store/apps/details?id=com.anafthdev.projectmanagement)
      - `MD` [Hammer](https://github.com/Wavesonics/hammer-editor) <sup>`💲`</sup>
      - `MD` [Mardown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
+     
  - ### Calculator
    - `MDY` [OpenCalc](https://github.com/Darkempire78/OpenCalc) <sup>`🧋FOSS`</sup>,  [zCalc](https://github.com/ziadOUA/zCalc) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MDY`  [GCalculator](https://play.google.com/store/search?q=google+calculator&c=apps) <sup>`☕`</sup>
@@ -511,7 +514,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [MiniGallery](https://github.com/kabirnayeem99/miniGallery) <sup>`🧋FOSS`</sup>
    - `MDY` [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) <sup>`🧋FOSS`</sup>
    - `MDY` [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) <sup>`🧋FOSS`</sup>
-   - `MDY` [Daily You](https://apt.izzysoft.de/fdroid/index/apk/com.demizo.daily_you) <sup>`🧋FOSS`</sup>
    - `MY` [Aves](https://github.com/deckerst/aves) <sup>`🧋FOSS`</sup>
 
  - ### Image Tools
@@ -569,6 +571,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
        -  `MDY` [ACrypto](https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto)
        -  `MDY` [Trust](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
        -  `MD` [Agora Desk](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss) <sup>`🧋FOSS`</sup>
+       -  `MD` [LocalMonero](https://f-droid.org/packages/co.localmonero.app/) <sup>`🧋FOSS`</sup>
 
      - #### Misc
        - `MDY` [Catima](https://github.com/CatimaLoyalty/Android) <sup>`🧋FOSS`</sup>,  [zCard](https://github.com/ziadOUA/zCard) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
@@ -1104,6 +1107,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋FOSS`</sup>
      - `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
      - `MDY` [English with lidia plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) <sup>`🧋FOSS`</sup>
+     - `MY` [Bhagavad Gita](https://f-droid.org/en/packages/com.wirelessalien.android.bhagavadgita/) <sup>`🧋FOSS`</sup>
      - `MD` [Kanji-Dojo](https://github.com/syt0r/Kanji-Dojo) <sup>`🧋FOSS`</sup>
      - `MD` [dymka](https://github.com/nexy791/dymka) <sup>`🧋FOSS`</sup>
 
@@ -1446,7 +1450,7 @@ I didn't expect the list to get so much stars OwO, I might take a lot of time to
 #### i can't ensure this list to be 100% correct. however, if there is a mistake (Lets be honest, there definitely is.) feel free to inform me!
 
 - 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) An Amazing material you apps list, it was the inspiration of my list uwu!
-- 🙂 [Misaka's List](https://github.com/misaka-13766/Material-You-App-Repository) Another great list with many apps, a very useful source for apps!
+- 🙂 [~Misaka's List~](https://github.com/misaka-13766/Material-You-App-Repository) This repository, and the account has been deleted. ~Another great list with many apps, a very useful source for apps!~
 - 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) [3](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/), Big thanks to all the people who replied!
 
 
