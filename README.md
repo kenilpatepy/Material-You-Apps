@@ -977,8 +977,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MY` [Instamash](https://t.me/instasmashrepo) <sup>`👾 Mod`</sup>
 
   - #### Social Media Redirectors
-   - `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`🧋FOSS`</sup>
-   - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
+    - `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`🧋FOSS`</sup>
+    - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
 
    - ####  Other Social Medias
      - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
