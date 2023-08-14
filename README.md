@@ -230,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MY` [Bhagavad Gita](https://f-droid.org/en/packages/com.wirelessalien.android.bhagavadgita/) <sup>`🧋FOSS`</sup>
-   -  `MD` [LocalMonero](https://f-droid.org/packages/co.localmonero.app/) <sup>`🧋FOSS`</sup>
-   - `MD` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
-   - `MD` [Slack](https://play.google.com/store/apps/details?id=com.Slack)
-   - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
+   - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💲`</sup>
+   - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`🧋FOSS`</sup>
+   - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`🧋FOSS`</sup>
+   - `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) <sup>`🧋FOSS`</sup>
+   - `MDY` [Anywhere-](https://github.com/zhaobozhen/Anywhere-) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -393,6 +393,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`🧋FOSS`</sup> <sup>`💀`</sup> <sup>`#️⃣`</sup> <sup>`🧩`</sup>
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
+   - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>
    - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)
 ---
 
@@ -619,6 +620,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Self Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
    - `MD` [Libre Camera](https://github.com/iakmds/librecamera)
    - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
+   - `MD` [GCamloader](https://play.google.com/store/apps/details?id=net.metareverse.gcamloader)
 
  - ### Keyboards
    - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`☕`</sup>
@@ -691,6 +693,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [DRM Info](https://play.google.com/store/apps/details?id=com.androidfung.drminfo)
    - `MDY` [Display Info](https://play.google.com/store/apps/details?id=com.drhowdydoo.displayinfo)
    - `MDY` [Inware](https://play.google.com/store/apps/details?id=com.evo.inware)
+   - `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) <sup>`🧋FOSS`</sup>
 
  - ### Battery Info
    - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`🧋FOSS`</sup>
@@ -716,7 +719,10 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [FreezeYou](https://github.com/FreezeYou/FreezeYou) <sup>`🧋FOSS`</sup>
    
  - ### Other Infos
+   - `MDY` [CameraX Info](https://github.com/zacharee/CameraXInfo) <sup>`🧋FOSS`</sup>
+   - `MDY` [HINT Control](https://play.google.com/store/apps/details?id=dev.zwander.arcadyankvd21control)
    - `MY` [YASNAC](https://github.com/RikkaW/YASNAC) <sup>`🧋FOSS`</sup>
+   - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💲`</sup>
    - `MD` [GeekBench 6](https://play.google.com/store/apps/details?id=com.primatelabs.geekbench6) <sup>`☕`</sup>
    - `MD` [System Tools Android](https://play.google.com/store/apps/details?id=com.redhome.sta)
    - `MD` [ML Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager)
@@ -814,7 +820,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### Books & TV Trackers, Readers & Streaming.
    - #### Manga/E-book Reader
-     - `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧋FOSS`</sup>, [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`🧋FOSS`</sup>, [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`🧋FOSS`</sup>
+     - `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`🧋FOSS`</sup>, [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`🧋FOSS`</sup>, [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`🧋FOSS`</sup>, [Animiru](https://github.com/Quickdesh/Animiru) <sup>`🧋FOSS`</sup>
      - `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`🧋FOSS`</sup>
      - `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`🧋FOSS`</sup>
      - `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`🧋FOSS`</sup>
@@ -1118,6 +1124,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 
  - ###  Accessibility
+    - `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
     - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
     - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
     - `MDY` [Reading Mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader)
@@ -1192,6 +1199,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
    - `MDY` [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💲`</sup> <sup>`🧩`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+   - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`🧋FOSS`</sup>
 
  - ### Proxies & VPNs
    - `MDY` [Surfboard](https://play.google.com/store/apps/details?id=com.getsurfboard)
@@ -1267,6 +1275,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`🧋FOSS`</sup>
    - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
    - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CH` </sup>
    - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
    - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
    - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
@@ -1361,6 +1370,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Stable Diffusion AI](https://github.com/ShiftHackZ/Stable-Diffusion-Android) <sup>`🧋FOSS`</sup>
    - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`🧋FOSS`</sup>
    - `MDY` [VIC](https://github.com/iamlooper/VIC) <sup>`🧋FOSS`</sup>
+   - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CH` </sup>
    - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`🧋FOSS`</sup>
    - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
    - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
@@ -1396,6 +1406,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     
  - ### Miscellaneous.
    - `MDY`  [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup> <sup>`👾 Mod`</sup>
+   - `MDY` [Bifrost - Samsung Firmware Downloader](https://github.com/zacharee/SamloaderKotlin) <sup>`🧋FOSS`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`🧋FOSS`</sup>
    - `MDY` [KDE Connect](https://invent.kde.org/network/kdeconnect-android) <sup>`🧋FOSS`</sup>
    - `MDY` [Rays](https://github.com/SkyD666/Rays-Android) <sup>`🧋FOSS`</sup>   <sup>`🌍zh-CH & en-US` </sup>
@@ -1427,6 +1438,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Keep Screen On](https://f-droid.org/en/packages/com.elasticrock.keepscreenon/) <sup>`🧋FOSS`</sup>
    - `MDY` [Text Converter](https://play.google.com/store/apps/details?id=com.codeclickers.textconverter)
    - `MDY` [Prayer Times](https://play.google.com/store/apps/details?id=com.reworewo.prayertimes)
+   - `MDY` [Mi Freefrom](https://github.com/sunshine0523/Mi-Freeform) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup> <sup>`🌍zh-CH` </sup>
+   - `MDY` [Android Gyroscope MC](https://github.com/WuDi-ZhanShen/Android-Gyroscope-MC) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CH` </sup>
+   - `MDY` [Pixel VoLTE Patch](https://github.com/kyujin-cho/pixel-volte-patch) <sup>`🧋FOSS`</sup>
+   - `MDY` [Anywhere-](https://github.com/zhaobozhen/Anywhere-) <sup>`🧋FOSS`</sup>
+   - `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) <sup>`🧋FOSS`</sup>
    - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`🧋FOSS`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
    - `MD` [Taru](https://github.com/nirajprakash/taru-plants-android) <sup>`🧋FOSS`</sup>
@@ -1441,6 +1457,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
    - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
    - `MD` [SimCardStoreManagement](https://github.com/maxrave-dev/SimCardStoreManagement) <sup>`🧋FOSS`</sup>
+   - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`🧋FOSS`</sup>
 ---
 
 ## 🧋 Post List
