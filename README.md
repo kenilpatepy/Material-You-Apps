@@ -1072,7 +1072,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`🧋FOSS`</sup>
     - `MDY` [GrapheneOS Apps](https://github.com/GrapheneOS/Apps)
     - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`👾 Mod`</sup>
-    - `MD` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
+    - `MDY` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`💀`</sup> <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
 ---
 
 ## ❤️‍🩹 Well-being & health
