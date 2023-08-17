@@ -230,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MY` [WiFiList](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) <sup>`💲`</sup>
-   - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`🧋FOSS`</sup>
-   - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`🧋FOSS`</sup>
-   - `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) <sup>`🧋FOSS`</sup>
-   - `MDY` [Anywhere-](https://github.com/zhaobozhen/Anywhere-) <sup>`🧋FOSS`</sup>
+   - `MD` [YourMoney](https://github.com/satyamlal/YourMoney) <sup>`🧋FOSS`</sup>
+   - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
+   - `MDY` [Dictionary](https://github.com/adhiraj-ranjan/Dictionary) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
+   - `MY` [TicTacYou](https://github.com/AykoSc/TicTacYou) <sup>`🧋FOSS`</sup>
+   - `MDY` [BMI Calculator](https://github.com/AlirezaIvaz/BMICalculator) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -395,6 +395,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⚠️Steps Needed`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>
    - `MY` [Twitter MY Tutorial](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)
+   - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
 ---
 
 ## ⚙️ Tools
@@ -491,6 +492,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Math Calculator](https://github.com/v1tzor/MathCalculator) <sup>`🧋FOSS`</sup>
    - `MDY` [Mint Calculator](https://github.com/boredcodebyk/mintcalc) <sup>`🧋FOSS`</sup>
    - `MDY` [ASUS Calculator](https://1drv.ms/u/s!Atk49Scq_BtYhHTNUhvzOyusNfez?e=c7oGAF) <sup>`👾 Mod`</sup>
+   - `MDY` [BMI Calculator](https://github.com/AlirezaIvaz/BMICalculator) <sup>`🧋FOSS`</sup>
    - `MY` [Calculator-Inator](https://github.com/prathameshmm02/Calculator-inator) <sup>`🧋FOSS`</sup>
    - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
    - `MD` [Calculator](https://play.google.com/store/apps/details?id=com.redmerah.calculator)
@@ -564,7 +566,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
        - `MDY` [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase)
        - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
        - `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
-       - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii)
+       - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`🧋FOSS`</sup>
+       - `MD` [YourMoney](https://github.com/satyamlal/YourMoney) <sup>`🧋FOSS`</sup>
 
      - #### Crypto
        -  `MDY` [PapriCoin](https://github.com/T8RIN/PapriCoin) <sup>`🧋FOSS`</sup>
@@ -1103,6 +1106,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [AverageMark](https://github.com/T8RIN/AverageMark) <sup>`🧋FOSS`</sup>
 
    - ### Dictionaries & Definitions
+     - `MDY` [Dictionary](https://github.com/adhiraj-ranjan/Dictionary) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Owl2](https://github.com/yamin8000/Owl2) <sup>`🧋FOSS`</sup>
      - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
@@ -1289,6 +1293,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Number Tic-Tac-Toe](https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
     - `MDY` [Zerocros](https://play.google.com/store/apps/details?id=com.pranavpandey.tictactoe)
     - `MDY` [Compose-TicTacToe](https://github.com/kafri8889/Compose-TicTacToe) <sup>`🧋FOSS`</sup>
+    - `MY` [TicTacYou](https://github.com/AykoSc/TicTacYou) <sup>`🧋FOSS`</sup>
 
   - ### Sudoku
     - `MDY` [Saku](https://github.com/kafri8889/Saku-Compose-Sudoku) <sup>`🧋FOSS`</sup>
