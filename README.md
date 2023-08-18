@@ -230,11 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`🧋FOSS`</sup>
+   - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup>
    - `MD` [YourMoney](https://github.com/satyamlal/YourMoney) <sup>`🧋FOSS`</sup>
    - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
    - `MDY` [Dictionary](https://github.com/adhiraj-ranjan/Dictionary) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-   - `MY` [TicTacYou](https://github.com/AykoSc/TicTacYou) <sup>`🧋FOSS`</sup>
-   - `MDY` [BMI Calculator](https://github.com/AlirezaIvaz/BMICalculator) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ---
@@ -407,8 +407,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [GFiles](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files)
    - `MDY` [AnExplorer](https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer) <sup>`💲`</sup>
    - `MDY` [ASUS File Explorer](https://1drv.ms/u/s!Atk49Scq_BtYhHhx754A6fZn27Zg?e=RdeWRf) <sup>`👾 Mod`</sup>
-   - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
    - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`🧋FOSS`</sup> <sup>`🌍es-ES`</sup>
+   - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
    - `MY`  [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`☕`</sup> <sup>`🧋FOSS`</sup> <sup>`⚠️Steps Needed`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
    - `MY`  [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`🧋FOSS`</sup>
    
@@ -443,6 +443,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Quillpad](https://github.com/quillpad/quillpad) <sup>`🧋FOSS`</sup>
      - `MDY` [JTX Board](https://github.com/TechbeeAT/jtxBoard) <sup>`🧋FOSS`</sup>
      - `MDY` [Wishapp](https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp)
+     - `MDY` [Material3 Notes](https://github.com/KrishnarajaSagar/NotesAppCompose) <sup>`🧋FOSS`</sup>
      - `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
      - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
      - `MD` [JetNote](https://apt.izzysoft.de/fdroid/index/apk/city.zouitel.jetnote) <sup>`🧋FOSS`</sup>
@@ -1212,6 +1213,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
    - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
    - `MD` [Hiddify Next](https://github.com/hiddify/hiddify-next) <sup>`🧋FOSS`</sup>
+**Free VPN's are NOT recommended.**
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋FOSS`</sup>
@@ -1459,6 +1461,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Octi](https://github.com/d4rken-org/octi) <sup>`🧋FOSS`</sup>
    - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
    - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`🧋FOSS`</sup>
+   - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup>
    - `MD` [Baby-Safe Home AR](https://play.google.com/store/apps/details?id=at.techbee.babysafe)
    - `MD` [Alovoa](https://f-droid.org/en/packages/com.alovoa.expo/) <sup>`🧋FOSS`</sup>
    - `MD` [SimCardStoreManagement](https://github.com/maxrave-dev/SimCardStoreManagement) <sup>`🧋FOSS`</sup>
