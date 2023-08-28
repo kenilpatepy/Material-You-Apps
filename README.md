@@ -248,7 +248,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY`  [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`☕`</sup> <sup>`💲`</sup>
    - `MDY`  [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [Gallery](https://github.com/IacobIonut01/Gallery) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
-   - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+   - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`☕`</sup>
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`☕`</sup> <sup>`👾 Mod`</sup>
    - `MDY` [Gloom](https://github.com/MateriiApps/Gloom) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
 
@@ -292,7 +292,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`🧋FOSS`</sup>
 
  - ### Wallpaper
-   - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup>
+   - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
    - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋FOSS`</sup>
    - `MDY` [WallYou X](https://gitghub.com/AyraHikari/WallYouX/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
@@ -639,7 +639,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### Keyboards
    - `MDY` [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) <sup>`☕`</sup>
-   - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`⁉️Required`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
+   - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme)</sup>
    - `MDY` [Simple keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`🧋FOSS`</sup>
    - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`🧋FOSS`</sup>
    - `MDY` [Fboard](https://t.me/s/fredboard/42)
