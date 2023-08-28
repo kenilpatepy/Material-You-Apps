@@ -100,7 +100,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [Galleries](#galleries)
     - [Image Tools](#image-tools)
     - [Calendars](#calendars)
-      - [Reminders](#reminders)
+    - [Reminders](#reminders)
     - [Finance](#finance)
       - [Payment apps](#payment-apps)
       - [Finance Managers](#finance-managers)
@@ -230,12 +230,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
    - `MDY` [Overload](https://codeberg.org/pabloscloud/overload) <sup>`🧋FOSS`</sup>
    - `MD` [Xpensor](https://github.com/jxareas/Xpensor) <sup>`🧋FOSS`</sup>
    - `MY` [SoftBoard](https://apt.izzysoft.de/fdroid/index/apk/app.suhasdissa.whiteboard) <sup>`🧋FOSS`</sup>
    - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`🧋FOSS`</sup>
    - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`🧋FOSS`</sup>
-   - `MDY` [App APK Extractor & Analyzer](https://play.google.com/store/apps/details?id=com.ytheekshana.apkextractor)
 #### (5 Newly added apps!)
 
 ---
@@ -293,6 +293,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### Wallpaper
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`☕`</sup>
+   - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
    - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋FOSS`</sup>
    - `MDY` [WallYou X](https://gitghub.com/AyraHikari/WallYouX/) <sup>`🧋FOSS`</sup> <sup>`👾 Mod`</sup>
    - `MDY` [WallMan](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman) <sup>`🧋FOSS`</sup>
@@ -548,12 +549,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) <sup>`🧋FOSS`</sup>
    - `MD` [Linwood Flow](https://github.com/LinwoodDev/Flow) <sup>`🧋FOSS`</sup>
 
-   - #### Reminders
-     - `MDY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`🧋FOSS`</sup>
-     - `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`🧋FOSS`</sup>
-     - `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
-     - `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
-     - `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme)
+ - #### Reminders
+   - `MDY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`🧋FOSS`</sup>
+   - `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`🧋FOSS`</sup>
+   - `MDY` [WorkingHours](https://play.google.com/store/apps/details?id=partl.workinghours)
+   - `MDY` [Noterly](https://play.google.com/store/apps/details?id=uk.co.tdsstudios.noterly)
+    - `MD` [RemindMe](https://play.google.com/store/apps/details?id=com.anafthdev.remindme)
 
  - ### Finance
      - #### Payment apps
