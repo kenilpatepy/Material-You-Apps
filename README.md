@@ -230,11 +230,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Flow](https://play.google.com/store/apps/details?id=me.rutrackersearch.app) 
    - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
    - `MDY` [Overload](https://codeberg.org/pabloscloud/overload) <sup>`🧋FOSS`</sup>
    - `MD` [Xpensor](https://github.com/jxareas/Xpensor) <sup>`🧋FOSS`</sup>
    - `MY` [SoftBoard](https://apt.izzysoft.de/fdroid/index/apk/app.suhasdissa.whiteboard) <sup>`🧋FOSS`</sup>
-   - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`🧋FOSS`</sup>
+
 #### (5 Newly added apps!)
 
 ---
@@ -757,6 +758,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
        - `MY` [Advanced Download Manager (ADM)](https://play.google.com/store/apps/details?id=com.dv.adm)
 
     - ### Torrent
+       - `MDY` [Tremotesf](https://play.google.com/store/apps/details?id=org.equeim.tremotesf)
+       - `MDY` [Flow](https://play.google.com/store/apps/details?id=me.rutrackersearch.app) 
        - `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
        - `MD` [Qbittorent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`🧋FOSS`</sup>
 
@@ -1181,7 +1184,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [My Server Status App](https://github.com/JGeek00/my-server-status-app) <sup>`🧋FOSS`</sup>
     - `MDY` [Droid Hole](https://github.com/JGeek00/droid-hole) <sup>`🧋FOSS`</sup>
     - `MDY` [DaRemote](https://play.google.com/store/apps/details?id=com.deskangel.daremote)
-    - `MDY` [Tremotesf](https://play.google.com/store/apps/details?id=org.equeim.tremotesf)
     - `MDY` [OpenHAB](https://github.com/openhab/openhab-android) <sup>`🧋FOSS`</sup>
     - `MDY` [LogViewer for OpenHAB](https://play.google.com/store/apps/details?id=com.cyb3rko.logviewerforopenhab)
     - `MD` [Google Home](https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app)
