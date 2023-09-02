@@ -364,6 +364,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### Dynamic Island
    - `MDY` [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
    - `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`💀`</sup>
+   - `MDY` [Smart Edge](https://github.com/abh80/smart-edge) <sup>`🧋FOSS`</sup> <sup>`💀`</sup>
 ---
 
 ## 🖼️ Themes
@@ -1307,7 +1308,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Help Me SOS](https://play.google.com/store/apps/details?id=com.paget96.helpme)
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`🧋FOSS`</sup>
    - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
-   - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
    - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌍zh-CH` </sup>
    - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
    - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
