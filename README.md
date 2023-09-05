@@ -230,12 +230,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Mony: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker)
+   - `MD` [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt)
+   - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
+   - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌎 ru-RU`</sup>
    - `MDY` [Flow](https://play.google.com/store/apps/details?id=me.rutrackersearch.app) 
-   - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
-   - `MDY` [Overload](https://codeberg.org/pabloscloud/overload) <sup>`🧋FOSS`</sup>
-   - `MD` [Xpensor](https://github.com/jxareas/Xpensor) <sup>`🧋FOSS`</sup>
-   - `MY` [SoftBoard](https://apt.izzysoft.de/fdroid/index/apk/app.suhasdissa.whiteboard) <sup>`🧋FOSS`</sup>
-
 #### (5 Newly added apps!)
 
 ---
@@ -574,6 +573,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
        - `MDY` [KasPOS](https://play.google.com/store/apps/details?id=com.kaspos.app)
        - `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance)
        - `MDY` [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase)
+       - `MDY` [Mony: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker)
        - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
        - `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
        - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`🧋FOSS`</sup>
@@ -715,6 +715,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### Battery Info
    - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`🧋FOSS`</sup>
    - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
+   - `MD` [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
 
 
  - ### Monitors
@@ -893,6 +894,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`🧋FOSS`</sup>
      - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`🧋FOSS`</sup>
      - `MDY` [Snow](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow) <sup>`🧋FOSS`</sup>
+     - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
      - `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`🧋FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
      - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`🧋FOSS`</sup>
@@ -950,6 +952,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [OpenComicVine](https://f-droid.org/packages/org.proninyaroslav.opencomicvine/) <sup>`🧋FOSS`</sup>
    - `MDY` [Findroid](https://github.com/jarnedemeulemeester/findroid) <sup>`🧋FOSS`</sup>
    - `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
+   - `MD` [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt)
 
 ---
 
@@ -1054,6 +1057,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
      - `MDY` [Simple SMS Messager](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`🧋FOSS`</sup>
      - `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`🧋FOSS`</sup>
+     - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌎 ru-RU`</sup>
      - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
      - `MD` [WhatsApp Buisness](https://play.google.com/store/apps/details?id=com.whatsapp.w4b)
 
