@@ -235,7 +235,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 ### 🆕 Newly added
    - `MDY` [Logra](https://github.com/wingio/Logra) <sup>`☕FOSS`</sup>
-   - `MDY` [VLC Media Player (ProjectMaterial)](https://t.me/projectmaterial/914) <sup>`🧑‍💻Mod`</sup> <sup>`🍴Fork`</sup>
+   - `MDY` [VLC Media Player](https://t.me/projectmaterial/914) <sup>`🧑‍💻Mod`</sup> <sup>`🍴Fork`</sup>
    - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager)
    - `MDY` [PomoTrack](https://play.google.com/store/apps/details?id=com.jask.pomotrack)
    - `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger)
@@ -866,8 +866,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
    
    - #### Local Video Players
      - `MDY` [Next Player](https://github.com/anilbeesetti/nextplayer) <sup>`✨`</sup> <sup>`☕FOSS`</sup>
-     - `MDY` [VLC Media Player (WaifuPX)](https://t.me/waifupx_official/233) <sup>`🧑‍💻Mod`</sup>
-     - `MDY` [VLC Media Player (ProjectMaterial)](https://t.me/projectmaterial/914) <sup>`🧑‍💻Mod`</sup> <sup>`🍴Fork`</sup>
+     - `MDY` [VLC Media Player](https://t.me/waifupx_official/233) <sup>`🧑‍💻Mod`</sup>
+     - `MDY` [VLC Media Player](https://t.me/projectmaterial/914) <sup>`🧑‍💻Mod`</sup> <sup>`🍴Fork`</sup>
      - `MDY` [VideoYouX](https://github.com/Clearpole/VideoYouX) <sup>`☕FOSS`</sup> <sup>`🌆zh-CN`</sup>
      - `MD` [myplayer](https://www.coolapk.com/apk/com.ltj.myplayer) <sup>`🌆zh-CN`</sup>
     
@@ -881,8 +881,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
  - ### Books & TV Trackers, Readers & Streaming.
    - #### Manga/E-book Reader
      - `MDY` [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) <sup>`☕FOSS`</sup>
-     - `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`☕FOSS`</sup>
-     - `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`☕FOSS`</sup>
+     - `MDY` [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) <sup>`☕FOSS`</sup> <sup>`🍴Fork`</sup>
+     - `MDY` [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) <sup>`☕FOSS`</sup> <sup>`🍴Fork`</sup>
      - `MDY` [Animiru](https://github.com/Quickdesh/Animiru) <sup>`☕FOSS`</sup>
      - `MDY` [Shosetsu](https://gitlab.com/shosetsuorg/shosetsu) <sup>`☕FOSS`</sup>
      - `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`☕FOSS`</sup>
