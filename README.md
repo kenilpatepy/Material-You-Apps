@@ -81,6 +81,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - [Wallpaper](#wallpaper)
     - [Widget](#widget)
     - [Icons](#icons)
+      - [Adaptive Icons](#adaptive-icons)
+      - [Other Icon Packs](#other-icon-packs) 
     - [Dynamic Island](#dynamic-island)
 - [🖼️ Themes](#%EF%B8%8F-themes)
     - [Gboard themes](#gboard-themes)
@@ -1243,8 +1245,8 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MD` [Material Design 3 Android](https://play.google.com/store/apps/details?id=com.anafthdev.materialdesign3)
 
  - ### MicroG
-    - `MY` [Vanced+ MicroG](https://github.com/cuynu/VancedMicroG) <sup>`☕`</sup> <sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
-    - `MY` [Vanced MicroG](https://github.com/inotia00/VancedMicroG) <sup>`💀`</sup> <sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
+    - `MY` [Vanced MicroG](https://github.com/inotia00/VancedMicroG) <sup>`☕`</sup> <sup>`💀`</sup> <sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
+    - `MY` [Vanced+ MicroG](https://github.com/cuynu/VancedMicroG) <sup>`🧋FOSS`</sup>  <sup>`👾 Mod`</sup>
 
  - ### Magisk
    - #### Managers
