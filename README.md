@@ -61,7 +61,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 |**<sup>`🧋FOSS`</sup>** | <strong>Apps who's codes are available to the public.</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`1`</a></sup>|
 |**<sup>`👾 Mod`</sup>** |<strong>Apps that are Modded <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`1`</a></sup> (Not Pirated), Forked, or Ported.</strong>|
 |**<sup>`⁉️Required`</sup>**|<strong>Apps that require additional steps to install or achieve Material you.</strong>|
-|**<sup>`🌍[ISO 639-1]`</sup>**|<strong>Apps with a language other than english.</strong>|
+|**<sup>`🌍[ISO 639]`</sup>**|<strong>Apps with a language other than english.</strong>|
 |**<sup>`⚠️ [Warning]`</sup>**|<strong>Any app warnings.</strong>|
 
 ---
