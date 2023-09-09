@@ -1290,7 +1290,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
    - `MDY` [Outline Manager](https://github.com/sirekanian/outline) <sup>`🧋FOSS`</sup>
    - `MD` [Hiddify Next](https://github.com/hiddify/hiddify-next) <sup>`🧋FOSS`</sup>
-**Free VPN's are NOT recommended.**
+<br> **Free VPN's are NOT recommended.**
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋FOSS`</sup>
