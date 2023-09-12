@@ -433,7 +433,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager)
    
  - ### File Sharing
-   - `MDY` [LocalSmend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋FOSS`</sup>
+   - `MDY` [LocalSend](https://f-droid.org/en/packages/org.localsend.localsend_app/) <sup>`🧋FOSS`</sup>
    - `MDY` [Arc](https://play.google.com/store/apps/details?id=com.quadren.arc) <sup>`🧋FOSS`</sup>
    - `MDY` [ASUS phone clone](https://play.google.com/store/apps/details?id=com.futuredial.asusdatatransfer)
    - `MDY` [FileBin](https://apt.izzysoft.de/fdroid/index/apk/de.varakh.fbmobile) <sup>`🧋FOSS`</sup>
