@@ -162,6 +162,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
       - [Instagram Clients](#instagram-clients)
+      - [V2ex Clients](#v2ex-clients)
       - [Social Media Redirectors](#social-media-redirectors)
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
@@ -234,11 +235,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MDY` [V2compose](https://github.com/cooaer/v2compose) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
-   - `MD` [Cigaló](https://f-droid.org/packages/net.retiolus.cigalo/) <sup>`🧋FOSS`</sup>
-   - `MD` [Keyoxide](https://mobile.keyoxide.org/) <sup>`🧋FOSS`</sup>
-   - `MY` [Zade's Wallpaper](https://github.com/zadeviggers/wallpaper) <sup>`🧋FOSS`</sup>
-   - `MY` [Battery Charge Limiter (BCL)](https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.bcl) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🍴Fork`</sup>
+   - `MDY` [Stage](https://github.com/thalloerupt/stage2) <sup>`🧋FOSS`</sup>
+   - `MDY` [EscapePod](https://codeberg.org/y20k/escapepod) <sup>`🧋FOSS`</sup>
+   - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup>
+   - `MD` [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) <sup>`🧋FOSS`</sup>
+   - `MDY` [AlistAndroid](https://github.com/jing332/AlistAndroid) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -812,11 +813,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
    
  - #### Bilibili Clients
-   - `MDY` [Bili You](https://github.com/lucinhu/bili_you) <sup>`🧋FOSS`</sup>
-   - `MDY` [bi](https://github.com/storytellerF/bi) <sup>`🧋FOSS`</sup>
-   - `MY` [Bilimiao 2](https://github.com/10miaomiao/bilimiao2) <sup>`🧋FOSS`</sup>
-   - `MY` [Bilibili Mod](https://t.me/misakamaterialyou/428) <sup>`🧑‍💻Mod`</sup>
-   - `Not Released` [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) <sup>`🧋FOSS`</sup>
+   - `MDY` [Bili You](https://github.com/lucinhu/bili_you) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
+   - `MDY` [bi](https://github.com/storytellerF/bi) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
+   - `MDY` [PiliPala](https://github.com/guozhigq/pilipala) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
+   - `MY` [Bilimiao 2](https://github.com/10miaomiao/bilimiao2) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
+   - `MY` [Bilibili Mod](https://t.me/misakamaterialyou/428) <sup>`🧑‍💻Mod`</sup> <sup>`🌆zh-CN`</sup>
+   - `Not Released` [BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
   
  - ### Music Streaming
    - #### YT Music Clients
@@ -954,10 +956,12 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 - ### Podcasts
    - `MDY` [AntennaPod](https://github.com/AntennaPod/AntennaPod) <sup>`🧋FOSS`</sup>
+   - `MDY` [EscapePod](https://codeberg.org/y20k/escapepod) <sup>`🧋FOSS`</sup>
    - `MDY` [Google Podcast](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts)
    - `MDY` [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
    - `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
    - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
+   - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup>
    - `MD` [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 
 - ### RSS/News
@@ -967,6 +971,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [News](https://github.com/bubelov/news) <sup>`🧋FOSS`</sup>
    - `MDY` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
    - `MDY` [Now in Android](https://github.com/android/nowinandroid) <sup>`🧋FOSS`</sup>
+   - `MDY` [MeRead](https://github.com/gvenusleo/MeRead) <sup>`🧋FOSS`</sup>
    - `MY` [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary)
    - `MD` [GlobalNewsApp](https://github.com/v1tzor/GlobalNewsApp) <sup>`🧋FOSS`</sup>
    - `MD` [Pluma RSS Reader](https://play.google.com/store/apps/details?id=qijaz221.android.rss.reader)
@@ -1022,7 +1027,6 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Sync (Lemmy)](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
      - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`🧋FOSS`</sup>
      - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-     - `MDY` [Lemming](https://github.com/janniskilian/Lemming) <sup>`🧋FOSS`</sup>
      - `MY` [Eternity (Infinity for Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
      - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
      - `MD` [Combustible](https://apt.izzysoft.de/fdroid/index/apk/com.thebrokenrail.combustible) <sup>`🧋FOSS`</sup>
@@ -1103,6 +1107,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
      - `MDY` [Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
      - `MDY` [Simple SMS Messager](https://github.com/SimpleMobileTools/Simple-SMS-Messenger) <sup>`🧋FOSS`</sup>
      - `MDY` [E2E Encrypted Chat](https://github.com/Project-Based-Learning-IT/e2ee-chat) <sup>`🧋FOSS`</sup>
+     - `MDY` [Parabox](https://parabox.ojhdt.dev/en/) <sup>`🧋FOSS`</sup>
      - `MDY` [Right Messages](https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger)
      - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
      - `MD` [WhatsApp](https://www.apkmirror.com/apk/whatsapp-inc/whatsapp/)
@@ -1122,6 +1127,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
     - `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts)
     - `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer)
     - `MY` [OctaviOS Dialer](https://www.pling.com/p/1571900) <sup>`🧑‍💻Mod`</sup>
+    - `MD` [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) <sup>`🧋FOSS`</sup>
 
 
  - ### Other Communications
@@ -1296,8 +1302,9 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Surf VPN](https://play.google.com/store/apps/details?id=com.xfx.surfvpn)
    - `MDY` [Clash You](https://github.com/Yos-X/ClashYou/blob/main/README_en.md) <sup>`🧋FOSS`</sup>
    - `MDY` [Outline Manager](https://github.com/sirekanian/outline) <sup>`🧋FOSS`</sup>
+   - `MDY` [AlistAndroid](https://github.com/jing332/AlistAndroid) <sup>`🧋FOSS`</sup>
    - `MD` [Hiddify Next](https://github.com/hiddify/hiddify-next) <sup>`🧋FOSS`</sup>
-<br> **Free VPN's are NOT recommended.**
+<br> **Free VPN's are NOT recommended, they harm your privacy and security.**
 
  - ###  Other developer tools
     - `MDY` [RSAF](https://github.com/chenxiaolong/RSAF) <sup>`🧋FOSS`</sup>
@@ -1437,6 +1444,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [Gugal](https://gitlab.com/narektor/gugal) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TeaEndsAcronyms/Material-You-Apps/releases/tag/v6.0)</sup>
    - `MDY` [Thorium](https://github.com/Alex313031/Thorium-Special) <sup>`🧋FOSS`</sup>
    - `MDY` [Mask Browser-Chrome Extensions](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
+   - `MDY` [Stage](https://github.com/thalloerupt/stage2) <sup>`🧋FOSS`</sup>
    - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
    - `MD` [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
 
