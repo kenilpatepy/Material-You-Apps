@@ -1574,6 +1574,7 @@ I didn't expect the list to get so much stars OwO, I might take a lot of time to
 
 - 😼 [Nyas1's List](https://github.com/nyas1/Material-You-app-list) An Amazing material you apps list, it was the inspiration of my list uwu!
 - 🙂 [~Misaka's List~](https://github.com/misaka-13766/Material-You-App-Repository) This repository, and the account has been deleted. ~Another great list with many apps, a very useful source for apps!~
+- 🍴 [Fork of Misaka's list](https://github.com/CHNJohnHK/Material-You-App-Repository) A fork of misaka's now deleted list. A great list with **A TON** of apps!
 - 🤖 Reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/) [3](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/), Big thanks to all the people who replied!
 
 
