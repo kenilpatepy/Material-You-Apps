@@ -751,6 +751,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
  - ### Battery Info
    - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`🧋FOSS`</sup>
+   - `MDY` [Battery Guru](https://play.google.com/store/apps/details?id=com.myprorock.PowerSaving)
    - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
    - `MD` [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
 
