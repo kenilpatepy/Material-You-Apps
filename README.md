@@ -20,7 +20,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 
 <p align="center">
- <a href="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/879caefd-e90b-4a9c-8d06-e6bd4b4936a3">
+ <a href="https://user-images.githubusercontent.com/123305689/267291203-ddd8ef2b-583d-4b0c-a3c1-6ab9c188cb9e.png">
   <img src="https://user-images.githubusercontent.com/123305689/267291203-ddd8ef2b-583d-4b0c-a3c1-6ab9c188cb9e.png" width="850" alt="#2">
  </a>
 </p>
@@ -28,7 +28,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
 
 
 <p  align="center">
- <img src="https://m3-markdown-badges.vercel.app/stars/4/3/TeaEndsAcronyms/Material-You-Apps" width="175">
+ <img src="https://m3-markdown-badges.vercel.app/stars/4/3/TeaOwO/Material-You-Apps" width="175">
  <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/4febaca5-1249-4f60-993b-dcaf8829feb0" width="175">
 </p>
 
@@ -235,11 +235,11 @@ A list of apps with <a href="https://m3.material.io/"> google's
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Battery Guru](https://www.apkmirror.com/apk/paget96/battery-guru-health-saver/) <sup>`✨`</sup>
    - `MDY` [Stage](https://github.com/thalloerupt/stage2) <sup>`🧋FOSS`</sup>
    - `MDY` [EscapePod](https://codeberg.org/y20k/escapepod) <sup>`🧋FOSS`</sup>
    - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup>
    - `MD` [Wivewa Dialer](https://codeberg.org/wivewa/wivewa-dialer-android) <sup>`🧋FOSS`</sup>
-   - `MDY` [AlistAndroid](https://github.com/jing332/AlistAndroid) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -750,6 +750,7 @@ A list of apps with <a href="https://m3.material.io/"> google's
    - `MDY` [AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) <sup>`🧋FOSS`</sup>
 
  - ### Battery Info
+   - `MDY` [Battery Guru](https://www.apkmirror.com/apk/paget96/battery-guru-health-saver/) <sup>`✨`</sup>
    - `MDY` [Batt](https://gitlab.com/narektor/batt) <sup>`🧋FOSS`</sup>
    - `MD` [Baterai](https://play.google.com/store/apps/details?id=com.redmerah.baterai)
    - `MD` [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery)
