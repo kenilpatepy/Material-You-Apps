@@ -1597,6 +1597,7 @@ I didn't expect the list to get so much stars OwO, I might take a lot of time to
 
 ### 📌 Roadmap
 **You can view the project roadmap [here!](https://github.com/users/TeaOwO/projects/2)**
+
 **🤳 Phone used: [Nothing Phone (1)](https://us.nothing.tech/pages/phone-1)**
 
 ---
