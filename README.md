@@ -5,13 +5,7 @@
 </h2>
 
 <h3 align="center">
-A list of apps with <a href="https://m3.material.io/"> google's
- <strong>
- <i>
-  Material You
- </i>
-</strong>
- design language.
+A list of android apps that follow the <a href="https://m3.material.io/"> Material You and/or Material 3</a> design language.
 </h3>
 <p align="center">
  <b>(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources)</b>
