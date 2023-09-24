@@ -4,10 +4,10 @@
 </strong>
 </h2>
 
-<h3 align="center">
+<h4 align="center">
 A list of android apps that follow the
- <a href="https://m3.material.io/"> Material You and/or Material 3</a>
- design language.
+ <a href="https://m3.material.io/"> Material You and/or Material 3
+ design language.</a>
 </h3>
 <p align="center">
  <b>(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources)</b>
