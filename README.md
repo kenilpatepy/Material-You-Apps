@@ -8,7 +8,7 @@
 A list of android apps that follow the
  <a href="https://m3.material.io/"> Material You and/or Material 3
  design language.</a>
-</h3>
+</h4>
 <p align="center">
  <b>(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources)</b>
  </a>
@@ -154,7 +154,7 @@ A list of android apps that follow the
 - [💬 Communication](#-communication)
     - [Social media](#social-media)
       - [Reddit Clients](#reddit-clients)
-      - [Twitter (X) Clients](#twitter-x-clients)
+      - [X (Twitter) Clients](#x-twitter-clients)
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
@@ -744,7 +744,7 @@ A list of android apps that follow the
 
 ## 📱 Hardware/Software info
  - ### Specifications Info
-   - `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo) <sup>`✨`</sup>
+   - `MDY` [Device Info: Phone CPU, System](https://play.google.com/store/apps/details?id=com.ytheekshana.deviceinfo)
    - `MDY` [Athena](https://github.com/SebaUbuntu/Athena) <sup>`🧋FOSS`</sup>
    - `MDY` [Castro](https://play.google.com/store/apps/details?id=com.itemstudio.castro)
    - `MDY` [DiskInfo](https://play.google.com/store/apps/details?id=com.drhowdydoo.diskinfo)
