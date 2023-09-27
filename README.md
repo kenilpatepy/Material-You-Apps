@@ -1500,9 +1500,7 @@ A list of android apps that follow the
    - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`🧋FOSS`</sup>
    - `MDY` [VIC](https://github.com/iamlooper/VIC) <sup>`🧋FOSS`</sup>
    - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
-
    - `MD` [Character AI (C.ai)](https://play.google.com/store/apps/details?id=ai.character.app) <sup>`✨`</sup>
-
    - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`🧋FOSS`</sup>
    - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
    - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
