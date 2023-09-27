@@ -237,7 +237,7 @@ A list of android apps that follow the
    - `MDY` [QuickNovel](https://github.com/LagradOst/QuickNovel) <sup>`🧋FOSS`</sup>
    - `MD` [Warmongr](https://f-droid.org/en/packages/org.sirekanyan.warmongr/) <sup>`🧋FOSS`</sup>
    - `MDY` [ToDark](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark) <sup>`🧋FOSS`</sup>
-   - `MD` [Character AI](https://play.google.com/store/apps/details?id=ai.character.app)
+   - `MD` [Character AI (C.ai)](https://play.google.com/store/apps/details?id=ai.character.app) <sup>`✨`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -1500,6 +1500,9 @@ A list of android apps that follow the
    - `MDY` [BotForge](https://github.com/L4TTiCe/BotForge) <sup>`🧋FOSS`</sup>
    - `MDY` [VIC](https://github.com/iamlooper/VIC) <sup>`🧋FOSS`</sup>
    - `MDY` [GPT Assistant](https://github.com/sunshine0523/GPT-Assistant) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
+
+   - `MD` [Character AI (C.ai)](https://play.google.com/store/apps/details?id=ai.character.app) <sup>`✨`</sup>
+
    - `MD` [Colors AI](https://github.com/tsinis/colors_ai) <sup>`🧋FOSS`</sup>
    - `MD` [ChatBoost](https://play.google.com/store/apps/details?id=studio.muggle.chatboost)
    - `MD` [NeoGPT](https://play.google.com/store/apps/details?id=com.lware.neogpt)
@@ -1510,8 +1513,7 @@ A list of android apps that follow the
    - `MD` [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai)
    - `MD` [Material GPT](https://github.com/DylanAkp/MaterialGPT) <sup>`🧋FOSS`</sup>
    - `MD` [PixAI.Art](https://play.google.com/store/apps/details?id=art.pixai.pixai)
-   - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
-   - `MD` [Character AI](https://play.google.com/store/apps/details?id=ai.character.app)
+   - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
    - `Not Released` [ChatGPT Android](https://github.com/thewolfprod/ChatGPT-Android) <sup>`🧋FOSS`</sup>
    
  - ### Uncategorized Google Apps
