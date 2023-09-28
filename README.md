@@ -160,6 +160,7 @@ A list of android apps that follow the
       - [Discord Clients](#discord-clients)
       - [Instagram Clients](#instagram-clients)
       - [V2ex Clients](#v2ex-clients)
+      - [Pixiv Clients](#pixiv-clients)
       - [Social Media Redirectors](#social-media-redirectors)
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
@@ -233,11 +234,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Fun With Kanji](https://github.com/krille-chan/fun-with-kanji) <sup>`🧋FOSS`</sup>
    - `MDY` [Summit For Lemmy](https://github.com/idunnololz/summit-for-lemmy)
    - `MD` [Nextcloud](https://github.com/nextcloud/android) <sup>`🧋FOSS`</sup>
    - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
    - `MDY` [FreePaint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/) <sup>`🧋FOSS`</sup>
-   - `MDY` [QuickNovel](https://github.com/LagradOst/QuickNovel) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -407,7 +408,7 @@ A list of android apps that follow the
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>
-   - [DashCan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup>
+   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
    - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -636,9 +637,9 @@ A list of android apps that follow the
        - `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
 
  - ### Weather
-   - `MDY` [Breezly Weather](https://github.com/breezy-weather/breezy-weather) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+   - `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`🧑‍💻Mod`</sup>
-   - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`🧋FOSS`</sup>
+   - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`🧋FOSS`</sup> <sup>`👻`</sup>
    - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
    - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
    - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
@@ -947,7 +948,6 @@ A list of android apps that follow the
      - `MDY` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`🧋FOSS`</sup>
      - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`🧋FOSS`</sup>
      - `MDY` [Snow](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow) <sup>`🧋FOSS`</sup>
-     - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
      - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
      - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`🧋FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
@@ -1073,13 +1073,16 @@ A list of android apps that follow the
      - `MDY` [VVEX](https://github.com/guozhigq/flutter_v2ex) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
      - `MDY` [V2compose](https://github.com/cooaer/v2compose) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
 
+   - #### Pixiv Clients
+     - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
+     - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`🧑‍💻Mod`</sup> <sup>`👻`</sup>
+
   - #### Social Media Redirectors
     - `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`🧋FOSS`</sup>
     - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
 
    - ####  Other Social Medias
      - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
-     - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`🧑‍💻Mod`</sup>
      - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
      - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`🧋FOSS`</sup>
      - `MDY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`🧋FOSS`</sup>
@@ -1224,6 +1227,7 @@ A list of android apps that follow the
    - ### Other Educational Apps
      - `MDY` [Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science) <sup>`🧋FOSS`</sup>
      - `MDY` [Aristo Kids](https://play.google.com/store/apps/details?id=com.aristo.aristokids)
+     - `MDY` [Fun With Kanji](https://github.com/krille-chan/fun-with-kanji) <sup>`🧋FOSS`</sup>
      - `MDY` [English with lidia plus](https://github.com/D4rK7355608/com.d4rk.englishwithlidia.plus) <sup>`🧋FOSS`</sup>
      - `MY` [RunePad](https://github.com/SuhasDissa/RunePad) <sup>`🧋FOSS`</sup>
      - `MY` [Bhagavad Gita](https://f-droid.org/en/packages/com.wirelessalien.android.bhagavadgita/) <sup>`🧋FOSS`</sup>
