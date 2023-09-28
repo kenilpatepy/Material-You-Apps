@@ -407,7 +407,7 @@ A list of android apps that follow the
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>
-   - [DashCan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup>
+   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
    - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -636,9 +636,9 @@ A list of android apps that follow the
        - `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
 
  - ### Weather
-   - `MDY` [Breezly Weather](https://github.com/breezy-weather/breezy-weather) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+   - `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`🧑‍💻Mod`</sup>
-   - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`🧋FOSS`</sup>
+   - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`🧋FOSS`</sup> <sup>`👻`</sup>
    - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
    - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
    - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
@@ -947,7 +947,6 @@ A list of android apps that follow the
      - `MDY` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`🧋FOSS`</sup>
      - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`🧋FOSS`</sup>
      - `MDY` [Snow](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow) <sup>`🧋FOSS`</sup>
-     - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
      - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
      - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`🧋FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
@@ -1073,13 +1072,16 @@ A list of android apps that follow the
      - `MDY` [VVEX](https://github.com/guozhigq/flutter_v2ex) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
      - `MDY` [V2compose](https://github.com/cooaer/v2compose) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
 
+  - ### Pixiv clients
+     - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
+     - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`🧑‍💻Mod`</sup> <sup>`👻`</sup>
+
   - #### Social Media Redirectors
     - `MDY` [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) <sup>`🧋FOSS`</sup>
     - `MDY` [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) <sup>`🧋FOSS`</sup>
 
    - ####  Other Social Medias
      - `MDY` [Kaiteki](https://apt.izzysoft.de/fdroid/index/apk/moe.craftplacer.kaiteki) <sup>`🧋FOSS`</sup>
-     - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`🧑‍💻Mod`</sup>
      - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
      - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`🧋FOSS`</sup>
      - `MDY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`🧋FOSS`</sup>
