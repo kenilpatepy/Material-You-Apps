@@ -233,11 +233,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Summit For Lemmy](https://github.com/idunnololz/summit-for-lemmy)
+   - `MD` [Nextcloud](https://github.com/nextcloud/android) <sup>`🧋FOSS`</sup>
+   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
    - `MDY` [FreePaint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/) <sup>`🧋FOSS`</sup>
    - `MDY` [QuickNovel](https://github.com/LagradOst/QuickNovel) <sup>`🧋FOSS`</sup>
-   - `MD` [Warmongr](https://f-droid.org/en/packages/org.sirekanyan.warmongr/) <sup>`🧋FOSS`</sup>
-   - `MDY` [ToDark](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark) <sup>`🧋FOSS`</sup>
-   - `MD` [Character AI (C.ai)](https://play.google.com/store/apps/details?id=ai.character.app) <sup>`✨`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -949,7 +949,7 @@ A list of android apps that follow the
      - `MDY` [Snow](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow) <sup>`🧋FOSS`</sup>
      - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
      - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
-     - `MY` [Otraku](https://github.com/lotusgate/otraku) <sup>`🧋FOSS`</sup>
+     - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`🧋FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
      - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`🧋FOSS`</sup>
      - `MD` [ShowlyOSS](https://github.com/1RandomDev/showly-oss) <sup>`🧋FOSS`</sup>
@@ -1043,11 +1043,12 @@ A list of android apps that follow the
    - #### Lemmy Clients
      - `MDY` [Sync (Lemmy)](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
      - `MDY` [Jerboa](https://github.com/dessalines/jerboa) <sup>`🧋FOSS`</sup>
-     - `MDY` [Connect](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
-     - `MY` [Eternity (Infinity for Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
+     - `MDY` [Connect For Lemmy](https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect)
+     - `MDY` [Summit For Lemmy](https://github.com/idunnololz/summit-for-lemmy)
+     - `MY` [Boost (Lemmy)](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
+     - `MY` [Eternity (Infinity for Lemmy)](https://codeberg.org/Bazsalanszky/Infinity-For-Lemmy) <sup>`🧋FOSS`</sup>
      - `MD` [Thunder](https://github.com/hjiangsu/thunder) <sup>`🧋FOSS`</sup>
      - `MD` [Combustible](https://apt.izzysoft.de/fdroid/index/apk/com.thebrokenrail.combustible) <sup>`🧋FOSS`</sup>
-     - `Not Released` [Boost (Lemmy)](https://play.google.com/store/apps/details?id=com.rubenmayayo.lemmy)
      
    - #### Mastodon Clients
      - `MDY` [Mastodon](https://github.com/mastodon/mastodon-android) <sup>`🧋FOSS`</sup>
@@ -1511,7 +1512,7 @@ A list of android apps that follow the
    - `MD` [Shrad AI](https://play.google.com/store/apps/details?id=com.shifastudios.shradai)
    - `MD` [Material GPT](https://github.com/DylanAkp/MaterialGPT) <sup>`🧋FOSS`</sup>
    - `MD` [PixAI.Art](https://play.google.com/store/apps/details?id=art.pixai.pixai)
-   - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
+   - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
    - `Not Released` [ChatGPT Android](https://github.com/thewolfprod/ChatGPT-Android) <sup>`🧋FOSS`</sup>
    
  - ### Uncategorized Google Apps
@@ -1574,6 +1575,7 @@ A list of android apps that follow the
    - `MDY` [Language Selector](https://github.com/VegaBobo/Language-Selector) <sup>`🧋FOSS`</sup>
    - `MDY` [Overload](https://codeberg.org/pabloscloud/overload) <sup>`🧋FOSS`</sup>
    - `MDY` [CCDroidX](https://github.com/vincent-paing/CCDroidX) <sup>`🧋FOSS`</sup>
+   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
    - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`🧋FOSS`</sup>
    - `MY` [Battery Charge Limiter (BCL)](https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.bcl) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🍴Fork`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
@@ -1591,6 +1593,7 @@ A list of android apps that follow the
    - `MD` [SimCardStoreManagement](https://github.com/maxrave-dev/SimCardStoreManagement) <sup>`🧋FOSS`</sup>
    - `MD` [Carrier Vanity Name](https://github.com/nullbytepl/CarrierVanityName) <sup>`🧋FOSS`</sup>
    - `MD` [Keyoxide](https://mobile.keyoxide.org/) <sup>`🧋FOSS`</sup>
+   - `MD` [Nextcloud](https://github.com/nextcloud/android) <sup>`🧋FOSS`</sup>
    - `MD` [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker)
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
