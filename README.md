@@ -160,6 +160,7 @@ A list of android apps that follow the
       - [Discord Clients](#discord-clients)
       - [Instagram Clients](#instagram-clients)
       - [V2ex Clients](#v2ex-clients)
+      - [Pixiv Clients](#pixiv-clients)
       - [Social Media Redirectors](#social-media-redirectors)
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
@@ -233,11 +234,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
+   - `MDY` [Fun With Kanji](https://github.com/krille-chan/fun-with-kanji) <sup>`🧋FOSS`</sup>
    - `MDY` [Summit For Lemmy](https://github.com/idunnololz/summit-for-lemmy)
    - `MD` [Nextcloud](https://github.com/nextcloud/android) <sup>`🧋FOSS`</sup>
-   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
+   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>🧋FOSS`</sup>
    - `MDY` [FreePaint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/) <sup>`🧋FOSS`</sup>
-   - `MDY` [QuickNovel](https://github.com/LagradOst/QuickNovel) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -1072,7 +1073,7 @@ A list of android apps that follow the
      - `MDY` [VVEX](https://github.com/guozhigq/flutter_v2ex) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
      - `MDY` [V2compose](https://github.com/cooaer/v2compose) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CN`</sup>
 
-  - ### Pixiv clients
+   - #### Pixiv Clients
      - `MDY` [PixEz](https://github.com/Notsfsssf/pixez-flutter) <sup>`🧋FOSS`</sup>
      - `MDY` [MaterixivYou](https://t.me/waifupx_official/200) <sup>`🧑‍💻Mod`</sup> <sup>`👻`</sup>
 
