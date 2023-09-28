@@ -237,7 +237,7 @@ A list of android apps that follow the
    - `MDY` [Fun With Kanji](https://github.com/krille-chan/fun-with-kanji) <sup>`🧋FOSS`</sup>
    - `MDY` [Summit For Lemmy](https://github.com/idunnololz/summit-for-lemmy)
    - `MD` [Nextcloud](https://github.com/nextcloud/android) <sup>`🧋FOSS`</sup>
-   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>🧋FOSS`</sup>
+   - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
    - `MDY` [FreePaint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
