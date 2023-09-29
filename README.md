@@ -408,7 +408,7 @@ A list of android apps that follow the
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>
-   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
+   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
    - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -806,7 +806,7 @@ A list of android apps that follow the
 
 
     - ### Torrent
-       - `MDY` [Tremotesf](https://play.google.com/store/apps/details?id=org.equeim.tremotesf)
+       - `MDY` [Tremotesf] <sup>`🧋FOSS`</sup> (https://github.com/equeim/tremotesf-android)
        - `MDY` [Flow](https://play.google.com/store/apps/details?id=me.rutrackersearch.app) 
        - `MD` [Nyanpasu](https://play.google.com/store/apps/details?id=com.zhenxiang.nyaa)
        - `MD` [Qbittorent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) <sup>`🧋FOSS`</sup>
