@@ -291,7 +291,7 @@ A list of android apps that follow the
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
    - `MDY` [WallFlow](https://github.com/ammargitham/WallFlow) <sup>`🧋FOSS`</sup>
    - `MDY` [WallYou](https://github.com/Bnyro/WallYou) <sup>`🧋FOSS`</sup>
-   - `MDY` [WallYou X](https://gitghub.com/AyraHikari/WallYouX/) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+   - `MDY` [WallYou X](https://github.com/AyraHikari/WallYouX) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
    - `MDY` [WallMan](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman) <sup>`🧋FOSS`</sup>
    - `MDY` [Doodle](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.doodle) <sup>`🧋FOSS`</sup>
    - `MDY` [IOSXPC](https://play.google.com/store/apps/details?id=com.iosxpc.wallpapers)
