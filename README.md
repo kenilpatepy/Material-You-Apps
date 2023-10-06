@@ -446,7 +446,6 @@ A list of android apps that follow the
      - `MDY` [Ruppu](https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US) <sup>`💲` </sup>
      - `MDY` [Raca](https://github.com/SkyD666/Raca-Android) <sup>`🌆zh-CN`</sup>
      - `MDY` [Simple Notes (Yang's Codehub)](https://play.google.com/store/apps/details?id=com.yangdai.notesapp)
-     - `MDY` [Saber](https://github.com/adil192/saber) <sup>`🧋FOSS`</sup>
      - `MDY` [FireNote](https://github.com/T8RIN/Firenote) <sup>`🧋FOSS`</sup>
      - `MDY` [MoeMemos](https://github.com/mudkipme/MoeMemosAndroid) <sup>`🧋FOSS`</sup>
      - `MDY` [Ruslin](https://github.com/ruslin-note/ruslin-android) <sup>`🧋FOSS`</sup>
@@ -488,6 +487,7 @@ A list of android apps that follow the
       - `MD` [MightyDay](https://play.google.com/store/apps/details?id=com.edisoncal.edison)
    
    - #### DrawBoards
+     - `MDY` [Saber](https://github.com/adil192/saber) <sup>`🧋FOSS`</sup>
      - `MDY` [Linwood Butterfly](https://github.com/LinwoodDev/Butterfly) <sup>`🧋FOSS`</sup>
      - `MDY` [FreePaint](https://f-droid.org/packages/io.github.pastthepixels.freepaint/) <sup>`🧋FOSS`</sup>
      - `MY` [Simple Draw](https://github.com/SimpleMobileTools/Simple-Draw) <sup>`🧋FOSS`</sup>
@@ -495,7 +495,7 @@ A list of android apps that follow the
      - `MD` [PixaPencil](https://github.com/therealbluepandabear/PixaPencil) <sup>`🧋FOSS`</sup> <sup>`👻`</sup>
      
    - #### Text/Code/IDE Editors
-     - `MDY` [BueuTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
+     - `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
      - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Id) <sup>`🧋FOSS`</sup>
      - `MDY` [Android Code Editor](https://github.com/TS-Code-Editor/Android-Code-editor) <sup>`🧋FOSS`</sup>
      - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`🧋FOSS`</sup>
