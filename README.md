@@ -520,7 +520,6 @@ A list of android apps that follow the
      - `MD` [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes)
   
    - #### Other Note Apps
-     - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) <sup>`✨`</sup>
      - `MDY` [Text Expander (Typing Hero)](https://play.google.com/store/apps/details?id=sen.typinghero)
      - `MDY` [Drafting](https://play.google.com/store/apps/details?id=sen.drafting&pli=1) <sup>`💲`</sup>
      - `MDY` [BookMan](https://play.google.com/store/apps/details?id=com.anafthdev.bookman)
@@ -573,6 +572,7 @@ A list of android apps that follow the
 
  - ### Image Tools
    - `MDY` [Image Toolbox](https://github.com/T8RIN/ImageToolbox) <sup>`🧋FOSS`</sup>
+   - `MDY` [ImageCraft](https://github.com/YangDai2003/ImageCraft-Android) <sup>`🧋FOSS`</sup>
    - `MDY` [Exif Eraser](https://github.com/Tommy-Geenexus/exif-eraser) <sup>`🧋FOSS`</sup>
    - `MDY` [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) <sup>`💲`</sup>
    - `MDY` [Photo Deleter](https://play.google.com/store/apps/details?id=com.olcay.photodeleter)
@@ -740,7 +740,11 @@ A list of android apps that follow the
    - `MDY` [M3 Lightmeter](https://github.com/vodemn/m3_lightmeter) <sup>`🧋FOSS`</sup>
    - `MDY` [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter)
    - `MD` [Bubble Level](https://play.google.com/store/apps/details?id=com.codeclickers.bubblelevel)
-    
+
+ - ### Counters
+   - `MDY` [Counters](https://play.google.com/store/apps/details?id=rahmouni.neil.counters) <sup>`✨`</sup>
+   - `MDY` [Score Counter](https://github.com/hegocre/ScoreCounter) <sup>`🧋FOSS`</sup>
+   - `MY` [Counter](https://play.google.com/store/apps/details?id=me.tsukanov.counter)
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
 ## 📱 Hardware/Software info
@@ -904,7 +908,7 @@ A list of android apps that follow the
      - `MDY` [Neko](https://github.com/CarlosEsco/Neko) <sup>`🧋FOSS`</sup>
      - `MDY` [Kotatsu](https://github.com/KotatsuApp/Kotatsu) <sup>`🧋FOSS`</sup>
      - `MDY` [Ranobe](https://github.com/ranobe-org/ranobe) <sup>`🧋FOSS`</sup>
-     - `MDY` [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+     - `MDY` [EhViewer](https://github.com/Ehviewer-Overhauled/Ehviewer) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
      - `MDY` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋FOSS`</sup>
      - `MDY` [QuickNovel](https://github.com/LagradOst/QuickNovel) <sup>`🧋FOSS`</sup>
      - `MDY` [Kafka](https://play.google.com/store/apps/details?id=com.kafka.user)
@@ -1177,7 +1181,7 @@ A list of android apps that follow the
 
  - ### Other App stores
     - `MDY` [Revanced Manager](https://github.com/revanced/revanced-manager) </sup> <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
-    - `MDY` [Revanced Manager (Compose Rewrite)](https://github.com/ReVanced/revanced-manager/tree/compose-dev) <sup>`🧋FOSS`</sup>
+    - `MDY` [Revanced Manager (Compose Rewrite)](https://github.com/ReVanced/revanced-manager/tree/compose-dev) <sup>`🧋FOSS`</sup> <sup>`⚠️ There is no release, you have to build it.`</sup>
     - `MDY` [Myne](https://f-droid.org/packages/com.starry.myne/) <sup>`🧋FOSS`</sup>
     - `MDY` [Obtainium](https://github.com/ImranR98/Obtainium) <sup>`🧋FOSS`</sup>
     - `MDY` [Beta maniac](https://play.google.com/store/apps/details?id=it.mirko.beta)
@@ -1186,7 +1190,7 @@ A list of android apps that follow the
     - `MDY` [Vendetta Manager](https://github.com/vendetta-mod/VendettaManager) <sup>`🧋FOSS`</sup>
     - `MDY` [GrapheneOS Apps](https://github.com/GrapheneOS/Apps)
     - `MDY` [AppTeka](https://t.me/waifupx_official/257) <sup>`🧑‍💻Mod`</sup>
-    - `MDY` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+    - `MDY` [RVX Manager](https://github.com/inotia00/revanced-manager) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
     - `MDY` [APKUpdater](https://github.com/rumboalla/apkupdater) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -1305,7 +1309,7 @@ A list of android apps that follow the
  - ### Magisk
    - #### Managers
      - `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`🧋FOSS`</sup>
-     - `MDY` [Magisk Delta](https://github.com/HuskyDG/magisk-files/blob/main/intro.md) <sup>`🧋FOSS`</sup>
+     - `MDY` [Magisk Delta](\https://github.com/HuskyDG/magisk-files) <sup>`🧋FOSS`</sup>
 
    - #### Modules & Module Managers
      - `MDY` [Mrepo](https://github.com/ya0211/MRepo) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup>
@@ -1364,6 +1368,7 @@ A list of android apps that follow the
    - `MDY` [LibrePass](https://github.com/LibrePass/LibrePass-Android) <sup>`🧋FOSS`</sup>
    - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`🧋FOSS`</sup>
    - `MDY` [KeyGo](https://apt.izzysoft.de/fdroid/index/apk/de.davis.passwordmanager) <sup>`🧋FOSS`</sup>
+   - `MDY` [Nextcloud Passwords](https://github.com/hegocre/NextcloudPasswords) <sup>`🧋FOSS`</sup>
    - `MD` [KeySpace](https://github.com/Keyspace-cloud/android)
 
  - ### Authentication/2FA
@@ -1586,7 +1591,10 @@ A list of android apps that follow the
    - `MDY` [Overload](https://codeberg.org/pabloscloud/overload) <sup>`🧋FOSS`</sup>
    - `MDY` [CCDroidX](https://github.com/vincent-paing/CCDroidX) <sup>`🧋FOSS`</sup>
    - `MDY` [InstallerX](https://github.com/iamr0s/InstallerX) <sup>`🧋FOSS`</sup>
+   - `MDY` [Relab - XDA Developers](https://github.com/theimpulson/ReLabs/) <sup>`🧋FOSS`</sup>
+   - `MDY` [Racó](https://github.com/hegocre/RacoAndroid) <sup>`🧋FOSS`</sup>
    - `MDY` [TTL Changer](https://f-droid.org/en/packages/com.mrsep.ttlchanger/) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup>
+   - `MDY` [Waveteam Android Bomber](https://t.me/androidsmsbomber)
    - `MY` [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) <sup>`🧋FOSS`</sup>
    - `MY` [Battery Charge Limiter (BCL)](https://apt.izzysoft.de/fdroid/index/apk/io.github.muntashirakon.bcl) <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🍴Fork`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
@@ -1609,7 +1617,7 @@ A list of android apps that follow the
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
 ## 🧋 Post List
-I didn't expect the list to get so much stars OwO, I might take a lot of time to update this list, lots of personal stuff right now. and the fact i wanna add as much as possibe! as for design: im not very good with markdown or HTML. I mean, i know the basics, isn't that enough?! hopefully i can make it look pretty good!
+Thanks for all the stars! although this github stuff is boring to me sometimes, i may take some delays between updates (not that this project is abandoned). 
 
 ### 💖 Special thanks to these Sources
 #### i can't ensure this list to be 100% correct. however, if there is a mistake (Lets be honest, there definitely is.) feel free to inform me!
