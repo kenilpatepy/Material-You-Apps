@@ -9,6 +9,7 @@ A list of android apps that follow the
  <a href="https://m3.material.io/"> Material You and/or Material 3
  design language.</a>
 </h4>
+
 <p align="center">
  <b>(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources)</b>
  </a>
@@ -17,7 +18,7 @@ A list of android apps that follow the
 
 <p align="center">
  <a href="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7">
-  <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7" width="615" alt="#2">
+  <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/9a7639a1-c033-480d-8323-36e2bb0acad1" width="615" alt="MaterialYouAppsBanner">
  </a>
 </p>
 </p>
