@@ -717,7 +717,7 @@ A list of android apps that follow the
    
 - ### Translators
   - `MDY` [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-  - `MDY` [TranlateYou](https://github.com/Bnyro/TranslateYou) <sup>`🧋FOSS`</sup>
+  - `MDY` [Translate You](https://github.com/Bnyro/TranslateYou) <sup>`🧋FOSS`</sup>
   - `MDY` [Lentil Translate](https://github.com/yaxarat/lingvaandroid) <sup>`🧋FOSS`</sup>
   - `MDY` [Monocles Translator](https://codeberg.org/Arne/monocles_translator) <sup>`🧋FOSS`</sup>
   - `MDY` [Screen Translator](https://github.com/vamsi3/screen-translator) <sup>`🧋FOSS`</sup>
