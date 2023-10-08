@@ -160,6 +160,7 @@ A list of android apps that follow the
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
+      - [VK Clients](#vk-clients)
       - [Instagram Clients](#instagram-clients)
       - [V2ex Clients](#v2ex-clients)
       - [Pixiv Clients](#pixiv-clients)
@@ -168,7 +169,6 @@ A list of android apps that follow the
     - [Direct messaging](#direct-messaging)
       - [Telegram Clients](#telegram-clients)
       - [Signal & Clients](#signal--clients)
-      - [VK Clients](#vk-clients)
       - [Other Direct Messaging](#other-direct-messaging)
     - [Callers & Contacts](#callers--contacts)
     - [Email](#email)
@@ -1072,6 +1072,12 @@ A list of android apps that follow the
      - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`⁉️Required`[`#1`](https://vorlie.pl/materialdetta)[`#2`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
      - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 
+  - #### VK Clients
+    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
+    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
+
    - #### Instagram Clients
      - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🧑‍💻Mod`</sup>
      - `MY` [Honista](https://t.me/Honistagram) <sup>`🧑‍💻Mod`</sup>
@@ -1129,12 +1135,6 @@ A list of android apps that follow the
      - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup>
      - `MD` [Gotify](https://github.com/gotify/android) <sup>`🧋FOSS`</sup>
 
-  - #### VK Clients
-    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
-    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
-    
    - #### Other Direct Messaging
      - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`🧋FOSS`</sup>
      - `MDY` [Motorola Messages](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
