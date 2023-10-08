@@ -256,7 +256,7 @@ A list of android apps that follow the
    - `MY` [Moon+ Reader](https://play.google.com/store/apps/details?id=com.flyersoft.moonreader)
    - `MY` [Nova 8](https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/)
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
-   - `MD` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
+   - `MY` [Spotube](https://github.com/KRTirtho/spotube) <sup>`🧋FOSS`</sup>
 #### (No hate to devs)
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/5bd0252b-5614-4745-8c94-a564948c1c31" width="150">
