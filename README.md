@@ -168,7 +168,8 @@ A list of android apps that follow the
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
       - [Telegram Clients](#telegram-clients)
-      - [Signal & Clients](#signal--clients)
+      - [Signal Clients](#signal--clients)
+      - [VK Clients](#vk-clients)
       - [Other Direct Messaging](#other-direct-messaging)
     - [Callers & Contacts](#callers--contacts)
     - [Email](#email)
@@ -1123,7 +1124,7 @@ A list of android apps that follow the
      - `MY` [OwlGram](https://owlgram.org/) <sup>`👻`</sup>
      - `MY` [NullGram](https://github.com/qwq233/Nullgram) <sup>`🧋FOSS`</sup>
   
-   - #### Signal & Clients
+   - #### Signal Clients
      -  `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`☕`<sup>`🧋FOSS`</sup>
      -  `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
      -  `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
