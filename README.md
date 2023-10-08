@@ -1,3 +1,7 @@
+<!--
+IMPORTANT: The WIP-Additions branch is a brang for testing additions (mostly to the look of the repo.) Most commits will be tested here fist, and then to the Main list.
+-->
+
 <h2  align="center">
 <strong>
  🌿 Material You Apps 🌿
@@ -121,14 +125,14 @@ A list of android apps that follow the
       - [Foods & Recipes](#foods--recipes)
     - [Measuring Tools](#measuring-tools)
     - [Counters](#counters)
-- [📱 Hardware/Software info](#-hardwaresoftware-info)
+- [![Hardware/Software Info](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/b8e06835-6bd1-43d8-b842-3ccd7181b4b8)](#-hardwaresoftware-info) [Hardware/Software info](#-hardwaresoftware-info)
    - [Specifications Info](#specifications-info)
    - [Battery info](#battery-info)
    - [Monitors](#monitors)
    - [App Info/Managers/Extractors](#app-infomanagersextractors)
    - [App Freezers](#app-freezers)
    - [Other Infos](#other-infos)
-- [🎙️ Media](#%EF%B8%8F-media)
+- [![Media](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/162486f1-34c5-4045-bf3d-28774a0fa8f6)](#%EF%B8%8F-media) [Media](#%EF%B8%8F-media)
    - [Downloaders & Download Managers](#downloaders--download-managers)
        - [Media Downloaders](#media-downloaders)
        - [Torrent](#torrent)
@@ -154,7 +158,7 @@ A list of android apps that follow the
     - [Media Tools](#media-tools)
     - [PDF Readers](#pdf-readers)
     - [Other types of Media](#other-types-of-media)
-- [💬 Communication](#-communication)
+- [![Communication](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/0d6b5ba9-0aab-463c-8de2-99f6787039d1)](#-communication) [Communication](#-communication)
     - [Social media](#social-media)
       - [Reddit Clients](#reddit-clients)
       - [X (Twitter) Clients](#x-twitter-clients)
@@ -174,11 +178,11 @@ A list of android apps that follow the
     - [Callers & Contacts](#callers--contacts)
     - [Email](#email)
     - [Other Communications](#other-communications)
-- [🏪 App Stores](#-app-stores)
+- [![App Stores](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/4d31c611-09d1-4f7e-a6f9-5db46aebd6e5)](#-app-stores) [App Stores](#-app-stores)
     - [F-Droid clients](#f-droid-clients)
     - [Google play store Clients](#google-play-store-clients)
     - [Other App stores](#other-app-stores)
-- [❤️‍🩹 Well-being & health](#%EF%B8%8F-well-being--health)
+- [![Health & Well-being](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/36909571-0bae-4749-a8aa-6127833918c2)](#%EF%B8%8F-well-being--health) [Health & Well-being](#%EF%B8%8F-health--well-being)
     - [Habits, Planners & Trackers](#habits-planners--trackers)
     - [Education](#education)
       - [Studio Tutorials](#studio-tutorials)
@@ -188,8 +192,8 @@ A list of android apps that follow the
       - [Other Educational Apps](#other-educational-apps)
     - [Brightness and blue light filter](#brightness-and-blue-light-filter) 
     - [Accessibility](#accessibility)
-    - [Other Wellbeing & health apps](#other-wellbeing--health-apps)
-- [⚙️ Developers](#%EF%B8%8F-developers)
+    - [Other Health & Well-being apps](#other-health--well-being-apps)
+- [![Developers](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/733cf54e-cc33-416f-bc6d-8762f0a96aea)](#%EF%B8%8F-developers) [Developers](#%EF%B8%8F-developers)
     - [Servers](#servers)
     - [Components](#components)
     - [MicroG](#microg)
@@ -200,7 +204,7 @@ A list of android apps that follow the
     - [Automation](#automation)
     - [Proxies & VPNs](#proxies--vpns)
     - [Other developer tools](#other-developer-tools)
-- [🔒 Privacy & Security](#-privacy--security)
+ - [![Privacy & Security](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/416ceb6b-0543-480a-ad39-fd691191cc9e)](#-privacy--security) [Privacy & Security](#-privacy--security)
   - [Password Managers](#password-managers)
   - [Authentication/2FA](#authentication2fa)
   - [Password Generator](#password-generator)
@@ -209,14 +213,14 @@ A list of android apps that follow the
   - [Encryption](#encryption)
   - [Permissions Manager](#permissions-manager)
   - [Other Privacy & Security apps](#other-privacy--security-apps)
-- [🕹️ Games](#%EF%B8%8F-games)
+- [![Games](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/cabd611a-7a18-4113-bca9-945e2403ede4)](#%EF%B8%8F-games) [Games](#%EF%B8%8F-games)
   - [Tic-Tac-Toe](#tic-tac-toe)
   - [Sudoku](#sudoku)
   - [Trivia](#trivia)
   - [Emulators](#emulators)
   - [Game Tools](#game-tools)
   - [Other Games](#other-games)
-- [🔨 Misc](#-misc)
+- [![Misc](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/d6ef48e5-ac2e-4b33-85d8-273c638d35db)](#-misc) [Misc](#-misc)
     - [Browsers](#browsers)
     - [Backup](#backup)
     - [App/File Cleaners](#appfile-cleaners)
@@ -225,9 +229,9 @@ A list of android apps that follow the
     - [Uncategorized Google Apps](#uncategorized-google-apps)
     - [Peripherals](#peripherals)
     - [Miscellaneous.](#miscellaneous)
-- [🧋 Post list](#-post-list)
-  - [💖 Special thanks to these Sources](#-special-thanks-to-these-sources)
-  - [📌 Roadmap](#-roadmap) 
+- [Post list](#-post-list)
+  - [Special thanks to these Sources](#-special-thanks-to-these-sources)
+  - [Roadmap](#-roadmap) 
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -1198,7 +1202,7 @@ A list of android apps that follow the
     - `MDY` [APKUpdater](https://github.com/rumboalla/apkupdater) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
-## ❤️‍🩹 Well-being & health
+## ❤️‍🩹 Health & Well-being
  - ### Habits, Planners & Trackers
    - `MDY` [Table Habit](https://f-droid.org/packages/io.github.friesi23.mhabit/) <sup>`🧋FOSS`</sup>
    - `MDY` [Habit Builder](https://github.com/ofalvai/HabitBuilder) <sup>`🧋FOSS`</sup>
