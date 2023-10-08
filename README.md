@@ -204,8 +204,7 @@ A list of android apps that follow the
     - [Automation](#automation)
     - [Proxies & VPNs](#proxies--vpns)
     - [Other developer tools](#other-developer-tools)
- -
-[![Privacy & Security](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/416ceb6b-0543-480a-ad39-fd691191cc9e)](#-privacy--security) [Privacy & Security](#-privacy--security)
+ - [![Privacy & Security](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/416ceb6b-0543-480a-ad39-fd691191cc9e)](#-privacy--security) [Privacy & Security](#-privacy--security)
    - [Password Managers](#password-managers)
    - [Authentication/2FA](#authentication2fa)
    - [Password Generator](#password-generator)
