@@ -172,7 +172,7 @@ A list of android apps that follow the
       - [Other Social Medias](#other-social-medias)
     - [Direct messaging](#direct-messaging)
       - [Telegram Clients](#telegram-clients)
-      - [Signal & Clients](#signal--clients)
+      - [Signal Clients](#signal-clients)
       - [VK Clients](#vk-clients)
       - [Other Direct Messaging](#other-direct-messaging)
     - [Callers & Contacts](#callers--contacts)
@@ -992,7 +992,7 @@ A list of android apps that follow the
 
 - ### RSS/News
    - `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`🧋FOSS`</sup>
-   - `MDY` [Feeder](https://gitlab.com/spacecowboy/Feeder) <sup>`🧋FOSS`</sup>
+   - `MDY` [Feeder](https://github.com/spacecowboy/Feeder) <sup>`🧋FOSS`</sup>
    - `MDY` [Dirol Reader](https://github.com/therxmv/Dirol-Reader/) <sup>`🧋FOSS`</sup>
    - `MDY` [News](https://github.com/bubelov/news) <sup>`🧋FOSS`</sup>
    - `MDY` [Harmonic](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews)
@@ -1123,7 +1123,7 @@ A list of android apps that follow the
      - `MY` [OwlGram](https://github.com/OwlGramDev/OwlGram) <sup>`🧋FOSS`</sup> <sup>`👻`</sup>
      - `MY` [NullGram](https://github.com/qwq233/Nullgram) <sup>`🧋FOSS`</sup>
   
-   - #### Signal & Clients
+   - #### Signal Clients
      -  `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`☕`<sup>`🧋FOSS`</sup>
      -  `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
      -  `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
@@ -1233,7 +1233,7 @@ A list of android apps that follow the
 
    - ### Dictionaries & Definitions
      - `MDY` [Dictionary](https://github.com/adhiraj-ranjan/Dictionary) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
-     - `MDY` [Owl2](https://github.com/yamin8000/Owl2) <sup>`🧋FOSS`</sup>
+     - `MDY` [FreeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp) <sup>`🧋FOSS`</sup>
      - `MDY` [Toadua](https://github.com/toaq/toadua-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quaetor](https://play.google.com/store/apps/details?id=com.cyb3rko.quaetor)
      - `MY` [Reykunyutsyìp](https://apt.izzysoft.de/fdroid/index/apk/com.kip.reykunyutsyip) <sup>`🧋FOSS`</sup>
