@@ -1,7 +1,3 @@
-<!--
-IMPORTANT: The WIP-Additions branch is a brang for testing additions (mostly to the look of the repo.) Most commits will be tested here fist, and then to the Main list.
--->
-
 <h2  align="center">
 <strong>
  🌿 Material You Apps 🌿
@@ -66,7 +62,6 @@ A list of android apps that follow the
 |**<sup>`🌆[ISO 639]`</sup>**|<strong>Apps with a language other than english.</strong>|
 |**<sup>`⚠️[Warning]`</sup>**|<strong>Any app warnings.</strong>|
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
-
 
 ### 📃 Table of contents
 [✨ Material You Apps ✨](#--material-you-apps-)
@@ -185,7 +180,7 @@ A list of android apps that follow the
 - [![Health & Well-being](https://github.com/TeaOwO/Material-You-Apps/assets/123305689/36909571-0bae-4749-a8aa-6127833918c2)](#%EF%B8%8F-well-being--health) [Health & Well-being](#%EF%B8%8F-health--well-being)
     - [Habits, Planners & Trackers](#habits-planners--trackers)
     - [Education](#education)
-      - [Studio Tutorials](#studio-tutorials)
+      - [Coding Tutorials](#coding-tutorials)
       - [Quotes](#quotes)
       - [School Tools](#school-tools)
       - [Dictionaries & Definitions](#dictionaries--definitions)
@@ -233,6 +228,7 @@ A list of android apps that follow the
   - [Special thanks to these Sources](#-special-thanks-to-these-sources)
   - [Roadmap](#-roadmap) 
 
+
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
 ## 📄 OverView
@@ -240,11 +236,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MD` [Aegis MD3](https://github.com/Wojtaz0w/Aegis-MD3) <sup>`🧋FOSS`</sup> <sup>`⚠️ There is no release, you have to build it.`</sup>
-   - `MDY` [Nunti](https://gitlab.com/ondrejfoltyn/nunti) <sup>`🧋FOSS`</sup>
-   - `MDY` [TTL Changer](https://f-droid.org/en/packages/com.mrsep.ttlchanger/) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup>
-   - `MD` [WG Tunnel](https://github.com/zaneschepke/wgtunnel) <sup>`🧋FOSS`</sup>
-   - `MD` [Activity Manager](https://github.com/sdex/ActivityManager) <sup>`🧋FOSS`</sup>
+- `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
+- `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
+- `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
+-  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
+- `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -346,7 +342,7 @@ A list of android apps that follow the
    - `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
    - `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`🧋FOSS`</sup>
    - `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`🧋FOSS`</sup>
-   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widget does.`</sup
+  - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widget does.`</sup>
 
  - ### Icons Packs
    - #### Adaptive Icons
@@ -526,6 +522,7 @@ A list of android apps that follow the
      - `MDY` [Google Sheets](https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets)
      - `MD` [Mardown Editor](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor)
      - `MD` [Fleeting Notes](https://play.google.com/store/apps/details?id=com.fleetingnotes)
+     - `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
   
    - #### Other Note Apps
      - `MDY` [Text Expander (Typing Hero)](https://play.google.com/store/apps/details?id=sen.typinghero)
@@ -625,6 +622,7 @@ A list of android apps that follow the
        - `MDY` [Prepaid Balance](https://github.com/mueller-ma/PrepaidBalance)
        - `MDY` [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase)
        - `MDY` [Mony: Budget & Expense Tracker](https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker)
+       - `MDY` [Recurring Expenses](https://github.com/DennisBauer/RecurringExpenseTracker)
        - `MY` [Currencies](https://github.com/sal0max/currencies) <sup>`🧋FOSS`</sup>
        - `MD` [Financial Records](https://play.google.com/store/apps/details?id=com.anafthdev.dujer)
        - `MD` [Waterfly III](https://github.com/dreautall/waterfly-iii) <sup>`🧋FOSS`</sup>
@@ -678,7 +676,8 @@ A list of android apps that follow the
    - `MDY` [PomoTrack](https://play.google.com/store/apps/details?id=com.jask.pomotrack)
    - `MD` [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
    - `MD` [FloatTime](https://www.coolapk.com/apk/com.kimger.floattime) <sup>`💲`</sup>
-   
+   - `MD` [Timer +X](https://f-droid.org/packages/net.xisberto.timerpx/) <sup>`🧋FOSS`</sup>
+
  - ### Camera
    - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)
    - `MDY` [Motorola Camera](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
@@ -851,6 +850,7 @@ A list of android apps that follow the
      - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`🧋FOSS`</sup>
      - `MDY` [SimpMusic](https://github.com/maxrave-dev/SimpMusic) <sup>`🧋FOSS`</sup>
      - `MDY` [Guitarist](https://github.com/Colorata/Guitarist) <sup>`🍴Fork`</sup> <sup>`🧋FOSS`</sup>
+     - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 
 
    - #### Spotify Clients
@@ -987,7 +987,8 @@ A list of android apps that follow the
    - `MDY` [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast)
    - `MDY` [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app)
    - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
-   - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup>
+   - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup> 
+   - `MD` [ListenTogether](https://gitlab.com/listentogether/app/) <sup>`🧋FOSS`</sup>
    - `MD` [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 
 - ### RSS/News
@@ -1127,7 +1128,13 @@ A list of android apps that follow the
      -  `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`☕`<sup>`🧋FOSS`</sup>
      -  `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
      -  `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
-   
+ 
+  - #### VK Clients
+    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
+    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
+
    - #### Email
      - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
      - `MDY` [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark)
@@ -1135,12 +1142,6 @@ A list of android apps that follow the
      - `MY` [FairEmail](https://github.com/M66B/FairEmail) <sup>`🧋FOSS`</sup>
      - `MD` [Gotify](https://github.com/gotify/android) <sup>`🧋FOSS`</sup>
 
-  - #### VK Clients
-    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
-    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
-    
    - #### Other Direct Messaging
      - `MDY` [FluffyChat](https://github.com/krille-chan/fluffychat) <sup>`🧋FOSS`</sup>
      - `MDY` [Motorola Messages](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
@@ -1216,9 +1217,10 @@ A list of android apps that follow the
    - `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
 
  - ### Education
-   - ###  Studio Tutorials
+   - ###  Coding Tutorials
      - `MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`🧋FOSS`</sup>
      - `MDY` [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) <sup>`🧋FOSS`</sup>
+     - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
 
    - ### Quotes
       - `MDY` [Qwotable](https://f-droid.org/packages/com.lijukay.quotesAltDesign/) <sup>`🧋FOSS`</sup>
@@ -1267,7 +1269,7 @@ A list of android apps that follow the
     - `MD` [Voice Access](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.voiceaccess)
     - `MD` [Tonal Tinnitus Therapy](https://play.google.com/store/apps/details?id=nl.appyhapps.tinnitusmassage)
 
- - ### Other Wellbeing & health apps
+ - ### Other Health & Well-being apps
    - `MDY` [Disconnect](https://gitlab.com/narektor/disconnect) <sup>`🧋FOSS`</sup>
    - `MDY` [Digital Detox](https://play.google.com/store/apps/details?id=com.urbandroid.ddc)
    - `MDY` [Sleep as Android](https://play.google.com/store/apps/details?id=com.urbandroid.sleep)
@@ -1384,9 +1386,9 @@ A list of android apps that follow the
    - `MDY` [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) <sup>`🧋FOSS`</sup>
    - `MDY` [Mauth](https://f-droid.org/packages/com.xinto.mauth/) <sup>`🧋FOSS`</sup>
    - `MDY` [Keyring OTP](https://gitlab.com/aorszulak/keyring) <sup>`🧋FOSS`</sup>
+   - `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
    - `MD` [Yubico](https://github.com/Yubico/yubioath-flutter) <sup>`🧋FOSS`</sup>
-   - `MD` [Aegis MD3](https://github.com/Wojtaz0w/Aegis-MD3) <sup>`🧋FOSS`</sup> <sup>`⚠️ There is no release, you have to build it.`</sup>
-   
+
  - ### Password Generator
    - `MDY` [Pazzword](https://github.com/cyb3rko/pazzword) <sup>`🧋FOSS`</sup>
    - `MD` [Wassword](https://github.com/polilluminato/wassword-flutter) <sup>`🧋FOSS`</sup>
@@ -1423,7 +1425,7 @@ A list of android apps that follow the
    - `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
    - `MDY` [Help Me SOS](https://play.google.com/store/apps/details?id=com.paget96.helpme)
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`🧋FOSS`</sup>
-   - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+  - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
    - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
    - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
    - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
@@ -1468,6 +1470,7 @@ A list of android apps that follow the
     - `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋FOSS`</sup>
     - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
     - `MDY` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`🧋FOSS`</sup>
+    -  `MDY` [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) <sup>`🧋FOSS`</sup>
 
   - ### Other Games
     - `MDY` [Compose Classic Snake Game](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`🧋FOSS`</sup>
@@ -1550,9 +1553,9 @@ A list of android apps that follow the
    - `MDY` [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm)
    - `MDY` [Google Pixel Watch](https://play.google.com/store/apps/details?id=com.google.android.apps.wear.companion)
    - `MDY` [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc)
-   - `MDY` [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion)
    - `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
    - `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
+   - `MDY` [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion)
    - `MD` [Magnifier](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier)
 
 - ### Peripherals
@@ -1649,4 +1652,4 @@ Thanks for all the stars! although this github stuff is boring to me sometimes, 
 
 # Star 💫 The Repo If You Liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
 
----
+---
