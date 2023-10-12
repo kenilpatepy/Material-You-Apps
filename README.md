@@ -236,11 +236,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
-   - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
-  -  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
-   - `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
-   - `MDY` [Recurring Expenses](https://github.com/DennisBauer/RecurringExpenseTracker)
+- `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
+- `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
+-  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
+- `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
+-  `MDY` [Recurring Expenses](https://github.com/DennisBauer/RecurringExpenseTracker)
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -1470,7 +1470,7 @@ A list of android apps that follow the
     - `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋FOSS`</sup>
     - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
     - `MDY` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`🧋FOSS`</sup>
-   - `MDY` [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) <sup>`🧋FOSS`</sup>
+    -  `MDY` [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) <sup>`🧋FOSS`</sup>
 
   - ### Other Games
     - `MDY` [Compose Classic Snake Game](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`🧋FOSS`</sup>
