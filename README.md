@@ -238,7 +238,7 @@ A list of android apps that follow the
 ### 🆕 Newly added
    - `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
    - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
-   - `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
+  -  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
    - `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
    - `MDY` [Recurring Expenses](https://github.com/DennisBauer/RecurringExpenseTracker)
 #### (5 Newly added apps!)
@@ -342,7 +342,7 @@ A list of android apps that follow the
    - `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
    - `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`🧋FOSS`</sup>
    - `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`🧋FOSS`</sup>
-   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widget does.`</sup>
+  - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widget does.`</sup>
 
  - ### Icons Packs
    - #### Adaptive Icons
@@ -850,6 +850,7 @@ A list of android apps that follow the
      - `MDY` [Harmony Music](https://github.com/anandnet/Harmony-Music) <sup>`🧋FOSS`</sup>
      - `MDY` [SimpMusic](https://github.com/maxrave-dev/SimpMusic) <sup>`🧋FOSS`</sup>
      - `MDY` [Guitarist](https://github.com/Colorata/Guitarist) <sup>`🍴Fork`</sup> <sup>`🧋FOSS`</sup>
+     - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 
 
    - #### Spotify Clients
@@ -1424,7 +1425,7 @@ A list of android apps that follow the
    - `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
    - `MDY` [Help Me SOS](https://play.google.com/store/apps/details?id=com.paget96.helpme)
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`🧋FOSS`</sup>
-   - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+  - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
    - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
    - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
    - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
@@ -1469,7 +1470,7 @@ A list of android apps that follow the
     - `MDY` [Engine](https://github.com/whitescent/Engine) <sup>`🧋FOSS`</sup>
     - `MDY` [Randomizer](https://play.google.com/store/apps/details?id=com.codeclickers.randomizer)
     - `MDY` [Randomix](https://github.com/m-i-n-a-r/randomix) <sup>`🧋FOSS`</sup>
-    - `MDY` [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) <sup>`🧋FOSS`</sup>
+   - `MDY` [Forkyz Scanner](https://gitlab.com/Hague/forkyzscanner) <sup>`🧋FOSS`</sup>
 
   - ### Other Games
     - `MDY` [Compose Classic Snake Game](https://github.com/kafri8889/Compose-Classic-Snake-Game) <sup>`🧋FOSS`</sup>
