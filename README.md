@@ -236,6 +236,7 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
+- `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 - `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
 - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
 -  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
