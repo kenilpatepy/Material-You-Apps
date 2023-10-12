@@ -241,7 +241,6 @@ A list of android apps that follow the
 - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
 -  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
 - `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
--  `MDY` [Recurring Expenses](https://github.com/DennisBauer/RecurringExpenseTracker)
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
