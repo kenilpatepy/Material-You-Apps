@@ -236,11 +236,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
+- `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
 - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 - `MDY` [Copy SMS Code - OTP helper](https://github.com/jd1378/otphelper) <sup>`🧋FOSS`</sup>
 - `MD` [Kotlin: The Definitive Guide](https://play.google.com/store/apps/details?id=com.softworld.kotlinguide)
 -  `MD` [Fitbit](https://play.google.com/store/apps/details?id=com.fitbit.FitbitMobile)
-- `MD` [Kotlin Compiler Offline](https://play.google.com/store/apps/details?id=be.xbd.kotlin)
 #### (5 Newly added apps!)
 
 ### 🥰 Best implementations of Material you
@@ -500,7 +500,7 @@ A list of android apps that follow the
      
    - #### Text/Code/IDE Editors
      - `MDY` [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) <sup>`✨`</sup> <sup>`🧋FOSS`</sup>
-     - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-Id) <sup>`🧋FOSS`</sup>
+     - `MDY` [Cosmic IDE](https://github.com/Cosmic-Ide/Cosmic-IDE) <sup>`🧋FOSS`</sup>
      - `MDY` [Android Code Editor](https://github.com/TS-Code-Editor/Android-Code-editor) <sup>`🧋FOSS`</sup>
      - `MDY` [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) <sup>`🧋FOSS`</sup>
      - `MDY` [Flowte](https://www.coolapk1s.com/feed/42984209)
@@ -584,6 +584,7 @@ A list of android apps that follow the
    - `MDY` [Image Compresser](https://play.google.com/store/apps/details?id=aculix.bulk.image.compressor)
    - `MDY` [Snapseed](https://t.me/waifupx_official/145) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Easy Watermark](https://github.com/rosuH/EasyWatermark) <sup>`🧋FOSS`</sup>
+   - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
    - `MD` [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum)
 
 
