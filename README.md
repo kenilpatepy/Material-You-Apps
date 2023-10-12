@@ -1419,7 +1419,7 @@ A list of android apps that follow the
    - `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`🧋FOSS`</sup>
    - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
 
-  - ### Other Privacy & Security apps
+ - ### Other Privacy & Security apps
    - `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard) <sup>`🧋FOSS`</sup>
    - `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`🧋FOSS`</sup>
    - `MDY` [Addy.io](https://gitlab.com/Stjin/anonaddy-android) <sup>`🧋FOSS`</sup>
