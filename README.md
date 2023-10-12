@@ -680,7 +680,7 @@ A list of android apps that follow the
    - `MD` [Timer +X](https://f-droid.org/packages/net.xisberto.timerpx/) <sup>`🧋FOSS`</sup>
 
  - ### Camera
-   - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera)
+   - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
    - `MDY` [Motorola Camera](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Lineage OS Camera](https://github.com/SebaUbuntu/android_packages_apps_Aperture) <sup>`🧋FOSS`</sup>
@@ -976,7 +976,7 @@ A list of android apps that follow the
    - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`🧋FOSS`</sup>
    - `MDY` [RecordYou](https://github.com/Bnyro/recordYou) <sup>`🧋FOSS`</sup>
    - `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`🍴Fork`</sup> <sup>`🧋FOSS`</sup> <sup>`#️⃣`</sup>
-   - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1)
+   - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
    - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`🧋FOSS`</sup>
    - `MDY` [Alibi](https://apt.izzysoft.de/fdroid/index/apk/app.myzel394.alibi) <sup>`🧋FOSS`</sup>
    - `MY` [Motorola Recorder](https://www.pling.com/p/1884299/)
@@ -1419,21 +1419,21 @@ A list of android apps that follow the
    - `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`🧋FOSS`</sup>
    - `MD` [Exodus](https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/) <sup>`🧋FOSS`</sup>
 
- - ### Other Privacy & Security apps
+  - ### Other Privacy & Security apps
    - `MDY` [AirGuard](https://github.com/seemoo-lab/AirGuard) <sup>`🧋FOSS`</sup>
    - `MDY` [Blocker](https://github.com/lihenggui/blocker) <sup>`🧋FOSS`</sup>
    - `MDY` [Addy.io](https://gitlab.com/Stjin/anonaddy-android) <sup>`🧋FOSS`</sup>
    - `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
    - `MDY` [Help Me SOS](https://play.google.com/store/apps/details?id=com.paget96.helpme)
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`🧋FOSS`</sup>
-  - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
-  - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
-  - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
-  - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
-  - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`🧩`</sup>
-  - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
-  - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
-  - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`🧋FOSS`</sup>
+   - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`🧋FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
+   - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
+   - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`🧋FOSS`</sup> <sup>`🌆zh-CH` </sup>
+   - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`🧩`</sup>
+   - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
+   - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
+   - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`🧋FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
 ## 🕹️ Games
@@ -1557,7 +1557,7 @@ A list of android apps that follow the
    - `MDY` [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos)
    - `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
    - `MDY` [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion)
-   - `MD` [Magnifier](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier)
+   - `MD` [Magnifier](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
 
 - ### Peripherals
    - `MDY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`🧋FOSS`</sup>
