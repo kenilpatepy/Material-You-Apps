@@ -47,6 +47,8 @@ A list of android apps that follow the
 - **`MD` - Apps that follow the material 3 design language but not dynamic colouring.**
 - **`Not Released` - An app that is not yet released.**
 
+<Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
+
 - ### Other tags
 |Abbreviation|Definition|
 |:-:|--|
@@ -241,7 +243,7 @@ A list of android apps that follow the
   - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
   - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
   - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
- - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
+  - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 - ### Best implementations of Material you
