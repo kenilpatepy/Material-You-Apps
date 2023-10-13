@@ -237,11 +237,11 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 - ### Newly added
-  - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE)<sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
-  - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
-  - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
-  - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
-  - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
+ - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE)<sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+ - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
+ - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
+ - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
+ - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
 #### (5 Newly added apps!)
 
 - ### Best implementations of Material you
