@@ -237,7 +237,7 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 - ### Newly added
-  - `MD` [Obsidian](https://play.google.com/store/search?q=obsidian&c=apps) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
+  - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
   - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
   - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
   - `MDY` [Namida](https://github.com/namidaco/namida) <sup>`🧋FOSS`</sup>
@@ -457,7 +457,7 @@ A list of android apps that follow the
      - `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quillpad](https://github.com/quillpad/quillpad) <sup>`🧋FOSS`</sup>
      - `MDY` [Function](https://github.com/sirekanian/function) <sup>`🧋FOSS`</sup>
-     - `MD` [Obsidian](https://play.google.com/store/search?q=obsidian&c=apps) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
+     - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
      - `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
      - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
      - `MD` [JetNote](https://apt.izzysoft.de/fdroid/index/apk/city.zouitel.jetnote) <sup>`🧋FOSS`</sup>
