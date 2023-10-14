@@ -161,6 +161,7 @@ A list of android apps that follow the
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
+      - [VK Clients](#vk-clients)
       - [Instagram Clients](#instagram-clients)
       - [V2ex Clients](#v2ex-clients)
       - [Pixiv Clients](#pixiv-clients)
@@ -169,7 +170,6 @@ A list of android apps that follow the
     - [Direct messaging](#direct-messaging)
       - [Telegram Clients](#telegram-clients)
       - [Signal Clients](#signal-clients)
-      - [VK Clients](#vk-clients)
       - [Other Direct Messaging](#other-direct-messaging)
     - [Callers & Contacts](#callers--contacts)
     - [Email](#email)
@@ -344,7 +344,7 @@ A list of android apps that follow the
    - `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
    - `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`🧋FOSS`</sup>
    - `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`🧋FOSS`</sup>
-   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widgets does.`</sup>
+   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ While the majority of widgets follow MD3, the app doesn't.`</sup>
 
  - ### Icons Packs
    - #### Adaptive Icons
