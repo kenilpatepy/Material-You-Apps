@@ -239,7 +239,7 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 - ### Newly added
-  - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE)<sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+  - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
   - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
   - `MDY` [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer)
   - `MDY` [SuperImage](https://play.google.com/store/apps/details?id=com.zhenxiang.superimage) <sup>`💲`</sup>
@@ -829,7 +829,7 @@ A list of android apps that follow the
    - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`🧋FOSS`</sup>
    - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`🧋FOSS`</sup>
    - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`🧋FOSS`</sup>
-   - `MY` [Youtube](https://github.com/revanced/revanced-manager)  <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+   - `MY` [Youtube](https://github.com/revanced/revanced-manager) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
    - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`🧋FOSS`</sup>
 
    
@@ -1317,7 +1317,7 @@ A list of android apps that follow the
  - ### MicroG
     - `MY` [Vanced MicroG](https://github.com/inotia00/VancedMicroG) <sup>`✨`</sup> <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
     - `MY` [Vanced+ MicroG](https://github.com/cuynu/VancedMicroG) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
-    - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE)<sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
+    - `MY` [MicroG RE](https://github.com/WSTxda/MicroG-RE) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
 
  - ### Magisk
    - #### Managers
