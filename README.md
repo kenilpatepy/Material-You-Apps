@@ -161,6 +161,7 @@ A list of android apps that follow the
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
+      - [VK Clients](#vk-clients)
       - [Instagram Clients](#instagram-clients)
       - [V2ex Clients](#v2ex-clients)
       - [Pixiv Clients](#pixiv-clients)
@@ -169,7 +170,6 @@ A list of android apps that follow the
     - [Direct messaging](#direct-messaging)
       - [Telegram Clients](#telegram-clients)
       - [Signal Clients](#signal-clients)
-      - [VK Clients](#vk-clients)
       - [Other Direct Messaging](#other-direct-messaging)
     - [Callers & Contacts](#callers--contacts)
     - [Email](#email)
@@ -344,7 +344,7 @@ A list of android apps that follow the
    - `MDY` [Yearly Progress](https://play.google.com/store/apps/details?id=com.a3.yearlyprogess)
    - `MDY` [Kuper](https://github.com/jahirfiquitiva/Kuper) <sup>`🧋FOSS`</sup>
    - `MDY` [WiFi Widget](https://github.com/w2sv/WiFi-Widget) <sup>`🧋FOSS`</sup>
-   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ The app doesn't follow MDY, But the widget does.`</sup>
+   - `MDY` [Google](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) <sup>`⚠️ While the majority of widgets follow MD3, the app doesn't.`</sup>
 
  - ### Icons Packs
    - #### Adaptive Icons
@@ -943,6 +943,7 @@ A list of android apps that follow the
      - `MD` [SakuraAnime](https://github.com/670848654/SakuraAnime) <sup>`🧋FOSS`</sup>
      - `MD` [AGE](https://github.com/xihan123/AGE) <sup>`🧋FOSS`</sup>
      - `MD` [FongMI TV](https://github.com/FongMi/TV) <sup>`🌆zh-CN`</sup> <sup>`🧋FOSS`</sup>
+     - `MD` [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt) <sup>`🌆ru-RU`</sup>
      - `MD` [Onstream](https://onstream.so/)
    
    - #### Tracking
@@ -1030,7 +1031,6 @@ A list of android apps that follow the
    - `MDY` [Pure live](https://github.com/Jackiu1997/pure_live/) <sup>`🧋FOSS`</sup>
    - `MDY` [Simple live](https://github.com/xiaoyaocz/dart_simple_live) <sup>`🧋FOSS`</sup>
    - `MDY` [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree)
-   - `MD` [Anixart](https://play.google.com/store/apps/details?id=com.swiftsoft.anixartlt)
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/a601fb8d-a59a-4fed-9a6d-1ede418f3fd2" width="650">
 
@@ -1078,6 +1078,12 @@ A list of android apps that follow the
      - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/MrSpidercat/Matu)[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
      - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`⁉️Required`[`#1`](https://vorlie.pl/materialdetta)[`#2`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
      - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`🧋FOSS`</sup> <sup>`⁉️Required`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
+
+  - #### VK Clients
+    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
+    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
+    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
 
    - #### Instagram Clients
      - `MY` [Instander](https://thedise.me/instander/repo/) <sup>`🧑‍💻Mod`</sup>
@@ -1128,12 +1134,6 @@ A list of android apps that follow the
      -  `MDY` [Signal You](https://github.com/nekorubu/Signal-You) <sup>`☕`<sup>`🧋FOSS`</sup>
      -  `MD` [Signal](https://github.com/signalapp/Signal-Android) <sup>`🧋FOSS`</sup>
      -  `MD` [Molly](https://github.com/mollyim/mollyim-android) <sup>`🧋FOSS`</sup>
- 
-  - #### VK Clients
-    - `MDY` [Fenrir For VK](https://github.com/umerov1999/Fenrir-for-VK) <sup>`👻`</sup> <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VTosters lite](https://github.com/vtosters/lite) <sup>`🧋FOSS`</sup> <sup>`🌆 ru-RU`</sup>
-    - `MY` [VK Equals](https://t.me/vkequals) <sup>`🌆 ru-RU`</sup>
-    - `MY` [ctVK](https://t.me/ctwVK) <sup>`🌆 ru-RU`</sup>
 
    - #### Email
      - `MDY` [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
