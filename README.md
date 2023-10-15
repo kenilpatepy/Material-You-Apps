@@ -455,7 +455,6 @@ A list of android apps that follow the
      - `MDY` [Ara Note](https://github.com/hashemi-hossein/ara-note) <sup>`🧋FOSS`</sup>
      - `MDY` [Orgzly](https://github.com/orgzly/orgzly-android) <sup>`🧋FOSS`</sup>
      - `MDY` [My link manager](https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager)
-     - `MDY` [Foxbin](https://github.com/F0x1d/foxbin-android) <sup>`🧋FOSS`</sup>
      - `MDY` [Quillpad](https://github.com/quillpad/quillpad) <sup>`🧋FOSS`</sup>
      - `MDY` [Function](https://github.com/sirekanian/function) <sup>`🧋FOSS`</sup>
      - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⁉️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
