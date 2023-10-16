@@ -682,7 +682,7 @@ A list of android apps that follow the
  - ### Camera
    - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
    - `MDY` [Motorola Camera](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
-   - `MDY` [Gcam Ports](https://www.xda-developers.com/google-camera-port-hub/) <sup>`🧑‍💻Mod`</sup>
+   - `MDY` [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera/) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Lineage OS Camera](https://github.com/SebaUbuntu/android_packages_apps_Aperture) <sup>`🧋FOSS`</sup>
    - `MY` [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) <sup>`🧋FOSS`</sup>
    - `MD` [Self Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
