@@ -647,7 +647,7 @@ A list of android apps that follow the
    - `MDY` [Breezy Weather](https://github.com/breezy-weather/breezy-weather) <sup>`🧋FOSS`</sup> <sup>`🍴Fork`</sup>
    - `MDY` [Nothing Weather Monet](https://t.me/waifupx_official/205) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`🧋FOSS`</sup> <sup>`👻`</sup>
-   - `MDY` [WeatherYou](https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US)
+   - `MDY` [WeatherYou](https://github.com/rodrigmatrix/weather-you)
    - `MDY` [Weatherian](https://play.google.com/store/apps/details?id=com.weatherian)
    - `MDY` [Textual Weather](https://play.google.com/store/apps/details?id=app.wakirox.rainy)
    - `MDY` [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases)
