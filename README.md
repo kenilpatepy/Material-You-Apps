@@ -5,15 +5,15 @@
 </h2>
 
 <p align="center">
+<b>
 A list of android apps that follow the
  <a href="https://m3.material.io/"> Material You and/or Material 3
  design language.</a>
+</b>
 </p>
 
 <p align="center">
- <b>(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources)</b>
- </a>
-</h4>
+(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources </a>)
 
 
 <p align="center">
