@@ -1,6 +1,5 @@
-https://github.com/F0x1d/foxbin-android/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.nothing.launcher
-https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/
+https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/lawnchair-debug-12-1-0-dev-2195-release/lawnchair-debug-12-1-0-dev-2195-android-apk-download/download/?key=afff49df64c14deee34dcc2aecad20509546a7e6
 https://github.com/saitamasahil/Pixel-Launcher-Extended/blob/master/README.md
 https://play.google.com/store/apps/details?id=bitpit.launcher
 https://kvaesitso.mm20.de/
@@ -13,7 +12,7 @@ https://github.com/SimpleMobileTools/Simple-App-Launcher/blob/master/README.md
 https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher
 https://play.google.com/store/apps/details?id=easy.launcher
 https://github.com/SimpleMobileTools/Simple-Launcher/blob/master/README.md
-https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/
+https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-6-release/nova-launcher-8-0-6-android-apk-download/download/?key=89c354ad5ac5ba79825ced4f529cb374a9b5d19d
 https://play.google.com/store/apps/details?id=com.davesla.easyfind
 
 
@@ -79,7 +78,7 @@ https://play.google.com/store/apps/details?id=com.google.android.googlequicksear
 
 https://play.google.com/store/apps/details?id=com.nothing.icon
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US
-https://github.com/LawnchairLauncher/lawnicons/blob/master/README.md
+https://github.com/LawnchairLauncher/lawnicons/blob/develop/gradlew
 https://github.com/Donnnno/Arcticons/blob/master/README.md
 https://github.com/WaifuPX-DG/DGicons/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US
@@ -138,7 +137,6 @@ https://github.com/SimpleMobileTools/Simple-File-Manager/blob/master/README.md
 https://t.me/projectmaterial/880
 https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files
 https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer
-https://1drv.ms/u/s!Atk49Scq_BtYhHhx754A6fZn27Zg?e=RdeWRf
 https://github.com/Ruan625Br/FileManagerSphere/blob/master/README.md
 https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver
 https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/
@@ -158,14 +156,14 @@ https://play.google.com/store/apps/details?id=com.xaviertobin.noted
 https://github.com/maltaisn/another-notes-app/blob/master/README.md
 https://github.com/jjewuz/JustNotes/blob/master/README.md
 https://play.google.com/store/apps/details?id=ru.vitaliy.belyaev.wishapp
-https://play.google.com/store/apps/details?id=it.ruppu&hl=en_US&gl=US<sup>`💲`</sup>
-https://github.com/SkyD666/Raca-Android<sup>`🌆zh-CN`</sup>
+https://play.google.com/store/apps/details?id=it.ruppu
+https://github.com/SkyD666/Raca-Android
 https://play.google.com/store/apps/details?id=com.yangdai.notesapp
 https://github.com/T8RIN/Firenote/blob/master/README.md
 https://github.com/mudkipme/MoeMemosAndroid/blob/master/README.md
 https://github.com/ruslin-note/ruslin-android/blob/master/README.md
 https://github.com/hashemi-hossein/ara-note/blob/master/README.md
-https://github.com/orgzly/orgzly-android/blob/master/README.md
+https://github.com/orgzly/orgzly-android/blob/master/README.org
 https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager
 https://github.com/quillpad/quillpad/blob/master/README.md
 https://github.com/sirekanian/function/blob/master/README.md
@@ -181,7 +179,6 @@ https://play.google.com/store/apps/details?id=partl.Diarium
 https://github.com/TechbeeAT/jtxBoard/blob/master/README.md
 https://apt.izzysoft.de/fdroid/index/apk/com.demizo.daily_you
 https://play.google.com/store/apps/details?id=com.syncodec.graphite
-https://www.coolapk.com/apk/com.weimu.duriandiary
 https://play.google.com/store/apps/details?id=com.journey.app
 https://www.tianyueapp.com/
 
@@ -210,7 +207,6 @@ https://github.com/soupslurpr/BeauTyXT/blob/master/README.md
 https://github.com/Cosmic-Ide/Cosmic-IDE/blob/master/README.md
 https://github.com/TS-Code-Editor/Android-Code-editor/blob/master/README.md
 https://github.com/AndroidIDEOfficial/AndroidIDE/blob/master/README.md
-https://www.coolapk1s.com/feed/42984209
 https://github.com/KrishnarajaSagar/NotesAppCompose/blob/master/README.md
 https://f-droid.org/en/packages/com.simplemobiletools.notes.pro/
 https://github.com/SimpleMobileTools/Simple-Notes/blob/master/README.md
@@ -250,8 +246,7 @@ https://play.google.com/store/apps/details?id=com.chimbori.milliways
 https://github.com/D4rK7355608/com.d4rk.cartcalculator/blob/master/README.md
 https://github.com/v1tzor/MathCalculator/blob/master/README.md
 https://github.com/boredcodebyk/mintcalc/blob/master/README.md
-https://1drv.ms/u/s!Atk49Scq_BtYhHTNUhvzOyusNfez?e=c7oGAF
-https://github.com/AlirezaIvaz/BMICalculator/blob/master/README.md
+https://github.com/AlirezaIvaz/BMICalculator/blob/master/READMe.md
 https://github.com/prathameshmm02/Calculator-inator/blob/master/README.md
 https://github.com/sal0max/currencies/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.redmerah.calculator
@@ -333,26 +328,24 @@ https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp
 https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss/blob/master/README.md
 https://f-droid.org/packages/co.localmonero.app/
 
-https://github.com/CatimaLoyalty/Android/blob/master/README.md
-https://github.com/ziadOUA/zCard/blob/master/README.md
+https://github.com/CatimaLoyalty/Android/blob/main/docs/README.md
+https://github.com/ziadOUA/zCard/blob/main/docs/README.md
 https://play.google.com/store/apps/details?id=com.pavelrekun.tilla
 
 https://github.com/breezy-weather/breezy-weather/blob/master/README.md
 https://t.me/waifupx_official/205
 https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/README.md
-https://play.google.com/store/apps/details?id=com.rodrigmatrix.weatheryou&gl=US
+https://github.com/rodrigmatrix/weather-you/blob/main/README.md
 https://play.google.com/store/apps/details?id=com.weatherian
 https://play.google.com/store/apps/details?id=app.wakirox.rainy
-https://github.com/MGAndroidProjects/WeatherWise-Releases/blob/master/README.md
+https://github.com/MGAndroidProjects/WeatherWise-Releases/blob/main/readme.md
 https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather
 https://github.com/jjewuz/JustWeather/blob/master/README.md
 https://github.com/Henry-Hiles/QWeather/blob/master/README.md
 https://github.com/davidtakac/prognoza/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.urbandroid.air
-https://1drv.ms/u/s!Atk49Scq_BtYhHcoe0oAADVVXs3T?e=sGW6zx
-https://www.coolapk.com/apk/top.maweihao.weather
 https://play.google.com/store/apps/details?id=yo.app.free
-https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/
+https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/nothing-weather-1-4-3-release/nothing-weather-1-4-3-android-apk-download/download/?key=b8994da1530dbd87ab860c63293a7861500ef628&forcebaseapk=true
 https://github.com/DarkMooNight/Rain/blob/master/README.md
 
 https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US
@@ -362,21 +355,18 @@ https://f-droid.org/packages/com.simplemobiletools.clock/
 https://play.google.com/store/apps/details?id=partl.atomicclock
 https://play.google.com/store/apps/details?id=com.paget96.workouttimer
 https://www.pling.com/p/1884299/
-https://1drv.ms/u/s!Atk49Scq_BtYhHa1Y2x5y_QXV539?e=NfiL9e
 https://f-droid.org/en/packages/com.blockbasti.justanotherworkouttimer/
 https://play.google.com/store/apps/details?id=com.jask.pomotrack
 https://play.google.com/store/apps/details?id=com.redmerah.stopwatch
-https://www.coolapk.com/apk/com.kimger.floattime
 https://f-droid.org/packages/net.xisberto.timerpx/
 
 https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera
 https://www.pling.com/p/1884299
 https://www.xda-developers.com/google-camera-port-hub/
-https://github.com/SebaUbuntu/android_packages_apps_Aperture/blob/master/README.md
+https://github.com/SebaUbuntu/android_packages_apps_Aperture/blob/lineage-20.0/gradlew
 https://github.com/SimpleMobileTools/Simple-Camera/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.isidroid.sfa
 https://github.com/iakmds/librecamera/blob/master/README.md
-https://play.google.com/store/apps/details?id=com.gcamloader.enhanced
 https://play.google.com/store/apps/details?id=net.metareverse.gcamloader
 
 https://github.com/libre-tube/LibreTube/blob/master/README.md
@@ -384,13 +374,13 @@ https://github.com/kuylar/lighttube-android/blob/master/README.md
 https://github.com/zt64/Hyperion/blob/master/README.md
 https://github.com/lamarios/clipious/blob/master/README.md
 https://github.com/revanced/revanced-manager/blob/master/README.md
-https://github.com/VueTubeApp/VueTube/blob/master/README.md
+https://github.com/VueTubeApp/VueTube/blob/main/readme/readme.es.md
 https://github.com/lucinhu/bili_you/blob/master/README.md
 https://github.com/storytellerF/bi/blob/master/README.md
 https://github.com/guozhigq/pilipala/blob/master/README.md
 https://github.com/10miaomiao/bilimiao2/blob/master/README.md
 https://t.me/misakamaterialyou/428
-https://github.com/WaitFme/BiliBiliAndYou/blob/master/README.md
+https://github.com/WaitFme/BiliBiliAndYou/blob/main/gradlew
 https://github.com/z-huang/InnerTune/blob/master/README.md
 https://github.com/toasterofbread/spmp/blob/master/README.md
 https://github.com/gokadzev/musify/blob/master/README.md
@@ -415,7 +405,7 @@ https://github.com/TheTerminatorOfProgramming/ApexMusic/blob/master/README.md
 https://f-droid.org/packages/org.oxycblt.auxio/
 https://github.com/zyrouge/symphony/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.piyush.music&hl=en_US&gl=US
-https://github.com/AkaneTan/Symphonica/blob/master/README.md
+https://github.com/AkaneTan/Symphonica/blob/beta/readme.md
 https://github.com/pakka-papad/Zen/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.pearl.music
 https://github.com/SimpleMobileTools/Simple-Music-Player/blob/master/README.md
@@ -425,7 +415,7 @@ https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree
 https://github.com/pure-music/PureMusic/blob/master/README.md
 https://github.com/kafri8889/Musicompose-V2/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer
-https://github.com/AkaneTan/Gramophone/blob/master/README.md
+https://github.com/AkaneTan/Gramophone/blob/beta/readme.md
 https://t.me/sirenesteam/746
 https://github.com/Iamlooker/Howl/blob/master/README.md
 https://github.com/moritz-weber/mucke/blob/master/README.md
@@ -433,7 +423,6 @@ https://github.com/anilbeesetti/nextplayer/blob/master/README.md
 https://t.me/waifupx_official/233
 https://t.me/projectmaterial/914
 https://github.com/Clearpole/VideoYouX/blob/master/README.md
-https://www.coolapk.com/apk/com.ltj.myplayer
 https://t.me/waifupx_official/239
 https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet
 https://f-droid.org/en/packages/me.timschneeberger.rootlessjamesdsp/
@@ -486,7 +475,7 @@ https://play.google.com/store/apps/details?id=app.komori
 https://play.google.com/store/apps/details?id=com.flxrs.dankchat
 https://easybangumi.org/zh/
 https://t.me/misakamaterialyou/199
-https://github.com/brunochanrio/blob/master/README.md
+https://github.com/brunochanrio/DangoPlayer/blob/main/README.md
 
 
 https://github.com/Nain57/Smart-AutoClicker/blob/master/README.md
@@ -500,7 +489,7 @@ https://play.google.com/store/apps/details?id=com.getsurfboard
 https://play.google.com/store/apps/details?id=com.wireguard.android
 https://gitlab.com/Nekogram/wsproxy
 https://play.google.com/store/apps/details?id=com.xfx.surfvpn
-https://github.com/Yos-X/ClashYou/blob/main/README_en.md/blob/master/README.md
+https://github.com/Yos-X/ClashYou/blob/main/README_en.md
 https://github.com/sirekanian/outline/blob/master/README.md
 https://github.com/jing332/AlistAndroid/blob/master/README.md
 https://github.com/hiddify/hiddify-next/blob/master/README.md
@@ -532,7 +521,7 @@ https://github.com/jamie-mh/AuthenticatorPro/blob/master/README.md
 https://f-droid.org/packages/com.xinto.mauth/
 https://gitlab.com/aorszulak/keyring
 https://github.com/jd1378/otphelper/blob/master/README.md
-https://github.com/Yubico/yubioath-flutter/blob/master/README.md
+https://github.com/Yubico/yubioath-flutter/blob/main/README.adoc
 
 https://github.com/cyb3rko/pazzword/blob/master/README.md
 https://github.com/polilluminato/wassword-flutter/blob/master/README.md
@@ -540,7 +529,7 @@ https://play.google.com/store/apps/details?id=elmeniawy.eslam.passwordgenerator
 
 https://github.com/hashemi-hossein/memory-guardian/blob/master/README.md
 https://github.com/thatsmanmeet/Clipboard-Cleaner/blob/master/README.md
-https://github.com/gitofleonardo/ExtClipboardManager/blob/master/README.md
+https://github.com/gitofleonardo/ExtClipboardManager/blob/master/README.MD
 
 https://github.com/1fexd/LinkSheet/blob/master/README.md
 https://github.com/lz233/Tarnhelm/blob/master/README.md
@@ -585,13 +574,13 @@ https://github.com/kaajjo/Libre-Sudoku/blob/master/README.md
 
 https://github.com/joaomanaia/newquiz/blob/master/README.md
 https://f-droid.org/packages/com.bnyro.trivia/
-https://github.com/marek-guran/TZI_app/blob/master/README.md
+https://github.com/marek-guran/TZI_app/blob/master/gradlew
 https://play.google.com/store/apps/details?id=com.anafthdev.mathq
 
 https://github.com/Swordfish90/Lemuroid/blob/master/README.md
 https://github.com/MenosGrante/Rekado/blob/master/README.md
 https://github.com/skyline-emu/skyline/blob/master/README.md
-https://github.com/dolphin-emu/dolphin/blob/master/README.md
+https://github.com/dolphin-emu/dolphin/blob/master/Readme.md
 https://github.com/yuzu-emu/yuzu/blob/master/README.md
 https://joiplay.org/
 
@@ -609,7 +598,7 @@ https://github.com/kafri8889/Compose-Classic-Snake-Game/blob/master/README.md
 https://github.com/lucasnlm/antimine-android/blob/master/README.md
 https://github.com/NaCln4c1/Boat_H2O2/blob/master/README.md
 https://github.com/hax0r31337/ProtoHax/blob/master/README.md
-https://github.com/AkaneTan/TempleBlock/blob/master/README.md
+https://github.com/AkaneTan/TempleBlock/blob/master/gradlew
 https://github.com/jeffsieu/blocked/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle
 https://f-droid.org/en/packages/dev.develsinthedetails.eatpoopyoucat
@@ -621,7 +610,7 @@ https://github.com/jamal2362/Styx/blob/master/README.md
 https://github.com/bromite/bromite/blob/master/README.md
 https://github.com/uazo/bromite-buildtools/blob/master/README.md
 https://github.com/uazo/cromite/blob/master/README.md
-https://github.com/kiwibrowser/src.next/releases/blob/master/README.md
+https://github.com/kiwibrowser/src.next/blob/kiwi/README.md
 https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US
 https://gitlab.com/remmer.wilts/thor
 https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab
@@ -654,7 +643,7 @@ https://github.com/L4TTiCe/BotForge/blob/master/README.md
 https://github.com/iamlooper/VIC/blob/master/README.md
 https://github.com/sunshine0523/GPT-Assistant/blob/master/README.md
 https://play.google.com/store/apps/details?id=ai.character.app
-https://github.com/tsinis/colors_ai/blob/master/README.md
+https://github.com/tsinis/colors_ai/blob/main/.github/README.md
 https://play.google.com/store/apps/details?id=studio.muggle.chatboost
 https://play.google.com/store/apps/details?id=com.lware.neogpt
 https://play.google.com/store/apps/details?id=studio.muggle.talkai
@@ -686,7 +675,7 @@ https://apt.izzysoft.de/fdroid/index/apk/com.oppzippy.openscq30
 https://github.com/Moustachauve/WLED-Native-Android/blob/master/README.md
 https://github.com/d4rken-org/capod/blob/master/README.md
 
-https://github.com/KieronQuinn/AmbientMusicMod/blob/master/README.md
+https://github.com/KieronQuinn/AmbientMusicMod/blob/main/readme.md
 https://github.com/zacharee/SamloaderKotlin/blob/master/README.md
 https://github.com/MateriiApps/Gloom/blob/master/README.md
 https://invent.kde.org/network/kdeconnect-android/blob/master/README.md
@@ -695,7 +684,7 @@ https://github.com/iTaysonLab/jetisteam/blob/master/README.md
 https://github.com/YangDai-Github/CopilotOCR-Android/blob/master/README.md
 https://github.com/dead8309/Kizzy/blob/master/README.md
 https://github.com/hushenghao/AndroidEasterEggs/blob/master/README.md
-https://github.com/Smooth-E/wireless-adb-switch/blob/master/README.md
+https://github.com/Smooth-E/wireless-adb-switch/blob/main/readme.md
 https://github.com/F0x1d/LogFox/blob/master/README.md
 https://github.com/wingio/Logra/blob/master/README.md
 https://github.com/Yash-Garg/KeyManager/blob/master/README.md
@@ -738,7 +727,7 @@ https://github.com/nirajprakash/taru-plants-android/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte
 https://github.com/ismartcoding/plain-app/blob/master/README.md
 https://github.com/astubenbord/paperless-mobile/blob/master/README.md
-https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked/blob/master/README.md
+https://github.com/Rikj000/Android-Auto-XLauncher-Unlocked/blob/development/ReadMe.md
 https://github.com/davquar/halfdot/blob/master/README.md
 https://github.com/d4rken-org/octi/blob/master/README.md
 https://watweaker.com/
