@@ -13,7 +13,7 @@ A list of android apps that follow the
 </p>
 
 <p align="center">
-(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources </a>)
+(for similar lists, check out <a href="#-special-thanks-to-these-sources">💖 Special thanks to these Sources</a>)
 
 
 <p align="center">
