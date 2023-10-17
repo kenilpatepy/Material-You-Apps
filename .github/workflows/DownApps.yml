@@ -1,0 +1,17 @@
+name: CI
+on:
+  push:
+    branches: [ "Main-List" ]
+  pull_request:
+    branches: [ "Main-List" ]
+    schedule:
+        - cron: '0 0 * * 5'
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        run: wget -i Action-link.txt
