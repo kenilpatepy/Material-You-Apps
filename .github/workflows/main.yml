@@ -1,4 +1,4 @@
-- name: urlchecker-action
+- name: main-list
   # You may pin to the exact commit or the version.
   # uses: urlstechie/urlchecker-action@b643b43e2ac605e1475331c7b67247d242b7dce4
   uses: urlstechie/urlchecker-action@0.0.34
