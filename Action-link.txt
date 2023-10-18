@@ -261,7 +261,7 @@ https://play.google.com/store/apps/details?id=com.redmerah.calculator
 https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools
 https://github.com/sankethsj/qr-code-generator/blob/master/README.md
 https://github.com/jaikeerthick/Pixel-Scanner/blob/master/README.md
-BarcodeScannerhttps://gitlab.com/Atharok/BarcodeScanner
+https://gitlab.com/Atharok/BarcodeScanner
 https://github.com/D4rK7355608/com.d4rk.qrcodescanner.plus/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.google.ar.lens
 https://play.google.com/store/apps/details?id=com.pranavpandey.matrix
@@ -320,7 +320,7 @@ https://github.com/jameskokoska/Allowance/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.kaspos.app
 https://github.com/mueller-ma/PrepaidBalance/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.github.nullhandler.vase
-Budget&ExpenseTrackerhttps://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker
+https://play.google.com/store/apps/details?id=com.jojdevx.expense.tracker
 https://github.com/DennisBauer/RecurringExpenseTracker/blob/master/README.md
 https://github.com/sal0max/currencies/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.anafthdev.dujer
