@@ -4,11 +4,15 @@ on:
     branches: [ "Main-List" ]
   pull_request:
     branches: [ "Main-List" ]
+    schedule:
+        - cron: '0 0 * * 5'
+
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: DownApps.yml
         run: wget -i Action-link.txt
