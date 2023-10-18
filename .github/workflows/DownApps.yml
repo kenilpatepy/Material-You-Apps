@@ -1,11 +1,7 @@
 name: CI
 on:
-  push:
-    branches: [ "Main-List" ]
-  pull_request:
-    branches: [ "Main-List" ]
-    schedule:
-        - cron: '0 0 * * 5'
+  schedule:
+      - cron: '0 0 * * 5'
 
   workflow_dispatch:
 
