@@ -1,5 +1,4 @@
 https://play.google.com/store/apps/details?id=com.nothing.launcher
-https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/lawnchair-debug-12-1-0-dev-2195-release/lawnchair-debug-12-1-0-dev-2195-android-apk-download/download/?key=afff49df64c14deee34dcc2aecad20509546a7e6
 https://github.com/saitamasahil/Pixel-Launcher-Extended/blob/master/README.md
 https://play.google.com/store/apps/details?id=bitpit.launcher
 https://kvaesitso.mm20.de/
@@ -12,9 +11,17 @@ https://github.com/SimpleMobileTools/Simple-App-Launcher/blob/master/README.md
 https://play.google.com/store/apps/details?id=ru.execbit.aiolauncher
 https://play.google.com/store/apps/details?id=easy.launcher
 https://github.com/SimpleMobileTools/Simple-Launcher/blob/master/README.md
-https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/nova-launcher-8-0-6-release/nova-launcher-8-0-6-android-apk-download/download/?key=89c354ad5ac5ba79825ced4f529cb374a9b5d19d
 https://play.google.com/store/apps/details?id=com.davesla.easyfind
 
+https://play.google.com/store/apps/details?id=com.redlee90.donateany
+https://play.google.com/store/apps/details?id=any.splitscreen
+https://github.com/polodarb/GMS-Flags
+https://github.com/polodarb/GMS-Flags/blob/master/README.md
+https://github.com/urbandroid-team/dontkillmy-app/blob/master/README.md
+https://play.google.com/store/apps/details?id=com.lstapps.musiclivewallpaper
+https://play.google.com/store/apps/details?id=com.lstapps.batterywidget
+https://play.google.com/store/apps/details?id=any.shortcut
+https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material
 
 https://github.com/KieronQuinn/DiscoverKiller/blob/master/README.md
 https://github.com/KieronQuinn/PixelLauncherMods/blob/master/README.md
@@ -345,7 +352,6 @@ https://github.com/Henry-Hiles/QWeather/blob/master/README.md
 https://github.com/davidtakac/prognoza/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.urbandroid.air
 https://play.google.com/store/apps/details?id=yo.app.free
-https://www.apkmirror.com/apk/nothing-technology-limited/nothing-weather/nothing-weather-1-4-3-release/nothing-weather-1-4-3-android-apk-download/download/?key=b8994da1530dbd87ab860c63293a7861500ef628&forcebaseapk=true
 https://github.com/DarkMooNight/Rain/blob/master/README.md
 
 https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US
@@ -362,7 +368,6 @@ https://f-droid.org/packages/net.xisberto.timerpx/
 
 https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera
 https://www.pling.com/p/1884299
-https://www.xda-developers.com/google-camera-port-hub/
 https://github.com/SebaUbuntu/android_packages_apps_Aperture/blob/lineage-20.0/gradlew
 https://github.com/SimpleMobileTools/Simple-Camera/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.isidroid.sfa
@@ -689,7 +694,6 @@ https://github.com/F0x1d/LogFox/blob/master/README.md
 https://github.com/wingio/Logra/blob/master/README.md
 https://github.com/Yash-Garg/KeyManager/blob/master/README.md
 https://play.google.com/store/apps/details?id=com.quanticapps.universalremote
-https://play.google.com/store/apps/details?id=com.flowbro.easysticker
 https://github.com/mueller-ma/Coffee/blob/master/README.md
 https://github.com/MuntashirAkon/SetEdit/blob/master/README.md
 https://github.com/KieronQuinn/SIMNumberSetter/blob/master/README.md
@@ -742,8 +746,6 @@ https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker
 
 https://github.com/nyas1/Material-You-app-list/blob/master/README.md
 https://github.com/CHNJohnHK/Material-You-App-Repository/blob/master/README.md
-https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/
-https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/
-https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/
+https://www.celsoazevedo.com/files/android/google-camera/
 
 
