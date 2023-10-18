@@ -1,4 +1,4 @@
-name: CI
+name: Check App Links
 on:
   schedule:
       - cron: '0 0 * * 5'
