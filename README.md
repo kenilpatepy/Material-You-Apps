@@ -969,7 +969,7 @@ A list of android apps that follow the
      - `MDY` [Compose Actors](https://github.com/RajashekarRaju/compose-actors) <sup>`🧋FOSS`</sup>
      - `MDY` [OpenBl](https://github.com/Ounzy/OpenBl) <sup>`🧋FOSS`</sup>
      - `MDY` [Snow](https://apt.izzysoft.de/fdroid/index/apk/com.sahej.snow) <sup>`🧋FOSS`</sup>
-     - `MDY` [Aluminium for AliList](https://play.google.com/store/apps/details?id=moe.emi.aluminium) <sup>`🧋FOSS`</sup>
+     - `MDY` [Aluminium for AniList](https://play.google.com/store/apps/details?id=moe.emi.aluminium) <sup>`🧋FOSS`</sup>
      - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
      - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`🧋FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
