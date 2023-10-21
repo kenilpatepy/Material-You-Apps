@@ -240,6 +240,7 @@
   - `MDY` [Donate to redlee90](https://play.google.com/store/apps/details?id=com.redlee90.donateany)
 
 <br>
+
 **`(5 Newly added apps!)`**
 
 - ### Best implementations of Material you
