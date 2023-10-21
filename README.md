@@ -238,6 +238,8 @@
   - `MDY` [DreamDroid](https://github.com/sreichholf/dreamDroid) <sup>`🧋FOSS`</sup>
   - `MD` [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth)
   - `MDY` [Donate to redlee90](https://play.google.com/store/apps/details?id=com.redlee90.donateany)
+
+<br>
 **`(5 Newly added apps!)`**
 
 - ### Best implementations of Material you
