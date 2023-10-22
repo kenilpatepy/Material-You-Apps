@@ -1641,7 +1641,7 @@
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/64c03aca-637b-44a3-a697-100dd89e8cf5" width="55"> Post List
-Thanks for all the stars! this github stuff is boring to me sometimes, i may take some delays between updates (this project is abandoned tho). 
+Thanks for all the stars! this github stuff is boring to me sometimes, i may take some delays between updates (this project **isn't** abandoned tho). 
 
 ### Special thanks to these Sources
 #### i can't ensure this list to be 100% correct. however, if there is a mistake (Lets be honest, there definitely is.) feel free to inform me!
