@@ -1,4 +1,4 @@
-name: Check if links are down.
+name: Extract and Filter Links
 
 on:
   schedule:
@@ -21,7 +21,14 @@ jobs:
           | sed 's/[0-9#]//g' \
           | sed 's/ 🍴Fork/`\\0`/g' > .github/outputs/Action-link.txt
 
+      - name: Check for Changes
+        id: check-changes
+        run: |
+          git diff --quiet || echo "Changes found" >> changes.log
+        continue-on-error: true
+
       - name: Commit Changes
+        if: steps.check-changes.outputs.check-changes == 'Changes found'
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
