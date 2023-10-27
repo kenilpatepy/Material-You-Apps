@@ -28,8 +28,6 @@ jobs:
           git add .github/outputs/Action-link.txt
           git commit -m "Update Action-Links (Scheduled)"
           git push origin HEAD
-
- jobs:
+          
       - name: Check if sites are down
-        uses: actions/checkout@v4
         run: wget -i .github/outputs/Action-link.txt
