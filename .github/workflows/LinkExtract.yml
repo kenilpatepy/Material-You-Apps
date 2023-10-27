@@ -20,14 +20,35 @@ jobs:
           | sed 's/[<>]//g' \
           | sed 's/[#\d+\]//g'
           | sed 's/ 🍴Fork/`\0`/g' > .github/outputs/Action-link.txt
-          
+
+    - name: Download Links with wget
+      run: |
+       max_retries=2
+        while IFS= read -r link; do
+         retries=0
+        while [ $retries -lt $max_retries ]; do
+        wget --quiet --continue "$link" -P downloads/ || {
+          echo "Failed to download: $link" >> wget_errors.log
+          retries=$((retries + 1))
+        }
+        if [ $? -eq 0 ]; then
+          break
+        fi
+        done
+       done < .github/outputs/Action-link.txt
+
       - name: Commit Changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .github/outputs/Action-link.txt
-          git commit -m "Update Action-Links (Scheduled)"
+          git commit -m "Update Outputs"
           git push origin HEAD
-          
-      - name: Check if sites are down
-        run: wget -i .github/outputs/Action-link.txt
+
+      - name: Check for Wget Errors
+        run: |
+          if [ -n "$(find downloads/ -type f -name 'index.html')" ]; then
+            echo "There are errors with Wget."
+          else
+            echo "There are no Wget errors detected."
+          fi
