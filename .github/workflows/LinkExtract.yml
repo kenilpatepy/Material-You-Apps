@@ -27,26 +27,4 @@ jobs:
           git diff --quiet || echo "Changes found" >> changes.log
         continue-on-error: true
 
-      - name: Commit Changes
-        if: steps.check-changes.outputs.check-changes == 'Changes found'
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add .github/outputs/Action-link.txt
-          git commit -m "Update Outputs"
-          git push origin HEAD
-
-      - name: Download Links with wget
-        run: |
-          wget --quiet --continue -i .github/outputs/Action-link.txt -P downloads/ 2>&1 | tee -a wget_errors.log
-          if [ -s wget_errors.log ]; then
-            echo "Wget errors detected. Failing the build."
-            exit 1
-          fi
-
-      - name: Store Logs as Artifacts
-        if: steps.check-changes.outputs.check-changes == 'Changes found' || steps.Download Links with wget.outcome == 'failure'
-        uses: actions/upload-artifact@v2
-        with:
-          name: logs
-          path: changes.log, wget_errors.log
+      - name: Commit
