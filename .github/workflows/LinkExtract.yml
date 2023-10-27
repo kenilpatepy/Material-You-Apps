@@ -3,24 +3,24 @@ name: Extract and Filter Links
 on:
   schedule:
     - cron: '0 0 * * 4'
-
   workflow_dispatch:
 
-  jobs:
-    extract-links:
-      runs-on: ubuntu-latest
-      steps:
-      - name: Checkout Version
+jobs:
+  extract-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
         uses: actions/checkout@latest
-        
-      - name: Extract and Filter Links
-        run: 
-        | sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \ 
-        | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms' > Action-link.txt
 
-          - name: Commit Changes
-            run: 
-            | git config --global user .name "Github Action" 
-            git clone --global user .email "action@github.com" 
-            git add Action-link.txt git commit -m "Update Action-Links (Scheduled)"
-            git push
+      - name: Extract and Filter Links
+        run: |
+          sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
+          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms' > Action-link.txt
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add Action-link.txt
+          git commit -m "Update Action-Links (Scheduled)"
+          git push
