@@ -11,9 +11,7 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          token: $ {{ secrets.MY_ACTIONS_TOKEN }}
-
+        
       - name: Extract and Filter Links
         run: |
           sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
@@ -25,4 +23,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add Action-link.txt
           git commit -m "Update Action-Links (Scheduled)"
-          git push
+          git push origin HEAD
