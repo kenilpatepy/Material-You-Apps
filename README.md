@@ -685,7 +685,6 @@
    - `MY` [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) <sup>`🧋FOSS`</sup>
    - `MD` [Self Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa)
    - `MD` [Libre Camera](https://github.com/iakmds/librecamera)
-   - `MD` [GCamloader Enhanced](https://play.google.com/store/apps/details?id=com.gcamloader.enhanced)
    - `MD` [GCamloader](https://play.google.com/store/apps/details?id=net.metareverse.gcamloader)
 
  - ### Keyboards
