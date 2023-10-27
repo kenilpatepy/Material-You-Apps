@@ -1,3 +1,4 @@
+https://github.com/teaOwO/Test
 https://github.com/Jomyy/schulappjetpack 
 https://github.com/chvp/NanoLedger 
 https://github.com/f33lnothin9/Flick 
@@ -1092,7 +1093,3 @@ https://github.com/librerandonaut/librerandonaut
 https://github.com/oSumAtrIX/HzRefresher 
 https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker
 https://play.google.com/store/apps/details?id=any.splitscreen
-https://github.com/nyas1/Material-You-app-list An Amazing material you apps list, it was the inspiration of my list uwu!
-https://github.com/CHNJohnHK/Material-You-App-Repository A fork of misaka's now deleted list. A great list with **A TON** of apps!
-https://github.com/users/TeaOwO/projects/2**
-https://us.nothing.tech/pages/phone-1**
