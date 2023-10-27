@@ -1,4 +1,3 @@
-https://github.com/cloner93/GitHoob
 https://github.com/Jomyy/schulappjetpack 
 https://github.com/chvp/NanoLedger 
 https://github.com/flnothin/Flick 
