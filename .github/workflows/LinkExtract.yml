@@ -10,19 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
-        
+        uses: actions/checkout@v2
+
       - name: Extract and Filter Links
         run: |
           sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
           | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com' \
-          | sed 's/[()]//g' \
-          | sed 's/[<>]//g' \
-          | sed 's/[An Amazing material you apps list, it was the inspiration of my list uwu!]//g' \
-          | sed 's/[A fork of misaka's now deleted list. A great list with **A TON** of apps!]//g' \
-          | sed 's/[**]//g' \
-          | sed 's/["  width="60"]//g' \
-          | sed 's/🍴Fork//g' > .github/outputs/Action-link.txt
+          | sed -e "s/[()]//g" -e "s/\[An Amazing material you apps list, it was the inspiration of my list uwu!\]//g" -e "s/\[A fork of misaka's now deleted list. A great list with **A TON** of apps!\]//g" -e "s/\[\*\*\]//g" -e 's/" width="60"//g' -e 's/🍴Fork//g' > .github/outputs/Action-link.txt
           
       - name: Commit Changes
         run: |
