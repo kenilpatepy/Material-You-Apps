@@ -9,6 +9,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: DownApps.yml
+      - uses: actions/checkout@latest
+      - name: Check App Links
         run: wget -i Action-link.txt
