@@ -17,12 +17,12 @@ jobs:
           sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
           | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com' \
           | sed 's/[()]//g' \
-          | sed 's/[<>]//g' > .github/workflows/Action-link.txt
+          | sed 's/[<>]//g' > .github/outputs/Action-link.txt
           
       - name: Commit Changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add .github/workflows/Action-link.txt
+          git add .github/outputs/Action-link.txt
           git commit -m "Update Action-Links (Scheduled)"
           git push origin HEAD
