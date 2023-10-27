@@ -2,7 +2,7 @@ name: Extract and Filter Links
 
 on:
   schedule:
-    - cron: '0 0 * * 4'
+    - cron: '0 0 * * 5'
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,11 @@ jobs:
       - name: Extract and Filter Links
         run: |
           grep -oE 'http[s]?://[^<]*' README.md \
-          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets' \
+          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com' \
           | sed 's/[()]//g' \
           | sed 's/[<>]//g' \
-          | sed 's/🍴Fork//g' > .github/outputs/Action-link.txt
+          | sed 's/[#\d+\]//g'
+          | sed 's/ 🍴Fork/`\0`/g' > .github/outputs/Action-link.txt
           
       - name: Commit Changes
         run: |
@@ -27,3 +28,8 @@ jobs:
           git add .github/outputs/Action-link.txt
           git commit -m "Update Action-Links (Scheduled)"
           git push origin HEAD
+
+ jobs:
+      - name: Check if sites are down
+        uses: actions/checkout@v4
+        run: wget -i .github/outputs/Action-link.txt
