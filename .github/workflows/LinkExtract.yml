@@ -15,7 +15,9 @@ jobs:
       - name: Extract and Filter Links
         run: |
           grep -oE 'http[s]?://[^<]*' README.md \
-          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com' \
+          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets' \
+          | sed 's/[()]//g' \
+          | sed 's/[<>]//g' \
           | sed 's/🍴Fork//g' > .github/outputs/Action-link.txt
           
       - name: Commit Changes
