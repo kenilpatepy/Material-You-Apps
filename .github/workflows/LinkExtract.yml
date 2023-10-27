@@ -21,6 +21,14 @@ jobs:
           | sed 's/[0-9#]//g' \
           | sed 's/ 🍴Fork/`\\0`/g' > .github/outputs/Action-link.txt
 
+      - name: Commit Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .github/outputs/Action-link.txt
+          git commit -m "Update Outputs"
+          git push origin HEAD
+
       - name: Download Links with wget
         run: |
           max_retries=2
@@ -36,14 +44,6 @@ jobs:
               fi
             done
           done < .github/outputs/Action-link.txt
-
-      - name: Commit Changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add .github/outputs/Action-link.txt
-          git commit -m "Update Outputs"
-          git push origin HEAD
 
       - name: Check for Wget Errors
         run: |
