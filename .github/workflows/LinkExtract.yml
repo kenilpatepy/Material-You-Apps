@@ -23,6 +23,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add Action-link.txt
+          git add .github/workflows/Action-link.txt
           git commit -m "Update Action-Links (Scheduled)"
           git push origin HEAD
