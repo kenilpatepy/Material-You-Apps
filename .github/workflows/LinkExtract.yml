@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@latest
+        uses: actions/checkout@4
 
       - name: Extract and Filter Links
         run: |
