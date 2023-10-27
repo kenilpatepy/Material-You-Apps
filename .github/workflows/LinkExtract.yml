@@ -36,6 +36,13 @@ jobs:
           git commit -m "Update Outputs"
           git push origin HEAD
 
+      - name: Store Logs as Artifacts
+        if: steps.check-changes.outputs.check-changes == 'Changes found'
+        uses: actions/upload-artifact@v2
+        with:
+          name: logs
+          path: changes.log
+
       - name: Download Links with wget
         run: |
           wget --quiet --continue -i .github/outputs/Action-link.txt -P downloads/ || {
