@@ -14,11 +14,11 @@ jobs:
         
       - name: Extract and Filter Links
         run: 
-          | sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
-          | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com' \
-          | sed 's/[()]//g' \
-          | sed 's/🍴Fork/`\\0`/g' \
-          | sed 's/[<>]//g' > .github/outputs/filtered-links.txt
+        | sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
+        | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com' \
+        | sed 's/[()]//g' \
+        | sed 's/🍴Fork/`\\0`/g' \
+        | sed 's/[<>]//g' > .github/outputs/filtered-links.txt
           
       - name: Commit Changes
           git config --global user.name "GitHub Action"
