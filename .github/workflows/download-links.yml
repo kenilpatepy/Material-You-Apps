@@ -15,4 +15,4 @@ jobs:
 
       - name: Download Links with wget
         run: |
-          wget --quiet --continue -i .github/outputs/filtered-links.txt -P downloads/ 2>&1
+          wget -i .github/outputs/filtered-links.txt
