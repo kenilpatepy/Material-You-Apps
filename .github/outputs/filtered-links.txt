@@ -201,7 +201,6 @@ https://github.com/soupslurpr/BeauTyXT
 https://github.com/Cosmic-Ide/Cosmic-IDE 
 https://github.com/TS-Code-Editor/Android-Code-editor 
 https://github.com/AndroidIDEOfficial/AndroidIDE 
-https://www.coolapk1s.com/feed/42984209
 https://github.com/KrishnarajaSagar/NotesAppCompose 
 https://github.com/SimpleMobileTools/Simple-Notes 
 https://github.com/SimpleMobileTools/Simple-Notes 
@@ -405,7 +404,7 @@ https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=net.maskbrowser.browser
 https://play.google.com/store/apps/details?id=com.vivaldi.browser
 https://play.google.com/store/apps/details?id=com.opera.browser.beta
-https://github.com/jamal2362/Styx  `` 
+https://github.com/jamal2362/Styx   
 https://gitlab.com/remmer.wilts/thor 
 https://github.com/thalloerupt/stage2 
 https://gitlab.com/narektor/gugal 
