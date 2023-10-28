@@ -14,9 +14,6 @@ jobs:
         with:
           ref: Automation
 
-      - name: Create Outputs Directory
-        run: mkdir -p .github/outputs
-
       - name: Extract and Filter links
         run: |
             sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
