@@ -14,38 +14,16 @@ jobs:
 
       - name: Extract and Filter Links
         run: |
-          grep -oE 'http[s]?://[^<]*' README.md \
-          | grep -Evi 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com' \
-          | sed 's/[()]//g' \
-          | sed 's/[<>]//g' \
-          | sed 's/[0-9#]//g' \
-          | sed 's/ 🍴Fork/`\\0`/g' > .github/outputs/Action-link.txt
-
-      - name: Check for Changes
-        id: check-changes
-        run: |
-          git diff --quiet || echo "Changes found" >> changes.log
-        continue-on-error: true
+          cat README.md \
+          | grep -oE 'http[s]?://[^<]*' \
+          | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com' \
+          | sed -E 's/[()<>0-9#]//g; s/ 🍴Fork/`\\0`/g' > .github/outputs/filtered-links.txt
 
       - name: Commit Changes
-        if: steps.check-changes.outputs.check-changes == 'Changes found'
+        if: steps.extract-links.outputs.check-changes == 'Changes found'
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add .github/outputs/Action-link.txt
-          git commit -m "Update Outputs"
+          git add .github/outputs/filtered-links.txt
+          git commit -m "Update Filtered Links"
           git push origin HEAD
-
-      - name: Download Links with wget
-        run: |
-          wget --quiet --continue -i .github/outputs/Action-link.txt -P downloads/ 2>&1 | tee -a wget_errors.log
-          if [ -s wget_errors.log ]; then
-            echo "Wget errors detected. Failing the build."
-            exit 1
-
-      - name: Store Logs as Artifacts
-        if: ${{ steps.check-changes.outputs.check-changes == 'Changes found' || steps['Download Links with wget'].outcome == 'failure' }}
-        uses: actions/upload-artifact@v2
-        with:
-          name: logs
-          path: changes.log, wget_errors.log
