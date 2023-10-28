@@ -27,6 +27,7 @@ jobs:
             | sed 's/[<>]//g' > .github/outputs/filtered-links.txt
           else
             echo "README.md not found."
+            exit 1  # Exit with an error code
           fi
 
       - name: Configure Git
