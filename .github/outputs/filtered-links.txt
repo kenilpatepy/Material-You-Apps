@@ -405,7 +405,7 @@ https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=net.maskbrowser.browser
 https://play.google.com/store/apps/details?id=com.vivaldi.browser
 https://play.google.com/store/apps/details?id=com.opera.browser.beta
-https://github.com/jamal2362/Styx  ``\0`` 
+https://github.com/jamal2362/Styx  `` 
 https://gitlab.com/remmer.wilts/thor 
 https://github.com/thalloerupt/stage2 
 https://gitlab.com/narektor/gugal 
@@ -658,7 +658,6 @@ https://github.com/umerov1999/Fenrir-for-VK
 https://github.com/vtosters/lite 
 https://t.me/vkequals 
 https://t.me/ctwVK 
-https://thedise.me/instander/repo/ 
 https://t.me/Honistagram 
 https://t.me/instasmashrepo 
 https://github.com/guozhigq/flutter_v2ex 
@@ -723,7 +722,6 @@ https://play.google.com/store/apps/details?id=com.google.android.apps.meetings
 https://play.google.com/store/apps/details?id=com.Slack
 https://t.me/s/neo_applications 
 https://github.com/Droid-ify/client 
-https://auroraoss.com/AuroraStore/Nightly/ 
 https://play.google.com/store/games
 https://github.com/revanced/revanced-manager 
 https://github.com/inotia00/revanced-manager 
@@ -1069,7 +1067,5 @@ https://github.com/librerandonaut/librerandonaut
 https://github.com/oSumAtrIX/HzRefresher 
 https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker
 https://play.google.com/store/apps/details?id=any.splitscreen
-https://github.com/nyas1/Material-You-app-list An Amazing material you apps list, it was the inspiration of my list uwu!
-https://github.com/CHNJohnHK/Material-You-App-Repository A fork of misaka's now deleted list. A great list with **A TON** of apps!
-https://github.com/users/TeaOwO/projects/2**
-https://us.nothing.tech/pages/phone-1**
+https://github.com/users/TeaOwO/projects/2
+https://us.nothing.tech/pages/phone-1
