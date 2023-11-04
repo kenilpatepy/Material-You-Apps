@@ -3,11 +3,11 @@
 </h2>
 
 <p align="center">
-<b>A list of android apps that follow the <a href="https://m3.material.io/">Material You and/or Material 3 design language.</a></b>
+<b>A list of android apps that follow the <a href="https://m3.material.io/"> Material You/3 design language.</a></b>
 </p>
 
 <p align="center">
-<a href="#special-thanks-to-these-sources">💖 Special thanks to these Sources</a>
+<a href="#special-thanks-to-these-sources"><b>💖 Special thanks to these Sources</b></a>
 
 
 <p align="center">
@@ -233,11 +233,11 @@
 ## Feel free to request apps
 
 - ### Newly added
+   - `MY` [Pass2Pay](https://play.google.com/store/apps/details?id=color.dev.com.tangerine)
    - `MDY` [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app)
    - `MDY` [StandBy Mode Pro](https://play.google.com/store/apps/details?id=br.com.zetabit.ios_standby)
    - `MDY` [Jolt](https://play.google.com/store/apps/details?id=com.icubeaccess.phoneapp)
    - `MDY` [Smartspacer](https://github.com/KieronQuinn/Smartspacer) <sup>`✨`</sup> <sup>`FOSS`</sup>
-   - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) <sup>`FOSS`</sup>
 
 <br>
 
@@ -643,6 +643,7 @@
        - `MDY` [Tilla](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla)
        - `MDY` [Donate to redlee90](https://play.google.com/store/apps/details?id=com.redlee90.donateany)
        - `MY` [Fise SMS](https://github.com/5george/fisesms) <sup>`FOSS`</sup> <sup>`🌐PT`</sup>
+       - `MY` [Pass2Pay](https://play.google.com/store/apps/details?id=color.dev.com.tangerine)
 
  - ### Weather
    - `MDY` [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) <sup>`FOSS`</sup> <sup>`👻`</sup>
@@ -1078,9 +1079,8 @@
  - ### Social media
    - #### Reddit Clients
      - `MDY` [Sync for Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-05-03-1718-release/) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-     - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit) <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-     - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
-     - `MDY` [PineApple](https://github.com/galaxygoldfish/pineapple) <sup>`FOSS`</sup>
+     - `MDY` [FatBird](https://play.google.com/store/apps/details?id=com.niven.reddit)
+     - `MDY` [Focus](https://play.google.com/store/apps/details?id=allen.town.focus.reddit) <sup>`FOSS`</sup>
      - `MDY` [Boost for Reddit](https://www.apkmirror.com/apk/ruben-mayayo/boost-for-reddit/) <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
      - `MY` [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) <sup>`FOSS`</sup> <sup>`💲`</sup> <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup> 
      - `MY` [Karma](https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter)
@@ -1379,7 +1379,7 @@
    - #### Modules & Module Managers
      - `MDY` [Mrepo](https://github.com/ya0211/MRepo) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
      - `MDY` [FoxMMM](https://github.com/Androidacy/MagiskModuleManager) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
-     - `MY` [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🚫 NOT AN APP`</sup>
+     - `MY` [Monet-All](https://monet.jerryz.com.cn/en/) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⚠️ NOT AN APP`</sup>
 
    - #### Other Magisk tools
      - `MDY` [Applist Detector](https://github.com/Dr-TSNG/ApplistDetector) <sup>`FOSS`</sup>
@@ -1533,7 +1533,7 @@
     - `MDY` [Boat H2O2](https://github.com/NaCln4c1/Boat_H2O2) <sup>`👻`</sup>
     - `MDY` [ProtoHax](https://github.com/hax0r31337/ProtoHax) <sup>`FOSS`</sup>
     - `MDY` [TempleBlock](https://github.com/AkaneTan/TempleBlock) <sup>`FOSS`</sup>
-    - `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`🚫 NOT AN APP`</SUP>
+    - `MD` [Blocked](https://github.com/jeffsieu/blocked) <sup>`FOSS`</sup> <sup>`⚠️ NOT AN APP`</SUP>
     - `MD` [NPuzzle](https://play.google.com/store/apps/details?id=com.anafthdev.npuzzle)
     - `MD` [Eat Poop You Cat](https://github.com/JamesOsborn-SE/eat-poop-you-cat-android) <sup>`FOSS`</sup>
     - `MD` [Cigaló](https://codeberg.org/retiolus/Cigalo) <sup>`FOSS`</sup>
@@ -1688,7 +1688,8 @@ Thanks for all the stars! this github stuff is boring to me sometimes, i may tak
 - [CHNJohnHK's list (Fork of Misaka's)](https://github.com/CHNJohnHK/Material-You-App-Repository) A fork of misaka's now deleted list. A great list with **A TON** of apps!
 - Everyone who replied to the reddit posts i made: [1](https://www.reddit.com/r/androidapps/comments/12pu8pu/i_made_a_github_list_of_the_material_you_apps_i/), [2](https://www.reddit.com/r/Android/comments/12pu3x3/i_made_a_github_list_of_all_the_material_you_apps/), [3](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/) 
 ### Roadmap
-**You can view the project 📌 Roadmap [here!](https://github.com/users/TeaOwO/projects/2)**
+
+<b>You can view the project 📌 Roadmap <a href="https://github.com/users/TeaOwO/projects/2">here!</a></b>
 ---
 **Phone used: [Nothing Phone (1)](https://us.nothing.tech/pages/phone-1)**
 ---
