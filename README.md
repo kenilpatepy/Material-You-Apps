@@ -392,7 +392,7 @@
 
 
  - ### Telegram Themes
-   - `MDY` [TeleMone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+   - `MDY` [TeleMone](https://github.com/Number869/TeleMone) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
    - `MDY` [Telegram Monet](https://github.com/c3r5b8/Telegram-Monet) <sup>`FOSS`</sup>
 
 
@@ -422,7 +422,7 @@
    - `MDY` [FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) <sup>`FOSS`</sup> <sup>`🌐ES`</sup>
    - `MDY` [ZipXtract](https://github.com/WirelessAlien/ZipXtract) <sup>`FOSS`</sup>
    - `MY` [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
-   - `MY` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`✨`</sup> <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+   - `MY` [MiXplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) <sup>`✨`</sup> <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
    - `MY` [File Explorer](https://github.com/Raival-e/File-Explorer) <sup>`FOSS`</sup>
    - `MY` [Right Files](https://play.google.com/store/apps/details?id=com.goodwy.filemanager)
    
@@ -455,7 +455,7 @@
      - `MDY` [Function](https://github.com/sirekanian/function) <sup>`FOSS`</sup>
      - `MDY` [HellNotes](https://github.com/HellGuy39/HellNotes) <sup>`FOSS`</sup>
      - `MY` [NOTI](https://play.google.com/store/apps/details?id=org.skyfaced.noti)
-     - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup> 
+     - `MD` [Obsidian](https://play.google.com/store/apps/details?id=md.obsidian) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup> 
      - `MD` [Notes](https://play.google.com/store/apps/details?id=com.redmerah.notes)
      - `MD` [Notewise](https://play.google.com/store/apps/details?id=com.yygg.note.app)
      - `MD` [JetNote](https://github.com/City-Zouitel/JetNote) <sup>`FOSS`</sup>
@@ -858,7 +858,7 @@
    - `MDY` [LightTube](https://github.com/kuylar/lighttube-android) <sup>`FOSS`</sup>
    - `MDY` [Hyperion](https://github.com/zt64/Hyperion) <sup>`FOSS`</sup>
    - `MDY` [Clipious](https://github.com/lamarios/clipious) <sup>`FOSS`</sup>
-   - `MY` [Youtube](https://github.com/revanced/revanced-manager) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+   - `MY` [Youtube](https://github.com/revanced/revanced-manager) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
    - `MD` [VueTube](https://github.com/VueTubeApp/VueTube) <sup>`FOSS`</sup>
 
    
@@ -962,7 +962,7 @@
      - `MD` [NovelDokusha](https://github.com/nanihadesuka/NovelDokusha) <sup>`FOSS`</sup>
 
    - #### TV/Video Streaming
-     - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`✨`</sup> <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+     - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`✨`</sup> <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
      - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
      - `MDY` [Aniyomi](https://github.com/aniyomiorg/aniyomi) <sup>`FOSS`</sup>
      - `MDY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
@@ -1089,7 +1089,7 @@
 
    - #### X (Twitter) Clients
      - `MDY` [FocusTwitter](https://play.google.com/store/apps/details?id=allen.town.focus.twitter)
-     - `MY` [X](https://play.google.com/store/apps/details?id=com.twitter.android) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+     - `MY` [X](https://play.google.com/store/apps/details?id=com.twitter.android) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
      - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
      - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
      - `MY` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup>
@@ -1116,7 +1116,7 @@
    - #### Discord Clients
      - `MDY` [OpenCord](https://github.com/MateriiApps/OpenCord) <sup>`FOSS`</sup>
      - `MY` [Aliucord](https://github.com/Aliucord/Aliucord) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/MrSpidercat/Matu)[`#2`](https://github.com/Drownbywind/Aliu-Themes#material-you-themes)</sup>
-     - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`⚠️Required`[`#1`](https://vorlie.pl/materialdetta)[`#2`](https://teaowo.github.io/Tuts/posts/jekyll-markdown/)</sup>
+     - `MY` [Vendetta](https://github.com/vendetta-mod/Vendetta) <sup>`⚠️Required`[`#1`](https://vorlie.pl/materialdetta)[`#2`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
      - `MD` [Vencord](https://github.com/Vencord/Android) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/CapnKitten/Material-Discord)</sup>
 
   - #### VK Clients
