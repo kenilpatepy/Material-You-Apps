@@ -272,10 +272,10 @@
     - `MY` [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind)
 
  - ### Launcher tools
-   - `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🧩`</sup>
+   - `MDY` [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller) <sup>`FOSS`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [Quick Switch](https://github.com/skittles9823/QuickSwitch) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
-   - `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`🧩`</sup>
+   - `MDY` [Launcher30](https://github.com/gitofleonardo/Launcher30) <sup>`FOSS`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Smart Dock](https://github.com/axel358/smartdock) <sup>`FOSS`</sup>
    - `MDY` [Neo Feed](https://github.com/NeoApplications/Neo-Feed) <sup>`FOSS`</sup>
 
@@ -404,7 +404,7 @@
    - `MDY` [System UI Tuner](https://github.com/zacharee/Tweaker) <sup>`FOSS`</sup>
    - `MDY` [PowerLine](https://play.google.com/store/apps/details?id=com.urbandroid.inline)
    - `MDY` [Palettes](https://play.google.com/store/apps/details?id=com.pranavpandey.theme)
-   - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`👻`</sup> <sup>`#️⃣`</sup> <sup>`🧩`</sup>
+   - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`👻`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
@@ -1392,7 +1392,7 @@
  - ### Automation
    - `MDY` [Smart AutoClicker](https://github.com/Nain57/Smart-AutoClicker) <sup>`FOSS`</sup>
    - `MDY` [Syncthing](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) <sup>`FOSS`</sup>
-   - `MDY` [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💲`</sup> <sup>`🧩`</sup>
+   - `MDY` [ShortX](https://play.google.com/store/apps/details?id=tornaco.apps.shortx) <sup>`💲`</sup> <sup>`#️⃣`</sup>
    - `MDY` [Round Sync](https://github.com/newhinton/Round-Sync) <sup>`FOSS`</sup>
    - `MY` [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
    - `MY` [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) <sup>`FOSS`</sup>
@@ -1455,7 +1455,7 @@
 
  - ### Link Cleaners
    - `MDY` [LinkSheet](https://github.com/1fexd/LinkSheet) <sup>`✨`</sup> <sup>`FOSS`</sup>
-   - `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Tarnhelm](https://github.com/lz233/Tarnhelm) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [Leon](https://play.google.com/store/apps/details?id=com.svenjacobs.app.leon)
    - `MY` [URLChecker](https://github.com/TrianguloY/UrlChecker) <sup>`FOSS`</sup>
 
@@ -1479,11 +1479,11 @@
    - `MDY` [Privacy Dots](https://play.google.com/store/apps/details?id=com.paget96.privacydots)
    - `MDY` [Help Me SOS](https://play.google.com/store/apps/details?id=com.paget96.helpme)
    - `MDY` [SelfPrivacy](https://git.selfprivacy.org/SelfPrivacy/selfprivacy.org.app) <sup>`FOSS`</sup>
-   - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Hide My Applist](https://github.com/Dr-TSNG/Hide-My-Applist) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [Storage isolation](https://play.google.com/store/apps/details?id=moe.shizuku.redirectstorage) <sup>`#️⃣`</sup>
-   - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`🧩`</sup>
+   - `MDY` [Android Faker](https://github.com/Xposed-Modules-Repo/com.android1500.androidfaker) <sup>`#️⃣`</sup>
    - `MDY` [AppLock](https://github.com/Mufanc/AppLock) <sup>`FOSS`</sup> <sup>`🌐ZH` </sup>
-   - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`🧩`</sup>
+   - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`#️⃣`</sup>
    - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
    - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
    - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`FOSS`</sup>
@@ -1617,12 +1617,12 @@
    - `MDY` [WADBS (Wireless ADB Switch)](https://github.com/Smooth-E/wireless-adb-switch) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [LogFox](https://github.com/F0x1d/LogFox) <sup>`FOSS`</sup>
    - `MDY` [Logra](https://github.com/wingio/Logra) <sup>`FOSS`</sup>
-   - `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [SnapEnhance](https://github.com/rhunk/SnapEnhance) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [KeyManager](https://github.com/Yash-Garg/KeyManager) <sup>`FOSS`</sup>
    - `MDY` [Universal Remote for Smart TVs](https://play.google.com/store/apps/details?id=com.quanticapps.universalremote)
    - `MDY` [Coffee](https://github.com/mueller-ma/Coffee) <sup>`FOSS`</sup>
    - `MDY` [SetEdit](https://github.com/MuntashirAkon/SetEdit) <sup>`FOSS`</sup>
-   - `MDY` [Sim Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) <sup>`FOSS`</sup> <sup>`🧩`</sup>
+   - `MDY` [Sim Number Setter](https://github.com/KieronQuinn/SIMNumberSetter) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
    - `MDY` [APK Editor](https://t.me/WSTprojects/1509) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [M3O](https://github.com/m3o/m3o-android) <sup>`FOSS`</sup>
    - `MDY` [TSViewer](https://github.com/BlazeCodeDev/TSViewer) <sup>`FOSS`</sup>
@@ -1663,7 +1663,7 @@
    - `MD` [Paperless Mobile](https://github.com/astubenbord/paperless-mobile) <sup>`FOSS`</sup> <sup>`Fork`</sup>
    - `MD` [HalfDot](https://github.com/davquar/halfdot) <sup>`FOSS`</sup>
    - `MD` [Octi](https://github.com/d4rken-org/octi) <sup>`FOSS`</sup>
-   - `MD` [WA Tweaker](https://watweaker.com/) <sup>`#️⃣`</sup> <sup>`🧩`</sup>
+   - `MD` [WA Tweaker](https://watweaker.com/)  <sup>`#️⃣`</sup>
    - `MD` [Mute Reminder](https://github.com/mueller-ma/MuteReminder) <sup>`FOSS`</sup>
    - `MD` [Andronix](https://github.com/AndronixApp/AndronixOrigin) <sup>`#️⃣`</sup> <sup>`FOSS`</sup>
    - `MD` [Alovoa](https://github.com/Alovoa/alovoa-expo) <sup>`FOSS`</sup>
