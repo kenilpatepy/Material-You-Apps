@@ -22,7 +22,7 @@ jobs:
             | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
             | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
             | sed 's/[()]//g' \
-            | sed 's/🍴Fork//g; s/``//g' \
+            | sed 's/Fork//g; s/``//g' \
             | sed 's/``//g' \
             | sed 's/\*\*//g' \
             | sed 's/[<>]//g' > .github/outputs/filtered-links.txt
