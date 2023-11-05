@@ -315,7 +315,7 @@
    - `MDY` [Search Widget](https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget) <sup>`💲`</sup>
    - `MDY` [Clock Widget](https://play.google.com/store/apps/details?id=rk.android.app.clockwidget) <sup>`💲`</sup>
    - `MDY` [Shortcut Maker](https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker)
-   - `MDY` [Pinned Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts)
+   - `MDY` [Pinned Shortcuts](https://www.apkmirror.com/apk/android_rk/pinned-shortcuts/)
    - `MDY` [Notification Shortcuts](https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts) <sup>`💲`</sup>
    - `MDY` [Music Widget Android 12](https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12)
    - `MDY` [Bitcoin Timechain Widgets](https://github.com/gooGofZ/BitcoinTimechainWidgets) <sup>`FOSS`</sup>
@@ -348,7 +348,6 @@
      - `MDY` [DGicons](https://github.com/WaifuPX-DG/DGicons)
      - `MDY` [Epik Material you icons](https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US) <sup>`💲`</sup>
      - `MDY` [Dynamic Material You icon pack](https://play.google.com/store/apps/details?id=iconpack.onsurface.monet) <sup>`💲`</sup>
-     - `MDY` [Themed Icons](https://play.google.com/store/apps/details?id=rk.android.app.themedicons)
      - `MDY` [Blueprint](https://github.com/jahirfiquitiva/Blueprint)
      - `MDY` [Adaptive You Icon Pack](https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack) <sup>`💲`</sup>
      - `MDY` [Pix Material you](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack) <sup>`💲`</sup>
@@ -407,7 +406,7 @@
    - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`👻`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
-   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/TrixiEther/DashchanFork)</sup>
+   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/TrixiEther/DashchanFork/)</sup>
    - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
