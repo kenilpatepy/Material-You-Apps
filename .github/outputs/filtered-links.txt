@@ -1,11 +1,11 @@
-https://github.com/Jomyy/schulappjetpack 
-https://github.com/chvp/NanoLedger 
-https://github.com/f33lnothin9/Flick 
-https://github.com/TheSomeshKumar/Flixplorer 
-https://github.com/s12dar/cloudy 
+https://play.google.com/store/apps/details?id=color.dev.com.tangerine
+https://play.google.com/store/apps/details?id=com.budget.tracker_app
+https://play.google.com/store/apps/details?id=br.com.zetabit.ios_standby
+https://play.google.com/store/apps/details?id=com.icubeaccess.phoneapp
+https://github.com/KieronQuinn/Smartspacer 
 https://gitlab.com/colorata/wallman 
 https://github.com/WaifuPX-DG/WaifuPX 
-https://github.com/z-huang/InnerTune 
+https://play.google.com/store/apps/details?id=com.budget.tracker_app
 https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files
 https://play.google.com/store/apps/details?id=com.nothing.launcher 
 https://github.com/saitamasahil/Pixel-Launcher-Extended 
@@ -56,6 +56,7 @@ https://github.com/zadeviggers/wallpaper
 https://play.google.com/store/apps/details?id=com.backdrops.wallpapers
 https://github.com/Steve-Mr/WallpaperTunnel
 https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch 
+https://github.com/KieronQuinn/Smartspacer 
 https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget 
 https://play.google.com/store/apps/details?id=rk.android.app.clockwidget 
 https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker
@@ -113,9 +114,11 @@ https://github.com/DerTyp7214/RboardThemeManagerV3
 https://github.com/DerTyp7214/RboardPatcher 
 https://github.com/DerTyp7214/RboardThemeCreator 
 https://github.com/DerTyp7214/RboardIMETester 
+https://play.google.com/store/apps/details?id=com.touchtype.swiftkey
+https://github.com/itsmartashub/florigboard
 https://github.com/DerTyp7214/MixplorerThemeCreator 
 https://github.com/jamal2362/Monet-Generator 
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/c3r5b8/Telegram-Monet 
 https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api
 https://github.com/Mahmud0808/Iconify 
@@ -127,8 +130,7 @@ https://play.google.com/store/apps/details?id=com.pranavpandey.theme
 https://github.com/kdrag0n/android12-extensions 
 https://play.google.com/store/apps/details?id=com.drsants.eggproject 
 https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api
-https://play.google.com/store/apps/details?id=com.touchtype.swiftkey
-https://github.com/TrixiEther/DashchanFork
+https://github.com/TrixiEther/Dashchan
 https://github.com/AChep/materialwatch 
 https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US 
 https://github.com/SimpleMobileTools/Simple-File-Manager 
@@ -136,8 +138,9 @@ https://t.me/projectmaterial/880
 https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files
 https://play.google.com/store/apps/details?id=dev.dworks.apps.anexplorer 
 https://github.com/Ruan625Br/FileManagerSphere 
+https://github.com/WirelessAlien/ZipXtract 
 https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/Raival-e/File-Explorer 
 https://play.google.com/store/apps/details?id=com.goodwy.filemanager
 https://github.com/localsend/localsend 
@@ -165,7 +168,7 @@ https://github.com/quillpad/quillpad
 https://github.com/sirekanian/function 
 https://github.com/HellGuy39/HellNotes 
 https://play.google.com/store/apps/details?id=org.skyfaced.noti
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://play.google.com/store/apps/details?id=com.redmerah.notes
 https://play.google.com/store/apps/details?id=com.yygg.note.app
 https://github.com/City-Zouitel/JetNote 
@@ -285,6 +288,7 @@ https://play.google.com/store/apps/details?id=com.anafthdev.remindme
 https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel 
 https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user
 https://github.com/danilkinkin/buckwheat 
+https://play.google.com/store/apps/details?id=com.budget.tracker_app
 https://github.com/Pool-Of-Tears/GreenStash 
 https://github.com/RetroMusicPlayer/Paisa 
 https://play.google.com/store/apps/details?id=com.chiranth.xpense
@@ -313,6 +317,7 @@ https://github.com/ziadOUA/zCard
 https://play.google.com/store/apps/details?id=com.pavelrekun.tilla
 https://play.google.com/store/apps/details?id=com.redlee90.donateany
 https://github.com/5george/fisesms 
+https://play.google.com/store/apps/details?id=color.dev.com.tangerine
 https://github.com/WangDaYeeeeee/GeometricWeather 
 https://github.com/breezy-weather/breezy-weather 
 https://t.me/waifupx_official/205 
@@ -346,7 +351,8 @@ https://play.google.com/store/apps/details?id=com.isidroid.sfa
 https://github.com/iakmds/librecamera
 https://play.google.com/store/apps/details?id=net.metareverse.gcamloader
 https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin 
-https://github.com/TeaEndsAcronyms/Gboard-for-Florisboard-theme
+https://play.google.com/store/apps/details?id=com.touchtype.swiftkey.beta
+https://github.com/itsmartashub/florigboard
 https://github.com/SimpleMobileTools/Simple-Keyboard 
 https://github.com/dessalines/thumb-key 
 https://t.me/s/fredboard/42
@@ -458,7 +464,7 @@ https://github.com/libre-tube/LibreTube
 https://github.com/kuylar/lighttube-android 
 https://github.com/zt64/Hyperion 
 https://github.com/lamarios/clipious 
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/VueTubeApp/VueTube 
 https://github.com/lucinhu/bili_you 
 https://github.com/storytellerF/bi 
@@ -471,7 +477,7 @@ https://github.com/toasterofbread/spmp
 https://github.com/gokadzev/musify 
 https://github.com/vfsfitvnm/ViMusic 
 https://github.com/Colorata/Guitarist 
-https://github.com/sheikhhaziq/vibemusic 
+https://github.com/jhelumcorp/gyawun 
 https://github.com/anandnet/Harmony-Music 
 https://github.com/maxrave-dev/SimpMusic 
 https://github.com/namidaco/namida 
@@ -534,7 +540,7 @@ https://play.google.com/store/apps/details?id=com.flyersoft.moonreader
 https://github.com/IReaderorg/IReader 
 https://github.com/LNReader/lnreader 
 https://github.com/nanihadesuka/NovelDokusha 
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/N0-0NE-Dev/NoFasel 
 https://github.com/aniyomiorg/aniyomi 
 https://play.google.com/store/apps/details?id=app.komori
@@ -576,7 +582,7 @@ https://github.com/lotusprey/otraku
 https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio
 https://github.com/michaldrabik/showly-2.0 
 https://github.com/1RandomDev/showly-oss 
-https://github.com/gitofleonardo/BilibiliFork 
+https://github.com/gitofleonardo/Bilibili 
 https://github.com/deandreamatias/tv-randshow 
 https://github.com/miru-project/miru-app 
 https://github.com/f33lnothin9/Flick 
@@ -626,15 +632,17 @@ https://github.com/Jackiu1997/hot_live
 https://github.com/Jackiu1997/pure_live/ 
 https://github.com/xiaoyaocz/dart_simple_live 
 https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree
-https://github.com/galaxygoldfish/pineapple 
+https://github.com/OMGSoundboard/android-app 
+https://play.google.com/store/apps/details?id=com.niven.reddit
+https://play.google.com/store/apps/details?id=allen.town.focus.reddit 
 https://play.google.com/store/apps/details?id=com.brianrobles204.karmamachine_flutter
 https://github.com/kaangiray26/geddit-app 
 https://play.google.com/store/apps/details?id=allen.town.focus.twitter
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/robertodoering/harpy 
 https://play.google.com/store/apps/details?id=com.nick.mowen.albatross
 https://github.com/j-fbriere/squawker 
-https://github.com/FritterForksTheHCJ/Quacker 
+https://github.com/FrittersTheHCJ/Quacker 
 https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync
 https://github.com/dessalines/jerboa 
 https://play.google.com/store/apps/details?id=com.kuroneko.lemmy_connect
@@ -651,7 +659,7 @@ https://github.com/MateriiApps/Dimett
 https://play.google.com/store/apps/details?id=allen.town.focus.mastodon
 https://github.com/MateriiApps/OpenCord 
 https://github.com/Drownbywind/Aliu-Themes#material-you-themes
-https://teaowo.github.io/Tuts/posts/jekyll-markdown/
+https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/
 https://github.com/CapnKitten/Material-Discord
 https://github.com/umerov1999/Fenrir-for-VK 
 https://github.com/vtosters/lite 
@@ -704,6 +712,7 @@ https://github.com/Project-Based-Learning-IT/e2ee-chat
 https://parabox.ojhdt.dev/en/ 
 https://play.google.com/store/apps/details?id=com.goodwy.smsmessenger
 https://play.google.com/store/apps/details?id=com.whatsapp.w4b
+https://play.google.com/store/apps/details?id=com.icubeaccess.phoneapp
 https://github.com/Chooloo/koler 
 https://play.google.com/store/apps/details?id=com.google.android.contacts
 https://play.google.com/store/apps/details?id=com.google.android.dialer
@@ -998,8 +1007,9 @@ https://github.com/Keddnyo/MiDoze
 https://github.com/Oppzippy/OpenSCQ30 
 https://github.com/Moustachauve/WLED-Native-Android 
 https://github.com/d4rken-org/capod 
-https://github.com/zacharee/SamloaderKotlin 
 https://github.com/MateriiApps/Gloom 
+https://play.google.com/store/apps/details?id=br.com.zetabit.ios_standby
+https://github.com/zacharee/SamloaderKotlin 
 https://invent.kde.org/network/kdeconnect-android 
 https://github.com/SkyD666/Rays-Android 
 https://github.com/iTaysonLab/jetisteam 
@@ -1042,7 +1052,9 @@ https://github.com/hegocre/RacoAndroid
 https://github.com/aleksey-saenko/TTLChanger 
 https://github.com/sreichholf/dreamDroid 
 https://github.com/chvp/NanoLedger 
+https://github.com/xihan123/QDReadHook 
 https://t.me/androidsmsbomber
+https://play.google.com/store/apps/details?id=dev.rahmouni.neil.copyfromsharesheet
 https://github.com/SimpleMobileTools/Simple-Thank-You 
 https://github.com/MuntashirAkon/BatteryChargeLimiter 
 https://github.com/gsmlg-dev/ansible-semaphore-client 
@@ -1053,7 +1065,7 @@ https://github.com/ismartcoding/plain-app
 https://github.com/astubenbord/paperless-mobile 
 https://github.com/davquar/halfdot 
 https://github.com/d4rken-org/octi 
-https://watweaker.com/ 
+https://watweaker.com/  
 https://github.com/mueller-ma/MuteReminder 
 https://github.com/AndronixApp/AndronixOrigin 
 https://github.com/Alovoa/alovoa-expo 
@@ -1066,5 +1078,5 @@ https://github.com/librerandonaut/librerandonaut
 https://github.com/oSumAtrIX/HzRefresher 
 https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker
 https://play.google.com/store/apps/details?id=any.splitscreen
-https://github.com/users/TeaOwO/projects/2
+https://github.com/users/TeaOwO/projects/2"here!
 https://us.nothing.tech/pages/phone-1
