@@ -60,7 +60,6 @@ https://github.com/KieronQuinn/Smartspacer
 https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget 
 https://play.google.com/store/apps/details?id=rk.android.app.clockwidget 
 https://play.google.com/store/apps/details?id=rk.android.app.shortcutmaker
-https://play.google.com/store/apps/details?id=rk.android.app.pinnedshortcuts
 https://play.google.com/store/apps/details?id=rk.android.app.notificationshortcuts 
 https://play.google.com/store/apps/details?id=com.lstapps.musicwidgetandroid12
 https://github.com/gooGofZ/BitcoinTimechainWidgets 
@@ -89,7 +88,6 @@ https://github.com/Donnnno/Arcticons
 https://github.com/WaifuPX-DG/DGicons
 https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US 
 https://play.google.com/store/apps/details?id=iconpack.onsurface.monet 
-https://play.google.com/store/apps/details?id=rk.android.app.themedicons
 https://github.com/jahirfiquitiva/Blueprint
 https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.iconpack 
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack 
@@ -130,7 +128,7 @@ https://play.google.com/store/apps/details?id=com.pranavpandey.theme
 https://github.com/kdrag0n/android12-extensions 
 https://play.google.com/store/apps/details?id=com.drsants.eggproject 
 https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api
-https://github.com/TrixiEther/Dashchan
+https://github.com/TrixiEther/Dashchan/
 https://github.com/AChep/materialwatch 
 https://play.google.com/store/apps/details?id=me.zhanghai.android.files&hl=en_US&gl=US 
 https://github.com/SimpleMobileTools/Simple-File-Manager 
