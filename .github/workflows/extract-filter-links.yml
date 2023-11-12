@@ -17,13 +17,14 @@ jobs:
       - name: Extract and Filter links
         run: |
             grep -Eo 'http[s]?://[^<]*' README.md \
-            | grep -Eo '[^`]+' \
-            | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com' \
-            | grep -Ev 'A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
-            | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
-            | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
-            | grep -Eo '[^<sup>]+<\/sup>' \
-            | grep -Eo '[^<sup>|<\/sup>]+'> .github/outputs/filtered-links.txt
+              | grep -Eo '[^`]+' \
+              | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com' \
+              | grep -Ev 'A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
+              | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
+              | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
+              | grep -Eo '[^<sup>]+<\/sup>' \
+              | grep -Eo '[^<sup>|<\/sup>]+' > .github/outputs/filtered-links.txt
+
 
       - name: Configure Git
         run: |
