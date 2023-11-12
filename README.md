@@ -32,12 +32,17 @@ Text written between here are comments, these are here to guide you on how to fo
 
 
 - ### Material you Tags
-|Abbreviation|Dynamic Colouring|MD3 Design|Description|
-|:-:|:-:|:-:|--|
-|**`MDY`**|✔️|✔️|**Apps that follow **BOTH** the Material3 design language and dynamic colouring.**|
-|**`MY`**|✔️|❌|**Apps that follow dynamic colouring but not the Material3 design language.**|
-|**`MD`**|❌|✔️|**Apps that follow the Material3 design language but not dynamic colouring.**|
-|**`Not Released`**|❓|❓|**An app that is not yet released.**|
+  - **Apps that follow **BOTH** the Material3 design language and dynamic colouring.**
+  - **Apps that follow dynamic colouring but not the Material3 design language.**
+  - **Apps that follow the Material3 design language but not dynamic colouring.**
+  - **An app that is not yet released.**
+
+|Abbreviation|Dynamic Colouring|MD3 Design|
+|:-:|:-:|:-:|
+|**`MDY`**|✔️|✔️|
+|**`MY`**|✔️|❌|
+|**`MD`**|❌|✔️|
+|**`Not Released`**|❓|❓|
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
