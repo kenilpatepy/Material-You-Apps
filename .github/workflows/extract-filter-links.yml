@@ -21,7 +21,7 @@ jobs:
             | grep -Ev 'A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
             | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
             | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
-            | grep -Ev '[()``<>]|\\*\\*' > .github/outputs/filtered-links.txt
+            | sed -E 's/<sup>.*<\/sup>//g; s/<sup>|<\/sup>//g' > .github/outputs/filtered-links.txt
 
       - name: Configure Git
         run: |
