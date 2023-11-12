@@ -16,17 +16,12 @@ jobs:
 
       - name: Extract and Filter links
         run: |
-            sed -n -e 's!.*\(http[s]\?://[^<]*\).*!\1!p' README.md \
+            grep -Eo 'http[s]?://[^<]*' README.md \
             | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com' \
             | grep -Ev 'A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
             | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
             | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
-            | sed 's/[()]//g' \
-            | sed 's/Fork//g; s/``//g' \
-            | sed 's/``//g' \
-            | sed 's/\*\*//g' \
-            | sed 's/[<>]//g' > .github/outputs/filtered-links.txt
-         
+            | grep -Ev '[()``<>]|\\*\\*' > .github/outputs/filtered-links.txt
 
       - name: Configure Git
         run: |
@@ -36,5 +31,5 @@ jobs:
       - name: Commit Changes
         run: |
           git add .github/outputs/filtered-links.txt
-          git commit -m "Update Filtered Links"
+          git diff-index --quiet HEAD || git commit -m "🤖 Test Links (action #1)"
           git push origin HEAD
