@@ -16,16 +16,20 @@ jobs:
 
       - name: Extract and Filter links
         run: |
+            echo "Step 1: Extracting URLs from README.md"
+            grep -Eo 'http[s]?://[^<]*' README.md
+
+            echo "Step 2: Removing backticks and filtering URLs"
             grep -Eo 'http[s]?://[^<]*' README.md \
               | grep -Eo '[^`]+' \
-              | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com' \
-              | grep -Ev 'A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!' \
-              | grep -Ev 'An Amazing material you apps list, it was the inspiration of my list uwu!' \
-              | grep -Ev 'https://www.coolapk1s.com/feed/42984209' \
-              | grep -Eo '[^<sup>]+<\/sup>' \
-              | grep -Eo '[^<sup>|<\/sup>]+' > .github/outputs/filtered-links.txt 2>&1
+              | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com|A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!|An Amazing material you apps list, it was the inspiration of my list uwu!|https://www.coolapk1s.com/feed/42984209'
 
-
+            echo "Step 3: Further processing and redirection"
+            grep -Eo 'http[s]?://[^<]*' README.md \
+              | grep -Eo '[^`]+' \
+              | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com|A fork of misaka'\''s now deleted list. A great list with \*\*A TON\*\* of apps!|An Amazing material you apps list, it was the inspiration of my list uwu!|https://www.coolapk1s.com/feed/42984209' \
+              | grep -Eo '[^<sup>|<\/sup>]+' > .github/outputs/filtered-links.txt
+              
       - name: Configure Git
         run: |
           git config user.name "GitHub Action"
