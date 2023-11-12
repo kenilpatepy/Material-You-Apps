@@ -31,11 +31,11 @@ Text written between here are comments, these are here to guide you on how to fo
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/39da6267-4ad9-4324-a21b-61abc947b395" width="55"> Tags
 
 
-- ### Material you Tags
-  - **Apps that follow **BOTH** the Material3 design language and dynamic colouring.**
-  - **Apps that follow dynamic colouring but not the Material3 design language.**
-  - **Apps that follow the Material3 design language but not dynamic colouring.**
-  - **An app that is not yet released.**
+- ### Material You Tags
+  - `MDY` **Apps that follow **BOTH** the Material3 design language and dynamic colouring.**
+  - `MY` **Apps that follow dynamic colouring but not the Material3 design language.**
+  - `MD` **Apps that follow the Material3 design language but not dynamic colouring.**
+  - `Not Released` **An app that is not yet released.**
 
 |Abbreviation|Dynamic Colouring|MD3 Design|
 |:-:|:-:|:-:|
