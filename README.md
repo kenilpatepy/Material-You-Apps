@@ -72,6 +72,7 @@
       - [Dynamic/Material Icons](#dynamicmaterial-icons)
       - [Other Icon Packs](#other-icon-packs)
   - [Dynamic Island](#dynamic-island)
+  - [Watch Faces](#watch-faces)
   - [Keyboard Customization](#keyboard-customization)
     - [Gboard Customization](#gboard-customization)
     - [Other Keyboard themes](#other-keyboard-themes)
@@ -233,11 +234,11 @@
 ## Feel free to request apps
 
 - ### Newly added
-   - `MY` [Pass2Pay](https://play.google.com/store/apps/details?id=color.dev.com.tangerine)
-   - `MDY` [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app)
-   - `MDY` [StandBy Mode Pro](https://play.google.com/store/apps/details?id=br.com.zetabit.ios_standby)
-   - `MDY` [Jolt](https://play.google.com/store/apps/details?id=com.icubeaccess.phoneapp)
-   - `MDY` [Smartspacer](https://github.com/KieronQuinn/Smartspacer) <sup>`✨`</sup> <sup>`FOSS`</sup>
+  - `MD` [Material You Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou) <sup>`💲`</sup>
+  - `MD` [Pixel OLED](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled) <sup>`💲`</sup>
+  - `MD` [Digital Material You 3](https://play.google.com/store/apps/details?id=com.digitalmaterialyou3) <sup>`💲`</sup>
+  - `MD` [Material You 2: Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2) <sup>`💲`</sup>
+  - `MD` [Material 4: Wear OS watch face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4) <sup>`💲`</sup>
 
 <br>
 
@@ -254,8 +255,8 @@
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/000a0c97-34a1-4b34-9052-ba49043c1388" width="55"> Customization
  - ### Launcher
-    - `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) <sup>`✨`</sup> <sup>`⚠️ Only accessible on Nothing Devices.`</sup>
     - `MDY` [Lawnchair 12](https://www.apkmirror.com/apk/lawnchair/lawnchair-debug/) <sup>`FOSS`</sup>
+    - `MDY` [Nothing Launcher](https://play.google.com/store/apps/details?id=com.nothing.launcher) <sup>`✨`</sup> <sup>`⚠️ Only available on Nothing Devices.`</sup>
     - `MDY` [Pixel Launcher Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
     - `MDY` [Niagara](https://play.google.com/store/apps/details?id=bitpit.launcher)
     - `MDY` [Kvaesitso](https://kvaesitso.mm20.de/) <sup>`FOSS`</sup>
@@ -341,7 +342,7 @@
 
  - ### Icons Packs
    - #### Dynamic/Material Icons
-     - `MDY` [Nothing Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon) <sup>`✨`</sup> <sup>`⚠️ Only accessible on Nothing Devices.`</sup>
+     - `MDY` [Nothing Icon Pack](https://play.google.com/store/apps/details?id=com.nothing.icon) <sup>`✨`</sup> <sup>`⚠️ Only available on Nothing Devices.`</sup>
      - `MDY` [Pix Material You Light/Dark](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US) <sup>`💲`</sup>
      - `MDY` [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) <sup>`FOSS`</sup>
      - `MDY` [Arcticons You](https://github.com/Donnnno/Arcticons) <sup>`FOSS`</sup>
@@ -374,6 +375,16 @@
    - `MDY` [Smart Edge](https://github.com/abh80/smart-edge) <sup>`FOSS`</sup> <sup>`👻`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
+- ### Watch faces
+  - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`FOSS`</sup>
+  - `MD` [Material You Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou) <sup>`💲`</sup>
+  - `MD` [Pixel OLED](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled) <sup>`💲`</sup>
+  - `MD` [Digital Material You 3](https://play.google.com/store/apps/details?id=com.digitalmaterialyou3) <sup>`💲`</sup>
+  - `MD` [Material You 2: Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2) <sup>`💲`</sup>
+  - `MD` [Material 4: Wear OS watch face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4) <sup>`💲`</sup>
+
+  
+
  - ### Keyboard Customization
    - #### Gboard Customization 
      - `MDY` [Rboard Theme Manager V3](https://github.com/DerTyp7214/RboardThemeManagerV3) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
@@ -383,7 +394,7 @@
 
    - #### Other Keyboard themes
      - `MDY` [RwiftKey for Swiftkey](https://github.com/VegaBobo/rwiftkey-themes) <sup>`FOSS`</sup> <sup>`#️⃣`</sup> <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)</sup>     
-     - `MDY` [Florigboard](https://github.com/itsmartashub/florigboard)
+     - `MDY` [Floristyle](https://github.com/itsmartashub/floristyle)
 
 - ### MixPlorer Themes
   - `MDY` [Mixplorer Theme Creator](https://github.com/DerTyp7214/MixplorerThemeCreator) <sup>`FOSS`</sup>
@@ -406,8 +417,7 @@
    - `MDY` [Android 12 Extensions](https://github.com/kdrag0n/android12-extensions) <sup>`FOSS`</sup> <sup>`👻`</sup>  <sup>`#️⃣`</sup>
    - `MDY` [Project Themer](https://play.google.com/store/apps/details?id=com.drsants.eggproject) <sup>`#️⃣`</sup>
    - `MDY` [DarQ](https://github.com/KieronQuinn/DarQ) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
-   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/TrixiEther/DashchanFork/)</sup>
-   - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`FOSS`</sup>
+   - `MDY` [Dashchan Monet](https://github.com/HotarunIchijou/Dashchan-Monet) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://github.com/Mishiranu/Dashchan)</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/3c814f6d-f6f1-4b9d-a6f2-c8551a622a84" width="55"> Tools
@@ -587,14 +597,14 @@
 
  - ### Calendars
    - `MDY` [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) <sup>`FOSS`</sup>
+   - `MDY` [Linwood Flow](https://github.com/LinwoodDev/Flow) <sup>`FOSS`</sup>
    - `MDY` [Motorola Calendar](https://t.me/DroidRepo/245) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar)
    - `MDY` [Persian Calendar](https://github.com/persian-calendar/persian-calendar) <sup>`FOSS`</sup>
    - `MDY` [Zoho Calendar](https://play.google.com/store/apps/details?id=com.zoho.android.calendar)
    - `MDY` [Ridna](https://github.com/nexy791/Ridna) <sup>`FOSS`</sup>
    - `MY` [Etar](https://github.com/Etar-Group/Etar-Calendar) <sup>`FOSS`</sup>
-   - `MD` [Linwood Flow](https://github.com/LinwoodDev/Flow) <sup>`FOSS`</sup>
-
+   
  - #### Reminders
    - `MDY` [Scheduler](https://github.com/dgudim/Scheduler) <sup>`FOSS`</sup>
    - `MDY` [Birday](https://github.com/m-i-n-a-r/birday) <sup>`FOSS`</sup>
@@ -682,7 +692,7 @@
    - `MD` [Timer +X](https://gitlab.com/humbertofraga/timerx) <sup>`FOSS`</sup>
 
  - ### Camera
-   - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
+   - `MDY` [Gcam](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) <sup>`⚠️ Only available on Pixel Devices.`</sup>
    - `MDY` [Motorola Camera](https://www.pling.com/p/1884299) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Gcam Ports](https://www.celsoazevedo.com/files/android/google-camera/) <sup>`🧑‍💻Mod`</sup>
    - `MDY` [Lineage OS Camera](https://github.com/SebaUbuntu/android_packages_apps_Aperture) <sup>`FOSS`</sup>
@@ -762,14 +772,15 @@
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/82854ee6-cb89-4d2c-9e94-0f63ef9f8e61" width="55"> Browsers
  - ### Chromium Based Browsers
-   - `MDY` [Mulch](https://gitlab.com/divested-mobile/mulch) <sup>`✨`</sup> <sup>`FOSS`</sup>
+   - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US) <sup>`✨`</sup>
    - `MDY` [Bromite](https://github.com/bromite/bromite) <sup>`FOSS`</sup> <sup>`👻`</sup>
      - `Fork` [Cromite](https://github.com/uazo/cromite) <sup>`FOSS`</sup>
      - `Fork` [Bromite-BuildTools](https://github.com/uazo/bromite-buildtools) <sup>`👻`</sup> <sup>`FOSS`</sup>
+   - `MDY` [Mulch](https://gitlab.com/divested-mobile/mulch)  <sup>`FOSS`</sup>
+   - `MDY` [Jelly (IdéOS)](https://gitlab.com/iode/os/apps/jelly) <sup>`FOSS`</sup>
    - `MDY` [FOSS Browser](https://codeberg.org/Gaukler_Faun/FOSS_Browser) <sup>`FOSS`</sup>
    - `MDY` [Kiwi Browser](https://github.com/kiwibrowser/src.next/releases)
    - `MDY` [Thorium](https://github.com/Alex313031/Thorium-Android) <sup>`FOSS`</sup>
-   - `MDY` [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en_US&gl=US)
    - `MDY` [Mask Browser-Chrome Extensions](https://play.google.com/store/apps/details?id=net.maskbrowser.browser)
    - `MY` [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
    - `MD` [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta)
@@ -964,7 +975,7 @@
      - `MDY` [CloudStream](https://github.com/recloudstream/cloudstream) <sup>`✨`</sup> <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://tuts-kingthecutiepie-10279001874d706ab318455ab9e7114cc82b869d82.gitlab.io/posts/jekyll-markdown/)</sup>
      - `MDY` [NoFasel](https://github.com/N0-0NE-Dev/NoFasel) <sup>`FOSS`</sup>
      - `MDY` [Aniyomi](https://github.com/aniyomiorg/aniyomi) <sup>`FOSS`</sup>
-     - `MDY` [Komori](https://play.google.com/store/apps/details?id=app.komori)
+     - `MDY` [Komori](https://github.com/MarshMeadow/Komori)
      - `MDY` [Dank Chat](https://play.google.com/store/apps/details?id=com.flxrs.dankchat)
      - `MDY` [Easybangumi](https://easybangumi.org/zh/) <sup>`🌐ZH`</sup>
      - `MDY` [Awara](https://t.me/misakamaterialyou/199) <sup>`👻`</sup> <sup>`🧑‍💻Mod`</sup>
@@ -1001,6 +1012,7 @@
      - `MDY` [Aluminium for AniList](https://play.google.com/store/apps/details?id=moe.emi.aluminium) <sup>`FOSS`</sup>
      - `MDY` [Flixplorer](https://github.com/TheSomeshKumar/Flixplorer) <sup>`FOSS`</sup>
      - `MDY` [Anichive](https://play.google.com/store/apps/details?id=com.thekeeperofpie.anichive)
+     - `MDY` [Moviebase](https://play.google.com/store/apps/details?id=com.moviebase)
      - `MY` [Otraku](https://github.com/lotusprey/otraku) <sup>`FOSS`</sup>
      - `MY` [IlDoppiaggio](https://play.google.com/store/apps/details?id=app.wakirox.il_doppiaggio)
      - `MD` [Showly](https://github.com/michaldrabik/showly-2.0) <sup>`FOSS`</sup>
@@ -1015,7 +1027,7 @@
    - `MDY` [Simple Voice Recorder](https://github.com/SimpleMobileTools/Simple-Voice-Recorder) <sup>`FOSS`</sup>
    - `MDY` [RecordYou](https://github.com/Bnyro/recordYou) <sup>`FOSS`</sup>
    - `MDY` [Basic Call Recorder](https://github.com/chenxiaolong/BCR) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
-   - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
+   - `MDY` [Google Recorder](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&pli=1) <sup>`⚠️ Only available on Pixel Devices.`</sup>
    - `MDY` [YouTune](https://github.com/SuhasDissa/You-Tune) <sup>`FOSS`</sup>
    - `MDY` [Alibi](https://github.com/Myzel394/Alibi) <sup>`FOSS`</sup>
    - `MY` [Motorola Recorder](https://www.pling.com/p/1884299/)
@@ -1092,7 +1104,7 @@
      - `MY` [Harpy](https://github.com/robertodoering/harpy) <sup>`FOSS`</sup>
      - `MY` [Albatross](https://play.google.com/store/apps/details?id=com.nick.mowen.albatross)
      - `MY` [Squawker](https://github.com/j-fbriere/squawker) <sup>`FOSS`</sup>
-     - `MD` [Quacker](https://github.com/FritterForksTheHCJ/Quacker) <sup>`FOSS`</sup> <sup>`👻`</sup>
+     - `MD` [Quacker](https://apt.izzysoft.de/fdroid/index/apk/com.thehcj.quacker) <sup>`FOSS`</sup> <sup>`👻`</sup>
 
    - #### Lemmy Clients
      - `MDY` [Sync for Lemmy](https://play.google.com/store/apps/details?id=io.syncapps.lemmy_sync)
@@ -1146,7 +1158,7 @@
      - `MDY` [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp)
      - `MDY` [Boorusphere](https://github.com/nullxception/boorusphere) <sup>`FOSS`</sup>
      - `MDY` [Memerize](https://github.com/SuhasDissa/MemerizeApp) <sup>`FOSS`</sup>
-     - `MDY` [LiPari](https://play.google.com/store/apps/details?id=com.unesell.lipari) <sup>`FOSS`</sup>
+     - `MDY` [LiPari](https://github.com/Stamir36/LiPari-Android) <sup>`FOSS`</sup>
      - `MDY` [Claw](https://github.com/msfjarvis/compose-lobsters) <sup>`FOSS`</sup>
      - `MDY` [TaigaMobile](https://github.com/EugeneTheDev/TaigaMobile) <sup>`FOSS`</sup> <sup>`👻`</sup>
      - `MY` [Infinity For Everything](https://github.com/everything-gripe/Infinity-For-Everything) <sup>`FOSS`</sup>
@@ -1203,8 +1215,8 @@
     - `MDY` [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) <sup>`FOSS`</sup>
       - `MDY` [Simple Contacts Pro SE](https://github.com/stephanritscher/Simple-Contacts) <sup>`FOSS`</sup>
     - `MDY` [Simple Dialer](https://github.com/SimpleMobileTools/Simple-Dialer) <sup>`FOSS`</sup>
-    - `MDY` [ASUS Dialog](https://1drv.ms/u/s!Atk49Scq_BtYhHJ-sF_qVBqCHc4U?e=AhKxxI) <sup>`🧑‍💻Mod`</sup> <sup>`⚠️ Only accessible on Asus Devices.`</sup>
-    - `MDY` [ASUS Contacts](https://1drv.ms/u/s!Atk49Scq_BtYhHWgq1cgdMOfOXPR?e=IhKfSs) <sup>`🧑‍💻Mod`</sup> <sup>`⚠️ Only accessible on Asus Devices.`</sup>
+    - `MDY` [ASUS Dialog](https://1drv.ms/u/s!Atk49Scq_BtYhHJ-sF_qVBqCHc4U?e=AhKxxI) <sup>`🧑‍💻Mod`</sup> <sup>`⚠️ Only available on Asus Devices.`</sup>
+    - `MDY` [ASUS Contacts](https://1drv.ms/u/s!Atk49Scq_BtYhHWgq1cgdMOfOXPR?e=IhKfSs) <sup>`🧑‍💻Mod`</sup> <sup>`⚠️ Only available on Asus Devices.`</sup>
     - `MDY` [Right Contacts](https://play.google.com/store/apps/details?id=com.goodwy.contacts)
     - `MDY` [Right Dialer](https://play.google.com/store/apps/details?id=com.goodwy.dialer)
     - `MY` [OctaviOS Dialer](https://www.pling.com/p/1571900) <sup>`🧑‍💻Mod`</sup>
@@ -1578,7 +1590,7 @@
    - `MD` [PixAI.Art](https://play.google.com/store/apps/details?id=art.pixai.pixai)
    - `MD` [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt)
    - `Not Released` [ChatGPT Android](https://github.com/thewolfprod/ChatGPT-Android) <sup>`FOSS`</sup>
-<br>`⚠️ Image based AI's are not recommended as they often steal fron unconsenting artists.`</br>
+<br>`⚠️ Image "art" based AI's are not recommended as they steal fron unconsenting artists.`</br>
 
    
  - ### Uncategorized Google Apps
@@ -1595,7 +1607,7 @@
    - `MDY` [Google Play Console](https://play.google.com/store/apps/details?id=com.google.android.apps.playconsole)
    - `MDY` [Google Pixel Buds](https://play.google.com/store/apps/details?id=com.google.android.apps.wearables.maestro.companion)
    - `MD` [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth)
-   - `MD` [Magnifier](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier) <sup>`⚠️ Only accessible on Pixel Devices.`</sup>
+   - `MD` [Magnifier](https://play.google.com/store/apps/details?id=com.google.android.apps.accessibility.magnifier) <sup>`⚠️ Only available on Pixel Devices.`</sup>
 
 - ### Peripherals
    - `MDY` [MiDoze](https://github.com/Keddnyo/MiDoze) <sup>`FOSS`</sup>
