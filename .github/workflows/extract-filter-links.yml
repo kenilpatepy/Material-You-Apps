@@ -17,12 +17,12 @@ jobs:
       - name: Extract, Filter, and Commit links
         run: |
           echo "Step 1: Extracting URLs from README.md"
-          awk 'BEGIN {ORS = ""} {print} END {print "\n"}' README.md \
-            | grep -oP 'http[s]?://[^<]*' \
+          grep -oP 'http[s]?://[^<]*' README.md \
             | grep -Ev '`|<sup>|<\/sup>' \
-            | grep -E '.' \ 
+            | grep -E '.' \
             | grep -Ev 'reddit\.com|apkmirror\.com|docs\.google\.com|1drv\.ms|m3\.material\.io|en\.wikipedia\.org|pling\.com|github\.com/TeaOwO/Material-You-Apps/assets|m3-markdown-badges\.vercel\.app|android\.stackexchange\.com|coolapk\.com|github\.com/TeaEndsAcronyms/Material-You-Apps/assets|apkmonk\.com|thedise\.me|auroraoss\.com|https://www.coolapk1s.com/feed/42984209' \
-            | sed 's/[^<]*<a[^>]*href=["'"'"']\([^"'"'"']*\)["'"'"'][^>]*>[^<]*<\/a>[^<]*/\1/g' \ > .github/outputs/filtered-links.txt
+            | sed 's/[^<]*<a[^>]*href=["'"'"']\([^"'"'"']*\)["'"'"'][^>]*>[^<]*<\/a>[^<]*/\1/g' \
+            > .github/outputs/filtered-links.txt
 
           echo "Step 2: Configure Git"
           git config user.name "GitHub Action"
