@@ -2,6 +2,10 @@
 <strong>💜 Material You Apps 💜</strong>
 </h2>
 
+<!--
+Text written between here are comments, these are here to guide you on how to fork and/or PR.
+-->
+
 <p align="center">
 <b>A list of android apps that follow the <a href="https://m3.material.io/"> Material You/3 design language.</a></b>
 </p>
@@ -28,16 +32,12 @@
 
 
 - ### Material you Tags
-|Abbreviation|Dynamic Colouring|MD3 Design|
-|:-:|:-:|:-:|
-|**`MDY`**|✔️|✔️|
-|**`MY`**|✔️|❌|
-|**`MD`**|❌|✔️|
-|**`Not Released`**|❓|❓|
-- **`MDY` - Apps that follow **BOTH** the Material3 design language and dynamic colouring.**
-- **`MY` - Apps that follow dynamic colouring but not the Material3 design language.**
-- **`MD` - Apps that follow the Material3 design language but not dynamic colouring.**
-- **`Not Released` - An app that is not yet released.**
+|Abbreviation|Dynamic Colouring|MD3 Design|Description|
+|:-:|:-:|:-:|--|
+|**`MDY`**|✔️|✔️|**Apps that follow **BOTH** the Material3 design language and dynamic colouring.**|
+|**`MY`**|✔️|❌|**Apps that follow dynamic colouring but not the Material3 design language.**|
+|**`MD`**|❌|✔️|**Apps that follow the Material3 design language but not dynamic colouring.**|
+|**`Not Released`**|❓|❓|**An app that is not yet released.**|
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
@@ -56,6 +56,10 @@
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## 📘 Table of contents
+<!--
+When adding a new section **MAKE SURE** to add it to the TOC "Table of Contents". if its a section, you can either include an image (preferably made in figma, and using google icons) or ask me to make one :)
+Sub-sections don't need images.
+-->
 [**💜 Material You Apps 💜**](#-material-you-apps-)
 - <a href="#-tags"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f9de3104-e164-4568-afd5-65f7f91ff96e" width="25"></a> [Tags](#-tags)
     - [Material you Tags](#material-you-tags)
@@ -72,7 +76,7 @@
       - [Dynamic/Material Icons](#dynamicmaterial-icons)
       - [Other Icon Packs](#other-icon-packs)
   - [Dynamic Island](#dynamic-island)
-  - [Watch Faces](#watch-faces)
+  - [Watch faces](#watch-faces)
   - [Keyboard Customization](#keyboard-customization)
     - [Gboard Customization](#gboard-customization)
     - [Other Keyboard themes](#other-keyboard-themes)
@@ -234,17 +238,23 @@
 ## Feel free to request apps
 
 - ### Newly added
-  - `MD` [Material You Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou) <sup>`💲`</sup>
-  - `MD` [Pixel OLED](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled) <sup>`💲`</sup>
-  - `MD` [Digital Material You 3](https://play.google.com/store/apps/details?id=com.digitalmaterialyou3) <sup>`💲`</sup>
-  - `MD` [Material You 2: Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2) <sup>`💲`</sup>
-  - `MD` [Material 4: Wear OS watch face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4) <sup>`💲`</sup>
+<!--
+WHen adding in a new app, be sure to add it to this list (and remove the last app of the bunch)
+-->
+  - `MD` [Pixel Watch 2: Face II](https://play.google.com/store/apps/details?id=com.analogbold) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2 Face IV](https://play.google.com/store/apps/details?id=com.numeralsfour) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face VI](https://play.google.com/store/apps/details?id=com.adventuredigital) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face VII](https://play.google.com/store/apps/details?id=com.adventuretime) <sup>`💲`</sup>
+  - `MD` [Android 14: Watch Face I](https://play.google.com/store/apps/details?id=com.android14watchfacei) <sup>`💲`</sup>
 
 <br>
 
 **`(5 Newly added apps!)`**
 
 - ### Best implementations of Material you
+  <!--
+  Don't recommend changing this unless i agree with it!
+  -->
    - `MDY` [WallMan](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`✨`</sup> <sup>`FOSS`</sup>
    - `MDY` [Sync For Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-05-03-1718-release/) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
@@ -293,7 +303,6 @@
    - `MDY` [Lamartine](https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine)
    - `MDY` [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers)
    - `MDY` [Swift Walls](https://play.google.com/store/apps/details?id=it.folgore95.mywall)
-   - `MDY` [Dynamic Wallpaper](https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper)
    - `MDY` [Pixlr](https://play.google.com/store/apps/details?id=com.paget96.pixr) <sup>`💲`</sup>
    - `MDY` [Pallax](https://github.com/patzly/pallax-android) <sup>`FOSS`</sup>
    - `MDY` [UtopiaWalls](https://github.com/WaifuPX-DG/UtopiaWalls)
@@ -382,7 +391,15 @@
   - `MD` [Digital Material You 3](https://play.google.com/store/apps/details?id=com.digitalmaterialyou3) <sup>`💲`</sup>
   - `MD` [Material You 2: Watch Face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2) <sup>`💲`</sup>
   - `MD` [Material 4: Wear OS watch face](https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4) <sup>`💲`</sup>
-
+  - `MD` [Digital Material You 1](https://play.google.com/store/apps/details?id=com.digitalmaterialyou) <sup>`💲`</sup>
+  - `MD` [Digital Material You 2](https://play.google.com/store/apps/details?id=com.digitalmaterialyou2) <sup>`💲`</sup>
+  - `MD` [Digital Material You 3](https://play.google.com/store/apps/details?id=com.digitalmaterialyou3) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face I](https://play.google.com/store/apps/details?id=com.justtime) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face II](https://play.google.com/store/apps/details?id=com.analogbold) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2 Face IV](https://play.google.com/store/apps/details?id=com.numeralsfour) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face VI](https://play.google.com/store/apps/details?id=com.adventuredigital) <sup>`💲`</sup>
+  - `MD` [Pixel Watch 2: Face VII](https://play.google.com/store/apps/details?id=com.adventuretime) <sup>`💲`</sup>
+  - `MD` [Android 14: Watch Face I](https://play.google.com/store/apps/details?id=com.android14watchfacei) <sup>`💲`</sup>
   
 
  - ### Keyboard Customization
