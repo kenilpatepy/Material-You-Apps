@@ -387,7 +387,6 @@ WHen adding in a new app, be sure to add it to this list (and remove the last ap
    - `MDY` [Material You Dynamic Island](https://github.com/Angel-Studio/MaterialYou-Dynamic-Island)
    - `MDY` [Pixel Island](https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C) <sup>`👻`</sup>
    - `MDY` [Smart Edge](https://github.com/abh80/smart-edge) <sup>`FOSS`</sup> <sup>`👻`</sup>
-<Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 - ### Watch faces
   - `MD` [MaterialWatch](https://github.com/AChep/materialwatch) <sup>`FOSS`</sup>
