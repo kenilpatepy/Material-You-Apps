@@ -1,11 +1,11 @@
 <h2 align="center">
 <strong>💜 Material You Apps 💜</strong>
+</h2>
 
 <p align="center">
 <b>A list of android apps that follow the <a href="https://m3.material.io/"> Material You design language.</a></b>
 </p>
 <h3 align="center"><a href="#special-thanks-to-these-sources"><b><code>🪪 Sources</code></b></a></h3>
-</h2>
 
 <p align="center">
  <a href="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7"> 
@@ -39,7 +39,7 @@
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
-- ### Other tags
+- ### Other Tags
 |Abbreviation|Definition|
 |:-:|--|
 |**<sup>`✨`</sup>**|<strong>Apps personally used by me.</strong>|
@@ -57,55 +57,55 @@
 [**💜 Material You Apps 💜**](#-material-you-apps-)
 - <a href="#-tags"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f9de3104-e164-4568-afd5-65f7f91ff96e" width="25"></a> [Tags](#-tags)
     - [Material you Tags](#material-you-tags)
-    - [Other tags](#other-tags)
-- <a href="#-overview"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/59f7fade-3a53-421c-94fa-96c22df162ac" width="25"></a> [Overview](#-overview)
+    - [Other Tags](#other-tags)
+- <a href="#-overview"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/59f7fade-3a53-421c-94fa-96c22df162ac" width="25"></a> [Overview](#-overview-5-apps)
     - [Newly added](#newly-added)
-    - [Best implementations of Material you](#best-implementations-of-material-you)
+    - [Best implementations of Material3](#best-implementations-of-material3)
 - <a href="#-customization"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/24f7e6ed-de20-4341-b32c-8dbea65b493b" width="25"></a> [Customization](#-customization)
-    - [Launcher](#launcher)
+    - [Launchers](#launchers)
     - [Launcher tools](#launcher-tools)
-    - [Wallpaper](#wallpaper)
-    - [Widget](#widget)
+    - [Wallpapers](#wallpapers)
+    - [Widgets](#widgets)
     - [Icons](#icons-packs)
       - [Dynamic/Material Icons](#dynamicmaterial-icons)
-      - [Other Icon Packs](#other-icon-packs)
-  - [Dynamic Island](#dynamic-island)
+      - [Non-Dynamic/Material Icon Packs](#non-dynamicmaterial-icon-packs)
+  - [Dynamic Islands](#dynamic-islands)
   - [Watch faces](#watch-faces)
-  - [Keyboard Customization](#keyboard-customization)
-    - [Gboard Customization](#gboard-customization)
-    - [Other Keyboard themes](#other-keyboard-themes)
+  - [Keyboard Customizations](#keyboard-customizations)
+    - [Gboard Customizations](#gboard-customizations)
+    - [Other Keyboard Themes](#other-keyboard-themes)
   - [MixPlorer Themes](#mixplorer-themes)
   - [Telegram Themes](#telegram-themes)
-  - [Other themes](#other-customization-tools)
+  - [Other Themes](#other-customization-tools)
 - <a href="#-tools"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/cd47acc4-abe0-4cc4-9ca1-9f5435631772" width="25"></a> [Tools](#-tools)
-    - [File Manager](#file-manager)
-    - [File Sharing](#file-sharing)
+    - [File Managers](#file-managers)
+    - [File Sharing Apps](#file-sharing-apps)
     - [Notes/Wish-Lists](#noteswish-lists)
       - [Notes](#notes)
       - [Diaries/Journals](#diariesjournals)
-      - [To-Do](#to-do)
+      - [To-Do Apps](#to-do-apps)
       - [DrawBoards](#drawboards)
       - [Text/Code/IDE Editors](#textcodeide-editors)
       - [Other Note Apps](#other-note-apps)
-    - [Calculator](#calculator)
+    - [Calculators](#calculators)
     - [QR Scanners](#qr-scanners)
     - [Galleries](#galleries)
     - [Image Tools](#image-tools)
     - [Calendars](#calendars)
     - [Reminders](#reminders)
-    - [Finance](#finance)
-      - [Payment apps](#payment-apps)
+    - [Finance Apps](#finance-apps)
+      - [Payment Apps](#payment-apps)
       - [Finance Managers](#finance-managers)
-      - [Crypto](#crypto)
-      - [Misc](#misc)
-    - [Weather](#weather)
-    - [Clock/Timer](#clocktimer)
-    - [Camera](#camera)
+      - [Crypto Apps](#crypto-apps)
+      - [Other Finanace Apps](#other-finance-apps)
+    - [Weather Apps](#weather-apps)
+    - [Clocks & Timers](#clocks--timers)
+    - [Cameras](#cameras)
     - [Keyboards](#keyboards)
     - [Flashlights](#flashlights)
-    - [Navigation](#navigation)
+    - [Navigation/Maps](#navigationmaps)
     - [Translators](#translators)
-    - [Groceries, Shopping & Food](#groceries-shopping--food)
+    - [Groceries, Shopping & Foods](#groceries-shopping--foods)
       - [Groceries & Shopping](#groceries--shopping)
       - [Foods & Recipes](#foods--recipes)
     - [Measuring Tools](#measuring-tools)
@@ -115,8 +115,8 @@
   -  [Non-Chromium Based Browsers](#non-chromium-based-browsers)
   -  [Other Searching Apps](#other-searching-apps)
 - <a href="#-hardwaresoftware-info"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8dd202bc-7cab-4f15-a6e0-c21af2fdedb8" width="25"></a> [Hardware/Software info](#-hardwaresoftware-info)
-   - [Specifications Info](#specifications-info)
-   - [Battery info](#battery-info)
+   - [Specification Infos](#specifications-infos)
+   - [Battery info](#battery-infos)
    - [Monitors](#monitors)
    - [App Info/Managers/Extractors](#app-infomanagersextractors)
    - [App Freezers](#app-freezers)
@@ -124,34 +124,34 @@
 - <a href="#-media"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/d8f219f1-ae06-47c7-9952-c73805d1b4a9" width="25"></a> [Media](#-media)
    - [Downloaders & Download Managers](#downloaders--download-managers)
        - [Media Downloaders](#media-downloaders)
-       - [Torrent](#torrent)
-    - [Youtube](#youtube)
+       - [Torrent Clients](#torrent-clients)
+    - [Youtube Clients/Apps](#youtube-clientsapps)
     - [Bilibili Clients](#bilibili-clients)
-    - [Music Streaming](#music-streaming)
+    - [Music Streaming Apps](#music-streaming-apps)
       - [YT Music Clients](#yt-music-clients)
-      - [Spotify clients](#spotify-clients)
+      - [Spotify Clients](#spotify-clients)
       - [Subsonic Clients](#subsonic-clients)
       - [Other Music Streaming Apps](other-music-streaming-apps) 
-    - [Books & TV Trackers, Readers & Streaming.](#books--tv-trackers-readers--streaming)
-      - [Manga/E-Book reader](#mangae-book-reader)
-      - [TV/Video Streaming](#tvvideo-streaming)
-      - [Tracking](#tracking)
+    - [Books & TV Trackers, Readers & Streaming Apps](#books--tv-trackers-readers--streaming-apps)
+      - [Manga/E-Book Readers](#mangae-book-readers)
+      - [TV/Video Streaming Apps](#tvvideo-streaming-apps)
+      - [Tracking](#tracking-apps)
     - [Local Music & Video Players](#local-music--video-players)
       - [Local Music Players](#local-music-players)
       - [Local Video Players](#local-video-players)
     - [Music Equalizers](#music-equalizers)
-    - [Music Recognition](#music-recognition)
+    - [Music Recognition Apps](#music-recognition-apps)
     - [Recorders](#recorders)
     - [Podcasts](#podcasts)
     - [RSS/News](#rssnews)
-    - [Radio](#radio)
+    - [Radio Apps](#radio-apps)
     - [Media Editors](#media-editors)
     - [PDF Readers](#pdf-readers)
-   - [Other types of Media](#other-types-of-media)
-- <a href="#-communication"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/edf5301b-8622-4063-b793-312300396924" width="25"></a> [Communication](#-communication)
-    - [Social media](#social-media)
+   - [Other Types of Media Apps](#other-types-of-media-apps)
+- <a href="#-communication"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/edf5301b-8622-4063-b793-312300396924" width="25"></a> [Communication Apps](#-communication-apps)
+    - [Social Media Apps](#social-media-apps)
       - [Reddit Clients](#reddit-clients)
-      - [X (Twitter) Clients](#x-twitter-clients)
+      - [X Clients](#x-clients)
       - [Lemmy Clients](#lemmy-clients)
       - [Mastodon Clients](#mastodon-clients)
       - [Discord Clients](#discord-clients)
@@ -160,63 +160,63 @@
       - [V2ex Clients](#v2ex-clients)
       - [Pixiv Clients](#pixiv-clients)
       - [Social Media Redirectors](#social-media-redirectors)
-      - [Other Social Medias](#other-social-medias)
-    - [Direct messaging](#direct-messaging)
+      - [Other Social Media Apps](#other-social-media-apps)
+    - [Direct messaging Apps](#direct-messaging-apps)
       - [Telegram Clients](#telegram-clients)
       - [Signal Clients](#signal-clients)
-      - [Other Direct Messaging](#other-direct-messaging)
+      - [Other Direct Messaging Apps](#other-direct-messaging-apps)
     - [Callers & Contacts](#callers--contacts)
-    - [Email](#email)
-   - [Other Communications](#other-communications)
+    - [Email Apps](#email-apps)
+   - [Other Communication](#other-communication-apps)
 - <a href="#-app-stores"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f85f8d1b-2462-42b5-b2d3-40b0cacb337b" width="25"></a> [App Stores](#-app-stores)
     - [F-Droid clients](#f-droid-clients)
-    - [Google play store Clients](#google-play-store-clients)
+    - [Google Play Store Clients](#google-play-store-clients)
    - [Other App stores](#other-app-stores)
 - <a href="#-health--well-being"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/13541b81-bb56-41dc-8304-020f3edf6cc1" width="25"></a> [Health & Well-being](#-health--well-being)
     - [Habits, Planners & Trackers](#habits-planners--trackers)
-    - [Education](#education)
+    - [Educational Apps](#educational-apps)
       - [Coding Tutorials](#coding-tutorials)
       - [Quotes](#quotes)
       - [School Tools](#school-tools)
       - [Dictionaries & Definitions](#dictionaries--definitions)
       - [Other Educational Apps](#other-educational-apps)
-    - [Brightness and blue light filter](#brightness-and-blue-light-filter) 
-    - [Accessibility](#accessibility)
-    - [Other Health & Well-being apps](#other-health--well-being-apps)
+    - [Brightness and Blue Light Filters](#brightness-and-blue-light-filters) 
+    - [Accessibility Apps](#accessibility-apps)
+    - [Other Health & Well-being Apps](#other-health--well-being-apps)
 - <a href="#-developers"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/adce856e-d888-473e-abef-846170b53c19" width="25"></a> [Developers](#-developers)
     - [Servers](#servers)
     - [Components](#components)
-    - [Play/Google Services Alt](#playgoogle-services-alt)
-      - [MicroG](#microg)
-      - [Google Services & Apps Editor](#google-services--apps-editor)
-    - [Magisk](#magisk)
+    - [Play/Google Services Alts](#playgoogle-services-alts)
+      - [MicroG Apps](#microg-apps)
+      - [Google Services & App Editors](#google-services--app-editors)
+    - [Magisk Modules & Apps](#magisk-modules--apps)
       - [Managers](#managers)
       - [Modules & Module Managers](#modules--module-managers)
       - [Other Magisk tools](#other-magisk-tools)
-    - [Automation](#automation)
+    - [Automation Apps](#automation-apps)
     - [Proxies & VPNs](#proxies--vpns)
-    - [Other developer tools](#other-developer-tools)
+    - [Other Developer Tools](#other-developer-tools)
 - <a href="#-privacy--security"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/ef74a20d-4e28-4f59-bfb4-458f39935a50" width="25"></a> [Privacy & Security](#-privacy--security)
    - [Password Managers](#password-managers)
-   - [Authentication/2FA](#authentication2fa)
-   - [Password Generator](#password-generator)
-   - [Clipboard Eraser](#clipboard-eraser)
+   - [Authentication/2FA Apps](#authentication2fa-apps)
+   - [Password Generators](#password-generators)
+   - [Clipboard Erasers](#clipboard-erasers)
    - [Link Cleaners](#link-cleaners)
-   - [Encryption](#encryption)
-   - [Permissions Manager](#permissions-manager)
+   - [Encryption Apps](#encryption-apps)
+   - [Permission Managers](#permissions-managers)
    - [Other Privacy & Security apps](#other-privacy--security-apps)
 - <a href="#-games"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/e7d26a4b-5f87-4132-a185-221217676083" width="25"></a> [Games](#-games)
-  - [Tic-Tac-Toe](#tic-tac-toe)
-  - [Sudoku](#sudoku)
-  - [Trivia](#trivia)
+  - [Tic-Tac-Toe Games](#tic-tac-toe-games)
+  - [Sudoku Games](#sudoku-games)
+  - [Trivia Games](#trivia-games)
   - [Emulators](#emulators)
   - [Game Tools](#game-tools)
   - [Other Games](#other-games)
-- <a href="#-misc"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f2063b7b-bf35-4d7b-8272-69ff5d45b45c" width="25"></a> [Misc](#-misc)
-    - [Backup](#backup)
+- <a href="#-misc"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f2063b7b-bf35-4d7b-8272-69ff5d45b45c" width="25"></a> [Uncategorized](#-uncategorized)
+    - [Backup](#backup-apps)
     - [App/File Cleaners](#appfile-cleaners)
     - [Gestures](#gestures)
-    - [Artificial Intelligence](#artificial-intelligence)
+    - [AI Apps](#ai-apps)
     - [Uncategorized Google Apps](#uncategorized-google-apps)
     - [Peripherals](#peripherals)
    - [Miscellaneous.](#miscellaneous)
@@ -673,7 +673,7 @@
 
 
 
- - ### Clocks/Timers
+ - ### Clocks & Timers
    - `MDY` [Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en_US&gl=US) <sup>`✨`</sup>
    - `MDY` [Clock You](https://github.com/Bnyro/ClockYou) <sup>`FOSS`</sup>
    - `MDY` [Cofi](https://github.com/rozPierog/Cofi) <sup>`FOSS`</sup>
@@ -1267,7 +1267,7 @@
    - `MD` [Water Tracker - Drink Reminder](https://play.google.com/store/apps/details?id=com.zipo.water.reminder)
    - `MD` [Water Tracker - WaterMinder](https://play.google.com/store/apps/details?id=com.funnmedia.waterminder)
 
- - ### Education
+ - ### Educational Apps
    - ###  Coding Tutorials
      - `MDY` [Android Studio Tutorials: Kotlin](https://github.com/D4rK7355608/com.d4rk.androidtutorials) <sup>`FOSS`</sup>
      - `MDY` [Android Studio Tutorials: Java](https://github.com/D4rK7355608/com.d4rk.androidtutorials.java) <sup>`FOSS`</sup>
@@ -1313,7 +1313,7 @@
    - `MDY` [Low Brightness](https://github.com/D4rK7355608/com.d4rk.lowbrightness) <sup>`FOSS`</sup>
    - `MD` [Twilight](https://play.google.com/store/apps/details?id=com.urbandroid.lux)
 
- - ###  Accessibility
+ - ###  Accessibility Apps
     - `MDY` [Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare)
     - `MDY` [Switch Access](https://play.google.com/store/apps/details?id=com.google.android.accessibility.switchaccess)
     - `MDY` [Live Transcribe & Notification](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
@@ -1475,7 +1475,7 @@
    - `MD` [Amarok](https://github.com/deltazefiro/Amarok-Hider) <sup>`FOSS`</sup>
    - `MD` [File Vault](https://play.google.com/store/apps/details?id=com.alif.vault.file)
 
- - ### Permissions Manager
+ - ### Permission Managers
    - `MDY` [App Ops](https://play.google.com/store/apps/details?id=rikka.appops) <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MD` [Permission Pilot](https://github.com/d4rken-org/permission-pilot) <sup>`FOSS`</sup>
    - `MD` [Exodus](https://github.com/Exodus-Privacy/exodus-android-app) <sup>`FOSS`</sup>
@@ -1547,7 +1547,7 @@
     - `MD` [Cigaló](https://codeberg.org/retiolus/Cigalo) <sup>`FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
-## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8c2e2aba-a3d3-4f33-ac87-044fe6450d8d" width="55"> Uncatagorized
+## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8c2e2aba-a3d3-4f33-ac87-044fe6450d8d" width="55"> Uncategorized
  - ### Backup Apps
    - `MDY` [SwiftBackup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api)</sup>
    - `MDY` [Data Backup](https://github.com/XayahSuSuSu/Android-DataBackup) <sup>`#️⃣`</sup> <sup>`FOSS`</sup>
