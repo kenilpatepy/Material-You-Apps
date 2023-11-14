@@ -1,5 +1,5 @@
 <h2 align="center">
-<strong>💜 Material You Apps 💜</strong>
+<strong>🟣 Material You Apps 🟣</strong>
 </h2>
 
 <p align="center">
