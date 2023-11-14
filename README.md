@@ -238,9 +238,7 @@ Sub-sections don't need images.
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
-## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8879b3ea-d47b-406a-a5ee-f66e8a72a633" width="55"> OverView
-
-## Feel free to request apps
+## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8879b3ea-d47b-406a-a5ee-f66e8a72a633" width="55"> OverView `5 Apps`
 
 - ### Newly added
 <!--
@@ -251,10 +249,6 @@ WHen adding in a new app, be sure to add it to this list (and remove the last ap
   - `MD` [Pixel Watch 2: Face VI](https://play.google.com/store/apps/details?id=com.adventuredigital) <sup>`💲`</sup>
   - `MD` [Pixel Watch 2: Face VII](https://play.google.com/store/apps/details?id=com.adventuretime) <sup>`💲`</sup>
   - `MD` [Android 14: Watch Face I](https://play.google.com/store/apps/details?id=com.android14watchfacei) <sup>`💲`</sup>
-
-<br>
-
-**`(5 Newly added apps!)`**
 
 - ### Best implementations of Material you
   <!--
