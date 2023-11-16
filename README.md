@@ -1688,15 +1688,13 @@
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/64c03aca-637b-44a3-a697-100dd89e8cf5" width="55"> Post List
 ### Special thanks to these Sources
-#### i can't ensure this list to be 100% correct. however, if there is a mistake (Lets be honest, there definitely is.) feel free to inform me!
 
 - **👑** [Nyas1's List](https://github.com/nyas1/Material-You-app-list) An Amazing material you apps list, it was the inspiration of my list uwu!
 - [CHNJohnHK's list (Fork of Misaka's)](https://github.com/CHNJohnHK/Material-You-App-Repository) A fork of misaka's now deleted list. A great list with **A TON** of apps!
 ### Roadmap
 
-<b>You can view the project 📌 Roadmap <a href="https://github.com/users/TeaOwO/projects/2">here!</a></b>
----
-**Phone used: [Nothing Phone (1)](https://us.nothing.tech/pages/phone-1)**
+<b>Project <a href="https://github.com/users/TeaOwO/projects/2">📌 Roadmap</a></b>
+
 ---
 # ✨ Star the repo if you liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
 ---
