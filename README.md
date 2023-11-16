@@ -42,15 +42,15 @@
 - ### Other Tags
 |Abbreviation|Definition|
 |:-:|--|
-|**<sup>`✨`</sup>**|<strong>Apps personally used by me.</strong>|
+|**<sup>`✨`</sup>**|<strong>Apps i (the creator) personally use.</strong>|
 |**<sup>`💲`</sup>**|<strong>Apps that require payment or a subscription.</strong>
-|**<sup>`👻`</sup>**|<strong>Apps that are discontinued/not being worked on anymore.</strong>
+|**<sup>`👻`</sup>**|<strong>Apps that are discontinued.</strong>
 |**<sup>`#️⃣`</sup>**|<strong>Apps that require Root and/or the Xposed framework.</strong> <sup><a  href="https://en.wikipedia.org/w/index.php?title=Rooting_(Android)&oldid=1161953097">`1`</a><a href="https://android.stackexchange.com/questions/186817/xposed-framework-what-is-it-how-does-it-work-and-why-is-it-so-prevalent">`2`</a></sup>|
-|**<sup>`FOSS`</sup>**| <strong>Apps who's codes are available to the public.</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`1`</a></sup>|
+|**<sup>`FOSS`</sup>**| <strong>Apps who's source codes are public.</strong> <sup><a  href="https://en.wikipedia.org/wiki/Open_source">`1`</a></sup>|
 |**<sup>`Fork`</sup>** |<strong>Apps that have been forked.</strong>|
 |**<sup>`🧑‍💻Mod`</sup>**|<strong>Apps that are Modified by a developer unassociated with the orginal app. <sup><a  href="https://en.wikipedia.org/wiki/Modding#">`1`</a></sup></strong>|
-|**<sup>`🌐[ISO 639]`</sup>**|<strong>Apps with a language other than english.</strong>|
-|**<sup>`⚠️[Warning]`</sup>**|<strong>Any app warnings.</strong>|
+|**<sup>`🌐[ISO 639]`</sup>**|<strong>Apps who's language isn't english.</strong>|
+|**<sup>`⚠️[Warning]`</sup>**|<strong>Any other app warnings.</strong>|
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## 📘 Table of contents
