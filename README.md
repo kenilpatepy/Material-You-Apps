@@ -1694,7 +1694,7 @@
 - [CHNJohnHK's list (Fork of Misaka's)](https://github.com/CHNJohnHK/Material-You-App-Repository) A fork of misaka's now deleted list. A great list with **A TON** of apps!
 ### Roadmap
 
-<b>Project <a href="https://github.com/users/TeaOwO/projects/2">📌 Roadmap</a></b>
+<b>Project <a href="https://github.com/users/TeaLovesTea/projects/2">📌 Roadmap</a></b>
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
