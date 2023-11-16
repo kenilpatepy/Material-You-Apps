@@ -25,17 +25,18 @@
 
 
 - ### Material You Tags
-  - `MDY` **Apps that follow **BOTH** Material3 and dynamic colouring.**
-  - `MY` **Apps that follow dynamic colouring but not Material3.**
-  - `MD` **Apps that follow the Material3 design but not dynamic colouring.**
-  - `Not Released` **An app that is not yet released.**
-
 |Abbreviation|Dynamic Colouring|MD3 Design|
 |:-:|:-:|:-:|
 |**`MDY`**|✔️|✔️|
 |**`MY`**|✔️|❌|
 |**`MD`**|❌|✔️|
 |**`Not Released`**|❓|❓|
+- #### Descriptions
+  - `MDY` **Apps that follow **BOTH** Material3 and dynamic colouring.**
+  - `MY` **Apps that follow dynamic colouring but not Material3.**
+  - `MD` **Apps that follow the Material3 design but not dynamic colouring.**
+  - `Not Released` **An app that is not yet released.**
+
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
