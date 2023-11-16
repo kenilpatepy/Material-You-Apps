@@ -1,5 +1,5 @@
 <h2 align="center">
-<strong>🟣 Material You Apps 🟣</strong>
+<strong>Material You Apps</strong>
 </h2>
 
 <p align="center">
@@ -54,7 +54,7 @@
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## 📘 Table of contents
-[**💜 Material You Apps 💜**](#-material-you-apps-)
+[**Material You Apps**](#material-you-apps)
 - <a href="#-tags"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f9de3104-e164-4568-afd5-65f7f91ff96e" width="25"></a> [Tags](#-tags)
     - [Material you Tags](#material-you-tags)
     - [Other Tags](#other-tags)
@@ -1684,6 +1684,7 @@
    - `MD` [HzRefresher](https://github.com/oSumAtrIX/HzRefresher) <sup>`FOSS`</sup>
    - `MD` [Screen Orientation Control](https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker)
    - `MD` [SplitScreen](https://play.google.com/store/apps/details?id=any.splitscreen)
+  
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/64c03aca-637b-44a3-a697-100dd89e8cf5" width="55"> Post List
@@ -1695,6 +1696,8 @@
 
 <b>Project <a href="https://github.com/users/TeaOwO/projects/2">📌 Roadmap</a></b>
 
----
+<Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
+
 # ✨ Star the repo if you liked it! <img  src="https://github.com/TeaEndsAcronyms/Material-You-Apps/assets/123305689/7127b54f-1896-4669-9477-2a98ce6e9679"  width="60">
----
+
+<Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
