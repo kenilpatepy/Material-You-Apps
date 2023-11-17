@@ -1512,7 +1512,7 @@ WHen adding in a new app, be sure to add it to this list (and remove the last ap
    - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`#️⃣`</sup>
    - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
    - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
-   - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`FOSS`</sup>
+   - `MD` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f29fa2da-43c4-44c1-abdc-1a79306dfcb2" width="55"> Games
