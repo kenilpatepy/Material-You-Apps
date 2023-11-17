@@ -228,6 +228,7 @@
 
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
+
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8879b3ea-d47b-406a-a5ee-f66e8a72a633" width="55"> Overview <sup>5 Apps</sup>
 - ### Newly added
   - `MD` [Pixel Watch 2: Face II](https://play.google.com/store/apps/details?id=com.analogbold) <sup>`💲`</sup>
@@ -236,7 +237,9 @@
   - `MD` [Pixel Watch 2: Face VII](https://play.google.com/store/apps/details?id=com.adventuretime) <sup>`💲`</sup>
   - `MD` [Android 14: Watch Face I](https://play.google.com/store/apps/details?id=com.android14watchfacei) <sup>`💲`</sup>
 
+
 - ### Best implementations of Material3
+
    - `MDY` [WallMan](https://gitlab.com/colorata/wallman) <sup>`FOSS`</sup>
    - `MDY` [WaifuPX](https://github.com/WaifuPX-DG/WaifuPX) <sup>`✨`</sup> <sup>`FOSS`</sup>
    - `MDY` [Sync For Reddit](https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-05-03-1718-release/) <sup>`✨`</sup> <sup>`⚠️Required`[`#1`](https://www.reddit.com/r/redditsync/comments/14lkhnz/this_revanced_patch_makes_sync_work_after_api/)[`#2`](https://docs.google.com/document/d/1wHvqQwCYdJrQg4BKlGIVDLksPN0KpOnJWniT6PbZSrI/edit)</sup>
@@ -1495,7 +1498,7 @@
    - `MD` [Geergit](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit) <sup>`#️⃣`</sup>
    - `MD` [Secret Screenshot](https://play.google.com/store/apps/details?id=com.lware.secret_screenshots)
    - `MD` [SavePic](https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer)
-   - `MD` [IYPS](https://github.com/the-weird-aquarian/IYPS) <sup>`FOSS`</sup>
+   - `MD` [IYPS](https://github.com/StellarSand/IYPS) <sup>`FOSS`</sup>
 <Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="650">
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/f29fa2da-43c4-44c1-abdc-1a79306dfcb2" width="55"> Games

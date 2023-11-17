@@ -1,8 +1,8 @@
-https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou 
-https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled 
-https://play.google.com/store/apps/details?id=com.digitalmaterialyou3 
-https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2 
-https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4 
+https://play.google.com/store/apps/details?id=com.analogbold 
+https://play.google.com/store/apps/details?id=com.numeralsfour 
+https://play.google.com/store/apps/details?id=com.adventuredigital 
+https://play.google.com/store/apps/details?id=com.adventuretime 
+https://play.google.com/store/apps/details?id=com.android14watchfacei 
 https://gitlab.com/colorata/wallman 
 https://github.com/WaifuPX-DG/WaifuPX 
 https://play.google.com/store/apps/details?id=com.budget.tracker_app
@@ -39,7 +39,6 @@ https://play.google.com/store/apps/details?id=com.theveloper.mwalls.app&gl=US
 https://play.google.com/store/apps/details?id=xyz.zedler.patrick.lamartine
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers
 https://play.google.com/store/apps/details?id=it.folgore95.mywall
-https://play.google.com/store/apps/details?id=rk.android.app.dynamic.wallpaper
 https://play.google.com/store/apps/details?id=com.paget96.pixr 
 https://github.com/patzly/pallax-android 
 https://github.com/WaifuPX-DG/UtopiaWalls
@@ -114,6 +113,15 @@ https://play.google.com/store/apps/details?id=com.amoledwatchfaces.pixeloled
 https://play.google.com/store/apps/details?id=com.digitalmaterialyou3 
 https://play.google.com/store/apps/details?id=com.amoledwatchfaces.materialyou2 
 https://play.google.com/store/apps/details?id=com.amoledwatchfaces.material4 
+https://play.google.com/store/apps/details?id=com.digitalmaterialyou 
+https://play.google.com/store/apps/details?id=com.digitalmaterialyou2 
+https://play.google.com/store/apps/details?id=com.digitalmaterialyou3 
+https://play.google.com/store/apps/details?id=com.justtime 
+https://play.google.com/store/apps/details?id=com.analogbold 
+https://play.google.com/store/apps/details?id=com.numeralsfour 
+https://play.google.com/store/apps/details?id=com.adventuredigital 
+https://play.google.com/store/apps/details?id=com.adventuretime 
+https://play.google.com/store/apps/details?id=com.android14watchfacei 
 https://github.com/DerTyp7214/RboardThemeManagerV3 
 https://github.com/DerTyp7214/RboardPatcher 
 https://github.com/DerTyp7214/RboardThemeCreator 
