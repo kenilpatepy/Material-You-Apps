@@ -1,4 +1,4 @@
-name: Download Filtered Links
+name: Download/Test Filtered Links
 
 on:
   workflow_run:
