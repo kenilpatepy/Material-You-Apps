@@ -720,7 +720,6 @@
    - `MDY` [Florisboard](https://github.com/florisboard/florisboard) <sup>`FOSS`</sup> <sup>`⚠️Required`[`#1`](https://gitlab.com/KingTheCutiePie/Gfloris)[`#2`](https://github.com/itsmartashub/florigboard)</sup>
    - `MDY` [Simple keyboard](https://github.com/SimpleMobileTools/Simple-Keyboard) <sup>`FOSS`</sup>
    - `MDY` [Thumb-Key](https://github.com/dessalines/thumb-key) <sup>`FOSS`</sup>
-   
    - `MDY` [Fboard](https://t.me/s/fredboard/42)
    - `MY` [Yandex Keyboard](https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard) <sup>`FOSS`</sup>
    - `MY` [Rkkr's Simple Keyboard](https://github.com/rkkr/simple-keyboard) <sup>`FOSS`</sup>
