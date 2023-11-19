@@ -15,8 +15,8 @@
 
 
 <p  align="center">
- <img src="https://m3-markdown-badges.vercel.app/stars/7/2/TeaOwO/Material-You-Apps" width="186">
- <img src="https://m3-markdown-badges.vercel.app/issues/7/2/TeaOwO/Material-You-Apps" width="175">
+ <img src="https://m3-markdown-badges.vercel.app/stars/7/2/MilkBobaTea/Material-You-Apps" width="186">
+ <img src="https://m3-markdown-badges.vercel.app/issues/7/2/MilkBobaTea/Material-You-Apps" width="175">
 </p>
 
 <p align="center"><Img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/31919e52-b49f-4967-ab40-38287a843573" width="500"></p>
