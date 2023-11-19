@@ -1053,7 +1053,7 @@
    - `MDY` [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast)
    - `MY` [Moon FM](https://play.google.com/store/apps/details?id=fm.moon.app) <sup>`💲`</sup> 
    - `MD` [ListenTogether](https://gitlab.com/listentogether/app/) <sup>`FOSS`</sup>
-   - `MD` [Turlecast](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
+   - `MD` [Aurelian Audio Podcast Player](https://play.google.com/store/apps/details?id=com.bluckapps.turtlecast)
 
 - ### RSS/News
    - `MDY` [ReadYou](https://github.com/Ashinch/ReadYou) <sup>`FOSS`</sup>
