@@ -8,8 +8,8 @@
 <h3 align="center"><a href="#newly-added-apps"><b><code>✨ Newly added Apps</code></b></a></h3>
 
 <p align="center">
- <a href="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7"> 
-<img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/85a73a66-ac01-4264-bc03-e428f10b7d27" width="1000" alt="MaterialYouAppsBanner"></a>
+ <a href="https://github.com/MilkBobaTea/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7"> 
+<img src="https://github.com/MilkBobaTea/Material-You-Apps/assets/123305689/85a73a66-ac01-4264-bc03-e428f10b7d27" width="1000" alt="MaterialYouAppsBanner"></a>
 </p>
 </p>
 
