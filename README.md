@@ -1398,7 +1398,7 @@
  - ### Magisk Modules & Apps
    - #### Managers
      - `MDY` [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) <sup>`FOSS`</sup>
-     - `MDY` [Magisk Delta](\https://github.com/HuskyDG/magisk-files) <sup>`FOSS`</sup>
+     - `MDY` [Magisk Delta](https://github.com/HuskyDG/magisk-files) <sup>`FOSS`</sup>
 
    - #### Modules & Module Managers
      - `MDY` [Mrepo](https://github.com/ya0211/MRepo) <sup>`FOSS`</sup> <sup>`#️⃣`</sup>
