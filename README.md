@@ -5,7 +5,7 @@
 <p align="center">
 <b>A list of android apps that follow the <a href="https://m3.material.io/"> Material You design language.</a></b>
 </p>
-<h3 align="center"><a href="#special-thanks-to-these-sources"><b><code>🪪 Sources</code></b></a></h3>
+<h3 align="center"><a href="#newly-added-apps"><b><code⭐ Newly Added Apps</code></b></a></h3>
 
 <p align="center">
  <a href="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7"> 
@@ -60,7 +60,7 @@
     - [Material you Tags](#material-you-tags)
     - [Other Tags](#other-tags)
 - <a href="#-overview"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/59f7fade-3a53-421c-94fa-96c22df162ac" width="25"></a> [Overview](#-overview-5-apps)
-    - [Newly added](#newly-added)
+    - [Newly added Apps](#newly-added-apps)
     - [Best implementations of Material3](#best-implementations-of-material3)
 - <a href="#-customization"><img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/24f7e6ed-de20-4341-b32c-8dbea65b493b" width="25"></a> [Customization](#-customization)
     - [Launchers](#launchers)
@@ -230,7 +230,7 @@
 
 
 ## <img src="https://github.com/TeaOwO/Material-You-Apps/assets/123305689/8879b3ea-d47b-406a-a5ee-f66e8a72a633" width="55"> Overview <sup>5 Apps</sup>
-- ### Newly added
+- ### Newly added apps
   - `MD` [Pixel Watch 2: Face II](https://play.google.com/store/apps/details?id=com.analogbold) <sup>`💲`</sup>
   - `MD` [Pixel Watch 2 Face IV](https://play.google.com/store/apps/details?id=com.numeralsfour) <sup>`💲`</sup>
   - `MD` [Pixel Watch 2: Face VI](https://play.google.com/store/apps/details?id=com.adventuredigital) <sup>`💲`</sup>
