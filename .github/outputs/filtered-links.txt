@@ -1,8 +1,10 @@
-https://play.google.com/store/apps/details?id=com.analogbold 
-https://play.google.com/store/apps/details?id=com.numeralsfour 
-https://play.google.com/store/apps/details?id=com.adventuredigital 
-https://play.google.com/store/apps/details?id=com.adventuretime 
-https://play.google.com/store/apps/details?id=com.android14watchfacei 
+https://github.com/MilkBobaTea/Material-You-Apps/assets/123305689/28f5f5d8-24ea-41b5-9994-affb69bc9bc7"> 
+https://github.com/MilkBobaTea/Material-You-Apps/assets/123305689/85a73a66-ac01-4264-bc03-e428f10b7d27" width="1000" alt="MaterialYouAppsBanner">
+https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.foryou 
+https://play.google.com/store/apps/details?id=com.pashapuma.oneyou.icons 
+https://play.google.com/store/apps/details?id=com.pashapuma.oneyou.themed 
+https://play.google.com/store/apps/details?id=com.lknninex.saga 
+https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.accent 
 https://gitlab.com/colorata/wallman 
 https://github.com/WaifuPX-DG/WaifuPX 
 https://play.google.com/store/apps/details?id=com.budget.tracker_app
@@ -54,6 +56,7 @@ https://github.com/Yanndroid/DualWallpaper
 https://github.com/zadeviggers/wallpaper 
 https://play.google.com/store/apps/details?id=com.backdrops.wallpapers
 https://github.com/Steve-Mr/WallpaperTunnel
+https://github.com/TBog/live-wallpaper-it 
 https://play.google.com/store/apps/details?id=rk.android.app.pixelsearch 
 https://github.com/KieronQuinn/Smartspacer 
 https://play.google.com/store/apps/details?id=rk.android.app.searchbarwidget 
@@ -80,9 +83,9 @@ https://play.google.com/store/apps/details?id=com.lstapps.batterywidget
 https://play.google.com/store/apps/details?id=com.kajda.ga4widgets
 https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox 
 https://play.google.com/store/apps/details?id=any.shortcut 
-https://play.google.com/store/apps/details?id=com.nothing.icon 
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.dark&hl=en_AU&gl=US 
 https://github.com/LawnchairLauncher/lawnicons 
+https://play.google.com/store/apps/details?id=com.nothing.icon 
 https://github.com/Donnnno/Arcticons 
 https://github.com/WaifuPX-DG/DGicons
 https://play.google.com/store/apps/details?id=com.lknninex.epik&gl=US 
@@ -92,18 +95,29 @@ https://play.google.com/store/apps/details?id=com.jndapp.adaptive.material.you.i
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack 
 https://play.google.com/store/apps/details?id=com.akbon.myd
 https://play.google.com/store/apps/details?id=dev.lknninex.nyon.material 
+https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.foryou 
+https://play.google.com/store/apps/details?id=com.asn360.youline.iconpack 
+https://play.google.com/store/apps/details?id=one4studio.iconpack.lenaadaptive 
+https://play.google.com/store/apps/details?id=arz.android.coralyou 
+https://play.google.com/store/apps/details?id=com.pashapuma.oneyou.icons 
+https://play.google.com/store/apps/details?id=com.pashapuma.oneyou.themed 
+https://play.google.com/store/apps/details?id=one4studio.iconpack.caelusadaptive 
+https://play.google.com/store/apps/details?id=one4studio.iconpack.veramaterialyou 
+https://play.google.com/store/apps/details?id=com.jndapp.adaptive.linex.iconpack 
 https://play.google.com/store/apps/details?id=com.lknninex.saga 
+https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.accent 
+https://play.google.com/store/apps/details?id=osmanonurkoc.lavien.foryou.outline 
 https://play.google.com/store/apps/details?id=dev.narikdesign.nothingmaterialyou 
 https://play.google.com/store/apps/details?id=com.arjunarora.pix_you_cornflower_dark_icons&hl=en&pli=1a
 https://play.google.com/store/apps/details?id=com.jndapp.pastel.material.you.iconpack 
 https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color 
-https://play.google.com/store/apps/details?id=com.akbon.xos 
-https://play.google.com/store/apps/details?id=com.akbon.realmeui 
-https://play.google.com/store/apps/details?id=com.akbon.hios 
-https://play.google.com/store/apps/details?id=com.akbon.ios 
-https://play.google.com/store/apps/details?id=com.akbon.miui 
-https://play.google.com/store/apps/details?id=com.akbon.coloros 
-https://play.google.com/store/apps/details?id=com.akbon.oxygenos 
+https://play.google.com/store/apps/details?id=com.akbon.xos
+https://play.google.com/store/apps/details?id=com.akbon.realmeui
+https://play.google.com/store/apps/details?id=com.akbon.hios
+https://play.google.com/store/apps/details?id=com.akbon.ios
+https://play.google.com/store/apps/details?id=com.akbon.miui
+https://play.google.com/store/apps/details?id=com.akbon.coloros
+https://play.google.com/store/apps/details?id=com.akbon.oxygenos
 https://github.com/Angel-Studio/MaterialYou-Dynamic-Island
 https://drive.google.com/drive/folders/1j1eWY73Zuq43kYHF6Qdjton8LZ02pA1C 
 https://github.com/abh80/smart-edge 
@@ -180,6 +194,7 @@ https://github.com/mudkipme/MoeMemosAndroid
 https://github.com/ruslin-note/ruslin-android 
 https://github.com/hashemi-hossein/ara-note 
 https://github.com/orgzly/orgzly-android 
+https://github.com/orgzly-revived/orgzly-android-revived 
 https://play.google.com/store/apps/details?id=com.michaelflisar.linkmanager
 https://github.com/quillpad/quillpad 
 https://github.com/sirekanian/function 
@@ -324,6 +339,7 @@ https://play.google.com/store/apps/details?id=com.anafthdev.dujer
 https://github.com/dreautall/waterfly-iii 
 https://github.com/satyamlal/YourMoney 
 https://github.com/jxareas/Xpensor 
+https://gitlab.com/TheOneWithTheBraid/f_wallet 
 https://github.com/T8RIN/PapriCoin 
 https://github.com/CoinTrend/CoinTrend 
 https://play.google.com/store/apps/details?id=dev.dworks.apps.acrypto
@@ -429,6 +445,7 @@ https://github.com/Alex313031/Thorium-Android
 https://play.google.com/store/apps/details?id=net.maskbrowser.browser
 https://play.google.com/store/apps/details?id=com.vivaldi.browser
 https://play.google.com/store/apps/details?id=com.opera.browser.beta
+https://github.com/jamal2362/Styx 
 https://gitlab.com/remmer.wilts/thor 
 https://github.com/thalloerupt/stage2 
 https://gitlab.com/narektor/gugal 
@@ -770,9 +787,10 @@ https://github.com/vendetta-mod/VendettaManager
 https://github.com/GrapheneOS/Apps
 https://t.me/waifupx_official/257 
 https://github.com/rumboalla/apkupdater 
+https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing 
 https://github.com/FriesI23/mhabit 
 https://github.com/ofalvai/HabitBuilder 
-https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing 
+https://github.com/LiamMorrow/LiftLog 
 https://play.google.com/store/apps/details?id=com.nek12.respawn
 https://github.com/KiARC/Sobriety 
 https://github.com/willbsp/habits 
@@ -909,7 +927,8 @@ https://github.com/LibrePass/LibrePass-Android
 https://github.com/Yash-Garg/KeyManager 
 https://github.com/OffRange/KeyGo 
 https://github.com/hegocre/NextcloudPasswords 
-https://github.com/Keyspace-cloud/android
+https://github.com/Keyspace-cloud/android 
+https://github.com/OneKeePass/mobile 
 https://github.com/jamie-mh/AuthenticatorPro 
 https://github.com/X1nto/Mauth 
 https://gitlab.com/aorszulak/keyring 
@@ -948,7 +967,7 @@ https://github.com/Mufanc/AppLock
 https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit 
 https://play.google.com/store/apps/details?id=com.lware.secret_screenshots
 https://play.google.com/store/apps/details?id=com.michaelflisar.privacyimageviewer
-https://github.com/the-weird-aquarian/IYPS 
+https://github.com/StellarSand/IYPS 
 https://github.com/yamin8000/Dooz 
 https://play.google.com/store/apps/details?id=com.yangdai.numbertic_tac_toe 
 https://github.com/marek-guran/Material-You-Tic-Tac-Toe 
@@ -1087,6 +1106,7 @@ https://play.google.com/store/apps/details?id=dev.rahmouni.neil.copyfromshareshe
 https://github.com/SimpleMobileTools/Simple-Thank-You 
 https://github.com/MuntashirAkon/BatteryChargeLimiter 
 https://github.com/gsmlg-dev/ansible-semaphore-client 
+https://github.com/Xtr126/XtMapper 
 https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm
 https://github.com/nirajprakash/taru-plants-android 
 https://play.google.com/store/apps/details?id=com.tinybyteapps.robyte
@@ -1105,6 +1125,7 @@ https://github.com/nextcloud/android
 https://github.com/wh201906/SerialPipe 
 https://github.com/librerandonaut/librerandonaut 
 https://github.com/oSumAtrIX/HzRefresher 
+https://github.com/jakubslaby09/dpc 
 https://play.google.com/store/apps/details?id=net.mm2d.android.orientationfaker
 https://play.google.com/store/apps/details?id=any.splitscreen
-https://us.nothing.tech/pages/phone-1
+https://github.com/users/MilkBobaTea/projects/2/view/1">📌 Roadmap
